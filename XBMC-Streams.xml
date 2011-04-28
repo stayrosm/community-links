@@ -4,7 +4,7 @@
 
 	<channel>
 		 <name>News</name>
-		 <thumbnail>none</thumbnail>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/news.png</thumbnail>
 		 <items>
 
 		 <item>
@@ -16,22 +16,22 @@
 		 <item>
 			<title>Al Jazerra English</title>
 			<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
-			<!-- <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link> -->
-                        <!-- <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link> -->
+			<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
+            <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link> 
 			<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png</thumbnail>
 		 </item>
 
 		 <item>
 			<title>BBC News</title>
 			<link>rtmp://media2.lsops.net/live/ playpath=bbcnews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
-                        <!-- <link>rtmp://media2.lsops.net/live/ playpath=bbcnews_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link> -->
+            <link>rtmp://media2.lsops.net/live/ playpath=bbcnews_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_news.png</thumbnail>
 		 </item>
 
 		 <item>
 			<title>BBC World News</title>
 			<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
-                        <!-- <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link> -->
+            <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 		 </item>
 
@@ -56,22 +56,22 @@
 		 <item>
 			<title>CNN International</title>
 			<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
-			<!-- <link>rtmp://media2.lsops.net/live/ playpath=cnn_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link> -->
-                        <!-- <link>rtmp://media2.lsops.net/live/ playpath=cnn_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link> -->
+			<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
+            <link>rtmp://media2.lsops.net/live/ playpath=cnn_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_international_europe.png</thumbnail>
 		 </item>
 
 		  <item>
 			<title>EuroNews (English)</title>
 			<link>rtmp://178.32.100.43:1935/rtpeuronewslive/eng_euronews-flash-750.sdp swfurl=http://www.euronews.net/media/player_live_1_7.swf live=true</link>
-			<!-- <link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link> -->
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 	  	  </item>
 
 	  	  <item>
 			<title>EuroNews (French)</title>
 			<link>rtmp://178.32.100.43:1935/rtpeuronewslive/fre_euronews-flash-750.sdp swfurl=http://www.euronews.net/media/player_live_1_7.swf live=true</link>
-			<!-- <link>rtmp://media2.lsops.net/live/ playpath=euronews_fr_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link> -->
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_fr_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 	  	  </item>
 
@@ -134,7 +134,7 @@
 
 	<channel>
 		<name>Music</name>
-		<thumbnail>none</thumbnail>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/music.png</thumbnail>
 		<items>
 
 		 <item>
@@ -254,7 +254,7 @@
 
    	<channel>
 		<name>Sports</name>
-		<thumbnail>none</thumbnail>
+		<thumbnail>http://community-links.googlecode.com/svn/trunk/sports.png</thumbnail>
            <items>
 			<item>
 		        <title>Sky Sport1</title>
@@ -311,7 +311,7 @@
 
 	<channel>
 		 <name>Live CAMs</name>
-		 <thumbnail>none</thumbnail>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		 <items>
 
 		  <item>
@@ -545,7 +545,7 @@
 
 	<channel>
 		 <name>Brazil \ Portugal</name>
-		 <thumbnail>none</thumbnail>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		 <items>
 
 		 <item>
@@ -676,7 +676,7 @@
 
 	<channel>
 		 <name>Ireland \ United Kingdom</name>
-		 <thumbnail>none</thumbnail>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		 <items>
 
 
@@ -771,7 +771,7 @@
 
 	<channel>
 		<name>France \ Germany \ Switzerland</name>
-		<thumbnail>none</thumbnail>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		<items>
 
 		 <item>
@@ -1165,7 +1165,7 @@
 
 	<channel>
 		 <name>Miscelanea</name>
-		 <thumbnail>none</thumbnail>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		 <items>
 
 		 <item>
