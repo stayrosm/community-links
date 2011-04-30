@@ -264,20 +264,34 @@
 		<name>Sports</name>
 		<thumbnail>http://community-links.googlecode.com/svn/trunk/sports.png</thumbnail>
            <items>
-			<item>
+           
+  		  <item>
+		        <title>British EuroSport 1</title>
+		        <link>rtmp://46.19.141.238/live playpath=21.sdp swfURL=http://mypremium.tv/em/flowplayer-3.2.6.swf swfVfy=true live=true</link>
+		        <thumbnail>http://www.lyngsat-logo.com/hires/bb/british_eurosport.png</thumbnail>
+		    </item>
+          
+			  <item>
+		        <title>British EuroSport 2</title>
+		        <link>rtmp://46.19.141.238/live playpath=11.sdp swfURL=http://mypremium.tv/em/flowplayer-3.2.6.swf swfVfy=true live=true</link>
+		        <thumbnail>http://www.lyngsat-logo.com/hires/bb/british_eurosport2.png</thumbnail>
+		    </item>   
+           
+			  <item>
 		        <title>Sky Sport1</title>
-		        <link>rtmp://46.19.141.238/live playpath=13.sdp live=true</link>
+		        <link>rtmp://46.19.141.238/live playpath=13.sdp swfURL=http://mypremium.tv/em/flowplayer-3.2.6.swf swfVfy=true live=true</link>
 		        <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 		    </item>
-			<item>
+          
+			  <item>
 		        <title>Sky Sport2</title>
-		        <link>rtmp://46.19.141.238/live playpath=31.sdp live=true</link>
+		        <link>rtmp://46.19.141.238/live playpath=31.sdp swfURL=http://mypremium.tv/em/flowplayer-3.2.6.swf swfVfy=true live=true</link>
 		        <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 		    </item>
 
 			<item>
 		        <title>Sky Sport3</title>
-		        <link>rtmp://46.19.141.238/live playpath=12.sdp live=true</link>
+		        <link>rtmp://46.19.141.238/live playpath=12.sdp swfURL=http://mypremium.tv/em/flowplayer-3.2.6.swf swfVfy=true live=true</link>
 		        <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 		    </item>
 
@@ -286,17 +300,6 @@
 	        	<link>rtmp://68.68.31.46:1935/281380?doPlay=a/ playpath=zonein swfurl=http://cdncdn.zonein1.com/kikikili.swf</link>
 	        	<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn.png</thumbnail>
 	        </item>
-
-			<item>
-		        <title>British EuroSport 1</title>
-		        <link>rtmp://46.19.141.238/live playpath=21.sdp live=true</link>
-		        <thumbnail>http://www.lyngsat-logo.com/hires/bb/british_eurosport.png</thumbnail>
-		    </item>
-			<item>
-		        <title>British EuroSport 2</title>
-		        <link>rtmp://46.19.141.238/live playpath=11.sdp live=true</link>
-		        <thumbnail>http://www.lyngsat-logo.com/hires/bb/british_eurosport2.png</thumbnail>
-		    </item>
           
 			  <item>
 		        <title>OrangeSport info</title>
