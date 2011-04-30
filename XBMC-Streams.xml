@@ -145,18 +145,6 @@
 		<items>
 
 		 <item>
-			<title>TMF</title>
-			<link>http://94.75.250.121:554/61117@854655</link>
-			<thumbnail>http://www.lyngsat-logo.com/hires/tt/tmf_nl.png</thumbnail>
-		 </item>
-
-		 <item>
-			<title>JIM</title>
-			<link>rtsp://vmmalivewm.fplive.net/vmmalive-live/vmmajimbe</link>
-			<thumbnail>http://www.lyngsat-logo.com/hires/jj/jimtv.png</thumbnail>
-		 </item>
-
-		 <item>
 			<title>NRJ Paris</title>
 			<link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
@@ -183,6 +171,12 @@
 			<title>NRJ Dance</title>
 			<link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true</link>
 			<thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
+		 </item>
+
+  	 <item>
+			<title>OneHD On Demand</title>
+			<link>rtmp://93.114.43.3:1935/vod/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=mp4:drumul_mingii.mp4</link>
+			<thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
 		 </item>
 
 		 <item>
@@ -221,15 +215,16 @@
 		 </item>
 
 		 <item>
-			<title>OneHD On Demand</title>
-			<link>rtmp://93.114.43.3:1935/vod/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=mp4:drumul_mingii.mp4</link>
-			<thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
+			<title>The Music Factory</title>
+			<link>http://94.75.250.121:554/61117@854655</link>
+      <link>http://94.75.250.121:554/40311@664140</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/tt/tmf_nl.png</thumbnail>
 		 </item>
 
 		 <item>
-			<title>M1 Music</title>
-			<link>rtmp://m1.livevideo.sk/m1/ playpath=m1.sdp live=true</link>
-			<thumbnail>none</thumbnail>
+			<title>JIM</title>
+			<link>rtsp://vmmalivewm.fplive.net/vmmalive-live/vmmajimbe</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/jj/jimtv.png</thumbnail>
 		 </item>
 
 		 <item>
@@ -242,6 +237,12 @@
 			<title>Dance TV</title>
 			<link>mms://stream02.gtk.hu/dance_tvd</link>
 			<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dance_tv_nl.jpg</thumbnail>
+		 </item>
+
+  	 <item>
+			<title>Musiq1</title>
+			<link>rtmp://m1.livevideo.sk/m1/ playpath=m1.sdp live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/musiq1.jpg</thumbnail>
 		 </item>
 
 		 <item>
@@ -259,7 +260,7 @@
    <!-- ==================================================================================== -->
 
 
-   	<channel>
+   <channel>
 		<name>Sports</name>
 		<thumbnail>http://community-links.googlecode.com/svn/trunk/sports.png</thumbnail>
            <items>
@@ -283,7 +284,7 @@
 		    <item>
 	        	<title>ESPN</title>
 	        	<link>rtmp://68.68.31.46:1935/281380?doPlay=a/ playpath=zonein swfurl=http://cdncdn.zonein1.com/kikikili.swf</link>
-	        	<thumbnail>none</thumbnail>
+	        	<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn.png</thumbnail>
 	        </item>
 
 			<item>
@@ -296,16 +297,38 @@
 		        <link>rtmp://46.19.141.238/live playpath=11.sdp live=true</link>
 		        <thumbnail>http://www.lyngsat-logo.com/hires/bb/british_eurosport2.png</thumbnail>
 		    </item>
-			<item>
+          
+			  <item>
 		        <title>OrangeSport info</title>
 		        <link>mms://livewm.orange.fr/live-multicanaux</link>
 		        <thumbnail>http://www.lyngsat-logo.com/hires/oo/orange_sport_info_fr.png</thumbnail>
 		    </item>
+
+			  <item>
+		        <title>OrangeSport event 1</title>
+		        <link>mms://livewm.orange.fr/direct-evenementiels</link>
+		        <thumbnail>http://www.orangeinfo.fr/logos/ose1.png</thumbnail>
+		    </item>
+          
+			  <item>
+		        <title>OrangeSport event 2</title>
+		        <link>mms://livewm.orange.fr/direct-evenementiels2</link>
+		        <thumbnail>http://www.orangeinfo.fr/logos/ose2.png</thumbnail>
+		    </item>
+
+  	    <item>
+		        <title>Super Tennis</title>
+		        <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true</link>
+		        <thumbnail>http://livetubetv.in/files/thumbs/127194334228f19-4.png</thumbnail>
+		    </item>
+ 
+
 		    <item>
 		        <title>Rai Sport2</title>
 		        <link>mms://wms.3BA6.edgecastcdn.net/203BA6/RAI</link>
 		        <thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Rai_sport_piu.png</thumbnail>
 		    </item>
+          
 		</items>
 	</channel>
 
@@ -660,7 +683,7 @@
 		 <item>
 			<title>TVi</title>
 			<link>rtmp://video1.iol.pt/live/TVI swfurl=http://www.tvtuga.com/live47/tvi.swf pageUrl=http://www.tvtuga.com/streams/tvi.php swfVfy=true live=true</link>
-			<!-- <link>rtmp://46.182.121.57/tvtuga/tvi swfurl=http://www.qwertycast.com/player3.swf pageUrl=http://www.qwertycast.com/streams/tvtuga/tvi/stream.php swfVfy=true live=true</link> -->
+			<link>rtmp://46.182.121.57/tvtuga/tvi swfurl=http://www.qwertycast.com/player3.swf pageUrl=http://www.qwertycast.com/streams/tvtuga/tvi/stream.php swfVfy=true live=true</link>
 			<thumbnail>none</thumbnail>
 		 </item>
 
@@ -720,7 +743,7 @@
 		 <item>
 			<title>ITV 1</title>
 			<link>mms://93.184.223.134:80/203BA6/ITV1</link>
-			<!-- mirror itv1 rtsp://media2.lsops.net/live/itv1_en_medium.sdp -->
+			<link>rtsp://media2.lsops.net/live/itv1_en_medium.sdp</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv1.png</thumbnail>
 		 </item>
 
@@ -739,7 +762,7 @@
 		 <item>
 			<title>Channel 4</title>
 			<link>mms://wms.3BA6.edgecastcdn.net/203BA6/CH4</link>
-			<!-- <link>rtsp://media2.lsops.net/live/channel4_en_medium.sdp</link> -->
+			<link>rtsp://media2.lsops.net/live/channel4_en_medium.sdp</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel4.png</thumbnail>
 		 </item>
 
@@ -814,7 +837,7 @@
 		<item>
 			<title>WÉO</title>
 			<link>mms://91.121.188.214/weopub</link>
-			<!-- <link>rtsp://88.191.62.80/weo</link> -->
+			<link>rtsp://88.191.62.80/weo</link>
 			<thumbnail>http://www.weo.fr/extension/www/design/www/images/static/logo-weo.png</thumbnail>
 		</item>
 
@@ -922,7 +945,8 @@
 
 	 	<item>
 			<title>RTL</title>
-			<link>rtmp://cp108341.live.edgefcs.net/live playpath=rtl_1_800@43050 swfURL=http://www.wilmaa.com/player/main_v3.316.swf swfVfy=true live=true</link> <!-- mirror rtl rtsp://wms.3BA6.edgecastcdn.net/203BA6/BVN -->
+			<link>rtmp://cp108341.live.edgefcs.net/live playpath=rtl_1_800@43050 swfURL=http://www.wilmaa.com/player/main_v3.316.swf swfVfy=true live=true</link>
+      <link>rtsp://wms.3BA6.edgecastcdn.net/203BA6/BVN</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtl.png</thumbnail>
 	  	</item>
 
