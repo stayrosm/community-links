@@ -14,7 +14,7 @@
 		 </item>
 
 		 <item>
-			<title>Al Jazerra English</title>
+			<title>Al Jazera English</title>
 			<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
 			<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
             <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link> 
@@ -114,7 +114,7 @@
 
 		  <item>
 			<title>NHK World</title>
-			<link>rtmp://175.41.168.21:1935/2e2cd playpath=nhkworldhd.sdp swfUrl="http://www3.nhk.or.jp/nhkworld/r/movie/fivecool_player.0.3.6.2.swf" pageUrl="http://www3.nhk.or.jp/nhkworld/r/movie/" swfVfy=true live=true</link>
+			<link>rtmp://216.155.128.59:1935/2e2cd playpath=nhkworldhd.sdp swfUrl="http://www3.nhk.or.jp/nhkworld/r/movie/fivecool_player.0.3.6.2.swf" pageUrl="http://www3.nhk.or.jp/nhkworld/r/movie/index.html" swfVfy=true live=true</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
 		  </item>
 
@@ -417,8 +417,8 @@
    <!-- ==================================================================================== -->s
 
 	<channel>
-	 	<name>USTVNow</name>
-		<thumbnail>http://www.ustvnow.com/images/playerposter.png</thumbnail>
+	 	<name>USA</name>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.pngnone</thumbnail>
 		<items>
 
 		<item>
@@ -427,151 +427,7 @@
 			<thumbnail>http://www.lyngsat-logo.com/hires/hh/hgtv.png</thumbnail>
 		</item>
 
-		<item>
-			<title>ABC (WHTM 27)</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=whtm3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/whtm_abc27_harrisburg.jpg</thumbnail>
-		</item>
-
-		<item>
-			<title>CBS (WHP 21)</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=whp3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/whp_cbs21_harrisburg.jpg</thumbnail>
-		</item>
-
-		<item>
-			<title>FOX (WPMT 43)</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=wpmt3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/wpmt_fox43_york.jpg</thumbnail>
-		</item>
-
-		<item>
-			<title>CW (WLYH)</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=wlyh3 live=true</link>
-			<thumbnail>http://blogs.cornell.edu/newmedia10wra7/files/2010/04/CW.png</thumbnail>
-		</item>
-
-		<item>
-			<title>NBC (WGAL 8)</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=wgal3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/wgal_nbc8_lancaster.jpg</thumbnail>
-		</item>
-
-		<item>
-			<title>PBS (WITF 33)</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=witf3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/witf_pbs33_harrisburg.jpg</thumbnail>
-		</item>
-
-		<item>
-			<title>TBS</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=tbs3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/hires/tt/tbs_atlanta.png</thumbnail>
-		</item>
-
-		<item>
-			<title>ESPN3</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=espn3 live=true</link>
-			<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/51/ESPN3_Logo.png</thumbnail>
-		</item>
-
-		<item>
-			<title>TNT</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=tnt3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/hires/tt/tnt.png</thumbnail>
-		</item>
-
-		<item>
-			<title>A and E</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=aetv3 live=true</link>
-			<thumbnail>http://ocanals.files.wordpress.com/2009/11/aetv.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Bravo</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=bravo3 live=true</link>
-			<thumbnail>http://s3.amazonaws.com/readers/2010/10/24/bravotv_1.png</thumbnail>
-		</item>
-
-		<item>
-			<title>USA</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=usa3 live=true</link>
-			<thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Lifetime</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=life3 live=true</link>
-			<thumbnail>http://www.get-satellite.com/channels/lifetime-movie-network.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Animal Planet</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=animalplanet3 live=true</link>
-			<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3a/Animal_Planet_Canada_Logo.PNG</thumbnail>
-		</item>
-
-		<item>
-			<title>Discovery Channel</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=discovery3 live=true</link>
-			<thumbnail>http://images.wikia.com/logopedia/images/4/49/Discovery_Channel_2009.png</thumbnail>
-		</item>
-
-		<item>
-			<title>History</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=history3 live=true</link>
-			<thumbnail>http://3.bp.blogspot.com/_bsaZoroi_9I/S7rF4-CfXwI/AAAAAAAAAKQ/EB0LB7l7qdg/s1600/history_channel_us.png</thumbnail>
-		</item>
-
-		<item>
-			<title>FX</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=fx3 live=true</link>
-			<thumbnail>http://www.teic.ie/wp-content/uploads/2010/02/731px-FX-logo.svg_.png</thumbnail>
-		</item>
-
-		<item>
-			<title>SyFy</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=syfy3 live=true</link>
-			<thumbnail>http://thevoiceoftv.com/files/2011/02/syfy.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Comedy Central</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=comedycentral3 live=true</link>
-			<thumbnail>http://i831.photobucket.com/albums/zz233/I-C-Y-U-N-V/Comedycentral.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Cartoon Network</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=cartoonnetwork3 live=true</link>
-			<thumbnail>http://3.bp.blogspot.com/_qK3C4UH2wQk/TCS5ait-WEI/AAAAAAAAACg/1AgHKm1uXQ4/s1600/cartoonnetwork.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Nickelodeon</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=nickelodeon3 live=true</link>
-			<thumbnail>http://4.bp.blogspot.com/_URH00hPtHxc/TJUQ8TKHUMI/AAAAAAAACI0/YHnhG4lG5bo/s1600/logo_nickelodeon.png</thumbnail>
-		</item>
-
-		<item>
-			<title>Food Network</title>
-			<link>rtmp://lv1.ustvnow.com:1935/dvrtest/ playpath=foodnetwork3 live=true</link>
-			<thumbnail>http://bonnabellayachtclub.com/cms/uploads/images/cablevision-food-network.png</thumbnail>
-		</item>
-
-		<item>
-			<title>CNN</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=cnn3 live=true</link>
-			<thumbnail>http://www.americanu.tv/academic.depts/sis/students/sword/CNN_logo.png</thumbnail>
-		</item>
-
-		<item>
-			<title>CNBC</title>
-			<link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=cnbc3 live=true</link>
-			<thumbnail>http://ushealthworks.files.wordpress.com/2011/03/cnbc.png</thumbnail>
-		</item>
-
-		</items>
+    </items>
 	</channel>
 
 
