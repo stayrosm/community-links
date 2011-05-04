@@ -1056,6 +1056,73 @@
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
+   
+   <channel>
+     <name>Poland</name>
+     <thumbnail>http://community-links.googlecode.com/svn/icons/icon.pngn</thumbnail>
+     <items>
+     
+     <item>
+       <title>TVP 1</title>
+       <link>rtmp://app.weeb.tv/live/ playpath=13 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+       <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvp1.png</thumbnail>
+     </item>
+     
+     <item>
+      <title>TVP 2</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=6 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvp2.png</thumbnail>
+     </item>
+     
+     <item>
+      <title>Polsat</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=1 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/pp/polsat.png</thumbnail>
+     </item>
+
+     <item>
+      <title>TVN</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=3 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_pl.png</thumbnail>
+     </item>
+     
+     <item>
+      <title>TVN 24</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=2 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_24.png</thumbnail>
+     </item>
+     
+     <item>
+      <title>Canal +</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=26 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_pl.png</thumbnail>
+     </item>
+     
+     <item>
+      <title>Comedy Central</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=21 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_pl.png</thumbnail>
+     </item>
+
+     <item>
+      <title>Discovery</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=9 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_pl.png</thumbnail>
+     </item>
+
+     <item>
+      <title>TLC</title>
+      <link>rtmp://app.weeb.tv/live/ playpath=29 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_learning_channel_pl.png</thumbnail>
+     </item>
+     
+     </items>
+   </channel>
+   
+   
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
 
 
 
