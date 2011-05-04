@@ -133,7 +133,7 @@
       <item>
       <title>RT Spanish</title>
       <link>rtmp://rt.fms.visionip.tv/live/ app=live swfUrl=http://actualidad.rt.com/swf/player.swf pageUrl=http://actualidad.rt.com/mas/envivo/ playpath=RT_Spanish_3 live=true swfVfy=true</link>
-      <thumbnail>http://www.lyngsat-logo.com/hires/rr/russia_today_tv.png</thumbnail>
+      <thumbnail>http://www.lyngsat-logo.com/hires/rr/russia_today_es.png</thumbnail>
       </item>
 
 		  <item>
@@ -426,11 +426,11 @@
 
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
-   <!-- ==================================================================================== -->s
+   <!-- ==================================================================================== -->
 
 	<channel>
 	 	<name>USA</name>
-		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.pngnone</thumbnail>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		<items>
 
 		<item>
@@ -443,14 +443,12 @@
 	</channel>
 
 
-
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
+ 
 
-
-
-	<channel>
+  <channel>
 		 <name>Brazil \ Portugal</name>
 		 <thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		 <items>
@@ -1065,6 +1063,398 @@
 	</channel>
 
 
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+
+	<channel>
+		 <name>Spain \ Argentina \ Venezuela \ Peru</name>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
+		 <items>
+       
+      <item>
+        <title>TVE Internacional</title>
+        <link>rtmp://flash1.e-cast.co.nz/live/ app=live/ playpath=tve3 swfUrl=http://documentos32.webcindario.com/player.swf pageUrl=http://documentos32.webcindario.com swfVfy=true live=true</link>
+        <thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_int.png</thumbnail>
+      </item>
+
+      <item>
+        <title>Canal 24h</title>
+        <link>http://83.231.187.201/rtve/24h.flv</link>
+        <thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_canal_24horas.png</thumbnail>
+      </item>
+
+      <item>
+        <title>Antena 3</title>
+        <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-antena3 live=true swfVfy=true</link>
+        <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3.png</thumbnail>
+      </item>
+
+      <item>
+        <title>A3 Internacional</title>
+        <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-canalinternacional live=true swfVfy=true</link>
+        <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3_int.png</thumbnail>
+      </item>
+
+      <item>
+        <title>A3 Noticias 24h</title>
+        <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-canal24h live=true swfVfy=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+
+      <item>
+        <title>A3 Eventos 1</title>
+        <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-eventos1 live=true swfVfy=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+
+      <item>
+        <title>A3 Eventos 2</title>
+        <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-eventos2 live=true swfVfy=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+
+      <item>
+        <title>Intereconomia</title>
+        <link>rtmp://media.intereconomia.com/live/intereconomiatv2</link>
+        <thumbnail>none</thumbnail>
+      </item>
+
+      <item>
+        <title>Intereconomia Business</title>
+        <link>rtmp://media.intereconomia.com/live/business1</link>
+        <thumbnail>none</thumbnail>
+      </item>
+
+      <item>
+        <title>Popular TV</title>
+        <link>http://populartv.cope.stream.flumotion.com/cope/populartv.flv.m3u</link>
+        <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/popular_tv.jpg</thumbnail>
+      </item>
+
+      <item>
+        <title>Tele Madrid</title>
+        <link>rtmp://cp118141.live.edgefcs.net/live/ playpath=TSAlaotra@47718 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telemadrid.jpg</thumbnail>
+      </item>
+      
+      <item>
+        <title>Telemadrid Sat</title>
+        <link>rtmp://cp118140.live.edgefcs.net/live/ playpath=TSAtelemadridsat@47720 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telemadrid.jpg</thumbnail>
+      </item>
+      
+      <item>
+        <title>Andalucia TV</title>
+        <link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision.flv.m3u</link>
+        <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/andaluciatv.jpg</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV Canaria</title>
+        <link>rtmp://cp101924.live.edgefcs.net/live/ playpath=RTVC1_world@31146 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV Canaria 2</title>
+        <link>rtmp://cp101926.live.edgefcs.net/live/ playpath=RTVC2_world@31148 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV Canaria Sat</title>
+        <link>rtmp://cp101928.live.edgefcs.net/live/ playpath=RTVCSat_world@31150 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtvc_television_canaria_sat.png</thumbnail>
+      </item>
+      
+      <item>
+        <title>Extremadura TV</title>
+        <link>http://live1.extremaduratv.stream.flumotion.com/extremaduratv/live1_600.flv.m3u</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>ETBSat</title>
+        <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-ETBSat@5219 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Canal Vasco</title>
+        <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-CanalVasco@5519 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>7RM</title>
+        <link>rtmp://directo7rm.redctnet.com/live swfUrl=http://www.7rm.es//flashjw/player.swf pageURL=http://www.7rm.es/servlet/rtrm.servlets.ServletLink2?METHOD=FRMPORTAL&amp;si t=c,6&amp; playpath=7rm live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Aragon TV</title>
+        <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV Galicia Europa</title>
+        <link>rtmp://media1.crtvg.es/live/tvge</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV3CAT</title>
+        <link>rtmp://tv3cat.directe-f4v.emissio.tvcatalunya.cat/live/ playpath=TV3CAT_FLV@13069 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV3</title>
+        <link>rtmp://tv3.directe-f4v.emissio.tvcatalunya.cat/live/ playpath=TV3_FLV@12888 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>3/24</title>
+        <link>rtmp://324.directe-f4v.emissio.tvcatalunya.cat/live/ playpath=324_FLV@13068 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>El 33</title>
+        <link>rtmp://33d.directe-f4v.emissio.tvcatalunya.cat/live/ playpath=33D_FLV@13067 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Super3/3XL</title>
+        <link>rtmp://k3d.directe-f4v.emissio.tvcatalunya.cat/live/ playpath=K3D_FLV@13066 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>IB3 Sat</title>
+        <link>rtmp://ibthree.fc.llnwd.net/ibthree/live01 swfUrl="http://ib3noticies.com/ib3/player/LLNWPlayer.swf" pageUrl="http://ib3noticies.com" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Canal 9 Internacional</title>
+        <link>http://rtvv.stream.flumotion.com/rtvv/tvvi.flv.m3u</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Canal 9/24</title>
+        <link>http://rtvv.stream.flumotion.com/rtvv/canal9.flv.m3u</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Aprende Ingles TV</title>
+        <link>mms://reflector.elmundo.es:9005/</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Info Meteo</title>
+        <link>rtmp://cp87402.live.edgefcs.net/live/ playpath=INFOMETEO@17659 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>LOCALIA</title>
+        <link>http://streaming.wdreams.com/localiatv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TeleAsturias</title>
+        <link>mms://ns302321.ovh.net/directo</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>ATV Peru</title>
+        <link>mms://serv2.redirectme.net/envivo33</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TN 24</title>
+        <link>mms://streamtn.uigc.net/TN</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Canal 26</title>
+        <link>http://200.115.194.1:8080/Canal26</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TV Publica</title>
+        <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Venezolana de Television</title>
+        <link>http://www.telepuertovirtual2.tv/vtvdsl</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Telesur</title>
+        <link>rtmp://telesur.fms.visionip.tv/live/b2b-telesur-live-25f-4x3_4</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>CCTV E</title>
+        <link>mms://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctv-e</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>45 TV</title>
+        <link>rtmp://shared.flashwebtown.com/lirias/45TV swfUrl="http://www.flashwebtown.com/mediaplayer/mediaplayer.swf" pageUrl="http://www.45tvhn.com" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item> 
+      
+      <item>
+        <title>Giralda TV</title>
+        <link>rtmp://giraldatvlivefs.fplive.net/giraldatvlive-live/ playpath=stream001 swfUrl="http://www.giraldatv.es/vidplayer/player.swf" pageUrl="http://www.giraldatv.es" swfVfy=true live=true</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>ATV Andorra</title>
+        <link>http://194.158.91.91/Atv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Barcelona TV</title>
+        <link>http://barcelonatv.stream.flumotion.com/barcelonatv/barcelonatv.asf.asx</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TeleToledo</title>
+        <link>mms://217.160.4.141/teletoledo</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>STV Rioja</title>
+        <link>mms://www.riojasintonia.com/stv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Ojos Solidarios</title>
+        <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Cervantes TV</title>
+        <link>mms://193.146.5.220/Cervantes_tv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>CHN</title>
+        <link>mms://video.ono.com/cnh</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Ejido TV</title>
+        <link>http://bach.serveisweb.com/EJ002</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Estrada TV</title>
+        <link>http://www.estradatelevision.com/estradatelevision.asx</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TVAlmansa</title>
+        <link>mms://89.29.128.6:7009</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Mirame TV</title>
+        <link>mms://mirametv.com/mirametv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Onda Jerez</title>
+        <link>http://w2k8video.jesytel.com/ondajereztv</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Rivera TV</title>
+        <link>mms://212.225.255.241:1111</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Radio Television Insular</title>
+        <link>http://wagner.serveisweb.com/TI013</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TeleTaxi</title>
+        <link>http://teletaxitv.gtt.stream.flumotion.com/gtt/teletaxitv.flv.m3u</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>TVF</title>
+        <link>mms://streaming.arsenet.com/tvf</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>UPV</title>
+        <link>mms://mediaserver01.upv.es/TelePoli</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Velevisa</title>
+        <link>mms://212.163.215.206/Directo</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>XTVL</title>
+        <link>http://xal1.xal.stream.flumotion.com/xal/xal1high.flv.m3u</link>
+        <thumbnail>none</thumbnail>
+      </item>
+      
+      <item>
+        <title>Tele Magik</title>
+        <link>http://www.telepuertovirtual2.tv/telemagik</link>
+        <thumbnail>none</thumbnail>
+      </item>
+       
+       
+     </items>
+  </channel>
+  
+  
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
