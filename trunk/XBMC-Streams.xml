@@ -862,13 +862,25 @@
 	  	</item>
 
 		  <item>
-			<title>BBC One</title>
+			<title>BBC One \ First Link</title>
 			<link>mms://93.184.223.134:80/203BA6/BBC1</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one_london.png</thumbnail>
+		 </item>
+       
+        <item>
+			<title>BBC One \ Second Link</title>
+			<link>mms://195.90.118.88/BBC1_1</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one_london.png</thumbnail>
 		 </item>
 
 		 <item>
-			<title>BBC Two</title>
+			<title>BBC Two \ First Link</title>
+			<link>mms://wms.3BA6.edgecastcdn.net/203BA6/BBC2</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc2.png</thumbnail>
+		 </item>
+       
+       <item>
+			<title>BBC Two \ Second Link</title>
 			<link>mms://wms.3BA6.edgecastcdn.net/203BA6/BBC2</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc2.png</thumbnail>
 		 </item>
@@ -880,16 +892,28 @@
 		 </item>
 
 		 <item>
-			<title>ITV 1</title>
+			<title>ITV 1 / First Link</title>
 			<link>mms://93.184.223.134:80/203BA6/ITV1</link>
 			<link>rtsp://media2.lsops.net/live/itv1_en_medium.sdp</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv1.png</thumbnail>
 		 </item>
+       
+       <item>
+			<title>ITV 1 / Second Link</title>
+			<link>mms://195.90.118.88/ITV1_1</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv1.jpg</thumbnail>
+		 </item>
 
 		 <item>
-			<title>ITV 2</title>
+			<title>ITV 2 \ First Link</title>
 			<link>mms://93.184.223.134:80/203BA6/ITV2</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv2.png</thumbnail>
+		 </item>
+       
+        <item>
+         <title>ITV 2 \ Second Link</title>
+			<link>mms://195.90.118.88/ITV2_1</link>
+			<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv2.jpg</thumbnail>
 		 </item>
 
 		 <item>
