@@ -141,6 +141,13 @@
 			<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
 			<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png</thumbnail>
 		  </item>
+        
+        
+		<item>
+			<title>HD Media 1280x720 / Russian</title>
+			<link>http://89.208.33.168:8100</link>
+			<thumbnail>http://it-chuiko.com/uploads/posts/2010-11/1290340542162257193.jpeg</thumbnail>
+		 </item>
 
 		 </items>
 	</channel>
@@ -1865,6 +1872,12 @@
       <link>http://89.232.125.188:3524/stream.flv</link> 
       <thumbnail>http://www.lyngsat-logo.com/hires/rr/rossiya_24.png</thumbnail> 
       </item>
+      
+       <item>
+		  <title>ICTV</title>
+		  <link>http://tv.x-lan.net.ua:8015/ictv</link>
+		  <thumbnail>http://www.satlogo.com/logo/hires/ii/ictv_ua.png</thumbnail>
+		 </item>
      
      </items>
    </channel>
@@ -2132,7 +2145,6 @@
 		 <item> <title>Abn</title> <link>rtmp://94.75.250.52/paidrepeater52/ swfUrl=http://cdn.freedocast.com/expresshdflvplayer/hdplayer.swf
 		pageUrl=http://express.freedocast.com/forms/Fcwatchstream.aspx?sc=31DA213D10A0 playpath=755_ICA9881RJP live=true</link>
 		<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abn_in.jpg</thumbnail> </item>
-
 
 		 </items>
 	</channel>
