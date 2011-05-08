@@ -967,9 +967,81 @@
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
-
+   
+   <channels>
 
 	<channel>
+		 <name>Radio Stations</name>
+		 <thumbnail>http://community-links.googlecode.com/svn/icons/Radio.png</thumbnail>
+		 <items>
+			
+		<item>
+			<title>BBC Radio Mereyside</title>
+			<link>http://bbc.co.uk/radio/listen/live/bbcmerseyside.asx</link>
+		<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/8/88/20090808205208!BBC_Radio_Merseyside.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC Radio Scotland</title>
+			<link>http://bbc.co.uk/radio/listen/live/rs.asx</link>
+		<thumbnail>http://scottishpoetrylibrary.files.wordpress.com/2010/10/bbc-radio-scotland-logo.jpg</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC Radio 1 [Pop/Dance/R&B/Rock]</title>
+			<link>http://bbc.co.uk/radio/listen/live/r1.asx</link>
+		<thumbnail>http://culturepop.me/wp-content/uploads/2011/03/radio_1_logo.jpeg</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC Radio 5 Live Sports Extra</title>
+			<link>http://bbc.co.uk/radio/listen/live/r5lsp.asx</link>
+		<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BBC_Radio_5_Live_Sports_Extra.svg/175px-BBC_Radio_5_Live_Sports_Extra.svg.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC Radio 1 Extra</title>
+			<link>http://bbc.co.uk/radio/listen/live/r1x.asx</link>
+		<thumbnail>http://4.bp.blogspot.com/_CTn6kMFFB50/TOvXxVzJzyI/AAAAAAAAAPg/tWqapBIYbSQ/s1600/1Xtra.gif</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC World Service 24 Hour News Channel</title>
+			<link>http://www.bbc.co.uk/worldservice/meta/tx/nb/live_ennws_au_nb.asx</link>
+		<thumbnail>http://www.tvoceania.com/images/Channels/BBC/BBC_WorldNews%20Logo.jpg</thumbnail>
+		 </item>
+
+		 <item>
+			<title> 107.6 Juice FM 64K Mono [Liverpool, Pop/Dance]</title>
+			<link>http://stream1.radiomonitor.com/Juice-Liverpool.m3u</link>
+		<thumbnail>http://i145.photobucket.com/albums/r217/thomastuft/Juice3DLogoCol.jpg</thumbnail>
+		 </item>
+
+		<item>
+			<title>Radio City 96.7 [Liverpool, Pop/A.C.] \ Streaming MP3</title>
+			<link>http://icy-e-03.sharp-stream.com/city.mp3.m3u</link>
+		<thumbnail>http://skriftuk.files.wordpress.com/2009/12/radio_city_tower.jpg</thumbnail>
+		 </item>
+
+		 <item>
+			<title>Radio City 96.7 [Liverpool, Pop/A.C.] \ Streaming aacPlus/AAC</title>
+			<link>http://icy-e-01.sharp-stream.com/city.aac.m3u</link>
+		<thumbnail>http://skriftuk.files.wordpress.com/2009/12/radio_city_tower.jpg</thumbnail>
+		 </item>
+
+		 <item>
+			<title>talkSPORT UK - News/Sport/Speech</title>
+			<link>http://utv-talksportuk.wm.llnwd.net/utv_talksportUK</link>
+		<thumbnail>http://www.fmradioonline.net/wp-content/uploads/2011/04/talksport.jpg</thumbnail>
+	   </items>
+	</channel>
+
+
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+  
+  <channel>
 		<name>France \ Germany \ Switzerland</name>
 		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		<items>
