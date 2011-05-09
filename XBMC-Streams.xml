@@ -1051,7 +1051,6 @@
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    
-   <channels>
 
 	<channel>
 		 <name>Radio Stations</name>
@@ -1071,7 +1070,7 @@
 		 </item>
 
 		 <item>
-			<title>BBC Radio 1 [Pop/Dance/R&B/Rock]</title>
+			<title>BBC Radio 1 [Pop/Dance/R&amp;B/Rock]</title>
 			<link>http://bbc.co.uk/radio/listen/live/r1.asx</link>
 		<thumbnail>http://culturepop.me/wp-content/uploads/2011/03/radio_1_logo.jpeg</thumbnail>
 		 </item>
@@ -1116,6 +1115,8 @@
 			<title>talkSPORT UK - News/Sport/Speech</title>
 			<link>http://utv-talksportuk.wm.llnwd.net/utv_talksportUK</link>
 		<thumbnail>http://www.fmradioonline.net/wp-content/uploads/2011/04/talksport.jpg</thumbnail>
+	 	 </item>
+
 	   </items>
 	</channel>
 
