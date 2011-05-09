@@ -279,11 +279,30 @@
 		</items>
 	</channel>
 
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+   <!-- ==================================================================================== -->
+   
+	<channel>
+		<name>SHOUTcast</name>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/music.png</thumbnail>
+		<items>
 
+		 <item>
+			<title>1.FM - Dance Hits / Dance House Electro</title>
+			<link>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1279574</link>
+			<thumbnail>http://static.rad.io/images/broadcasts/3158_io_4.gif</thumbnail>
+		 </item>
+       
+      <item>
+			<title>54house FM - The Heartbeat Of House Music</title>
+			<link>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1279574</link>
+			<thumbnail>http://www.djfelixus.cz/download/images/54housefm_0.jpg</thumbnail>
+		 </item>
+       
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
-
 
    <channel>
 		<name>Sports</name>
