@@ -1527,76 +1527,27 @@
 
      </items>
   </channel>
-  
-  
+ 
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    <!-- ==================================================================================== -->
    
    <channel>
-		<name>Poland \ Russia \ Ukraine</name>
-		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.pngn</thumbnail>
+		<name>Russia \ Ukraine</name>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		<items>
-     
-			<item>
-				<title>TVP 1</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=13 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvp1.png</thumbnail>
-			</item>
-			 
-			<item>
-				<title>TVP 2</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=6 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvp2.png</thumbnail>
-			</item>
-			 
-			<item>
-				<title>Polsat</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=1 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/pp/polsat.png</thumbnail>
-			</item>
 
 			<item>
-				<title>TVN</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=3 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_pl.png</thumbnail>
-			</item>
-			 
-			<item>
-				<title>TVN 24</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=2 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_24.png</thumbnail>
-			</item>
-			 
-			<item>
-				<title>Canal +</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=26 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_pl.png</thumbnail>
-			</item>
-			 
-			<item>
-				<title>Comedy Central</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=21 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_pl.png</thumbnail>
-			</item>
-
-			<item>
-				<title>Discovery</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=9 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_pl.png</thumbnail>
-			</item>
-
-			<item>
-				<title>TLC</title>
-				<link>rtmp://app.weeb.tv/live/ playpath=29 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_learning_channel_pl.png</thumbnail>
-			</item>
-
+				<title>HD Media</title>
+				<link>http://89.208.33.168:8100</link>
+				<thumbnail>http://it-chuiko.com/uploads/posts/2010-11/1290340542162257193.jpeg</thumbnail>
+			</item>		
+		
 			<item> 	
 				<title>5 канал Санкт-Петербург</title> 
 				<link>http://89.232.125.188:3527/stream.flv</link> 
 				<thumbnail>http://www.logobank.ru/images/ph/ru/0-9/5tv.png</thumbnail> 
-			</item> 
+			</item>			
 			 
 			<item> 
 				<title>Bridge TV</title> 
@@ -1651,23 +1602,125 @@
 				<link>http://89.232.125.188:3524/stream.flv</link> 
 				<thumbnail>http://www.lyngsat-logo.com/hires/rr/rossiya_24.png</thumbnail> 
 			</item>
-
-			<item>
-				<title>HD Media</title>
-				<link>http://89.208.33.168:8100</link>
-				<thumbnail>http://it-chuiko.com/uploads/posts/2010-11/1290340542162257193.jpeg</thumbnail>
-			</item>
 			
 			<item>
 				<title>MTV Ukraine</title>
 				<link>http://tv.x-lan.net.ua:8015/mtvu</link>
-				<thumbnail>http://www.reviewsa2z.com/wp-content/uploads/2011/04/MTV-Russia.jpg</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_ua.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>ICTV</title>
 				<link>http://tv.x-lan.net.ua:8015/ictv</link>
-				<thumbnail>http://www.satlogo.com/logo/hires/ii/ictv_ua.png</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ii/ictv_ua.png</thumbnail>
+			</item>
+			
+		</items>
+	</channel>
+	
+  <!-- ==================================================================================== -->
+  <!-- ==================================================================================== -->
+  <!-- ==================================================================================== -->
+ 
+   <channel>
+		<name>Czech Republic \ Poland</name>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
+		<items>
+     
+			<item>
+				<title>CT 1</title>
+				<link>http://79.127.143.125:8080/ct1</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/ceska_televize1.png</thumbnail>
+			</item>
+
+			<item>
+				<title>CT 2</title>
+				<link>http://79.127.143.125:8080/ct2</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/ceska_televize2.png</thumbnail>
+			</item>
+
+			<item>
+				<title>CT 4</title>
+				<link>http://79.127.143.125:8080/ct4sport</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/ceska_televize4.png</thumbnail>
+			</item>
+			
+			<item>
+				<title>CT 24</title>
+				<link>http://79.127.143.125:8080/ct24</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/ceska_televize24.png</thumbnail>
+			</item>			
+
+			<item>
+				<title>Nova TV</title>
+				<link>http://79.127.143.125:8080/nova</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/nn/nova_tv_cz.png</thumbnail>
+			</item>
+
+			<item>
+				<title>Prima TV</title>
+				<link>http://79.127.143.125:8080/prima</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/pp/prima_tv_cz.png</thumbnail>
+			</item>
+
+			<item>
+				<title>Public TV</title>
+				<link>http://79.127.143.125:8081/public</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/pp/public_tv.png</thumbnail>
+			</item>
+	 
+			<item>
+				<title>TVP 1</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=13 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvp1.png</thumbnail>
+			</item>
+			 
+			<item>
+				<title>TVP 2</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=6 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvp2.png</thumbnail>
+			</item>
+			 
+			<item>
+				<title>Polsat</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=1 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/pp/polsat.png</thumbnail>
+			</item>
+
+			<item>
+				<title>TVN</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=3 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_pl.png</thumbnail>
+			</item>
+			 
+			<item>
+				<title>TVN 24</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=2 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_24.png</thumbnail>
+			</item>
+			 
+			<item>
+				<title>Canal +</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=26 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_pl.png</thumbnail>
+			</item>
+			 
+			<item>
+				<title>Comedy Central</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=21 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_pl.png</thumbnail>
+			</item>
+
+			<item>
+				<title>Discovery Channel</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=9 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_pl.png</thumbnail>
+			</item>
+
+			<item>
+				<title>TLC</title>
+				<link>rtmp://app.weeb.tv/live/ playpath=29 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_learning_channel_pl.png</thumbnail>
 			</item>
      
      </items>
