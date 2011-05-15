@@ -23,12 +23,26 @@
 	</channel>
 	
 	<channel>
+		<name>Brazil</name>
+		<thumbnail>none</thumbnail>
+		<items>
+		
+			<item>
+				<title>[Joao Pessoa] 93.7 MiX FM</title>
+				<link>http://srv2.zoeweb.tv/radiomix</link>
+				<thumbnail>http://www.mixfm.com.br/uploads/3199d0dc7d7ce70679774b0712dfc52e.png</thumbnail>
+			</item>
+		
+		</items>
+	</channel>
+	
+	<channel>
 		<name>Nederlands</name>
 		<thumbnail>http://community-links.googlecode.com/svn/icons/Radio.png</thumbnail>
 		<items>
 		
 			<item>
-				<title>95.7 Fresh FM [Amsterdam, Dance, House]</title>
+				<title>[Amsterdam] 95.7 Fresh FM  (Dance, House)</title>
 				<link>http://www.fresh.fm/media/audio/ListenHigh.pls</link>
 				<link>http://www.fresh.fm/media/audio/FreshFM.asx</link>
 				<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/27534_301952550335_574_n.jpg</thumbnail>
@@ -43,7 +57,7 @@
 		 <items>
 			
 			<item>
-				<title>BBC Radio 1 [Pop/Dance/R&amp;B/Rock]</title>
+				<title>BBC Radio 1 (Pop/Dance/R&amp;B/Rock)</title>
 				<link>http://bbc.co.uk/radio/listen/live/r1.asx</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_radio1.png</thumbnail>
 			</item>
@@ -91,14 +105,14 @@
 			</item>
 			
 			<item>
-				<title>Radio City 96.7 [Liverpool, Pop/A.C.]</title>
+				<title>[Liverpool] Radio City 96.7  (Pop/A.C.)</title>
 				<link>http://icy-e-03.sharp-stream.com/city.mp3.m3u</link>
 				<link>http://icy-e-01.sharp-stream.com/city.aac.m3u</link>
 				<thumbnail>http://skriftuk.files.wordpress.com/2009/12/radio_city_tower.jpg</thumbnail>
 			</item>
 			
 			<item>
-				<title>107.6 Juice FM [Liverpool, Pop/Dance]</title>
+				<title>[Liverpool] 107.6 Juice FM  (Pop/Dance)</title>
 				<link>http://stream1.radiomonitor.com/Juice-Liverpool.m3u</link>
 				<thumbnail>http://i145.photobucket.com/albums/r217/thomastuft/Juice3DLogoCol.jpg</thumbnail>
 			</item>
@@ -111,3 +125,5 @@
 
 	   </items>
 	</channel>
+
+</channels>
