@@ -5,6 +5,45 @@
 	<channel>
 		 <name>News</name>
 		 <thumbnail>http://community-links.googlecode.com/svn/icons/news.png</thumbnail>
+         
+         <subchannels>
+            <subchannel>
+                <name>sub channel 1 name</name>
+                <thumbnail>http://....subchannel thumb.</thumbnail>
+                <subitems>
+                <subitem>
+                    <title>sub title 1</title>
+                    <link>rtmp://sublink live=true</link>
+                    <thumbnail>http://wwsubthumb.png</thumbnail>
+		        </subitem>
+
+                <subitem>
+                    <title>sub title 2</title>
+                    <link>rtmp://sublink2 live=true</link>
+                    <thumbnail>http://wwwsubthumb2.png</thumbnail>
+                </subitem>
+                </subitems>
+            </subchannel>
+            
+            <subchannel>
+                <name>sub channel 2 name</name>
+                <thumbnail>http://.sub channel thumb....</thumbnail>
+                <subitems>
+                <subitem>
+                    <title>subch 2 item</title>
+                    <link>rtmp://subch 2 link swfVfy=true live=true</link>
+                    <thumbnail>http://www.lsubch 2 item.png</thumbnail>
+		        </subitem>
+
+                <subitem>
+                    <title>subch 2 item 2</title>
+                    <link>rtmp://media2.lrue</link>
+                    <thumbnail>http://.....png</thumbnail>
+                </subitem>
+                </subitems>
+            </subchannel>
+         </subchannels>
+         
 		 <items>
 
 			<item>
@@ -392,7 +431,7 @@
 			
 			<item>
 				<title>ESPN 2</title>
-				<link>rtmp://live24.seeon.tv/edge/7y8fin0u760cfrl app=edge pageUrl=http://www.seeon.tv/embedplayer.php?width=550&height=400&channel=11766&autoplay=true swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf tcUrl=rtmp://live24.seeon.tv/edge playPath=7y8fin0u760cfrl swfvfy=true live=true timeout=180</link>
+				<link>rtmp://live24.seeon.tv/edge/7y8fin0u760cfrl app=edge pageUrl=http://www.seeon.tv/embedplayer.php?width=550&amp;height=400&amp;channel=11766&amp;autoplay=true swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf tcUrl=rtmp://live24.seeon.tv/edge playPath=7y8fin0u760cfrl swfvfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn2.png</thumbnail>
 			</item>
 		
