@@ -688,14 +688,14 @@
    
 			<item>
 				<title>BBC One</title>
-				<link>mms://195.90.118.88/BBC1_1</link>
+				<link>rtsp://195.90.118.88/BBC1_1</link>
 				<link>mms://93.184.223.134:80/203BA6/BBC1</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_one_london.png</thumbnail>
 			</item>
 
 			<item>
 				<title>BBC Two</title>
-				<link>mms://195.90.118.88/BBC2_1</link>
+				<link>rtsp://195.90.118.88/BBC2_1</link>
 				<link>mms://wms.3BA6.edgecastcdn.net/203BA6/BBC2</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc2.png</thumbnail>
 			</item>
@@ -708,7 +708,7 @@
 
 			<item>
 				<title>ITV 1</title>
-				<link>mms://195.90.118.88/ITV1_1</link>
+				<link>rtsp://195.90.118.88/ITV1_1</link>
 				<link>mms://93.184.223.134:80/203BA6/ITV1</link>
 				<link>rtsp://media2.lsops.net/live/itv1_en_medium.sdp</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv1.png</thumbnail>
@@ -716,7 +716,7 @@
 		   
 			<item>
 				<title>ITV 2</title>
-				<link>mms://195.90.118.88/ITV2_1</link>
+				<link>rtsp://195.90.118.88/ITV2_1</link>
 				<link>mms://93.184.223.134:80/203BA6/ITV2</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/ii/itv2.png</thumbnail>
 			</item>
@@ -729,7 +729,7 @@
 
 			<item>
 				<title>Channel 4</title>
-				<link>mms://195.90.118.88/CHANNEL4_1</link>
+				<link>rtsp://195.90.118.88/CHANNEL4_1</link>
 				<link>mms://wms.3BA6.edgecastcdn.net/203BA6/CH4</link>
 				<link>rtsp://media2.lsops.net/live/channel4_en_medium.sdp</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel4.png</thumbnail>
@@ -737,7 +737,7 @@
 
 			<item>
 				<title>Five</title>
-				<link>mms://195.90.118.88/CHANNEL5_1</link>
+				<link>rtsp://195.90.118.88/CHANNEL5_1</link>
 				<link>mms://93.184.223.134:80/203BA6/CH5</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel5_uk.png</thumbnail>
 			</item>
