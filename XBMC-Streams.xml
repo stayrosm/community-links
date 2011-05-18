@@ -323,7 +323,13 @@
 				<link>rtmp://46.19.141.238/live playpath=12.sdp swfURL=http://mypremium.tv/em/flowplayer-3.2.6.swf swfVfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 			</item>
-          
+
+			<item>
+				<title>ESPN UK</title>
+				<link>rtmp://c51.webcaston.com/live/channel/A_uJ4Q3WOP9bFeo app=live/channel pageUrl=http://www.webcaston.com/embed.php?fileid=A_uJ4Q3WOP9bFeo&amp;vw=640&amp;vh=360&amp;domain=mypremium.tv swfUrl=http://www.webcaston.com/player/player-licensed.swf tcUrl=rtmp://c51.webcaston.com/live/channel playPath=A_uJ4Q3WOP9bFeo swfvfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn.png</thumbnail>
+			</item>			
+			
 			<item>
 				<title>OrangeSport info</title>
 				<link>mms://livewm.orange.fr/live-multicanaux</link>
