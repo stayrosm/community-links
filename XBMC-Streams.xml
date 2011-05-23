@@ -327,10 +327,28 @@
 			</item>
 
 			<item>
+				<title>ESPN</title>
+				<link>rtmp://184.95.47.130:1935/348534?doPlay=a/zonein app=348534?doPlay=a pageUrl=http://embed.zonein.tv/plkgftdhgfhydfyhayer1.php swfUrl=http://cdncdn1.zonein1.com/tik.swf tcUrl=rtmp://184.95.47.130:1935/348534?doPlay=a playPath=zonein swfVfy=true live=true timeout=180</link>
+				<thumbnail>none</thumbnail>
+			</item>			
+			
+			<item>
 				<title>ESPN UK</title>
 				<link>rtmp://c51.webcaston.com/live/channel/A_uJ4Q3WOP9bFeo app=live/channel pageUrl=http://www.webcaston.com/embed.php?fileid=A_uJ4Q3WOP9bFeo&amp;vw=640&amp;vh=360&amp;domain=mypremium.tv swfUrl=http://www.webcaston.com/player/player-licensed.swf tcUrl=rtmp://c51.webcaston.com/live/channel playPath=A_uJ4Q3WOP9bFeo swfvfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn.png</thumbnail>
 			</item>			
+
+			<item>
+				<title>Sky Poker</title>
+				<link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=180</link>
+				<thumbnail>none</thumbnail>
+			</item>
+
+			<item>
+				<title>Poker Channel</title>
+				<link>rtsp://venus.sharp-stream.com/pokerchannel</link>
+				<thumbnail>none</thumbnail>
+			</item>
 			
 			<item>
 				<title>OrangeSport info</title>
@@ -558,7 +576,7 @@
 			  
 			<item>
 				<title>SIC Noticias</title>
-				<link>rtmp://213.13.26.41/live//sicnoticias swfUrl=http://www.estadio.in/player2.swf pageURL=http://www.estadio.in/sicnoticias swfVfy=true live=true timeout=180</link>
+				<link>rtmp://live.thetvathome.com/estadio54/sicnoticias swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic_noticias.jpg</thumbnail>
 			</item> 
 			  
@@ -577,14 +595,15 @@
 			<item>
 				<title>SIC Mulher</title>
 				<link>rtmp://live.thetvathome.com/estadio54/sicmulher swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>none</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_mulher.png</thumbnail>
 			</item>
 
 			<item>
 				<title>TVi</title>
+				<link>rtmp://live.thetvathome.com/estadio54/tvi swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<link>rtmp://video1.iol.pt/live/TVI swfurl=http://www.tvtuga.com/live47/tvi.swf pageUrl=http://www.tvtuga.com/streams/tvi.php swfVfy=true live=true timeout=180</link>
 				<link>rtmp://46.182.121.57/tvtuga/tvi swfurl=http://www.qwertycast.com/player3.swf pageUrl=http://www.qwertycast.com/streams/tvtuga/tvi/stream.php swfVfy=true live=true</link>
-				<thumbnail>none</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 			</item>
 			
 			<item>
@@ -592,71 +611,132 @@
 				<link>rtmp://live.thetvathome.com/estadio54/tvi24 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.jpg</thumbnail>
 			</item>
-			  
+
+			<item>
+				<title>Sport TV 1</title>
+				<link>rtmp://68.68.30.179/live/_definst_/4785469874 app=live/_definst_ pageUrl=http://www.veemi.com/embed.php swfUrl=http://www.veemi.com/player/player-licensed.swf tcUrl=rtmp://68.68.30.179/live/_definst_ playPath=4785469874 swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
+			</item>
+
+			<item>
+				<title>Sport TV 2</title>
+				<link>rtmp://68.68.30.179/live/_definst_/556600 app=live/_definst_ pageUrl=http://www.veemi.com/embed.php swfUrl=http://www.veemi.com/player/player-licensed.swf tcUrl=rtmp://68.68.30.179/live/_definst_ playPath=556600 swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-address.com/ss/Sport-TV2-Cabo.html</thumbnail>
+			</item>
+			
 			<item>
 				<title>Benfica TV</title>
 				<link>rtmp://live.thetvathome.com/estadio54/benficatv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.jpg</thumbnail>
 			</item>
-			  
+  
 			<item>
-				<title>Discovery PT</title>
-				<link>rtmp://live.thetvathome.com/estadio54/discovery swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>None</thumbnail>
-			</item>
-			  
-			<item>
-				<title>Odisseia PT</title>
+				<title>Odisseia</title>
 				<link>rtmp://live.thetvathome.com/estadio54/odisseia swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/odisseia.jpg</thumbnail>
 			</item>
-			  
+			
 			<item>
-				<title>National Geographic PT</title>
+				<title>Canal Hollywood</title>
+				<link>rtmp://live.thetvathome.com/estadio54/hollywood swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood.png</thumbnail>
+			</item>
+			
+			<item>
+				<title>Vh1</title>
+				<link>rtmp://live.thetvathome.com/estadio54/vh1 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1.png</thumbnail>
+			</item>
+
+			<item>
+				<title>AniMax br</title>
+				<link>rtmp://cdn2.mastertv.net/ueba23/animax app=ueba23/ pageUrl=http://tv-msn.com/animax.html swfUrl=http://tv-msn.com/player/player.swf tcUrl=rtmp://cdn2.mastertv.net/ueba23/ playPath=animax swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/aa/animax_br.png</thumbnail>
+			</item>
+
+			<item>
+				<title>Cartoon Network br</title>
+				<link>rtmp://68.68.28.250/live/mp4:car.mp4 app=live pageUrl=http://www.tvbrazuca.eu/player_seguro/tv2.html swfUrl=http://www.tvbrazuca.eu/eu.swf tcUrl=rtmp://68.68.28.250/live playPath=mp4:car.mp4 swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network_br.png</thumbnail>
+			</item>
+
+			<item>
+				<title>NiCK br</title>
+				<link>rtmp://cdn2.mastertv.net/ueba23/nick app=ueba23/ pageUrl=http://tv-msn.com/nick.html swfUrl=http://tv-msn.com/player/player.swf tcUrl=rtmp://cdn2.mastertv.net/ueba23/ playPath=nick swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_br.png</thumbnail>
+			</item>
+			
+			<item>
+				<title>Canal Panda</title>
+				<link>rtmp://live.thetvathome.com/estadio54/canalpanda swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_panda.jpg</thumbnail>
+			</item>
+
+			<item>
+				<title>Disney Channel</title>
+				<link>rtmp://live.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
+			</item>			
+			
+			<item>
+				<title>Discovery Channel</title>
+				<link>rtmp://live.thetvathome.com/estadio54/discovery swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>None</thumbnail>
+			</item>
+			
+			<item>
+				<title>National Geographic</title>
 				<link>rtmp://live.thetvathome.com/estadio54/nationalgeographic swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_pt.jpg</thumbnail>
+			</item>			
+			
+			<item>
+				<title>AXN</title>
+				<link>rtmp://live.thetvathome.com/estadio54/axn swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_pt.png</thumbnail>
 			</item>
 
 			<item>
-				<title>Pandas</title>
-				<link>rtmp://live.thetvathome.com/estadio54/canalpanda swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://cms.multichoice.co.za/ContentImages/DStvChannels/panda_large.png</thumbnail>
-			</item>
-
-			<item>
-				<title>Disney Channel PT</title>
-				<link>rtmp://live.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>none</thumbnail>
-			</item>
-
-			<item>
-				<title>Fox PT</title>
+				<title>Fox</title>
 				<link>rtmp://live.thetvathome.com/estadio54/fox swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>none</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_pt.png</thumbnail>
 			</item>
 
 			<item>
-				<title>Fox Life PT</title>
+				<title>Fox Life</title>
+				<link>rtmp://live.thetvathome.com/estadio54/foxlife swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
 				<link>rtmp://streamer.istreamlive.net/tvtuga/foxlife_3 swfUrl=http://www.tvtuga.com/live47/player.swf pageURL=http://www.tvtuga.com/streams/ed-foxlife.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>none</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_life_pt.png</thumbnail>
 			</item>
 
 			<item>
-				<title>Fox Crime PT</title>
+				<title>Fox Crime</title>
 				<link>rtmp://live.thetvathome.com/estadio54/foxcrime swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>none</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_pt.png</thumbnail>
+			</item>
+			
+			<item>
+				<title>Fox:Next</title>
+				<link>rtmp://live.thetvathome.com/estadio54/foxnext swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_next.png</thumbnail>
+			</item>
+			
+			<item>
+				<title>HBO Br</title>
+				<link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0006 app=37_brlive/ pageUrl=http://www.cdnbr.org/mastertv/HBO.htm swfUrl=http://www.cdnbr.eu/swf/player.swf tcUrl=rtmp://streamer.istreamlive.net/37_brlive/ playPath=brlive_0006 swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo.png</thumbnail>
 			</item>
 
 			<item>
-				<title>SyFy PT</title>
+				<title>Sony Entertainment</title>
+				<link>rtmp://live.thetvathome.com/estadio54/sonyentertainment swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
+			</item>
+
+			<item>
+				<title>SyFy</title>
 				<link>rtmp://live.thetvathome.com/estadio54/syfy swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>none</thumbnail>
-			</item>
-
-			<item>
-				<title>AXN PT</title>
-				<link>rtmp://live.thetvathome.com/estadio54/axn swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=180</link>
-				<thumbnail>http://www.axn.pt/sites/all/themes/spti_axn/images/logo.png</thumbnail>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ss/syfy_universal_pt.png</thumbnail>
 			</item>
 
 		 </items>
