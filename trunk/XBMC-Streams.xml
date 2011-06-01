@@ -17,7 +17,7 @@
 			<item>
 				<title>Al Jazeera English</title>
            <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_english_2 swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" pageUrl="http://english.aljazeera.net/watch_now/" live=true timeout=180</link>
-				<!-- <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true timeout=180</link> -->
+				<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true timeout=180</link> -->
 				<!-- <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true timeout=180</link> -->
 				<!-- <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true timeout=180</link> -->
 				<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png</thumbnail>
@@ -508,6 +508,12 @@
 		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
 		<items>
 
+			<item>
+				<title>SBT</title>
+				<link>rtmp://streamer.istreamlive.net/35_137/sbt app=35_137 pageUrl=http://www.brasilligado.org/parceiros/sbt.html swfUrl=http://www.serv-vto.com/player4.7.swf tcUrl=rtmp://streamer.istreamlive.net/35_137 playPath=sbt live=true swfVfy=true timeout=180</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
+			</item>
+         
 			<item>
 				<title>RedeTV!</title>
 				<link>rtmp://live.redetv.com.br/redetvlive/ playpath=livestream swfUrl=http://www.redetv.com.br/player/jw/4.4/player.swf pageURL=http://www.redetv.com.br/player/jw/4.4/player.swf live=true timeout=180</link>
