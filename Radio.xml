@@ -6,7 +6,7 @@
 		<name>SHOUTcast</name>
 		<thumbnail>none</thumbnail>
 		<items>
-
+      
 			<item>
 				<title>1.FM - Dance Hits</title>
 				<link>http://www.1.fm/TuneIn/SC/dance32k/Listen.aspx</link>
@@ -14,11 +14,24 @@
 			</item>
          
        <item>
-         <title>KOR Radio / Hardcore / House</title>
+         <title>Knock Out Recordings Radio - Hardcore / House</title>
+        <link>http://www.kor-music.co.uk/Site/playlist_9532.asx</link>
 				<link>http://shoutcasts.tech-hosts.com/castcontrol/playlist.php?id=1043&type=asx</link>
         <link>http://shoutcasts.tech-hosts.com:9532/listen.pls</link>
 				<thumbnail>http://www.kor-music.co.uk/Site/e107_images/image.png</thumbnail>
 			</item>
+         
+      <item>
+        <title>Addict-Vibez / Hardcore</title>
+				<link>http://wrg1005.webradiogratis.com/en/tunein.php/addictvibez/playlist.asx</link>
+        <link>http://wrg1005.webradiogratis.com/en/tunein.php/addictvibez/playlist.pls</link>
+				<thumbnail>http://www.addict-vibez.co.uk/images/AV%20Logo.png</thumbnail>
+			</item>
+         
+         		 <item>
+				<title>[Amsterdam] 95.7 Fresh FM  (Dance, House)</title>
+				<link>http://stream12.freshfmonline.com/</link> <!-- aac sbr-->
+				<link>http://www.fresh.fm/media/audio/FreshFM.asx</link> <!-- mp3 mono-->
        
 			<item>
 				<title>54house FM - The Heartbeat Of House Music</title>
