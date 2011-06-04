@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+         <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-		 <items>
+<channels>
 
+	<channel>
+		<name>1080p</name>
+		<thumbnail>http://cdn.satellitetvguru.net/wp-content/uploads/2009/02/720p_vs_1080p.jpg</thumbnail>
+		<items>
+      
 			<item>
 				<title>MKV 1080p Test</title>
 				<link>http://tomtom2k5.free.fr/mkv/1080p/waterworld.1995.1080p.hddvd.dts.x264.sample-hv.mkv</link>
-				<thumbnail>http://2.bp.blogspot.com/-v1f9vsAVrfo/TZU7--5_UcI/AAAAAAAAAXE/JvtopV4cOqg/s1600/3D+Water+World+1024+x+768.jpg</thumbnail>
+				<thumbnail>none</thumbnail>
+			</item>
+         
+		</items>
+	</channel>
+	
+	<channel>
+		<name>720p</name>
+		<thumbnail>none</thumbnail>
+		<items>
+		
+			<item>
+				<title>mkv 720p Test</title>
+				<link>http://tomtom2k5.free.fr/mkv/720p/californication.105.720p.hdtv.x264.sample-hdq.mkv</link>
+				<thumbnail>none</thumbnail>
 			</item>
