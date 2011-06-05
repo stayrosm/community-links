@@ -2,10 +2,10 @@
 
 <channels>
 
-<channel><name>Arabic \ 14</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ News ======================================================================================
+<channel><name>Arabic \ 15</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ News ======================================================================================
 
 <subchannel>
-<name>AR \ News \ 11</name>
+<name>AR \ News \ 12</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -31,6 +31,12 @@
 <title>   IQ \ البغدادية</title>
 <link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IR \ قناة العالم الاخبارية</title>
+<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -350,7 +356,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ A&amp;E \ -1h</title>
+<title>+ US \ A&amp;E</title>
 <link>rtmp://live11.seeon.tv/edge/c6kalwcnuh4lnda swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/1261/pctv1 tcUrl=rtmp://live11.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_us.png</thumbnail>
 </subitem>
@@ -542,7 +548,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ USA Network \ -1h</title>
+<title>+ US \ USA Network</title>
 <link>rtmp://live8.seeon.tv/edge/7va516cu8ra0onl swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11080/USA_Networks tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
 </subitem>
@@ -584,7 +590,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 2 \ -14d</title>
+<title>   US \ NASA 2 \ -15d</title>
 <link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1048,7 +1054,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ ESPN 2 \ -4d</title>
+<title>   US \ ESPN 2 \ -5d</title>
 <link>rtmp://live24.seeon.tv/edge/7y8fin0u760cfrl app=edge pageUrl=http://www.seeon.tv/embedplayer.php?width=550&amp;height=400&amp;channel=11766&amp;autoplay=true swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf tcUrl=rtmp://live24.seeon.tv/edge playPath=7y8fin0u760cfrl swfvfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn2.png</thumbnail>
 </subitem>
@@ -1089,7 +1095,7 @@
 </subchannels></channel><channel><name>Filipino \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Filipino.png</thumbnail><items>
 
 <item>
-<title>+ PH \ GMA</title>
+<title>   PH \ GMA \ -1h</title>
 <link>rtmp://live5.seeon.tv/edge/6drb2o0ejvfksad swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/9024/GMA_7 tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1000px-GMA_Network_Logo_Vector.svg.png</thumbnail>
 </item>
@@ -1266,7 +1272,7 @@
 <channel><name>Polish \ 10</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Polish.png</thumbnail><items>
 
 <item>
-<title>   PL \ Canal+ \ -2h</title>
+<title>   PL \ Canal+ \ -4h</title>
 <link>rtmp://app.weeb.tv/live/ playpath=26 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jm.png</thumbnail>
 </item>
@@ -1604,7 +1610,7 @@
 </subitem>
 
 <subitem>
-<title>+ BR \ Discovery Kids</title>
+<title>   BR \ Discovery Kids \ -1h</title>
 <link>rtmp://streamer.istreamlive.net/35_137 playpath=kidstv swfUrl=http://www.serv-vto.com/player4.7.swf pageUrl=http://www.brasilligado.org/parceiros/discokids.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_kids_br.png</thumbnail>
 </subitem>
@@ -1993,7 +1999,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ A3 Eventos 1 \ -5h</title>
+<title>   ES \ A3 Eventos 1 \ -7h</title>
 <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-eventos1 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.guiacatering.com/site/company/bc/61592/logo/antena-3-eventos_lth1.gif</thumbnail>
 </subitem>
@@ -2011,7 +2017,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Antena 3 \ -3h</title>
+<title>   ES \ Antena 3 \ -5h</title>
 <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-antena3 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3.png</thumbnail>
 </subitem>
@@ -2053,7 +2059,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Ejido TV \ -6d</title>
+<title>   ES \ Ejido TV \ -7d</title>
 <link>http://bach.serveisweb.com/EJ002</link>
 <thumbnail>http://2.bp.blogspot.com/_TQFApYRNj6M/TEdEm1413SI/AAAAAAAAE0A/PxbydprSmzc/s200/Ejido+tv-crop.png</thumbnail>
 </subitem>
@@ -2083,19 +2089,19 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Giralda TV \ -1d</title>
+<title>   ES \ Giralda TV \ -2d</title>
 <link>rtmp://giraldatvlivefs.fplive.net/giraldatvlive-live/ playpath=stream001 swfUrl="http://www.giraldatv.es/vidplayer/player.swf" pageUrl="http://www.giraldatv.es" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.elblogdeunatele.com/giralda-tv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   ES \ IB3 Sat \ -33d</title>
+<title>   ES \ IB3 Sat \ -34d</title>
 <link>rtmp://ibthree.fc.llnwd.net/ibthree/live01 swfUrl="http://ib3noticies.com/ib3/player/LLNWPlayer.swf" pageUrl="http://ib3noticies.com" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.xn--altaribagora-udb.cat/fitxers/logos_enquesta_tdt/ib3-sat.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   ES \ Intereconomia \ -33d</title>
+<title>   ES \ Intereconomia \ -34d</title>
 <link>rtmp://media.intereconomia.com/live/intereconomiatv2 timeout=60</link>
 <thumbnail>http://www.teleypunto.es/wp-content/upLoads/2010/01/intereconomia.jpg</thumbnail>
 </subitem>
@@ -2179,7 +2185,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ TV Galicia Europa \ -1h</title>
+<title>+ ES \ TV Galicia Europa</title>
 <link>rtmp://media1.crtvg.es/live/tvge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_galicia.jpg</thumbnail>
 </subitem>
@@ -2209,7 +2215,7 @@
 </subitem>
 
 <subitem>
-<title>   HN \ 45TV \ -33d</title>
+<title>   HN \ 45TV \ -34d</title>
 <link>rtmp://shared.flashwebtown.com/lirias/45TV swfUrl="http://www.flashwebtown.com/mediaplayer/mediaplayer.swf" pageUrl="http://www.45tvhn.com" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gh9um.jpg</thumbnail>
 </subitem>
@@ -2251,31 +2257,31 @@
 </subitem>
 
 <subitem>
-<title>   PE \ América Televisión 1 \ -11h</title>
+<title>   PE \ América Televisión 1 \ -13h</title>
 <link>rtmp://live33.seeon.tv/edge/26sot3fjuw7d787 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php tcUrl=rtmp://live33.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ PE \ América Televisión 2</title>
+<title>   PE \ América Televisión 2 \ -2h</title>
 <link>rtmp://live34.seeon.tv/edge/ryn7ip1tpjjl1m4 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/2891/perufloro tcUrl=rtmp://live34.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PE \ Cable Mágico Deportes \ -21d</title>
+<title>   PE \ Cable Mágico Deportes \ -22d</title>
 <link>rtmp://c51.webcaston.com/live/channel playpath=adictoalaganya swfUrl="http://www.webcaston.com/player/player-licensed.swf" pageUrl="http://www.webcaston.com/embed.php?fileid=adictoalaganya" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cable_magico_deportes.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PE \ Frecuencia Latina \ -9h</title>
+<title>+ PE \ Frecuencia Latina</title>
 <link>rtmp://live35.seeon.tv/edge/1wz1rflfp6bsf8g swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=590&amp;height=450&amp;channel=3468&amp;autoplay=true tcUrl=rtmp://live35.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/frecuencia_latina.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PE \ Panamericana Televisión \ -21d</title>
+<title>   PE \ Panamericana Televisión \ -22d</title>
 <link>rtmp://c21.webcaston.com/live/channel playpath=fgfdgfd swfUrl="http://www.webcaston.com/player/player-licensed.swf" pageUrl="http://www.webcaston.com/embed.php?fileid=fgfdgfd" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/panamericana_tv_pe.png</thumbnail>
 </subitem>
@@ -2343,7 +2349,7 @@
 </subitem>
 
 <subitem>
-<title>   MX \ Nickelodeon \ -19h</title>
+<title>   MX \ Nickelodeon \ -21h</title>
 <link>rtmp://live10.seeon.tv/edge/fpk87jxcsqi6urm swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11155/mangeltv tcUrl=rtmp://live10.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_latino_norte.png</thumbnail>
 </subitem>
@@ -2517,11 +2523,17 @@
 </items>
 </channel>
 
-<channel><name>Urdu \ 5</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Urdu.png</thumbnail><items>
+<channel><name>Urdu \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Urdu.png</thumbnail><items>
 
 <item>
 <title>+ PK \ Dunya News</title>
 <link>rtmp://173.245.68.50/live playpath=cam swfUrl=http://dunyanews.tv/newsite/live_stream/player.swf pageUrl=http://dunyanews.tv/newsite/live_stream/ live=true swfVfy=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dunya_news_tv.png</thumbnail>
+</item>
+
+<item>
+<title>+ PK \ Dunya News</title>
+<link>rtmp://72.13.93.132/live playpath=mp4:livestream_1.f4v swfUrl=http://www.dunyanews.tv/livehd/swfs/videoPlayer.swf pageUrl=http://www.dunyanews.tv/livehd/index.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dunya_news_tv.png</thumbnail>
 </item>
 
@@ -2572,7 +2584,7 @@
 </item>
 
 <item>
-<title>+ BR \ Discovery Kids</title>
+<title>   BR \ Discovery Kids \ -1h</title>
 <link>rtmp://streamer.istreamlive.net/35_137 playpath=kidstv swfUrl=http://www.serv-vto.com/player4.7.swf pageUrl=http://www.brasilligado.org/parceiros/discokids.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_kids_br.png</thumbnail>
 </item>
@@ -2608,7 +2620,7 @@
 </item>
 
 <item>
-<title>   MX \ Nickelodeon \ -19h</title>
+<title>   MX \ Nickelodeon \ -21h</title>
 <link>rtmp://live10.seeon.tv/edge/fpk87jxcsqi6urm swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11155/mangeltv tcUrl=rtmp://live10.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_latino_norte.png</thumbnail>
 </item>
@@ -2732,7 +2744,7 @@
 </item>
 
 <item>
-<title>   PH \ Boracay Island \ White Beach \ HD \ -2h</title>
+<title>   PH \ Boracay Island \ White Beach \ HD \ -1h</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=philippinesHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -2904,7 +2916,7 @@
 </item>
 
 <item>
-<title>   FR \ NRJ Dance \ -1d</title>
+<title>   FR \ NRJ Dance \ -2d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </item>
@@ -2922,13 +2934,13 @@
 </item>
 
 <item>
-<title>   FR \ NRJ Pure \ -1d</title>
+<title>   FR \ NRJ Pure \ -2d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Urban \ -1d</title>
+<title>   FR \ NRJ Urban \ -2d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </item>
@@ -3262,7 +3274,7 @@
 </item>
 
 <item>
-<title>   US \ ESPN 2 \ -4d</title>
+<title>   US \ ESPN 2 \ -5d</title>
 <link>rtmp://live24.seeon.tv/edge/7y8fin0u760cfrl app=edge pageUrl=http://www.seeon.tv/embedplayer.php?width=550&amp;height=400&amp;channel=11766&amp;autoplay=true swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf tcUrl=rtmp://live24.seeon.tv/edge playPath=7y8fin0u760cfrl swfvfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn2.png</thumbnail>
 </item>
@@ -3312,6 +3324,12 @@
 <name>New Streams</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/new.png</thumbnail>
 <items>
+
+<item>
+<title>+ PK \ Dunya News</title>
+<link>rtmp://72.13.93.132/live playpath=mp4:livestream_1.f4v swfUrl=http://www.dunyanews.tv/livehd/swfs/videoPlayer.swf pageUrl=http://www.dunyanews.tv/livehd/index.php swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dunya_news_tv.png</thumbnail>
+</item>
 
 <item>
 <title>   AE \ قناة دبي ريسينج</title>
@@ -3442,11 +3460,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 05/06/2011 16:51:40 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 13</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 568</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 216</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 784</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 05/06/2011 18:53:39 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 39</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 570</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 215</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 785</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
