@@ -2,10 +2,10 @@
 
 <channels>
 
-<channel><name>Arabic \ 13</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ News ======================================================================================
+<channel><name>Arabic \ 14</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ News ======================================================================================
 
 <subchannel>
-<name>AR \ News \ 10</name>
+<name>AR \ News \ 11</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -25,6 +25,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IQ \ البغدادية</title>
+<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -536,7 +542,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ USA Network \ -1h</title>
+<title>+ US \ USA Network</title>
 <link>rtmp://live8.seeon.tv/edge/7va516cu8ra0onl swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11080/USA_Networks tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
 </subitem>
@@ -1083,7 +1089,7 @@
 </subchannels></channel><channel><name>Filipino \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Filipino.png</thumbnail><items>
 
 <item>
-<title>   PH \ GMA \ -3h</title>
+<title>   PH \ GMA \ -4h</title>
 <link>rtmp://live5.seeon.tv/edge/6drb2o0ejvfksad swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/9024/GMA_7 tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1000px-GMA_Network_Logo_Vector.svg.png</thumbnail>
 </item>
@@ -1116,7 +1122,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -1h</title>
+<title>   IS \ Alþingi \ -2h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -1260,7 +1266,7 @@
 <channel><name>Polish \ 10</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Polish.png</thumbnail><items>
 
 <item>
-<title>   PL \ Canal+ \ -6h</title>
+<title>+ PL \ Canal+</title>
 <link>rtmp://app.weeb.tv/live/ playpath=26 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jm.png</thumbnail>
 </item>
@@ -1296,7 +1302,7 @@
 </item>
 
 <item>
-<title>+ PL \ TVN</title>
+<title>   PL \ TVN \ -1h</title>
 <link>rtmp://app.weeb.tv/live/ playpath=3 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jk.png</thumbnail>
 </item>
@@ -1348,7 +1354,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ Cultura \ -2h</title>
+<title>   BR \ Cultura \ -3h</title>
 <link>rtmp://200.136.27.12/live/tv swfUrl=http://www.tamoligado.net/player/player.swf pageUrl=http://tvdedegraca-i.blogspot.com/2010/06/tv-cultura.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cultura_sao_paulo.png</thumbnail>
 </subitem>
@@ -1438,7 +1444,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ Telecine Pipoca \ -1h</title>
+<title>+ BR \ Telecine Pipoca</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0014 swfUrl=http://www.cdnbr.eu/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Telecine%20Pipoca.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telecine_pipoca.jpg</thumbnail>
 </subitem>
@@ -1670,13 +1676,13 @@
 </subitem>
 
 <subitem>
-<title>   BR \ SporTV \ -1h</title>
+<title>+ BR \ SporTV</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0019 swfUrl=http://www.tvmeubrasil.net/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Speed%20Channel.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BR \ SporTV 2 \ -1h</title>
+<title>+ BR \ SporTV 2</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0012 swfUrl=http://www.tvmeubrasil.net/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Golf%20Channel.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv2.png</thumbnail>
 </subitem>
@@ -1987,7 +1993,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ A3 Eventos 1 \ -9h</title>
+<title>   ES \ A3 Eventos 1 \ -10h</title>
 <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-eventos1 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.guiacatering.com/site/company/bc/61592/logo/antena-3-eventos_lth1.gif</thumbnail>
 </subitem>
@@ -2173,7 +2179,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ TV Galicia Europa \ -2h</title>
+<title>+ ES \ TV Galicia Europa</title>
 <link>rtmp://media1.crtvg.es/live/tvge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_galicia.jpg</thumbnail>
 </subitem>
@@ -2251,7 +2257,7 @@
 </subitem>
 
 <subitem>
-<title>   PE \ América Televisión 2 \ -4h</title>
+<title>+ PE \ América Televisión 2</title>
 <link>rtmp://live34.seeon.tv/edge/ryn7ip1tpjjl1m4 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/2891/perufloro tcUrl=rtmp://live34.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
 </subitem>
@@ -2263,7 +2269,7 @@
 </subitem>
 
 <subitem>
-<title>+ PE \ Frecuencia Latina</title>
+<title>   PE \ Frecuencia Latina \ -1h</title>
 <link>rtmp://live35.seeon.tv/edge/1wz1rflfp6bsf8g swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=590&amp;height=450&amp;channel=3468&amp;autoplay=true tcUrl=rtmp://live35.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/frecuencia_latina.png</thumbnail>
 </subitem>
@@ -2337,7 +2343,7 @@
 </subitem>
 
 <subitem>
-<title>   MX \ Nickelodeon \ -23h</title>
+<title>   MX \ Nickelodeon \ -1d</title>
 <link>rtmp://live10.seeon.tv/edge/fpk87jxcsqi6urm swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11155/mangeltv tcUrl=rtmp://live10.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_latino_norte.png</thumbnail>
 </subitem>
@@ -2474,7 +2480,7 @@
 </item>
 
 <item>
-<title>+ TR \ KRT</title>
+<title>   TR \ KRT \ -1h</title>
 <link>rtmp://win5.yayinda.org/karesitv playpath=karesitv swfUrl=http://www.karesitv.net/modules/mod_jwmedia/player.swf pageUrl=http://www.karesitv.net/ live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Karesi-TV.jpg</thumbnail>
 </item>
@@ -2503,7 +2509,7 @@
 </item>
 
 <item>
-<title>   UA \ Star TV \ -13d</title>
+<title>   UA \ Star TV \ -14d</title>
 <link>http://77.222.135.42/startv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg</thumbnail>
 </item>
@@ -2608,7 +2614,7 @@
 </item>
 
 <item>
-<title>   MX \ Nickelodeon \ -23h</title>
+<title>   MX \ Nickelodeon \ -1d</title>
 <link>rtmp://live10.seeon.tv/edge/fpk87jxcsqi6urm swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11155/mangeltv tcUrl=rtmp://live10.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_latino_norte.png</thumbnail>
 </item>
@@ -2732,7 +2738,7 @@
 </item>
 
 <item>
-<title>   PH \ Boracay Island \ White Beach \ HD \ -3h</title>
+<title>+ PH \ Boracay Island \ White Beach \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=philippinesHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -2798,7 +2804,7 @@
 </item>
 
 <item>
-<title>   US \ Miami \ Biscayne Beach \ HD \ -1h</title>
+<title>+ US \ Miami \ Biscayne Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd4.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -2886,7 +2892,7 @@
 <items>
 
 <item>
-<title>   BE \ JIM \ -3h</title>
+<title>+ BE \ JIM</title>
 <link>rtsp://vmmalivewm.fplive.net/vmmalive-live/vmmajimbe</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdjgu.png</thumbnail>
 </item>
@@ -3030,7 +3036,7 @@
 </item>
 
 <item>
-<title>   TH \ T Channel \ -1h</title>
+<title>   TH \ T Channel \ -2h</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_tchannel_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/thaithai" live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8grcc4.jpg</thumbnail>
 </item>
@@ -3112,13 +3118,13 @@
 </item>
 
 <item>
-<title>   BR \ SporTV \ -1h</title>
+<title>+ BR \ SporTV</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0019 swfUrl=http://www.tvmeubrasil.net/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Speed%20Channel.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv.png</thumbnail>
 </item>
 
 <item>
-<title>   BR \ SporTV 2 \ -1h</title>
+<title>+ BR \ SporTV 2</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0012 swfUrl=http://www.tvmeubrasil.net/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Golf%20Channel.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv2.png</thumbnail>
 </item>
@@ -3422,7 +3428,7 @@
 </item>
 
 <item>
-<title>   UA \ Star TV \ -13d</title>
+<title>   UA \ Star TV \ -14d</title>
 <link>http://77.222.135.42/startv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg</thumbnail>
 </item>
@@ -3448,10 +3454,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 05/06/2011 20:56:25 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 05/06/2011 21:58:31 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 568</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 217</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 565</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 220</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 785</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
