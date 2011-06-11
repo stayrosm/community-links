@@ -19,10 +19,10 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 53</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ Entertainment =============================================================================
+<channel><name>Arabic \ 57</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ Entertainment =============================================================================
 
 <subchannel>
-<name>AR \ Entertainment \ 30</name>
+<name>AR \ Entertainment \ 32</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -111,6 +111,12 @@
 </subitem>
 
 <subitem>
+<title>   IQ \ Al Rasheed TV</title>
+<link>mms://77.67.107.89/alrasheedtv?MSWMExt=.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_rasheed_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ IQ \ السومرية</title>
 <link>mms://tor-strm02.jumptv.com/alsumaria?WMThinning=0&amp;Customer_ID=8222&amp;Product_ID=4021&amp;WMContentBitrate=860000&amp;WMCache=16&amp;Asset_ID=1086&amp;Stream_ID=15520&amp;User_Token=41ff85855264b9575/</link>
 <thumbnail>http://www.alsumaria.tv/templates/ar/5/images/top_images/2.gif</thumbnail>
@@ -120,6 +126,12 @@
 <title>+ IQ \ قناة الديار الفضائية</title>
 <link>mms://tor-strm02.jumptv.com/aldiyar?WMThinning=0&amp;Customer_ID=8222&amp;Product_ID=4021&amp;WMContentBitrate=860000&amp;WMCache=16&amp;Asset_ID=1086&amp;Stream_ID=15520&amp;User_Token=41ff85855264b9575/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_diyar.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IQ \ قناة الفيحاء</title>
+<link>mms://77.67.107.89/al-fayhaa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_fayhaa.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -223,7 +235,7 @@
 </subitem>
 
 <subitem>
-<title>   QA \ الجزيرة للأطفال</title>
+<title>+ QA \ الجزيرة للأطفال</title>
 <link>mms://213.229.78.218/AlJazeeraKids</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_children.png</thumbnail>
 </subitem>
@@ -234,7 +246,7 @@
 === AR \ News ======================================================================================
 
 <subchannel>
-<name>AR \ News \ 15</name>
+<name>AR \ News \ 16</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -260,6 +272,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IQ \ Iraqi Media Network</title>
+<link>mms://212.7.196.74/iraqia</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -334,7 +352,7 @@
 === AR \ Sports ====================================================================================
 
 <subchannel>
-<name>AR \ Sports \ 6</name>
+<name>AR \ Sports \ 7</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
 
@@ -360,6 +378,12 @@
 <title>   BH \ قناة البحرين الرياضية</title>
 <link>mms://tor-strm02.jumptv.com/bahrainsports?WMThinning=0&amp;Customer_ID=8222&amp;Product_ID=4021&amp;WMContentBitrate=860000&amp;WMCache=16&amp;Asset_ID=1086&amp;Stream_ID=15520&amp;User_Token=41ff85855264b9575/</link>
 <thumbnail>http://www.albiladpress.com/newsimage/12579812191.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IQ \ Iraqi Media Sport</title>
+<link>mms://212.7.196.74/sport</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -469,7 +493,7 @@
 </item>
 
 <item>
-<title>   BG \ NOVA Средно Качество \ -21d</title>
+<title>   BG \ NOVA Средно Качество \ -22d</title>
 <link>mms://208.53.174.42/onlinenova</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nova_tv_bg.png</thumbnail>
 </item>
@@ -499,7 +523,7 @@
 </item>
 
 <item>
-<title>   BG \ Travel TV \ -3h</title>
+<title>   BG \ Travel TV \ -4h</title>
 <link>mms://85.17.159.104/32300615</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/travel_tv_int.png</thumbnail>
 </item>
@@ -773,7 +797,7 @@
 </subchannels></channel><channel><name>Croatian \ 5</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -9h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -10h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -973,7 +997,7 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Graafschap TV \ -11d</title>
+<title>   NL \ Graafschap TV \ -12d</title>
 <link>mms://deomroep-live.streamonline.nl/deomroep-live?MSWMExt=.asf</link>
 <thumbnail>http://www.rtvkeetje.nl/images/logo_graafschaptv_lbs.jpg</thumbnail>
 </subitem>
@@ -1115,10 +1139,10 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 161</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
+</subchannels></channel><channel><name>English \ 162</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
 
 <subchannel>
-<name>EN \ Entertainment \ 55</name>
+<name>EN \ Entertainment \ 56</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -1132,6 +1156,12 @@
 <title>+ IE \ RTÉ 2</title>
 <link>rtmpte://fmsod.rte.ie/live/rte2 swfurl=http://www.rte.ie/player/assets/player_403.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdffy.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://s52wm.castup.net/991910009-52.wmv?s=&amp;rid=703191124452391&amp;ct=ES&amp;rg=WE&amp;aid=191&amp;st=0&amp;cu=11D5AA81-741F-4B90-9DB0-041B15FBFA23</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
 </subitem>
 
 <subitem>
@@ -1291,7 +1321,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ E! \ -17d</title>
+<title>   US \ E! \ -18d</title>
 <link>rtmp://live3.seeon.tv/edge/kx17x0gwube25ly swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14341/E%21_Live tcUrl=rtmp://live3.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5snr.png</thumbnail>
 </subitem>
@@ -1393,7 +1423,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Starz</title>
+<title>   US \ Starz \ -1h</title>
 <link>rtmp://live8.seeon.tv/edge/0zp72w21x0n9slr swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12466/StarZ_movies tcUrl=rtmp://live8.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/starz.png</thumbnail>
 </subitem>
@@ -1447,7 +1477,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ USA Network \ -1h</title>
+<title>+ US \ USA Network</title>
 <link>rtmp://live8.seeon.tv/edge/7va516cu8ra0onl swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11080/USA_Networks tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
 </subitem>
@@ -1789,7 +1819,7 @@
 </subitem>
 
 <subitem>
-<title>   NZ \ 3news \ -19h</title>
+<title>+ NZ \ 3news</title>
 <link>mms://wmstream.mediaworks.co.nz/WMController?MSWMExt=.asf</link>
 <thumbnail>http://wa2.www.tv3.co.nz/Portals/0/AM/2008/10/28/59642/tv3-show-thumb-150x100-3news.jpg</thumbnail>
 </subitem>
@@ -1967,7 +1997,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ Rocks &amp; Co. \ -31d</title>
+<title>   UK \ Rocks &amp; Co. \ -32d</title>
 <link>rtmp://212.187.212.150/vxedge/fs-30bf0a0000000000 playpath=fs-30bf0a0000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/2231/rocks-co" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rocks_and_co.png</thumbnail>
 </subitem>
@@ -2433,10 +2463,10 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>German \ 55</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels>=== DE \ Entertainment =============================================================================
+</subchannels></channel><channel><name>German \ 56</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels>=== DE \ Entertainment =============================================================================
 
 <subchannel>
-<name>DE \ Entertainment \ 46</name>
+<name>DE \ Entertainment \ 47</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2639,7 +2669,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ noa4 Norderstedt \ -4h</title>
+<title>   DE \ noa4 Norderstedt \ -5h</title>
 <link>http://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf</link>
 <thumbnail>http://www.ma-hsh.de/cms/upload/bilder/noa4_nachbarn_on_air.jpg</thumbnail>
 </subitem>
@@ -2714,6 +2744,12 @@
 <title>+ DE \ ZDFneo</title>
 <link>rtmp://cp108475.live.edgefcs.net/live/ playpath=zdfneo_1_800@44504 swfURL=http://www.wilmaa.com/player/main_v3.316.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdglb.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://vod.kab.tv/ger</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
 </subitem>
 
 </subitems>
@@ -2840,12 +2876,36 @@
 </items>
 </channel>
 
-<channel><name>Hebrew \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Hebrew.png</thumbnail><items>
+<channel><name>Hebrew \ 5</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Hebrew.png</thumbnail><items>
 
 <item>
 <title>+ FI \ TV7</title>
 <link>mms://streamer-2.tv7.fi/tv7_live</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/fi/thumb/5/5a/TV7.svg/531px-TV7.svg.png</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Hidabroot TV \ -1h</title>
+<link>mms://live.mvertex.co.il/tvisrael?.wma</link>
+<thumbnail>http://www.hidabroot.org/Img/Logo.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Machonmeir TV \ -0h</title>
+<link>mms://82.80.231.41/meirtv_live</link>
+<thumbnail>http://livelive24.com/tv-images/israel-machonmeir.jpg</thumbnail>
+</item>
+
+<item>
+<title>   IL \ קבלה TV \ -1h</title>
+<link>mms://s54wm.castup.net/991910011-52.wmv?ct=UK&amp;rg=WE&amp;aid=191&amp;tkn=20101215130611&amp;ts=0&amp;cu=FBB6E90A-2197-451F-BB34-14CD67795BC5</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ שידורים מהכנסת \ -1h</title>
+<link>mms://video.knesset.gov.il/knessetlive</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Knesset-TV.jpg</thumbnail>
 </item>
 
 </items>
@@ -2906,7 +2966,7 @@
 <channel><name>Icelandic \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -10h</title>
+<title>   IS \ Alþingi \ -11h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -2959,7 +3019,7 @@
 </item>
 
 <item>
-<title>   IT \ Rai Sport 1 \ -12h</title>
+<title>   IT \ Rai Sport 1 \ -13h</title>
 <link>rtmp://live9.seeon.tv/edge/wagr2j8zdjft1gs swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12749/basket tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gulbr.png</thumbnail>
 </item>
@@ -3063,31 +3123,31 @@
 <channel><name>Kurdish \ 5</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Kurdish.png</thumbnail><items>
 
 <item>
-<title>   DK \ ROJ TV \ -0h</title>
+<title>   DK \ ROJ TV \ -1h</title>
 <link>mms://rojstreaming.com/roj</link>
 <thumbnail>http://3.bp.blogspot.com/_w5L9vOIXius/S6OG8Xh_PvI/AAAAAAAAAjk/L6gyrT8MDKw/Roj_tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>   IQ \ VinTV \ -0h</title>
+<title>   IQ \ VinTV \ -1h</title>
 <link>mms://93.91.197.213:8080/</link>
 <thumbnail>http://www.vintv.net/images/stories/vintv/logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>   IQ \ Zagros TV \ -0h</title>
+<title>   IQ \ Zagros TV \ -1h</title>
 <link>mms://213.136.35.35/ZagrosTV</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zagros_tv.png</thumbnail>
 </item>
 
 <item>
-<title>   TR \ MMC TV \ -0h</title>
+<title>   TR \ MMC TV \ -1h</title>
 <link>mms://188.165.13.70/mmc</link>
 <thumbnail>http://mmc.tv/images/mmc.png</thumbnail>
 </item>
 
 <item>
-<title>   TR \ TRT 6 \ -0h</title>
+<title>   TR \ TRT 6 \ -1h</title>
 <link>mms://95.0.159.131/TV6</link>
 <thumbnail>http://www.mae.gov.tr/news/34.jpg</thumbnail>
 </item>
@@ -3319,13 +3379,13 @@
 </subitem>
 
 <subitem>
-<title>   BR \ FX \ -1h</title>
+<title>+ BR \ FX</title>
 <link>rtmp://streamer.istreamlive.net/35_137/fx2 swfUrl=http://www.serv-vto.com/player4.7.swf pageUrl=http://www.brasilligado.org/parceiros/fx.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fx_br.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BR \ HBO \ -1h</title>
+<title>   BR \ HBO \ -2h</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0006 app=37_brlive/ pageUrl=http://www.cdnbr.org/mastertv/HBO.htm swfUrl=http://www.cdnbr.eu/swf/player.swf tcUrl=rtmp://streamer.istreamlive.net/37_brlive/ playPath=brlive_0006 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo.png</thumbnail>
 </subitem>
@@ -3385,7 +3445,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ SBT \ -1h</title>
+<title>   BR \ SBT \ -2h</title>
 <link>rtmp://streamer.istreamlive.net/35_137/sbt app=35_137 pageUrl=http://www.brasilligado.org/parceiros/sbt.html swfUrl=http://www.serv-vto.com/player4.7.swf tcUrl=rtmp://streamer.istreamlive.net/35_137 playPath=sbt live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
 </subitem>
@@ -3661,13 +3721,13 @@
 <subitems>
 
 <subitem>
-<title>   BR \ ESPN HD \ -10d</title>
+<title>   BR \ ESPN HD \ -11d</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/espnhd swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/espnhdvip.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd_asia.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BR \ SporTV \ -1h</title>
+<title>   BR \ SporTV \ -2h</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0019 swfUrl=http://www.tvmeubrasil.net/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Speed%20Channel.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv.png</thumbnail>
 </subitem>
@@ -3679,7 +3739,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 1 \ -13d</title>
+<title>   PT \ Sport TV 1 \ -14d</title>
 <link>rtmp://68.68.30.179/live/_definst_/4785469874 app=live/_definst_ pageUrl=http://www.veemi.com/embed.php swfUrl=http://www.veemi.com/player/player-licensed.swf tcUrl=rtmp://68.68.30.179/live/_definst_ playPath=4785469874 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </subitem>
@@ -3770,12 +3830,24 @@
 </items>
 </channel>
 
-<channel><name>Russian \ 28</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Russian.png</thumbnail><subchannels>=== RU \ Entertainment =============================================================================
+<channel><name>Russian \ 32</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Russian.png</thumbnail><subchannels>=== RU \ Entertainment =============================================================================
 
 <subchannel>
-<name>RU \ Entertainment \ 19</name>
+<name>RU \ Entertainment \ 21</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://s52wm.castup.net/991910012-52.wmv?ct=UK&amp;rg=WE&amp;aid=191&amp;tkn=20101215132220&amp;ts=0&amp;cu=FBB6E90A-2197-451F-BB34-14CD67795BC5</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   KZ \ Телекомпания К+ \ -1h</title>
+<link>mms://win83il.audiovideoweb.com/3c3winlive3358?.wma</link>
+<thumbnail>http://www.kplus-tv.net/images/logo.jpg</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ RU \ Bridge TV</title>
@@ -3941,9 +4013,21 @@
 === RU \ News ======================================================================================
 
 <subchannel>
-<name>RU \ News \ 4</name>
+<name>RU \ News \ 6</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   KZ \ CNL Europa \ -1h</title>
+<link>mms://stream.cnl.tv/cnl-eu</link>
+<thumbnail>http://www.frosat.net/images/logotv/original/cnl.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   KZ \ CNL Siberia \ -1h</title>
+<link>mms://stream.cnl.tv/cnl-sib</link>
+<thumbnail>http://www.frosat.net/images/logotv/original/cnl.jpg</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ RU \ HD Media \ HD</title>
@@ -3980,7 +4064,7 @@
 <subitems>
 
 <subitem>
-<title>   RU \ EuroSport \ -23d</title>
+<title>   RU \ EuroSport \ -24d</title>
 <link>rtmp://live24.seeon.tv/edge/dks46i16j1wgrdm swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13478/kibiiiickiii tcUrl=rtmp://live24.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </subitem>
@@ -3991,13 +4075,13 @@
 </subchannels></channel><channel><name>Sinhala \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Sinhala.png</thumbnail><items>
 
 <item>
-<title>   LK \ Channel One \ -1h</title>
+<title>   LK \ Channel One \ -2h</title>
 <link>mms://89.97.40.35:1234/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/one_sri_lanka_channel.jpg</thumbnail>
 </item>
 
 <item>
-<title>   LK \ Rupavahini TV \ -1h</title>
+<title>   LK \ Rupavahini TV \ -2h</title>
 <link>mms://222.165.133.211/live?MSWMExt=.asf</link>
 <thumbnail>http://www.unions.lk/sin/images/stories/File-photo/tv/rupavahini1.jpg</thumbnail>
 </item>
@@ -4016,10 +4100,10 @@
 </items>
 </channel>
 
-<channel><name>Spanish \ 140</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels>=== ES \ Entertainment =============================================================================
+<channel><name>Spanish \ 141</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels>=== ES \ Entertainment =============================================================================
 
 <subchannel>
-<name>ES \ Entertainment \ 100</name>
+<name>ES \ Entertainment \ 101</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -4066,7 +4150,7 @@
 </subitem>
 
 <subitem>
-<title>   AR \ TV Publica \ -1h</title>
+<title>   AR \ TV Publica \ -2h</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -4252,7 +4336,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Aragon TV \ -10h</title>
+<title>   ES \ Aragon TV \ -11h</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -4378,7 +4462,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Tele Magik \ -9h</title>
+<title>   ES \ Tele Magik \ -10h</title>
 <link>http://www.telepuertovirtual2.tv/telemagik</link>
 <thumbnail>http://www.elultimodeseo.com/es/images/tele-magik.jpg</thumbnail>
 </subitem>
@@ -4498,19 +4582,25 @@
 </subitem>
 
 <subitem>
-<title>   HT \ Tele Horizon 2000 \ -7h</title>
+<title>   HT \ Tele Horizon 2000 \ -8h</title>
 <link>mms://telehorizon.no-ip.org/telehorizon-telehorizon-100</link>
 <thumbnail>http://www.haitiendirect.com/111ed.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ MX \ Aguascalientes TV</title>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://vod.us.kab.tv/spa</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   MX \ Aguascalientes TV \ -6h</title>
 <link>mms://201.167.124.220/RyTA_TV</link>
 <thumbnail>http://www.logotypes101.com/files/438/00DB835A0BBDF96C256668C2322F21C8/lrg_logotipoagstv.gif</thumbnail>
 </subitem>
 
 <subitem>
-<title>   MX \ Aprende TV \ -3h</title>
+<title>+ MX \ Aprende TV</title>
 <link>mms://168.255.107.6/canal24</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aprende_tv.jpg</thumbnail>
 </subitem>
@@ -4558,7 +4648,7 @@
 </subitem>
 
 <subitem>
-<title>   PE \ América Televisión 1 \ -5h</title>
+<title>   PE \ América Televisión 1 \ -6h</title>
 <link>rtmp://live33.seeon.tv/edge/26sot3fjuw7d787 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php tcUrl=rtmp://live33.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
 </subitem>
@@ -4802,7 +4892,7 @@
 </subitem>
 
 <subitem>
-<title>   AR \ CN23 \ -19d</title>
+<title>   AR \ CN23 \ -20d</title>
 <link>rtmp://ustream.fc.llnwd.net:1935/ustream/test/ustream@llnw_1_5938529_live_1 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/cn23tv live=true timeout=60</link>
 <thumbnail>http://3.bp.blogspot.com/_HU8IO0q7gqk/TL0XHbsaT8I/AAAAAAAAAHU/Vq17Zw6EzIM/s320/cn23.gif</thumbnail>
 </subitem>
@@ -4908,7 +4998,7 @@
 <subitems>
 
 <subitem>
-<title>   US \ ESPN Deportes \ -4h</title>
+<title>   US \ ESPN Deportes \ -5h</title>
 <link>rtmp://live1.seeon.tv/edge/ber6l3limfxpxsc swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12328/ESPNDeportes tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_deportes.png</thumbnail>
 </subitem>
@@ -5268,7 +5358,13 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Turkish \ 4</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Turkish.png</thumbnail><items>
+</subchannels></channel><channel><name>Turkish \ 5</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Turkish.png</thumbnail><items>
+
+<item>
+<title>   IQ \ Türkmeneli TV \ -0h</title>
+<link>mms://yayin3.canliyayin.org/turkmenelitv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/turkmeneli_tv.jpg</thumbnail>
+</item>
 
 <item>
 <title>   TR \ ATV Avrupa \ -3d</title>
@@ -5476,13 +5572,13 @@
 <subitems>
 
 <subitem>
-<title>+ US \ Little Saigon TV</title>
+<title>   US \ Little Saigon TV \ -1h</title>
 <link>rtmp://208.115.210.171:1935/lstv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/little_saigon_tv.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ US \ Saigon TV</title>
+<title>   US \ Saigon TV \ -1h</title>
 <link>rtmp://208.115.210.171:1935/sgtv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.vietfilmfest.com/2011/images/saigon-tv-logo.jpg</thumbnail>
 </subitem>
@@ -5630,7 +5726,7 @@
 <subitems>
 
 <subitem>
-<title>+ US \ VNBC</title>
+<title>   US \ VNBC \ -1h</title>
 <link>rtmp://208.115.210.171:1935/vnbctv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://2.bp.blogspot.com/_KqTN0jmEA-k/TOud82ssgfI/AAAAAAAAAFk/8m2-NTsaFnc/s1600/vnbc.jpg</thumbnail>
 </subitem>
@@ -5718,7 +5814,7 @@
 </item>
 
 <item>
-<title>   QA \ الجزيرة للأطفال</title>
+<title>+ QA \ الجزيرة للأطفال</title>
 <link>mms://213.229.78.218/AlJazeeraKids</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_children.png</thumbnail>
 </item>
@@ -6134,7 +6230,7 @@
 </item>
 
 <item>
-<title>   IQ \ VinTV \ -0h</title>
+<title>   IQ \ VinTV \ -1h</title>
 <link>mms://93.91.197.213:8080/</link>
 <thumbnail>http://www.vintv.net/images/stories/vintv/logo.jpg</thumbnail>
 </item>
@@ -6319,7 +6415,7 @@
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 48</name>
+<name>All Sports \ 49</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -6354,13 +6450,13 @@
 </item>
 
 <item>
-<title>   BR \ ESPN HD \ -10d</title>
+<title>   BR \ ESPN HD \ -11d</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/espnhd swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/espnhdvip.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd_asia.png</thumbnail>
 </item>
 
 <item>
-<title>   BR \ SporTV \ -1h</title>
+<title>   BR \ SporTV \ -2h</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0019 swfUrl=http://www.tvmeubrasil.net/swf/player.swf pageUrl=http://www.cdnbr.org/mastertv/Speed%20Channel.htm live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv.png</thumbnail>
 </item>
@@ -6426,13 +6522,19 @@
 </item>
 
 <item>
+<title>   IQ \ Iraqi Media Sport</title>
+<link>mms://212.7.196.74/sport</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
+</item>
+
+<item>
 <title>+ IT \ Quartarete 4</title>
 <link>rtmp://wowza1.top-ix.org/quartaretetv playpath=quartareteweb swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/862/quartarete-4" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqqx9.png</thumbnail>
 </item>
 
 <item>
-<title>   IT \ Rai Sport 1 \ -12h</title>
+<title>   IT \ Rai Sport 1 \ -13h</title>
 <link>rtmp://live9.seeon.tv/edge/wagr2j8zdjft1gs swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12749/basket tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gulbr.png</thumbnail>
 </item>
@@ -6462,7 +6564,7 @@
 </item>
 
 <item>
-<title>   PT \ Sport TV 1 \ -13d</title>
+<title>   PT \ Sport TV 1 \ -14d</title>
 <link>rtmp://68.68.30.179/live/_definst_/4785469874 app=live/_definst_ pageUrl=http://www.veemi.com/embed.php swfUrl=http://www.veemi.com/player/player-licensed.swf tcUrl=rtmp://68.68.30.179/live/_definst_ playPath=4785469874 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </item>
@@ -6498,7 +6600,7 @@
 </item>
 
 <item>
-<title>   RU \ EuroSport \ -23d</title>
+<title>   RU \ EuroSport \ -24d</title>
 <link>rtmp://live24.seeon.tv/edge/dks46i16j1wgrdm swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13478/kibiiiickiii tcUrl=rtmp://live24.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
@@ -6576,7 +6678,7 @@
 </item>
 
 <item>
-<title>   US \ ESPN Deportes \ -4h</title>
+<title>   US \ ESPN Deportes \ -5h</title>
 <link>rtmp://live1.seeon.tv/edge/ber6l3limfxpxsc swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12328/ESPNDeportes tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_deportes.png</thumbnail>
 </item>
@@ -6622,37 +6724,127 @@
 <items>
 
 <item>
-<title>   KZ \ CNL News \ -0h</title>
+<title>   IQ \ Türkmeneli TV \ -0h</title>
+<link>mms://yayin3.canliyayin.org/turkmenelitv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/turkmeneli_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>   IQ \ Al Rasheed TV</title>
+<link>mms://77.67.107.89/alrasheedtv?MSWMExt=.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_rasheed_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>   IQ \ قناة الفيحاء</title>
+<link>mms://77.67.107.89/al-fayhaa</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_fayhaa.jpg</thumbnail>
+</item>
+
+<item>
+<title>   IQ \ Iraqi Media Network</title>
+<link>mms://212.7.196.74/iraqia</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
+</item>
+
+<item>
+<title>   IQ \ Iraqi Media Sport</title>
+<link>mms://212.7.196.74/sport</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://s52wm.castup.net/991910009-52.wmv?s=&amp;rid=703191124452391&amp;ct=ES&amp;rg=WE&amp;aid=191&amp;st=0&amp;cu=11D5AA81-741F-4B90-9DB0-041B15FBFA23</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://vod.kab.tv/ger</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://s52wm.castup.net/991910012-52.wmv?ct=UK&amp;rg=WE&amp;aid=191&amp;tkn=20101215132220&amp;ts=0&amp;cu=FBB6E90A-2197-451F-BB34-14CD67795BC5</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Kabbalah TV \ -0h</title>
+<link>mms://vod.us.kab.tv/spa</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Machonmeir TV \ -0h</title>
+<link>mms://82.80.231.41/meirtv_live</link>
+<thumbnail>http://livelive24.com/tv-images/israel-machonmeir.jpg</thumbnail>
+</item>
+
+<item>
+<title>   IL \ קבלה TV \ -1h</title>
+<link>mms://s54wm.castup.net/991910011-52.wmv?ct=UK&amp;rg=WE&amp;aid=191&amp;tkn=20101215130611&amp;ts=0&amp;cu=FBB6E90A-2197-451F-BB34-14CD67795BC5</link>
+<thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>   IL \ שידורים מהכנסת \ -1h</title>
+<link>mms://video.knesset.gov.il/knessetlive</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Knesset-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>   IL \ Hidabroot TV \ -1h</title>
+<link>mms://live.mvertex.co.il/tvisrael?.wma</link>
+<thumbnail>http://www.hidabroot.org/Img/Logo.gif</thumbnail>
+</item>
+
+<item>
+<title>   KZ \ CNL Europa \ -1h</title>
+<link>mms://stream.cnl.tv/cnl-eu</link>
+<thumbnail>http://www.frosat.net/images/logotv/original/cnl.jpg</thumbnail>
+</item>
+
+<item>
+<title>   KZ \ Телекомпания К+ \ -1h</title>
+<link>mms://win83il.audiovideoweb.com/3c3winlive3358?.wma</link>
+<thumbnail>http://www.kplus-tv.net/images/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>   KZ \ CNL Siberia \ -1h</title>
 <link>mms://stream.cnl.tv/cnl-sib</link>
 <thumbnail>http://www.frosat.net/images/logotv/original/cnl.jpg</thumbnail>
 </item>
 
 <item>
-<title>   TR \ TRT 6 \ -0h</title>
+<title>   TR \ TRT 6 \ -1h</title>
 <link>mms://95.0.159.131/TV6</link>
 <thumbnail>http://www.mae.gov.tr/news/34.jpg</thumbnail>
 </item>
 
 <item>
-<title>   IQ \ VinTV \ -0h</title>
+<title>   IQ \ VinTV \ -1h</title>
 <link>mms://93.91.197.213:8080/</link>
 <thumbnail>http://www.vintv.net/images/stories/vintv/logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>   TR \ MMC TV \ -0h</title>
+<title>   TR \ MMC TV \ -1h</title>
 <link>mms://188.165.13.70/mmc</link>
 <thumbnail>http://mmc.tv/images/mmc.png</thumbnail>
 </item>
 
 <item>
-<title>   IQ \ Zagros TV \ -0h</title>
+<title>   IQ \ Zagros TV \ -1h</title>
 <link>mms://213.136.35.35/ZagrosTV</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zagros_tv.png</thumbnail>
 </item>
 
 <item>
-<title>   DK \ ROJ TV \ -0h</title>
+<title>   DK \ ROJ TV \ -1h</title>
 <link>mms://rojstreaming.com/roj</link>
 <thumbnail>http://3.bp.blogspot.com/_w5L9vOIXius/S6OG8Xh_PvI/AAAAAAAAAjk/L6gyrT8MDKw/Roj_tv.jpg</thumbnail>
 </item>
@@ -6676,13 +6868,13 @@
 </item>
 
 <item>
-<title>   LK \ Channel One \ -1h</title>
+<title>   LK \ Channel One \ -2h</title>
 <link>mms://89.97.40.35:1234/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/one_sri_lanka_channel.jpg</thumbnail>
 </item>
 
 <item>
-<title>   LK \ Rupavahini TV \ -1h</title>
+<title>   LK \ Rupavahini TV \ -2h</title>
 <link>mms://222.165.133.211/live?MSWMExt=.asf</link>
 <thumbnail>http://www.unions.lk/sin/images/stories/File-photo/tv/rupavahini1.jpg</thumbnail>
 </item>
@@ -6748,7 +6940,7 @@
 </item>
 
 <item>
-<title>   DE \ noa4 Norderstedt \ -4h</title>
+<title>   DE \ noa4 Norderstedt \ -5h</title>
 <link>http://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf</link>
 <thumbnail>http://www.ma-hsh.de/cms/upload/bilder/noa4_nachbarn_on_air.jpg</thumbnail>
 </item>
@@ -6831,96 +7023,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_tv_kr.jpg</thumbnail>
 </item>
 
-<item>
-<title>   CH \ Das Schweizer Parlament \ -2d</title>
-<link>mms://a1659.l6115345658.c61153.g.lm.akamaistream.net/D/1659/61153/v0001/reflector:45658</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/de/7/78/Schweizer_Parlament_Logo.gif</thumbnail>
-</item>
-
-<item>
-<title>+ AT \ Swamiji TV</title>
-<link>mms://streaming.swamiji.tv/YogaIP-TV-LQ</link>
-<thumbnail>http://yogaenlavidacotidiana.org/Yoga%20in%20Daily%20Life%20-%20Official%20international%20homepage_archivos/Swamiji_TV_logo.gif</thumbnail>
-</item>
-
-<item>
-<title>+ AT \ Mühlviertel TV</title>
-<link>mms://wmsstream22.v4.mytv.ris.at/live/stream_149</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/M%C3%BChlviertel-TV.jpeg</thumbnail>
-</item>
-
-<item>
-<title>+ AT \ HT1</title>
-<link>mms://wmsstream22.v4.mytv.ris.at/live/stream_149</link>
-<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/162000_158783997466069_647018_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ DE \ Reise TV</title>
-<link>mms://213.155.73.167/Treffpunkt-Austria-TV_Standard_15</link>
-<thumbnail>http://www.reise-tv.com/img/layout/reise_tv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>+ AT \ TW1</title>
-<link>mms://insinceu-108tw1-pull-backup.wm.llnwd.net/insinceu_108tw1_pull_backup?.wma</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tw1.png</thumbnail>
-</item>
-
-<item>
-<title>+ DE \ Rhein-Main TV</title>
-<link>mms://rheinmaintv-livestream.de/rmtv-livestream</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/5/59/RheinMain_TV_Logo.svg/588px-RheinMain_TV_Logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>+ DE \ EinsExtra</title>
-<link>mms://87.248.216.242:80/tagesschau_live1_webm_wmv?MSWMExt=.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/ard_eins_extra.png</thumbnail>
-</item>
-
-<item>
-<title>+ DE \ Medizin TV</title>
-<link>mms://213.155.73.73/Medizin-tv_Standard_15</link>
-<thumbnail>http://1.bp.blogspot.com/-O-Rq4OUkjNs/TaP9UlnVrnI/AAAAAAAAADA/7I0cBExHIlI/s320/1292752149_76215167.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ KW \ قناة الوطن</title>
-<link>mms://stream8.netro.ca/watan</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_watan_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ KW \ قناة الوطن بلاس</title>
-<link>mms://stream8.netro.ca/watantv/watanplus</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_watan_plus.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ TH \ TV Muslim Thailand</title>
-<link>mms://203.146.129.248/tvmuslim</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_muslim_th.png</thumbnail>
-</item>
-
-<item>
-<title>+ TH \ Super TV</title>
-<link>mms://broadcast.manager.co.th/superentertain</link>
-<thumbnail>http://3.bp.blogspot.com/_ZBv_NBs99rs/TEg0r9NKYII/AAAAAAAAAfg/4I5YhdBTeFI/s1600/super.gif</thumbnail>
-</item>
-
-<item>
-<title>+ TH \ Variety Channel</title>
-<link>mms://203.146.170.102/livetv2</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/variety_channel.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ TH \ Bangkok Today</title>
-<link>mms://media.login.in.th/bangkoktoday</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bangkok_today.jpg</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -6936,11 +7038,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 11/06/2011 05:48:26 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 27</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 11/06/2011 06:49:31 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 63</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 663</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 209</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 872</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 224</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 887</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
