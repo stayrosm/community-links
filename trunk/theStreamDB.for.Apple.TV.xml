@@ -13,7 +13,23 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 14</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ News ======================================================================================
+<channel><name>Arabic \ 15</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ Entertainment =============================================================================
+
+<subchannel>
+<name>AR \ Entertainment \ 1</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
+<subitems>
+
+<subitem>
+<title>+ AE \ Dubai One</title>
+<link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
+<thumbnail>http://www.dubaicityguide.com/uploads/specials/specials_1105.jpg</thumbnail>
+</subitem>
+
+</subitems>
+</subchannel>
+
+=== AR \ News ======================================================================================
 
 <subchannel>
 <name>AR \ News \ 11</name>
@@ -398,18 +414,12 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 132</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
+</subchannels></channel><channel><name>English \ 131</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
 
 <subchannel>
-<name>EN \ Entertainment \ 53</name>
+<name>EN \ Entertainment \ 52</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
-
-<subitem>
-<title>+ AE \ Dubai One</title>
-<link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
-<thumbnail>http://www.dubaicityguide.com/uploads/specials/specials_1105.jpg</thumbnail>
-</subitem>
 
 <subitem>
 <title>+ IE \ RTÉ 1</title>
@@ -442,7 +452,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ BBC 3 \ -16h</title>
+<title>   UK \ BBC 3 \ -17h</title>
 <link>http://streamtv.x10.mx/uk/?id=V%7DF%28V%7BIxVXdNVWhVYTF%28cFRURndUbFJVUVRC%28%7C%29XdDVUVl%21rYUZJd%7BNGcFdWM%7CJMVkZkS%7BRGcEVVbFZXVlRCNFdrVmtWMU%21GT%29ZWU%7BJX%28%2FNW%28%7BQ%7CTUZkV%29dtdE9SMU%21JVTFoc%29QxWX%21RbkJVV%7DNoTFl6RlNTRTVWVG%29sTmF6VkdWREZvUTFWV%29drWldhbE%21WV%7DBkTk5WVkdSVGxRVVQwOQaHR0cA3aHR0cAaHR0cAaHR0cA3aHR0cAaHR0cA&amp;kod=26116600506</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg3.png</thumbnail>
 </subitem>
@@ -460,7 +470,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ E4 \ -16h</title>
+<title>   UK \ E4 \ -17h</title>
 <link>http://streamtv.x10.mx/uk/?id=V%7DF%28V%7BIxVXdNVWhVYTF%28cFRURndUbFJVUVRC%28%7C%29XdDVUVl%21rYUZJd%7BNGcFdWM%7CJMVkZkS%7BRGcEVVbFZXVlRCNFdrVmtWMU%21GT%29ZWU%7BJX%28%2FNW%28%7BQ%7CTUZkV%29dtdE9SMU%21JVTFoc%29QxWX%21RbkJVV%7DNoTFl6RlNTRTVWVG%29sTmF6VkdWREZvUTFWV%29drZGhNMmM5&amp;kod=26116604046</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg9.png</thumbnail>
 </subitem>
@@ -484,7 +494,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ ITV 3 \ -16h</title>
+<title>   UK \ ITV 3 \ -17h</title>
 <link>http://streamtv.x10.mx/uk/?id=V%7DF%28V%7BIxVXdNVWhVYTF%28cFRURndUbFJVUVRC%28%7C%29XdDVUVl%21rYUZJd%7BNGcFdWM%7CJMVkZkS%7BRGcEVVbFZXVlRCNFdrVmtWMU%21GT%29ZWU%7BJX%28%2FNW%28%7BQ%7CTUZkV%29dtdE9SMU%21JVTFoc%29QxWX%21RbkJVV%7DNoTFl6RlNTRTVWVG%29sTmF6VkdWREZvUTFWV%29drWmhNMnM5&amp;kod=26116601746</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg6.png</thumbnail>
 </subitem>
@@ -496,7 +506,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ More4 \ -16h</title>
+<title>   UK \ More4 \ -17h</title>
 <link>http://streamtv.x10.mx/uk/?id=V%7DF%28V%7BIxVXdNVWhVYTF%28cFRURndUbFJVUVRC%28%7C%29XdDVUVl%21rYUZJd%7BNGcFdWM%7CJMVkZkS%7BRGcEVVbFZXVlRCNFdrVmtWMU%21GT%29ZWU%7BJX%28%2FNW%28%7BQ%7CTUZkV%29dtdE9SMU%21JVTFoc%29QxWX%21RbkJVV%7DNoTFl6RlNTRTVWVG%29sTmF6VkdWREZvUTFWV%29dr%28G%21NM%7Dg5&amp;kod=26116602226</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfgb.png</thumbnail>
 </subitem>
@@ -700,7 +710,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Tru TV</title>
+<title>   US \ Tru TV \ -1h</title>
 <link>rtmp://live5.seeon.tv/edge/058evw89ltr76vg swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/157/TruTV tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tru_tv.png</thumbnail>
 </subitem>
@@ -2025,7 +2035,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ Fox \ -4h</title>
+<title>+ BR \ Fox</title>
 <link>rtmp://streamer.istreamlive.net/35_137/ playpath=fox2.sdp swfUrl=http://www.serv-vto.com/player4.7.swf pageURL=http://www.brasilligado.org/parceiros/fox.html swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_pt.png</thumbnail>
 </subitem>
@@ -2329,7 +2339,7 @@
 <subitems>
 
 <subitem>
-<title>   BR \ Shoptime \ -3d</title>
+<title>   BR \ Shoptime \ -4d</title>
 <link>http://mfile.akamai.com/9021/live/reflector:42527.asx</link>
 <thumbnail>http://img.shoptime.com.br/vitrine/img/logoShoptime.gif</thumbnail>
 </subitem>
@@ -2404,7 +2414,7 @@
 </item>
 
 <item>
-<title>+ RO \ OneHD Dance \ HD</title>
+<title>   RO \ OneHD Dance \ HD \ -1h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
@@ -2691,7 +2701,7 @@
 </subitem>
 
 <subitem>
-<title>+ ES \ Aragon TV</title>
+<title>   ES \ Aragon TV \ -1h</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -2769,7 +2779,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -1h</title>
+<title>   ES \ Ojos Solidarios \ -2h</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -2781,7 +2791,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ POPULAR TV \ -16h</title>
+<title>   ES \ POPULAR TV \ -17h</title>
 <link>http://populartv.cope.stream.flumotion.com/cope/populartv.flv.m3u</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/popular_tv.jpg</thumbnail>
 </subitem>
@@ -2793,7 +2803,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Tele Magik \ -2h</title>
+<title>   ES \ Tele Magik \ -3h</title>
 <link>http://www.telepuertovirtual2.tv/telemagik</link>
 <thumbnail>http://www.elultimodeseo.com/es/images/tele-magik.jpg</thumbnail>
 </subitem>
@@ -3748,7 +3758,7 @@
 </item>
 
 <item>
-<title>+ JP \ Tokyo \ Chuo City \ HD</title>
+<title>   JP \ Tokyo \ Chuo City \ HD \ -1h</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tokyo1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -3927,7 +3937,7 @@
 === Music ==========================================================================================
 
 <channel>
-<name>All Music \ 51</name>
+<name>All Music \ 52</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
 <items>
 
@@ -4034,7 +4044,7 @@
 </item>
 
 <item>
-<title>+ RO \ OneHD Dance \ HD</title>
+<title>   RO \ OneHD Dance \ HD \ -1h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
@@ -4390,7 +4400,7 @@
 </item>
 
 <item>
-<title>+ RO \ OneHD Dance \ HD</title>
+<title>   RO \ OneHD Dance \ HD \ -1h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
@@ -4480,11 +4490,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 13/06/2011 11:31:44 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 13/06/2011 11:47:09 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 782</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 232</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1014</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 779</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 236</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1015</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>

@@ -19,12 +19,18 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 60</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ Entertainment =============================================================================
+<channel><name>Arabic \ 61</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ Entertainment =============================================================================
 
 <subchannel>
-<name>AR \ Entertainment \ 34</name>
+<name>AR \ Entertainment \ 35</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>+ AE \ Dubai One</title>
+<link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
+<thumbnail>http://www.dubaicityguide.com/uploads/specials/specials_1105.jpg</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ AE \ Infinity TV</title>
@@ -1020,7 +1026,7 @@
 </items>
 </channel>
 
-<channel><name>Dutch \ 28</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Dutch.png</thumbnail><subchannels>=== NL \ Entertainment =============================================================================
+<channel><name>Dutch \ 30</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Dutch.png</thumbnail><subchannels>=== NL \ Entertainment =============================================================================
 
 <subchannel>
 <name>NL \ Entertainment \ 19</name>
@@ -1147,7 +1153,7 @@
 === NL \ Kids ======================================================================================
 
 <subchannel>
-<name>NL \ Kids \ 1</name>
+<name>NL \ Kids \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <subitems>
 
@@ -1157,13 +1163,19 @@
 <thumbnail>http://bigblue.com/images/portfolio/logo/work_nickjr.jpg</thumbnail>
 </subitem>
 
+<subitem>
+<title>   NL \ Nickelodeon \ -0h</title>
+<link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
+<thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
+</subitem>
+
 </subitems>
 </subchannel>
 
 === NL \ Music =====================================================================================
 
 <subchannel>
-<name>NL \ Music \ 3</name>
+<name>NL \ Music \ 4</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
 <subitems>
 
@@ -1177,6 +1189,12 @@
 <title>+ NL \ PartyPatrol</title>
 <link>mms://partypatrol.streaming.true.nl/partypatrol?.wma</link>
 <thumbnail>http://www.crisonu.com/tv2/nl.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   NL \ Slam TV \ -0h</title>
+<link>mms://stream02.wm.slamtv.true.nl/slamtv?MSWMExt=.asf</link>
+<thumbnail>http://www.hammenaren.nl/afbeeldingen/slamfm.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -1228,18 +1246,12 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 164</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
+</subchannels></channel><channel><name>English \ 163</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
 
 <subchannel>
-<name>EN \ Entertainment \ 57</name>
+<name>EN \ Entertainment \ 56</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
-
-<subitem>
-<title>+ AE \ Dubai One</title>
-<link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
-<thumbnail>http://www.dubaicityguide.com/uploads/specials/specials_1105.jpg</thumbnail>
-</subitem>
 
 <subitem>
 <title>+ IE \ RTÉ 1</title>
@@ -3383,7 +3395,7 @@
 </item>
 
 <item>
-<title>   IT \ Tele Molise \ -9h</title>
+<title>   IT \ Tele Molise \ -10h</title>
 <link>mms://wmlive.telemolise.com/multicast_stream2</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -3506,7 +3518,7 @@
 </item>
 
 <item>
-<title>   KR \ 목포문화방송 \ -5h</title>
+<title>   KR \ 목포문화방송 \ -6h</title>
 <link>mms://210.221.163.25/encoder-tv</link>
 <thumbnail>http://www.mokpombc.co.kr/img/2010img/mokpombclogo.gif</thumbnail>
 </item>
@@ -3817,7 +3829,7 @@
 </item>
 
 <item>
-<title>   PL \ TV Trwam \ -7h</title>
+<title>   PL \ TV Trwam \ -8h</title>
 <link>=mms://195.94.205.211/Trwam</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4243,7 +4255,7 @@
 <subitems>
 
 <subitem>
-<title>   BR \ Shoptime \ -3d</title>
+<title>   BR \ Shoptime \ -4d</title>
 <link>http://mfile.akamai.com/9021/live/reflector:42527.asx</link>
 <thumbnail>http://img.shoptime.com.br/vitrine/img/logoShoptime.gif</thumbnail>
 </subitem>
@@ -6167,7 +6179,7 @@
 </subitem>
 
 <subitem>
-<title>   TR \ TRT5 ANADOLU \ -10h</title>
+<title>   TR \ TRT5 ANADOLU \ -11h</title>
 <link>mms://212.156.63.102/TV5</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -6537,7 +6549,7 @@
 </subchannels></channel>=== Kids ===========================================================================================
 
 <channel>
-<name>All Kids \ 23</name>
+<name>All Kids \ 24</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <items>
 
@@ -6605,6 +6617,12 @@
 <title>   NL \ Nick JR. \ -22h</title>
 <link>http://www.garnierstreamingmedia.com/asx/nickjr_video_low.asp</link>
 <thumbnail>http://bigblue.com/images/portfolio/logo/work_nickjr.jpg</thumbnail>
+</item>
+
+<item>
+<title>   NL \ Nickelodeon \ -0h</title>
+<link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
+<thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
 </item>
 
 <item>
@@ -6911,7 +6929,7 @@
 === Music ==========================================================================================
 
 <channel>
-<name>All Music \ 51</name>
+<name>All Music \ 52</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
 <items>
 
@@ -7069,6 +7087,12 @@
 <title>+ NL \ PartyPatrol</title>
 <link>mms://partypatrol.streaming.true.nl/partypatrol?.wma</link>
 <thumbnail>http://www.crisonu.com/tv2/nl.gif</thumbnail>
+</item>
+
+<item>
+<title>   NL \ Slam TV \ -0h</title>
+<link>mms://stream02.wm.slamtv.true.nl/slamtv?MSWMExt=.asf</link>
+<thumbnail>http://www.hammenaren.nl/afbeeldingen/slamfm.jpg</thumbnail>
 </item>
 
 <item>
@@ -7636,6 +7660,18 @@
 <items>
 
 <item>
+<title>   NL \ Nickelodeon \ -0h</title>
+<link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
+<thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
+</item>
+
+<item>
+<title>   NL \ Slam TV \ -0h</title>
+<link>mms://stream02.wm.slamtv.true.nl/slamtv?MSWMExt=.asf</link>
+<thumbnail>http://www.hammenaren.nl/afbeeldingen/slamfm.jpg</thumbnail>
+</item>
+
+<item>
 <title>+ AE \ Dubai One</title>
 <link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
 <thumbnail>http://www.dubaicityguide.com/uploads/specials/specials_1105.jpg</thumbnail>
@@ -7702,7 +7738,7 @@
 </item>
 
 <item>
-<title>   KR \ 목포문화방송 \ -5h</title>
+<title>   KR \ 목포문화방송 \ -6h</title>
 <link>mms://210.221.163.25/encoder-tv</link>
 <thumbnail>http://www.mokpombc.co.kr/img/2010img/mokpombclogo.gif</thumbnail>
 </item>
@@ -7852,7 +7888,7 @@
 </item>
 
 <item>
-<title>   PL \ TV Trwam \ -7h</title>
+<title>   PL \ TV Trwam \ -8h</title>
 <link>=mms://195.94.205.211/Trwam</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -7923,18 +7959,6 @@
 <thumbnail>none</thumbnail>
 </item>
 
-<item>
-<title>+ BG \ 100 Automoto TV</title>
-<link>mms://100automoto.tv/100gaz</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>+ BG \ Gypsy TV</title>
-<link>mms://93.152.172.201/gypsy</link>
-<thumbnail>none</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -7950,11 +7974,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 13/06/2011 11:37:10 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 5</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 13/06/2011 11:54:08 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 6</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 779</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 235</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1014</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 237</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1016</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
