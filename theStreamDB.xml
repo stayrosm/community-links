@@ -19,9 +19,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 62</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels>=== AR \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Arabic \ 62</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 36</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -245,8 +243,6 @@
 </subitems>
 </subchannel>
 
-=== AR \ Kids ======================================================================================
-
 <subchannel>
 <name>AR \ Kids \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -266,8 +262,6 @@
 
 </subitems>
 </subchannel>
-
-=== AR \ News ======================================================================================
 
 <subchannel>
 <name>AR \ News \ 17</name>
@@ -378,8 +372,6 @@
 
 </subitems>
 </subchannel>
-
-=== AR \ Sports ====================================================================================
 
 <subchannel>
 <name>AR \ Sports \ 7</name>
@@ -501,9 +493,7 @@
 </items>
 </channel>
 
-<channel><name>Bulgarian \ 26</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Bulgarian.png</thumbnail><subchannels>=== BG \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Bulgarian \ 26</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Bulgarian.png</thumbnail><subchannels><subchannel>
 <name>BG \ Entertainment \ 22</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -643,8 +633,6 @@
 </subitems>
 </subchannel>
 
-=== BG \ Music =====================================================================================
-
 <subchannel>
 <name>BG \ Music \ 3</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
@@ -671,8 +659,6 @@
 </subitems>
 </subchannel>
 
-=== BG \ Sports ====================================================================================
-
 <subchannel>
 <name>BG \ Sports \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
@@ -698,9 +684,7 @@
 </items>
 </channel>
 
-<channel><name>Chinese \ 30</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels>=== ZH \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Chinese \ 30</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
 <name>ZH \ Entertainment \ 28</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -876,8 +860,6 @@
 </subitems>
 </subchannel>
 
-=== ZH \ News ======================================================================================
-
 <subchannel>
 <name>ZH \ News \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
@@ -891,8 +873,6 @@
 
 </subitems>
 </subchannel>
-
-=== ZH \ Sports ====================================================================================
 
 <subchannel>
 <name>ZH \ Sports \ 1</name>
@@ -1073,9 +1053,7 @@
 </items>
 </channel>
 
-<channel><name>Dutch \ 30</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Dutch.png</thumbnail><subchannels>=== NL \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Dutch \ 30</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Dutch.png</thumbnail><subchannels><subchannel>
 <name>NL \ Entertainment \ 19</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -1147,7 +1125,7 @@
 </subitem>
 
 <subitem>
-<title>+ NL \ Omroep Brabant</title>
+<title>   NL \ Omroep Brabant \ -1h</title>
 <link>mms://wm.media05.kpnstreaming.nl/kpn=OmroepBrabantL=OmroepBrabantTV?MSWMExt=.asf</link>
 <thumbnail>http://www.reteracartoons.nl/GeneratedItems/logo-Omroep-Brabant.gif</thumbnail>
 </subitem>
@@ -1159,7 +1137,7 @@
 </subitem>
 
 <subitem>
-<title>+ NL \ RTV Noord</title>
+<title>   NL \ RTV Noord \ -1h</title>
 <link>mms://media.rtvnoord.nl/tvrtvnoord</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_noord.jpg</thumbnail>
 </subitem>
@@ -1197,8 +1175,6 @@
 </subitems>
 </subchannel>
 
-=== NL \ Kids ======================================================================================
-
 <subchannel>
 <name>NL \ Kids \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -1218,8 +1194,6 @@
 
 </subitems>
 </subchannel>
-
-=== NL \ Music =====================================================================================
 
 <subchannel>
 <name>NL \ Music \ 4</name>
@@ -1252,8 +1226,6 @@
 
 </subitems>
 </subchannel>
-
-=== NL \ News ======================================================================================
 
 <subchannel>
 <name>NL \ News \ 5</name>
@@ -1293,9 +1265,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 163</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels>=== EN \ Entertainment =============================================================================
-
-<subchannel>
+</subchannels></channel><channel><name>English \ 163</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
 <name>EN \ Entertainment \ 56</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -1409,7 +1379,7 @@
 </subitem>
 
 <subitem>
-<title>+ UK \ TVSCUBA</title>
+<title>   UK \ TVSCUBA \ -2h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </subitem>
@@ -1553,7 +1523,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NBC \ -2h</title>
+<title>   US \ NBC \ -3h</title>
 <link>rtmp://live4.seeon.tv/edge/uijs8reafi8i2ay swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/3809/NBC tcUrl=rtmp://live4.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdev9.png</thumbnail>
 </subitem>
@@ -1607,7 +1577,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ TNT \ -1h</title>
+<title>   US \ TNT \ -2h</title>
 <link>rtmp://live3.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12460/TNT_LIVE_ON_DANSERTV.COM tcUrl=rtmp://live3.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevd.png</thumbnail>
 </subitem>
@@ -1631,15 +1601,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ USA Network \ -1h</title>
+<title>   US \ USA Network \ -2h</title>
 <link>rtmp://live8.seeon.tv/edge/7va516cu8ra0onl swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11080/USA_Networks tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
 </subitem>
 
 </subitems>
 </subchannel>
-
-=== EN \ Government ================================================================================
 
 <subchannel>
 <name>EN \ Government \ 22</name>
@@ -1783,8 +1751,6 @@
 </subitems>
 </subchannel>
 
-=== EN \ Kids ======================================================================================
-
 <subchannel>
 <name>EN \ Kids \ 7</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -1834,8 +1800,6 @@
 
 </subitems>
 </subchannel>
-
-=== EN \ Music =====================================================================================
 
 <subchannel>
 <name>EN \ Music \ 8</name>
@@ -1892,8 +1856,6 @@
 
 </subitems>
 </subchannel>
-
-=== EN \ News ======================================================================================
 
 <subchannel>
 <name>EN \ News \ 29</name>
@@ -2077,8 +2039,6 @@
 </subitems>
 </subchannel>
 
-=== EN \ Shopping ==================================================================================
-
 <subchannel>
 <name>EN \ Shopping \ 25</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/shopping.png</thumbnail>
@@ -2237,8 +2197,6 @@
 </subitems>
 </subchannel>
 
-=== EN \ Sports ====================================================================================
-
 <subchannel>
 <name>EN \ Sports \ 16</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
@@ -2329,7 +2287,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ MLB Network \ -1h</title>
+<title>   US \ MLB Network \ -2h</title>
 <link>rtmp://live38.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=12460&amp;autoplay=true tcUrl=rtmp://live38.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </subitem>
@@ -2343,9 +2301,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>French \ 45</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/French.png</thumbnail><subchannels>=== FR \ Entertainment =============================================================================
-
-<subchannel>
+</subchannels></channel><channel><name>French \ 45</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/French.png</thumbnail><subchannels><subchannel>
 <name>FR \ Entertainment \ 29</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -2527,8 +2483,6 @@
 </subitems>
 </subchannel>
 
-=== FR \ Music =====================================================================================
-
 <subchannel>
 <name>FR \ Music \ 7</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
@@ -2553,7 +2507,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Pop Rock \ -7h</title>
+<title>   FR \ NRJ Pop Rock \ -8h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </subitem>
@@ -2578,8 +2532,6 @@
 
 </subitems>
 </subchannel>
-
-=== FR \ News ======================================================================================
 
 <subchannel>
 <name>FR \ News \ 6</name>
@@ -2624,8 +2576,6 @@
 
 </subitems>
 </subchannel>
-
-=== FR \ Sports ====================================================================================
 
 <subchannel>
 <name>FR \ Sports \ 3</name>
@@ -2676,9 +2626,7 @@
 </items>
 </channel>
 
-<channel><name>German \ 56</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels>=== DE \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>German \ 56</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels><subchannel>
 <name>DE \ Entertainment \ 47</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -2846,7 +2794,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -6h</title>
+<title>   DE \ HR \ -7h</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -2968,8 +2916,6 @@
 </subitems>
 </subchannel>
 
-=== DE \ Government ================================================================================
-
 <subchannel>
 <name>DE \ Government \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/government.png</thumbnail>
@@ -2984,8 +2930,6 @@
 </subitems>
 </subchannel>
 
-=== DE \ Kids ======================================================================================
-
 <subchannel>
 <name>DE \ Kids \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -2999,8 +2943,6 @@
 
 </subitems>
 </subchannel>
-
-=== DE \ Music =====================================================================================
 
 <subchannel>
 <name>DE \ Music \ 2</name>
@@ -3022,8 +2964,6 @@
 </subitems>
 </subchannel>
 
-=== DE \ News ======================================================================================
-
 <subchannel>
 <name>DE \ News \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
@@ -3043,8 +2983,6 @@
 
 </subitems>
 </subchannel>
-
-=== DE \ Sports ====================================================================================
 
 <subchannel>
 <name>DE \ Sports \ 3</name>
@@ -3329,13 +3267,13 @@
 <channel><name>Icelandic \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -13h</title>
+<title>   IS \ Alþingi \ -14h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
 
 <item>
-<title>   IS \ Gospel Channel \ -8h</title>
+<title>+ IS \ Gospel Channel</title>
 <link>mms://194.50.90.120/gospel</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/gospel_channel_europe.jpg</thumbnail>
 </item>
@@ -3869,7 +3807,7 @@
 </item>
 
 <item>
-<title>   PL \ TLC \ -12h</title>
+<title>   PL \ TLC \ -13h</title>
 <link>rtmp://app.weeb.tv/live/ playpath=29 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jq.png</thumbnail>
 </item>
@@ -3931,9 +3869,7 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 61</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels>=== PT \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Portuguese \ 61</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
 <name>PT \ Entertainment \ 45</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -3969,7 +3905,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ Cultura \ -7h</title>
+<title>   BR \ Cultura \ -8h</title>
 <link>rtmp://200.136.27.12/live/tv swfUrl=http://www.tamoligado.net/player/player.swf pageUrl=http://tvdedegraca-i.blogspot.com/2010/06/tv-cultura.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cultura_sao_paulo.png</thumbnail>
 </subitem>
@@ -4161,7 +4097,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ SIC \ -6h</title>
+<title>   PT \ SIC \ -7h</title>
 <link>rtmp://go.thetvathome.com/estadio54/sic swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic.jpg</thumbnail>
 </subitem>
@@ -4185,13 +4121,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Sony Entertainment \ -6h</title>
+<title>   PT \ Sony Entertainment \ -7h</title>
 <link>rtmp://go.thetvathome.com/estadio54/sonyentertainment swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ SyFy \ -6h</title>
+<title>   PT \ SyFy \ -7h</title>
 <link>rtmp://go.thetvathome.com/estadio54/syfy swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>nonehttp://thevoiceoftv.com/files/2011/02/syfy.png</thumbnail>
 </subitem>
@@ -4203,15 +4139,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ TVi 24 \ -6h</title>
+<title>   PT \ TVi 24 \ -7h</title>
 <link>rtmp://go.thetvathome.com/estadio54/tvi24 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.jpg</thumbnail>
 </subitem>
 
 </subitems>
 </subchannel>
-
-=== PT \ Government ================================================================================
 
 <subchannel>
 <name>PT \ Government \ 2</name>
@@ -4232,8 +4166,6 @@
 
 </subitems>
 </subchannel>
-
-=== PT \ Kids ======================================================================================
 
 <subchannel>
 <name>PT \ Kids \ 6</name>
@@ -4279,8 +4211,6 @@
 </subitems>
 </subchannel>
 
-=== PT \ Music =====================================================================================
-
 <subchannel>
 <name>PT \ Music \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
@@ -4294,8 +4224,6 @@
 
 </subitems>
 </subchannel>
-
-=== PT \ News ======================================================================================
 
 <subchannel>
 <name>PT \ News \ 1</name>
@@ -4311,8 +4239,6 @@
 </subitems>
 </subchannel>
 
-=== PT \ Shopping ==================================================================================
-
 <subchannel>
 <name>PT \ Shopping \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/shopping.png</thumbnail>
@@ -4326,8 +4252,6 @@
 
 </subitems>
 </subchannel>
-
-=== PT \ Sports ====================================================================================
 
 <subchannel>
 <name>PT \ Sports \ 5</name>
@@ -4462,9 +4386,7 @@
 </items>
 </channel>
 
-<channel><name>Russian \ 32</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Russian.png</thumbnail><subchannels>=== RU \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Russian \ 32</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Russian.png</thumbnail><subchannels><subchannel>
 <name>RU \ Entertainment \ 21</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -4598,8 +4520,6 @@
 </subitems>
 </subchannel>
 
-=== RU \ Kids ======================================================================================
-
 <subchannel>
 <name>RU \ Kids \ 3</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -4626,8 +4546,6 @@
 </subitems>
 </subchannel>
 
-=== RU \ Music =====================================================================================
-
 <subchannel>
 <name>RU \ Music \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
@@ -4641,8 +4559,6 @@
 
 </subitems>
 </subchannel>
-
-=== RU \ News ======================================================================================
 
 <subchannel>
 <name>RU \ News \ 6</name>
@@ -4688,8 +4604,6 @@
 </subitems>
 </subchannel>
 
-=== RU \ Sports ====================================================================================
-
 <subchannel>
 <name>RU \ Sports \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
@@ -4704,18 +4618,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Select Language... \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
-
-<item>
-<title>   SELECT COUNTRY... \ tvj \ -15h</title>
-<link>http://link.brightcove.com/services/player/bcpid802577099001</link>
-<thumbnail>none</thumbnail>
-</item>
-
-</items>
-</channel>
-
-<channel><name>Serbian \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Serbian.png</thumbnail><items>
+</subchannels></channel><channel><name>Serbian \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Serbian.png</thumbnail><items>
 
 <item>
 <title>+ RS \ art tv</title>
@@ -4814,9 +4717,7 @@
 </items>
 </channel>
 
-<channel><name>Spanish \ 138</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels>=== ES \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Spanish \ 138</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels><subchannel>
 <name>ES \ Entertainment \ 89</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -4858,7 +4759,7 @@
 </subitem>
 
 <subitem>
-<title>+ CL \ Arica TV</title>
+<title>   CL \ Arica TV \ -2h</title>
 <link>mms://wms.digitalproserver.com/aricatv</link>
 <thumbnail>http://thestreamdb.com/images/8gvjcu.jpg</thumbnail>
 </subitem>
@@ -4882,7 +4783,7 @@
 </subitem>
 
 <subitem>
-<title>+ CO \ ABN</title>
+<title>   CO \ ABN \ -2h</title>
 <link>mms://eventos.netpatio.com/avivamiento/avivamiento128b</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abn_co.jpg</thumbnail>
 </subitem>
@@ -4966,7 +4867,7 @@
 </subitem>
 
 <subitem>
-<title>   EC \ Teleamazonas \ -2h</title>
+<title>   EC \ Teleamazonas \ -3h</title>
 <link>rtmp://live9.seeon.tv/edge/7m3hjo18a1fjb3f swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13339/teleamazonas tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://img299.imageshack.us/img299/5838/teleamazonas.jpg</thumbnail>
 </subitem>
@@ -5358,8 +5259,6 @@
 </subitems>
 </subchannel>
 
-=== ES \ Government ================================================================================
-
 <subchannel>
 <name>ES \ Government \ 20</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/government.png</thumbnail>
@@ -5488,8 +5387,6 @@
 </subitems>
 </subchannel>
 
-=== ES \ Kids ======================================================================================
-
 <subchannel>
 <name>ES \ Kids \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -5509,8 +5406,6 @@
 
 </subitems>
 </subchannel>
-
-=== ES \ Music =====================================================================================
 
 <subchannel>
 <name>ES \ Music \ 4</name>
@@ -5543,8 +5438,6 @@
 
 </subitems>
 </subchannel>
-
-=== ES \ News ======================================================================================
 
 <subchannel>
 <name>ES \ News \ 22</name>
@@ -5666,7 +5559,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ EuroNews \ -11h</title>
+<title>   UK \ EuroNews \ -12h</title>
 <link>rtmp://media2.lsops.net/live/ playpath=euronews_es_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </subitem>
@@ -5685,8 +5578,6 @@
 
 </subitems>
 </subchannel>
-
-=== ES \ Sports ====================================================================================
 
 <subchannel>
 <name>ES \ Sports \ 1</name>
@@ -5722,7 +5613,7 @@
 </item>
 
 <item>
-<title>+ PH \ DZRH</title>
+<title>   PH \ DZRH \ -2h</title>
 <link>mms://bayantel-ss.dagupan.com/dzrhvideo</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/05/DZRH_Logo.jpg</thumbnail>
 </item>
@@ -5734,7 +5625,7 @@
 </item>
 
 <item>
-<title>   PH \ Net25 \ -15h</title>
+<title>   PH \ Net25 \ -16h</title>
 <link>http://stream.net-25.com/live2.html</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -5742,9 +5633,7 @@
 </items>
 </channel>
 
-<channel><name>Thai \ 48</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Thai.png</thumbnail><subchannels>=== TH \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Thai \ 48</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Thai.png</thumbnail><subchannels><subchannel>
 <name>TH \ Entertainment \ 36</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -5968,8 +5857,6 @@
 </subitems>
 </subchannel>
 
-=== TH \ Music =====================================================================================
-
 <subchannel>
 <name>TH \ Music \ 3</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
@@ -5995,8 +5882,6 @@
 
 </subitems>
 </subchannel>
-
-=== TH \ News ======================================================================================
 
 <subchannel>
 <name>TH \ News \ 9</name>
@@ -6060,9 +5945,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Turkish \ 53</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Turkish.png</thumbnail><subchannels>=== TR \ Entertainment =============================================================================
-
-<subchannel>
+</subchannels></channel><channel><name>Turkish \ 53</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Turkish.png</thumbnail><subchannels><subchannel>
 <name>TR \ Entertainment \ 41</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -6080,7 +5963,7 @@
 </subitem>
 
 <subitem>
-<title>   TR \ AKILLI Tv \ -23h</title>
+<title>   TR \ AKILLI Tv \ -1d</title>
 <link>rtmp://edge10-3.nar.tv/dvrm/akilli/akilli swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.canli-tv-izle.de/images/akillitv_logo.jpg</thumbnail>
 </subitem>
@@ -6316,8 +6199,6 @@
 </subitems>
 </subchannel>
 
-=== TR \ Government ================================================================================
-
 <subchannel>
 <name>TR \ Government \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/government.png</thumbnail>
@@ -6332,8 +6213,6 @@
 </subitems>
 </subchannel>
 
-=== TR \ Kids ======================================================================================
-
 <subchannel>
 <name>TR \ Kids \ 1</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
@@ -6347,8 +6226,6 @@
 
 </subitems>
 </subchannel>
-
-=== TR \ Music =====================================================================================
 
 <subchannel>
 <name>TR \ Music \ 5</name>
@@ -6388,8 +6265,6 @@
 </subitems>
 </subchannel>
 
-=== TR \ News ======================================================================================
-
 <subchannel>
 <name>TR \ News \ 4</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
@@ -6421,8 +6296,6 @@
 
 </subitems>
 </subchannel>
-
-=== TR \ Sports ====================================================================================
 
 <subchannel>
 <name>TR \ Sports \ 1</name>
@@ -6615,9 +6488,7 @@
 </items>
 </channel>
 
-<channel><name>Vietnamese \ 26</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Vietnamese.png</thumbnail><subchannels>=== VI \ Entertainment =============================================================================
-
-<subchannel>
+<channel><name>Vietnamese \ 26</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Vietnamese.png</thumbnail><subchannels><subchannel>
 <name>VI \ Entertainment \ 24</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -6768,8 +6639,6 @@
 
 </subitems>
 </subchannel>
-
-=== VI \ News ======================================================================================
 
 <subchannel>
 <name>VI \ News \ 2</name>
@@ -6965,7 +6834,7 @@
 </item>
 
 <item>
-<title>   BR \ Rio de Janeiro \ HD \ -1h</title>
+<title>   BR \ Rio de Janeiro \ HD \ -2h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=brazil1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -7169,7 +7038,7 @@
 </item>
 
 <item>
-<title>+ US \ Yellowstone National Park \ HD</title>
+<title>   US \ Yellowstone National Park \ HD \ -1h</title>
 <link>mms://npslivewm.fplive.net/npslive-live/Yellowstone?MSWMExt=.asf</link>
 <thumbnail>http://www.boerner.net/jboerner/wp-content/uploads/2010/03/USNationalParkServiceShadedLogo.svg_.png</thumbnail>
 </item>
@@ -7275,7 +7144,7 @@
 </item>
 
 <item>
-<title>   FR \ NRJ Pop Rock \ -7h</title>
+<title>   FR \ NRJ Pop Rock \ -8h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </item>
@@ -7849,7 +7718,7 @@
 </item>
 
 <item>
-<title>   US \ MLB Network \ -1h</title>
+<title>   US \ MLB Network \ -2h</title>
 <link>rtmp://live38.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=12460&amp;autoplay=true tcUrl=rtmp://live38.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </item>
@@ -7871,13 +7740,7 @@
 <items>
 
 <item>
-<title>   SELECT COUNTRY... \ tvj \ -15h</title>
-<link>http://link.brightcove.com/services/player/bcpid802577099001</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   PH \ Net25 \ -15h</title>
+<title>   PH \ Net25 \ -16h</title>
 <link>http://stream.net-25.com/live2.html</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -8051,7 +7914,7 @@
 </item>
 
 <item>
-<title>   TR \ AKILLI Tv \ -23h</title>
+<title>   TR \ AKILLI Tv \ -1d</title>
 <link>rtmp://edge10-3.nar.tv/dvrm/akilli/akilli swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.canli-tv-izle.de/images/akillitv_logo.jpg</thumbnail>
 </item>
@@ -8170,6 +8033,12 @@
 <thumbnail>http://www.unitymedia.de/programs/large/Logo_samanyolu_gr.png</thumbnail>
 </item>
 
+<item>
+<title>+ AZ \ Ictimai TV</title>
+<link>mms://85.132.78.130:12345</link>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/27541_193058918563_3197_n.jpg</thumbnail>
+</item>
+
 </items>
 </channel>
 
@@ -8185,10 +8054,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 15/06/2011 08:49:10 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 3</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 824</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 224</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 15/06/2011 09:22:41 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 818</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 230</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1048</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
