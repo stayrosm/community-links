@@ -193,7 +193,7 @@
 <channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -7h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -8h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -555,13 +555,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ Animal Planet \ -2h</title>
+<title>+ US \ Animal Planet</title>
 <link>rtmp://live11.seeon.tv/edge/phtzfwm91xprx3n swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11868/Animal_Planet tcUrl=rtmp://live11.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevj.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ A&amp;E \ -2h</title>
+<title>+ US \ A&amp;E</title>
 <link>rtmp://live11.seeon.tv/edge/c6kalwcnuh4lnda swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/1261/pctv1 tcUrl=rtmp://live11.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_us.png</thumbnail>
 </subitem>
@@ -753,7 +753,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ USA Network \ -3h</title>
+<title>+ US \ USA Network</title>
 <link>rtmp://live8.seeon.tv/edge/7va516cu8ra0onl swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11080/USA_Networks tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
 </subitem>
@@ -1211,7 +1211,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ Sky Poker \ -23d</title>
+<title>   UK \ Sky Poker \ -24d</title>
 <link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5nr8.png</thumbnail>
 </subitem>
@@ -1799,13 +1799,13 @@
 </item>
 
 <item>
-<title>   IT \ Italia Channel \ -2h</title>
+<title>+ IT \ Italia Channel</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=italytv1 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdhed.png</thumbnail>
 </item>
 
 <item>
-<title>   IT \ Legend TV \ -2h</title>
+<title>+ IT \ Legend TV</title>
 <link>rtmp://fms.105.net:1935/live/ swfurl=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf playpath=legend1 live=true timeout=60</link>
 <thumbnail>http://affaritaliani.libero.it/static/upl/leg/legend_still-logo.jpg</thumbnail>
 </item>
@@ -1817,13 +1817,13 @@
 </item>
 
 <item>
-<title>   IT \ Radio 105 Network \ -2h</title>
+<title>+ IT \ Radio 105 Network</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=105Test1 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdjka.png</thumbnail>
 </item>
 
 <item>
-<title>   IT \ Radio Montecarlo TV \ -2h</title>
+<title>+ IT \ Radio Montecarlo TV</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=rmc1 live=true timeout=60</link>
 <thumbnail>http://www.radiomontecarlo.net/images/intro/logo.png</thumbnail>
 </item>
@@ -2572,7 +2572,7 @@
 <subitems>
 
 <subitem>
-<title>   KZ \ US Top 40 \ -2h</title>
+<title>+ KZ \ US Top 40</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=charts1 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/top_hits.jpg</thumbnail>
 </subitem>
@@ -2679,7 +2679,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Aragon TV \ -2h</title>
+<title>+ ES \ Aragon TV</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -3188,7 +3188,7 @@
 </subitem>
 
 <subitem>
-<title>+ TH \ true AF MV</title>
+<title>   TH \ true AF MV \ -1h</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_affan_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/freetoair/afmv" live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/th/archive/4/46/20110206050556!TrueAF.jpg</thumbnail>
 </subitem>
@@ -3356,7 +3356,7 @@
 </subitem>
 
 <subitem>
-<title>   TR \ KRT \ -8h</title>
+<title>+ TR \ KRT</title>
 <link>rtmp://win5.yayinda.org/karesitv playpath=karesitv swfUrl=http://www.karesitv.net/modules/mod_jwmedia/player.swf pageUrl=http://www.karesitv.net/ live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Karesi-TV.jpg</thumbnail>
 </subitem>
@@ -3915,7 +3915,7 @@
 </item>
 
 <item>
-<title>   RU \ Moscow \ Skyline \ HD \ -2h</title>
+<title>+ RU \ Moscow \ Skyline \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=moscowHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4141,25 +4141,25 @@
 </item>
 
 <item>
-<title>   IT \ Legend TV \ -2h</title>
+<title>+ IT \ Legend TV</title>
 <link>rtmp://fms.105.net:1935/live/ swfurl=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf playpath=legend1 live=true timeout=60</link>
 <thumbnail>http://affaritaliani.libero.it/static/upl/leg/legend_still-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>   IT \ Radio 105 Network \ -2h</title>
+<title>+ IT \ Radio 105 Network</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=105Test1 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdjka.png</thumbnail>
 </item>
 
 <item>
-<title>   IT \ Radio Montecarlo TV \ -2h</title>
+<title>+ IT \ Radio Montecarlo TV</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=rmc1 live=true timeout=60</link>
 <thumbnail>http://www.radiomontecarlo.net/images/intro/logo.png</thumbnail>
 </item>
 
 <item>
-<title>   KZ \ US Top 40 \ -2h</title>
+<title>+ KZ \ US Top 40</title>
 <link>rtmp://fms.105.net:1935/live swfurl=http://www.freeetv.com/script/mediaplayer/player.swf playpath=charts1 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/top_hits.jpg</thumbnail>
 </item>
@@ -4475,7 +4475,7 @@
 </item>
 
 <item>
-<title>   UK \ Sky Poker \ -23d</title>
+<title>   UK \ Sky Poker \ -24d</title>
 <link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5nr8.png</thumbnail>
 </item>
@@ -4811,10 +4811,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 16/06/2011 04:25:45 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 13</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 820</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 228</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 16/06/2011 04:56:38 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 830</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 218</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1048</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
