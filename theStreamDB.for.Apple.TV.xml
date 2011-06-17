@@ -199,7 +199,7 @@
 <channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -4h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -5h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -549,7 +549,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ TVSCUBA \ -3h</title>
+<title>   UK \ TVSCUBA \ -4h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </subitem>
@@ -805,7 +805,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 3 \ -3h</title>
+<title>   US \ NASA 3 \ -4h</title>
 <link>http://www.nasa.gov/145590main_Digital_Media.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1297,7 +1297,7 @@
 <subitems>
 
 <subitem>
-<title>+ FR \ arte</title>
+<title>   FR \ arte \ -1h</title>
 <link>rtmp://cp108478.live.edgefcs.net/live/ playpath=arte_fr_1_800@45512 swfURL=http://www.wilmaa.com/player/main_v3.316.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg77.png</thumbnail>
 </subitem>
@@ -1531,7 +1531,7 @@
 </subitem>
 
 <subitem>
-<title>+ CH \ SF zwei</title>
+<title>   CH \ SF zwei \ -1h</title>
 <link>rtmp://cp108341.live.edgefcs.net/live playpath=sf2_1_800@43048 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgkq.png</thumbnail>
 </subitem>
@@ -1609,7 +1609,7 @@
 </subitem>
 
 <subitem>
-<title>+ DE \ Kabel Eins</title>
+<title>   DE \ Kabel Eins \ -1h</title>
 <link>rtmp://cp108341.live.edgefcs.net/live playpath=kabel1_1_800@43055 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgkx.png</thumbnail>
 </subitem>
@@ -1663,7 +1663,7 @@
 </subitem>
 
 <subitem>
-<title>+ DE \ Super RTL</title>
+<title>   DE \ Super RTL \ -1h</title>
 <link>rtmp://cp108475.live.edgefcs.net/live/ playpath=superrtl_1_800@44489 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgkw.png</thumbnail>
 </subitem>
@@ -2155,7 +2155,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ AXN \ -2h</title>
+<title>+ PT \ AXN</title>
 <link>rtmp://go.thetvathome.com/estadio54/axn swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.axn.pt/sites/all/themes/spti_axn/images/logo.png</thumbnail>
 </subitem>
@@ -2179,7 +2179,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Fox \ -2h</title>
+<title>+ PT \ Fox</title>
 <link>rtmp://go.thetvathome.com/estadio54/fox swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_pt.png</thumbnail>
 </subitem>
@@ -2197,7 +2197,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Fox:Next \ -2h</title>
+<title>+ PT \ Fox:Next</title>
 <link>rtmp://go.thetvathome.com/estadio54/foxnext swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_next.png</thumbnail>
 </subitem>
@@ -2209,7 +2209,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Odisseia \ -2h</title>
+<title>+ PT \ Odisseia</title>
 <link>rtmp://go.thetvathome.com/estadio54/odisseia swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/odisseia.jpg</thumbnail>
 </subitem>
@@ -2245,7 +2245,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ SyFy \ -2h</title>
+<title>+ PT \ SyFy</title>
 <link>rtmp://go.thetvathome.com/estadio54/syfy swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>nonehttp://thevoiceoftv.com/files/2011/02/syfy.png</thumbnail>
 </subitem>
@@ -2257,7 +2257,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ TVi 24 \ -2h</title>
+<title>+ PT \ TVi 24</title>
 <link>rtmp://go.thetvathome.com/estadio54/tvi24 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.jpg</thumbnail>
 </subitem>
@@ -2301,7 +2301,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Disney Channel \ -2h</title>
+<title>+ PT \ Disney Channel</title>
 <link>rtmp://go.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
 </subitem>
@@ -2685,7 +2685,7 @@
 </subitem>
 
 <subitem>
-<title>+ ES \ Aragon TV</title>
+<title>   ES \ Aragon TV \ -1h</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -2715,7 +2715,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ El 33 \ -2h</title>
+<title>+ ES \ El 33</title>
 <link>rtmp://33d.directe-f4v.emissio.tvcatalunya.cat/live/ playpath=33D_FLV@13067 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://diamundialpoesia.files.wordpress.com/2011/03/el33_logo2001.png</thumbnail>
 </subitem>
@@ -3049,7 +3049,7 @@
 <subitems>
 
 <subitem>
-<title>+ US \ ESPN Deportes</title>
+<title>   US \ ESPN Deportes \ -1h</title>
 <link>rtmp://live1.seeon.tv/edge/ber6l3limfxpxsc swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12328/ESPNDeportes tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_deportes.png</thumbnail>
 </subitem>
@@ -3803,7 +3803,7 @@
 </item>
 
 <item>
-<title>   PT \ Disney Channel \ -2h</title>
+<title>+ PT \ Disney Channel</title>
 <link>rtmp://go.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
 </item>
@@ -4529,7 +4529,7 @@
 </item>
 
 <item>
-<title>+ US \ ESPN Deportes</title>
+<title>   US \ ESPN Deportes \ -1h</title>
 <link>rtmp://live1.seeon.tv/edge/ber6l3limfxpxsc swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12328/ESPNDeportes tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_deportes.png</thumbnail>
 </item>
@@ -4817,10 +4817,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 17/06/2011 01:28:47 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 17/06/2011 01:59:41 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 795</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 253</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 797</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 251</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1048</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
