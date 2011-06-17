@@ -793,7 +793,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 3 \ -11h</title>
+<title>   US \ NASA 3 \ -12h</title>
 <link>http://www.nasa.gov/145590main_Digital_Media.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1125,7 +1125,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ JML Direct \ -37d</title>
+<title>   UK \ JML Direct \ -38d</title>
 <link>rtmp://lbw.flash.streamuk.com/livestream/jmldirect playpath=mp4:jmldirect swfUrl="http://www.jmldirect.tv/_assets/flowplayer/flowplayer-3.2.5.swf?0.1968134951312095" pageUrl="http://www.jmldirect.tv/" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqtry.png</thumbnail>
 </subitem>
@@ -1949,7 +1949,7 @@
 </item>
 
 <item>
-<title>+ PL \ Comedy Central</title>
+<title>   PL \ Comedy Central \ -1h</title>
 <link>rtmp://app.weeb.tv/live/ playpath=21 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jn.png</thumbnail>
 </item>
@@ -1985,13 +1985,13 @@
 </item>
 
 <item>
-<title>+ PL \ TVP 1</title>
+<title>   PL \ TVP 1 \ -1h</title>
 <link>rtmp://app.weeb.tv/live/ playpath=13 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jh.png</thumbnail>
 </item>
 
 <item>
-<title>+ PL \ TVP 2</title>
+<title>   PL \ TVP 2 \ -1h</title>
 <link>rtmp://app.weeb.tv/live/ playpath=6 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ghefy.png</thumbnail>
 </item>
@@ -2608,24 +2608,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Select Language... \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
-
-<item>
-<title>   CN \ livestream \ -3h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   SELECT COUNTRY... \  \ -3h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-</items>
-</channel>
-
-<channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
+</subchannels></channel><channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
 
 <item>
 <title>+ SK \ musiq1</title>
@@ -2690,7 +2673,7 @@
 </subitem>
 
 <subitem>
-<title>+ ES \ Aragon TV</title>
+<title>   ES \ Aragon TV \ -1h</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -2774,7 +2757,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Tele Magik \ -8h</title>
+<title>   ES \ Tele Magik \ -9h</title>
 <link>http://www.telepuertovirtual2.tv/telemagik</link>
 <thumbnail>http://www.elultimodeseo.com/es/images/tele-magik.jpg</thumbnail>
 </subitem>
@@ -2810,7 +2793,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ TV Galicia Europa \ -2h</title>
+<title>+ ES \ TV Galicia Europa</title>
 <link>rtmp://media1.crtvg.es/live/tvge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_galicia.jpg</thumbnail>
 </subitem>
@@ -3520,7 +3503,7 @@
 </item>
 
 <item>
-<title>   UA \ MTV \ -6h</title>
+<title>   UA \ MTV \ -7h</title>
 <link>http://tv.x-lan.net.ua:8015/mtvu</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gnfjn.png</thumbnail>
 </item>
@@ -4284,7 +4267,7 @@
 </item>
 
 <item>
-<title>   UA \ MTV \ -6h</title>
+<title>   UA \ MTV \ -7h</title>
 <link>http://tv.x-lan.net.ua:8015/mtvu</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gnfjn.png</thumbnail>
 </item>
@@ -4580,18 +4563,6 @@
 <items>
 
 <item>
-<title>   SELECT COUNTRY... \  \ -3h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   CN \ livestream \ -3h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
 <title>   PH \ Net25 \ -3d</title>
 <link>http://stream.net-25.com/live2.html</link>
 <thumbnail>none</thumbnail>
@@ -4813,6 +4784,12 @@
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=94a8cbded243035cde411f283ca7904a&amp;w=180&amp;h=540&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fd%2Fd3%2FCine5_logo.png</thumbnail>
 </item>
 
+<item>
+<title>+ TR \ SAMANYOLU AVRUPA \ ®</title>
+<link>rtmp://edge8-3.nar.tv/dvrm/samanyolu/samanyolu swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.unitymedia.de/programs/large/Logo_samanyolu_gr.png</thumbnail>
+</item>
+
 </items>
 </channel>
 
@@ -4828,11 +4805,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 17/06/2011 09:15:27 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 30</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 805</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 245</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1050</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 17/06/2011 09:46:27 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 6</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 802</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 244</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1046</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
