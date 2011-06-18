@@ -193,7 +193,7 @@
 <channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -4h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -5h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -555,7 +555,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Animal Planet \ -2h</title>
+<title>+ US \ Animal Planet</title>
 <link>rtmp://live11.seeon.tv/edge/phtzfwm91xprx3n swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11868/Animal_Planet tcUrl=rtmp://live11.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevj.png</thumbnail>
 </subitem>
@@ -657,7 +657,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Movies 4</title>
+<title>   US \ Movies 4 \ -1h</title>
 <link>rtmp://live8.seeon.tv/edge/pux80xz10a3ltdq swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14036/The_HD_movie_channel_2 tcUrl=rtmp://live8.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2shq.png</thumbnail>
 </subitem>
@@ -717,7 +717,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ the CW \ -5d</title>
+<title>+ US \ the CW</title>
 <link>rtmp://live9.seeon.tv/edge/0pa79xxu0eu530q swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/3968/CW_LIVE tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.observer.com/files/full/CW_logo_color.jpg</thumbnail>
 </subitem>
@@ -753,7 +753,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ USA Network \ -2h</title>
+<title>+ US \ USA Network</title>
 <link>rtmp://live8.seeon.tv/edge/7va516cu8ra0onl swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11080/USA_Networks tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
 </subitem>
@@ -1107,7 +1107,7 @@
 </subitem>
 
 <subitem>
-<title>+ UK \ Gems TV Extra</title>
+<title>   UK \ Gems TV Extra \ -1h</title>
 <link>rtmp://rad-wowza-tc.sharp-stream.com/rocks-lo-tv playpath=rocks-lo-tv swfUrl="http://www.gems.tv/Extra/Scripts/player.swf" pageUrl="http://www.gems.tv/Extra/auction.aspx" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ghm9d.png</thumbnail>
 </subitem>
@@ -1909,7 +1909,7 @@
 <channel><name>Norwegian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Norwegian.png</thumbnail><items>
 
 <item>
-<title>   NO \ NRK Rogaland 24 \ -1h</title>
+<title>   NO \ NRK Rogaland 24 \ -2h</title>
 <link>rtsp://straumV.nrk.no/nrk_tv_rogaland_247_mbr</link>
 <thumbnail>http://sykepleiervakta.no/wp-content/uploads/2010/12/nrk-logo.jpg</thumbnail>
 </item>
@@ -2029,7 +2029,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ Cultura \ -2h</title>
+<title>+ BR \ Cultura</title>
 <link>rtmp://200.136.27.12/live/tv swfUrl=http://www.tamoligado.net/player/player.swf pageUrl=http://tvdedegraca-i.blogspot.com/2010/06/tv-cultura.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cultura_sao_paulo.png</thumbnail>
 </subitem>
@@ -3509,7 +3509,7 @@
 </item>
 
 <item>
-<title>   UA \ MTV \ -22h</title>
+<title>   UA \ MTV \ -23h</title>
 <link>http://tv.x-lan.net.ua:8015/mtvu</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gnfjn.png</thumbnail>
 </item>
@@ -3975,7 +3975,7 @@
 </item>
 
 <item>
-<title>   US \ Miami \ Biscayne Beach \ HD \ -2h</title>
+<title>+ US \ Miami \ Biscayne Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd4.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4273,7 +4273,7 @@
 </item>
 
 <item>
-<title>   UA \ MTV \ -22h</title>
+<title>   UA \ MTV \ -23h</title>
 <link>http://tv.x-lan.net.ua:8015/mtvu</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gnfjn.png</thumbnail>
 </item>
@@ -4811,10 +4811,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 18/06/2011 01:27:17 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 18/06/2011 01:58:23 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 818</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 228</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 821</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 225</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1046</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
