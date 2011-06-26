@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 16</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 15</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -34,7 +34,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 11</name>
+<name>AR \ News \ 10</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -54,12 +54,6 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   IQ \ البغدادية</title>
-<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -620,7 +614,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ BET \ -16h</title>
+<title>   US \ BET \ -17h</title>
 <link>rtmp://live11.seeon.tv/edge/edtxg0lnu267fb7 swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12958/Black_Entertainment_Network tcUrl=rtmp://live11.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqrvj.png</thumbnail>
 </subitem>
@@ -644,7 +638,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Discovery Channel \ -20h</title>
+<title>   US \ Discovery Channel \ -21h</title>
 <link>rtmp://live7.seeon.tv/edge/z78vu2irprzsvix swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/117/ tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevk.png</thumbnail>
 </subitem>
@@ -722,7 +716,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ National Geographic \ -20h</title>
+<title>   US \ National Geographic \ -21h</title>
 <link>rtmp://live7.seeon.tv/edge/2hfoqaynv5zu706 swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/118/National_Geo tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqrxk.png</thumbnail>
 </subitem>
@@ -770,7 +764,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ the CW \ -8h</title>
+<title>   US \ the CW \ -9h</title>
 <link>rtmp://live9.seeon.tv/edge/0pa79xxu0eu530q swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/3968/CW_LIVE tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.observer.com/files/full/CW_logo_color.jpg</thumbnail>
 </subitem>
@@ -1050,7 +1044,7 @@
 </subitem>
 
 <subitem>
-<title>+ IR \ Press TV</title>
+<title>   IR \ Press TV \ -2h</title>
 <link>http://wms.edgecastcdn.net/200216/ipresstv?MSWMExt=.asf</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdflr.png</thumbnail>
 </subitem>
@@ -1650,7 +1644,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -2h</title>
+<title>   DE \ HR \ -3h</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -1841,7 +1835,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -1h</title>
+<title>   IS \ Alþingi \ -2h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -2732,7 +2726,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Antena 3 \ -1h</title>
+<title>   ES \ Antena 3 \ -2h</title>
 <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-antena3 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3.png</thumbnail>
 </subitem>
@@ -2780,7 +2774,7 @@
 </subitem>
 
 <subitem>
-<title>+ ES \ Ojos Solidarios</title>
+<title>   ES \ Ojos Solidarios \ -2h</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -2888,7 +2882,7 @@
 </subitem>
 
 <subitem>
-<title>   PE \ Frecuencia Latina \ -16h</title>
+<title>   PE \ Frecuencia Latina \ -17h</title>
 <link>rtmp://live35.seeon.tv/edge/1wz1rflfp6bsf8g swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=590&amp;height=450&amp;channel=3468&amp;autoplay=true tcUrl=rtmp://live35.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/frecuencia_latina.png</thumbnail>
 </subitem>
@@ -3060,7 +3054,7 @@
 <subitems>
 
 <subitem>
-<title>   US \ ESPN Deportes \ -21h</title>
+<title>   US \ ESPN Deportes \ -22h</title>
 <link>rtmp://live1.seeon.tv/edge/ber6l3limfxpxsc swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12328/ESPNDeportes tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_deportes.png</thumbnail>
 </subitem>
@@ -3071,7 +3065,7 @@
 </subchannels></channel><channel><name>Tagalog \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Tagalog.png</thumbnail><items>
 
 <item>
-<title>   PH \ GMA \ -4h</title>
+<title>   PH \ GMA \ -5h</title>
 <link>rtmp://live5.seeon.tv/edge/6drb2o0ejvfksad swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/9024/GMA_7 tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1000px-GMA_Network_Logo_Vector.svg.png</thumbnail>
 </item>
@@ -3526,7 +3520,7 @@
 </item>
 
 <item>
-<title>   UA \ Star TV \ -34d</title>
+<title>   UA \ Star TV \ -35d</title>
 <link>http://77.222.135.42/startv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg</thumbnail>
 </item>
@@ -4534,7 +4528,7 @@
 </item>
 
 <item>
-<title>   US \ ESPN Deportes \ -21h</title>
+<title>   US \ ESPN Deportes \ -22h</title>
 <link>rtmp://live1.seeon.tv/edge/ber6l3limfxpxsc swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12328/ESPNDeportes tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_deportes.png</thumbnail>
 </item>
@@ -4658,7 +4652,7 @@
 </item>
 
 <item>
-<title>   PE \ Frecuencia Latina \ -16h</title>
+<title>   PE \ Frecuencia Latina \ -17h</title>
 <link>rtmp://live35.seeon.tv/edge/1wz1rflfp6bsf8g swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=590&amp;height=450&amp;channel=3468&amp;autoplay=true tcUrl=rtmp://live35.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/frecuencia_latina.png</thumbnail>
 </item>
@@ -4828,10 +4822,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 26/06/2011 20:58:51 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 26/06/2011 21:59:50 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 828</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 220</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 819</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 229</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1048</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
