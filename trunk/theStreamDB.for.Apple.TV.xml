@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 17</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 15</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -34,7 +34,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 12</name>
+<name>AR \ News \ 10</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -54,18 +54,6 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   IQ \ البغدادية</title>
-<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   IR \ قناة العالم الاخبارية</title>
-<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -252,7 +240,7 @@
 <channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -2h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -3h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -358,7 +346,7 @@
 </item>
 
 <item>
-<title>   DK \ The Voice \ -8h</title>
+<title>   DK \ The Voice \ -9h</title>
 <link>rtsp://62.41.56.32/PUBLIC_votv_fi</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2r3w.png</thumbnail>
 </item>
@@ -452,7 +440,7 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Nickelodeon \ -14d</title>
+<title>   NL \ Nickelodeon \ -15d</title>
 <link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
 <thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
 </subitem>
@@ -1056,7 +1044,7 @@
 </subitem>
 
 <subitem>
-<title>   IR \ Press TV \ -2h</title>
+<title>+ IR \ Press TV</title>
 <link>http://wms.edgecastcdn.net/200216/ipresstv?MSWMExt=.asf</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdflr.png</thumbnail>
 </subitem>
@@ -1422,7 +1410,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ KTO \ -1h</title>
+<title>   FR \ KTO \ -2h</title>
 <link>rtmp://cp99495.live.edgefcs.net/live playpath=Flash_live_KTO_TV@27823 swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#kto swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfx.png</thumbnail>
 </subitem>
@@ -1484,31 +1472,31 @@
 <subitems>
 
 <subitem>
-<title>   FR \ NRJ Dance \ -1h</title>
+<title>   FR \ NRJ Dance \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Paris \ -1h</title>
+<title>   FR \ NRJ Paris \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Pop Rock \ -1h</title>
+<title>   FR \ NRJ Pop Rock \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Pure \ -1h</title>
+<title>   FR \ NRJ Pure \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Urban \ -1h</title>
+<title>   FR \ NRJ Urban \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </subitem>
@@ -1656,7 +1644,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -1h</title>
+<title>+ DE \ HR</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -1782,7 +1770,7 @@
 <subitems>
 
 <subitem>
-<title>+ DE \ DW-TV</title>
+<title>   DE \ DW-TV \ -1h</title>
 <link>rtmpt://c13010-ls.f.core.cdn.streamfarm.net/dwworldlive-live/13010dwtveu1024/ playpath=13010dwtveu1024.flv swfUrl=http://mediacenter.dw-world.de/player/flash/mediaplayer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dw_tv.png</thumbnail>
 </subitem>
@@ -1847,7 +1835,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>+ IS \ Alþingi</title>
+<title>   IS \ Alþingi \ -1h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -1974,7 +1962,7 @@
 <channel><name>Norwegian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Norwegian.png</thumbnail><items>
 
 <item>
-<title>   NO \ NRK Rogaland 24 \ -2h</title>
+<title>   NO \ NRK Rogaland 24 \ -3h</title>
 <link>rtsp://straumV.nrk.no/nrk_tv_rogaland_247_mbr</link>
 <thumbnail>http://sykepleiervakta.no/wp-content/uploads/2010/12/nrk-logo.jpg</thumbnail>
 </item>
@@ -2517,7 +2505,7 @@
 </item>
 
 <item>
-<title>   RO \ TVR International \ -2d</title>
+<title>   RO \ TVR International \ -3d</title>
 <link>http://tvr.ro/live_tvri.php</link>
 <thumbnail>http://tvr.ro/images/tvri_live.jpg</thumbnail>
 </item>
@@ -2750,7 +2738,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Aragon TV \ -4h</title>
+<title>   ES \ Aragon TV \ -5h</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -2906,7 +2894,7 @@
 </subitem>
 
 <subitem>
-<title>+ UY \ MISIÓN VIDA TV</title>
+<title>   UY \ MISIÓN VIDA TV \ -1h</title>
 <link>rtmp://cdnc.unored.com/zoetv playpath=str.sdp swfUrl="http://www.unored.com/streams/flash/jwplayer54/player.swf" pageUrl="http://www.unored.com/streams/flash/zoetvsrc.html" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.enlace.org/imgs/progra_misionVida_on.jpg</thumbnail>
 </subitem>
@@ -3343,7 +3331,7 @@
 </subitem>
 
 <subitem>
-<title>   TR \ Hayat TV \ -38d</title>
+<title>   TR \ Hayat TV \ -39d</title>
 <link>rtsp://yayin.canlitv.com/hayattv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hayat_tv.png</thumbnail>
 </subitem>
@@ -3373,7 +3361,7 @@
 </subitem>
 
 <subitem>
-<title>   TR \ KRT \ -2h</title>
+<title>   TR \ KRT \ -3h</title>
 <link>rtmp://win5.yayinda.org/karesitv playpath=karesitv swfUrl=http://www.karesitv.net/modules/mod_jwmedia/player.swf pageUrl=http://www.karesitv.net/ live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Karesi-TV.jpg</thumbnail>
 </subitem>
@@ -3808,7 +3796,7 @@
 </item>
 
 <item>
-<title>   NL \ Nickelodeon \ -14d</title>
+<title>   NL \ Nickelodeon \ -15d</title>
 <link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
 <thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
 </item>
@@ -4116,37 +4104,37 @@
 </item>
 
 <item>
-<title>   DK \ The Voice \ -8h</title>
+<title>   DK \ The Voice \ -9h</title>
 <link>rtsp://62.41.56.32/PUBLIC_votv_fi</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2r3w.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Dance \ -1h</title>
+<title>   FR \ NRJ Dance \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Paris \ -1h</title>
+<title>   FR \ NRJ Paris \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Pop Rock \ -1h</title>
+<title>   FR \ NRJ Pop Rock \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Pure \ -1h</title>
+<title>   FR \ NRJ Pure \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Urban \ -1h</title>
+<title>   FR \ NRJ Urban \ -2h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </item>
@@ -4586,7 +4574,7 @@
 <items>
 
 <item>
-<title>   RO \ TVR International \ -2d</title>
+<title>   RO \ TVR International \ -3d</title>
 <link>http://tvr.ro/live_tvri.php</link>
 <thumbnail>http://tvr.ro/images/tvri_live.jpg</thumbnail>
 </item>
@@ -4670,7 +4658,7 @@
 </item>
 
 <item>
-<title>+ UY \ MISIÓN VIDA TV</title>
+<title>   UY \ MISIÓN VIDA TV \ -1h</title>
 <link>rtmp://cdnc.unored.com/zoetv playpath=str.sdp swfUrl="http://www.unored.com/streams/flash/jwplayer54/player.swf" pageUrl="http://www.unored.com/streams/flash/zoetvsrc.html" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.enlace.org/imgs/progra_misionVida_on.jpg</thumbnail>
 </item>
@@ -4834,10 +4822,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 27/06/2011 22:52:36 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 17</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 819</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 229</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 27/06/2011 23:54:39 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 42</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 820</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 228</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1048</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
