@@ -827,19 +827,19 @@
 </subitem>
 
 <subitem>
-<title>   CN \ 江西电视台 4 影视频道 \ -3h</title>
+<title>   CN \ 江西电视台 4 影视频道 \ -4h</title>
 <link>mms://tv.jxgdw.com/jxtv4</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8hna4u.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   CN \ 江西电视台 5 公共频道 \ -3h</title>
+<title>   CN \ 江西电视台 5 公共频道 \ -4h</title>
 <link>mms://tv.jxgdw.com/jxtv5</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8hna4u.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   CN \ 江西电视台 6 六套 \ -3h</title>
+<title>   CN \ 江西电视台 6 六套 \ -4h</title>
 <link>mms://tv.jxgdw.com/jxtv6</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8hna4u.jpg</thumbnail>
 </subitem>
@@ -2853,7 +2853,7 @@
 </subitem>
 
 <subitem>
-<title>+ DE \ HR</title>
+<title>   DE \ HR \ -1h</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -3896,7 +3896,7 @@
 </item>
 
 <item>
-<title>   PL \ TV Trwam \ -19d</title>
+<title>   PL \ TV Trwam \ -20d</title>
 <link>=mms://195.94.205.211/Trwam</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4244,7 +4244,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ Disney \ -3h</title>
+<title>+ BR \ Disney</title>
 <link>rtmp://go.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
 </subitem>
@@ -5698,7 +5698,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ DARA Channel \ -3h</title>
+<title>+ TH \ DARA Channel</title>
 <link>rtmp://wzstream8.truelife.com/live playpath=stv_darachannel_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/darach" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dara_channel.jpg</thumbnail>
 </subitem>
@@ -5752,7 +5752,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ Mango TV \ -1h</title>
+<title>+ TH \ Mango TV</title>
 <link>rtmp://wzstream8.truelife.com/live playpath=stv_mangotv_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/mangotv" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mango_tv_th.png</thumbnail>
 </subitem>
@@ -5788,8 +5788,8 @@
 </subitem>
 
 <subitem>
-<title>   TH \ NBT \ -1h</title>
-<link>rtmp://wzstream3.truelife.com/live playpath=ftv_ch11_hd?wmcontentbitrate=&amp;referer=tv&amp;channel=jw_basicplayer&amp;scope=tv&amp;cp=TRUE&amp;contentgroup=live&amp;ext=py_tn swfUrl=http://www.tnnthailand.com/live/player/mediaplayer3_16.swf <pageUrl>http://www.thaitvnow.com/tv/data/13-40-37-24-06-2011.php live=true timeout=60</link>
+<title>+ TH \ NBT</title>
+<link>rtmp://wzstream3.truelife.com/live playpath=ftv_ch11_hd?wmcontentbitrate=&amp;referer=tv&amp;channel=jw_basicplayer&amp;scope=tv&amp;cp=TRUE&amp;contentgroup=live&amp;ext=py_tn swfUrl=http://www.tnnthailand.com/live/player/mediaplayer3_16.swf pageUrl=http://www.thaitvnow.com/tv/data/13-40-37-24-06-2011.php live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gr9ak.jpg</thumbnail>
 </subitem>
 
@@ -5886,7 +5886,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ T Channel \ -17h</title>
+<title>+ TH \ T Channel</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_tchannel_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/thaithai" live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8grcc4.jpg</thumbnail>
 </subitem>
@@ -5948,7 +5948,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ TNN 2 \ -1h</title>
+<title>+ TH \ TNN 2</title>
 <link>rtmp://mobistream1.truelife.com/live playpath=ftv_tnn2_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/freetoair/tnn2" live=true timeout=60</link>
 <thumbnail>http://www.thaiasianlife.com/img/cust/home/tnn-logo.gif</thumbnail>
 </subitem>
@@ -6703,7 +6703,7 @@
 </item>
 
 <item>
-<title>   BR \ Disney \ -3h</title>
+<title>+ BR \ Disney</title>
 <link>rtmp://go.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
 </item>
@@ -7341,7 +7341,7 @@
 </item>
 
 <item>
-<title>   TH \ T Channel \ -17h</title>
+<title>+ TH \ T Channel</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_tchannel_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/thaithai" live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8grcc4.jpg</thumbnail>
 </item>
@@ -8071,10 +8071,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 02/07/2011 15:35:58 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 36</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 795</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 255</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 02/07/2011 15:44:07 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 800</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 250</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1050</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
