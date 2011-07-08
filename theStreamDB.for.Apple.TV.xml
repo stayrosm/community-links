@@ -287,7 +287,7 @@
 </item>
 
 <item>
-<title>   CZ \ Nova TV \ -53d</title>
+<title>   CZ \ Nova TV \ -54d</title>
 <link>http://79.127.143.125:8080/nova</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gvsj4.png</thumbnail>
 </item>
@@ -299,7 +299,7 @@
 </item>
 
 <item>
-<title>   CZ \ Public TV \ -37d</title>
+<title>   CZ \ Public TV \ -38d</title>
 <link>http://79.127.143.125:8081/public</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/public_tv.png</thumbnail>
 </item>
@@ -584,7 +584,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ PASSION \ -2d</title>
+<title>   UK \ PASSION \ -3d</title>
 <link>rtsp://195.90.118.93/passionplanet_1</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgr4.png</thumbnail>
 </subitem>
@@ -2058,7 +2058,7 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 57</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<channel><name>Portuguese \ 60</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
 <name>PT \ Entertainment \ 40</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -2399,9 +2399,21 @@
 </subchannel>
 
 <subchannel>
-<name>PT \ Sports \ 7</name>
+<name>PT \ Sports \ 10</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   BR \ BAND SPORTS \ -1h</title>
+<link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
+<thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ COMBATE \ -1h</title>
+<link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
+<thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ BR \ ESPN BRASIL</title>
@@ -2419,6 +2431,12 @@
 <title>+ BR \ E+I</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/ei.flv swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ei2.html live=true timeout=60</link>
 <thumbnail>http://www.depositosdearquivos.net/imagens/tvs/Esporte%20Interativo.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ PFC \ -1h</title>
+<link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
+<thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -2685,18 +2703,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Select Language... \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
-
-<item>
-<title>   SELECT COUNTRY... \ Light of Hope \ -4d</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-</items>
-</channel>
-
-<channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
+</subchannels></channel><channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
 
 <item>
 <title>+ SK \ musiq1</title>
@@ -2707,8 +2714,8 @@
 </items>
 </channel>
 
-<channel><name>Spanish \ 56</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels><subchannel>
-<name>ES \ Entertainment \ 37</name>
+<channel><name>Spanish \ 55</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels><subchannel>
+<name>ES \ Entertainment \ 36</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2728,12 +2735,6 @@
 <title>+ EC \ Teleamazonas</title>
 <link>rtmp://live9.seeon.tv/edge/7m3hjo18a1fjb3f swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13339/teleamazonas tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://img299.imageshack.us/img299/5838/teleamazonas.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   ES \  \ -19h</title>
-<link></link>
-<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -3174,7 +3175,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ Mango TV \ -2d</title>
+<title>   TH \ Mango TV \ -3d</title>
 <link>rtmp://wzstream8.truelife.com/live playpath=stv_mangotv_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/mangotv" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mango_tv_th.png</thumbnail>
 </subitem>
@@ -4360,7 +4361,7 @@
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 52</name>
+<name>All Sports \ 55</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -4374,6 +4375,18 @@
 <title>+ AZ \ iDMAN Tv \ ®</title>
 <link>rtmp://origin5.nar.tv/dvrm/idmanaz/idmanaz swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://2.bp.blogspot.com/_X0E6U_UUb54/S45kiBDFrJI/AAAAAAAAA1w/eiMgnRXAKv0/s320/%C4%B0dman+Tv+T%C3%BCm+Uydu+Al%C4%B1c%C4%B1lar%C4%B1+%C4%B0%C3%A7in+Biss+Key+%C5%9Eifreleri+(Azeri+Kanal%C4%B1).jpg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ BAND SPORTS \ -1h</title>
+<link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
+<thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ COMBATE \ -1h</title>
+<link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
+<thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -4392,6 +4405,12 @@
 <title>+ BR \ E+I</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/ei.flv swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ei2.html live=true timeout=60</link>
 <thumbnail>http://www.depositosdearquivos.net/imagens/tvs/Esporte%20Interativo.jpg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ PFC \ -1h</title>
+<link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
+<thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </item>
 
 <item>
@@ -4609,15 +4628,21 @@
 <items>
 
 <item>
-<title>   ES \  \ -19h</title>
-<link></link>
-<thumbnail>none</thumbnail>
+<title>   BR \ PFC \ -1h</title>
+<link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
+<thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \ Light of Hope \ -4d</title>
-<link></link>
-<thumbnail>none</thumbnail>
+<title>   BR \ BAND SPORTS \ -1h</title>
+<link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
+<thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ COMBATE \ -1h</title>
+<link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
+<thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -4836,12 +4861,6 @@
 <thumbnail>http://www.soccerkolik.com/wp-content/uploads/2011/04/kanalturk.jpg</thumbnail>
 </item>
 
-<item>
-<title>+ TR \ BEYAZ Tv \ ®</title>
-<link>rtmp://edge10-3.nar.tv/dvrm/beyaz/beyaz swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/tr/d/d9/Beyaz_tv.jpg</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -4857,7 +4876,7 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 08/07/2011 07:32:54 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 08/07/2011 08:50:30 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 836</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams unconfirmed: 219</title><link>none</link><thumbnail>none</thumbnail></item>
