@@ -737,8 +737,8 @@
 </items>
 </channel>
 
-<channel><name>Chinese \ 33</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
-<name>ZH \ Entertainment \ 30</name>
+<channel><name>Chinese \ 35</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
+<name>ZH \ Entertainment \ 32</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -905,7 +905,19 @@
 </subitem>
 
 <subitem>
-<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -8h</title>
+<title>   CN \ 南昌一套新闻频道 \ -0h</title>
+<link>mms://live1.ncnews.com.cn/nctv1</link>
+<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   CN \ 南昌三套资讯频道 \ -0h</title>
+<link>mms://live2.ncnews.com.cn/nctv3</link>
+<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -9h</title>
 <link>mms://4.71.37.8/atv-200</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/81/Asia_Television_Limited.png</thumbnail>
 </subitem>
@@ -917,7 +929,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ 31.8 銀視數碼台 Los Angeles free-to-air network \ -1h</title>
+<title>   US \ 31.8 銀視數碼台 Los Angeles free-to-air network \ -2h</title>
 <link>mms://4.71.37.8/tctv-200</link>
 <thumbnail>http://www.wcetvdigital.com/images/logo.jpg</thumbnail>
 </subitem>
@@ -931,7 +943,7 @@
 <subitems>
 
 <subitem>
-<title>   CN \ CCTV 13 新闻 News.strm \ -1h</title>
+<title>   CN \ CCTV 13 新闻 News.strm \ -2h</title>
 <link>mms://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctvnews</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/72/China_Central_TV-13.png</thumbnail>
 </subitem>
@@ -986,7 +998,7 @@
 </item>
 
 <item>
-<title>   HR \ Televizija Jadran \ -8d</title>
+<title>   HR \ Televizija Jadran \ -9d</title>
 <link>mms://88.198.161.70:8011/tvj</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/TV-Jadran.jpg</thumbnail>
 </item>
@@ -1648,7 +1660,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ TNT \ -9d</title>
+<title>   US \ TNT \ -10d</title>
 <link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=082F3TNT0USTVNOW1 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevd.png</thumbnail>
 </subitem>
@@ -2328,7 +2340,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ ESPN 2 \ -38d</title>
+<title>   US \ ESPN 2 \ -39d</title>
 <link>rtmp://live24.seeon.tv/edge/7y8fin0u760cfrl app=edge pageUrl=http://www.seeon.tv/embedplayer.php?width=550&amp;height=400&amp;channel=11766&amp;autoplay=true swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf tcUrl=rtmp://live24.seeon.tv/edge playPath=7y8fin0u760cfrl swfvfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn2.png</thumbnail>
 </subitem>
@@ -2352,7 +2364,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ MLB Network \ -9d</title>
+<title>   US \ MLB Network \ -10d</title>
 <link>rtmp://live38.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=12460&amp;autoplay=true tcUrl=rtmp://live38.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </subitem>
@@ -2486,7 +2498,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ R. King TV \ -26d</title>
+<title>   FR \ R. King TV \ -27d</title>
 <link>http://www.tv14.net/wp-content/uploads/2010/06/R.-King-TV.jpg</link>
 <thumbnail>mms://rkingtv.diffusepro.com/rkingtv</thumbnail>
 </subitem>
@@ -3615,7 +3627,7 @@
 </item>
 
 <item>
-<title>   KR \ 울산문화방송 \ -26d</title>
+<title>   KR \ 울산문화방송 \ -27d</title>
 <link>mms://onair.usmbc.co.kr/KKangTV</link>
 <thumbnail>http://www.ulsanmbc.co.kr/mbc_2011/images/logo.gif</thumbnail>
 </item>
@@ -4731,7 +4743,18 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Serbian \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Serbian.png</thumbnail><items>
+</subchannels></channel><channel><name>Select Language... \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
+
+<item>
+<title>   SELECT COUNTRY... \ 南昌二套都市频道 \ -0h</title>
+<link>mms://live1.ncnews.com.cn/nctv2</link>
+<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel><name>Serbian \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Serbian.png</thumbnail><items>
 
 <item>
 <title>+ RS \ art tv</title>
@@ -4804,7 +4827,7 @@
 </item>
 
 <item>
-<title>   SK \ TV Bratislava \ -26d</title>
+<title>   SK \ TV Bratislava \ -27d</title>
 <link>mms://81.89.49.210/tvbalive</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -5740,7 +5763,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ Click Asia \ -8d</title>
+<title>   TH \ Click Asia \ -9d</title>
 <link>mms://streaming.livetv.co.th/LiveTV6</link>
 <thumbnail>http://thestreamdb.com/images/8grchg.jpg</thumbnail>
 </subitem>
@@ -5818,7 +5841,7 @@
 </subitem>
 
 <subitem>
-<title>   TH \ Movie Plus \ -8d</title>
+<title>   TH \ Movie Plus \ -9d</title>
 <link>mms://streaming.livetv.co.th/LiveTVB-MOVIEPLUS</link>
 <thumbnail>http://www.clipsall.com/tv/img/MOVIE-LIVE.jpg</thumbnail>
 </subitem>
@@ -7783,7 +7806,7 @@
 </item>
 
 <item>
-<title>   US \ ESPN 2 \ -38d</title>
+<title>   US \ ESPN 2 \ -39d</title>
 <link>rtmp://live24.seeon.tv/edge/7y8fin0u760cfrl app=edge pageUrl=http://www.seeon.tv/embedplayer.php?width=550&amp;height=400&amp;channel=11766&amp;autoplay=true swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf tcUrl=rtmp://live24.seeon.tv/edge playPath=7y8fin0u760cfrl swfvfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn2.png</thumbnail>
 </item>
@@ -7813,7 +7836,7 @@
 </item>
 
 <item>
-<title>   US \ MLB Network \ -9d</title>
+<title>   US \ MLB Network \ -10d</title>
 <link>rtmp://live38.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=12460&amp;autoplay=true tcUrl=rtmp://live38.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </item>
@@ -7835,19 +7858,37 @@
 <items>
 
 <item>
-<title>   CN \ CCTV 13 新闻 News.strm \ -1h</title>
+<title>   CN \ 南昌一套新闻频道 \ -0h</title>
+<link>mms://live1.ncnews.com.cn/nctv1</link>
+<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
+</item>
+
+<item>
+<title>   SELECT COUNTRY... \ 南昌二套都市频道 \ -0h</title>
+<link>mms://live1.ncnews.com.cn/nctv2</link>
+<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
+</item>
+
+<item>
+<title>   CN \ 南昌三套资讯频道 \ -0h</title>
+<link>mms://live2.ncnews.com.cn/nctv3</link>
+<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
+</item>
+
+<item>
+<title>   CN \ CCTV 13 新闻 News.strm \ -2h</title>
 <link>mms://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctvnews</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/72/China_Central_TV-13.png</thumbnail>
 </item>
 
 <item>
-<title>   US \ 31.8 銀視數碼台 Los Angeles free-to-air network \ -1h</title>
+<title>   US \ 31.8 銀視數碼台 Los Angeles free-to-air network \ -2h</title>
 <link>mms://4.71.37.8/tctv-200</link>
 <thumbnail>http://www.wcetvdigital.com/images/logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -8h</title>
+<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -9h</title>
 <link>mms://4.71.37.8/atv-200</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/81/Asia_Television_Limited.png</thumbnail>
 </item>
@@ -8116,24 +8157,6 @@
 <thumbnail>http://www.main-board.eu/images/bilder/frekanslogolar/kral_tv.jpg</thumbnail>
 </item>
 
-<item>
-<title>+ TR \ NTV SPOR \ ®</title>
-<link>rtmp://origin5.nar.tv/dvrm/ntvspor/ntvspor swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://1.bp.blogspot.com/-Ezj5_0PuT4Q/Ta_EifeUYtI/AAAAAAAAAYo/JC1hOdNQZ7k/s1600/ntv+spor.jpeg</thumbnail>
-</item>
-
-<item>
-<title>+ TR \ NTv \ ®</title>
-<link>rtmp://edge1.nar.tv/dvrm/ntv/ntv swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.primacom.de/images/primatv/ntv_avrupa_med.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ TR \ SKYTÜRK \ ®</title>
-<link>rtmp://origin5.nar.tv/dvrm/skyturk/skyturk swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.gazeteciler.com/data/news/260x198/1236189815-61214.jpg</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8149,11 +8172,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 09/07/2011 17:52:29 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 1</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 09/07/2011 18:55:15 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 20</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 836</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 222</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1058</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 225</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1061</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
