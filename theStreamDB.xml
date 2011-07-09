@@ -737,8 +737,8 @@
 </items>
 </channel>
 
-<channel><name>Chinese \ 31</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
-<name>ZH \ Entertainment \ 29</name>
+<channel><name>Chinese \ 33</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
+<name>ZH \ Entertainment \ 30</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -905,7 +905,7 @@
 </subitem>
 
 <subitem>
-<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -7h</title>
+<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -8h</title>
 <link>mms://4.71.37.8/atv-200</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/81/Asia_Television_Limited.png</thumbnail>
 </subitem>
@@ -916,13 +916,25 @@
 <thumbnail>http://gospeltvhub.com/images/GOODLOGO.png</thumbnail>
 </subitem>
 
+<subitem>
+<title>   US \ 31.8 銀視數碼台 Los Angeles free-to-air network \ -1h</title>
+<link>mms://4.71.37.8/tctv-200</link>
+<thumbnail>http://www.wcetvdigital.com/images/logo.jpg</thumbnail>
+</subitem>
+
 </subitems>
 </subchannel>
 
 <subchannel>
-<name>ZH \ News \ 1</name>
+<name>ZH \ News \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   CN \ CCTV 13 新闻 News.strm \ -1h</title>
+<link>mms://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctvnews</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/72/China_Central_TV-13.png</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ CN \ 南昌新闻网</title>
@@ -1742,7 +1754,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 2 \ -48d</title>
+<title>   US \ NASA 2 \ -49d</title>
 <link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1934,7 +1946,7 @@
 </subitem>
 
 <subitem>
-<title>+ CN \ CCTV</title>
+<title>+ CN \ CCTV-NEWS International (in English)</title>
 <link>mms://219.90.61.6/cctv9-tw</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgr3.png</thumbnail>
 </subitem>
@@ -3137,7 +3149,7 @@
 </item>
 
 <item>
-<title>   IL \ Machonmeir TV \ -13d</title>
+<title>   IL \ Machonmeir TV \ -14d</title>
 <link>mms://82.80.231.41/meirtv_live</link>
 <thumbnail>http://livelive24.com/tv-images/israel-machonmeir.jpg</thumbnail>
 </item>
@@ -3585,7 +3597,7 @@
 </item>
 
 <item>
-<title>   KR \ 목포문화방송 \ -26d</title>
+<title>   KR \ 목포문화방송 \ -27d</title>
 <link>mms://210.221.163.25/encoder-tv</link>
 <thumbnail>http://www.mokpombc.co.kr/img/2010img/mokpombclogo.gif</thumbnail>
 </item>
@@ -4379,7 +4391,7 @@
 
 <subitem>
 <title>+ PT \ Sport TV 2</title>
-<link>rtmp://go.thetvathome.com/estadio54/sporttv2 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
+<link>rtmp://hs8hl2al9.thetvathome.com/estadio54/sporttv2 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.jpg</thumbnail>
 </subitem>
 
@@ -7670,7 +7682,7 @@
 
 <item>
 <title>+ PT \ Sport TV 2</title>
-<link>rtmp://go.thetvathome.com/estadio54/sporttv2 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
+<link>rtmp://hs8hl2al9.thetvathome.com/estadio54/sporttv2 swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.jpg</thumbnail>
 </item>
 
@@ -7823,7 +7835,19 @@
 <items>
 
 <item>
-<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -7h</title>
+<title>   CN \ CCTV 13 新闻 News.strm \ -1h</title>
+<link>mms://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctvnews</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/72/China_Central_TV-13.png</thumbnail>
+</item>
+
+<item>
+<title>   US \ 31.8 銀視數碼台 Los Angeles free-to-air network \ -1h</title>
+<link>mms://4.71.37.8/tctv-200</link>
+<thumbnail>http://www.wcetvdigital.com/images/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>   HONG KONG \ ATV 亞洲電視有限公司 Hong Kong \ -8h</title>
 <link>mms://4.71.37.8/atv-200</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/81/Asia_Television_Limited.png</thumbnail>
 </item>
@@ -8110,18 +8134,6 @@
 <thumbnail>http://www.gazeteciler.com/data/news/260x198/1236189815-61214.jpg</thumbnail>
 </item>
 
-<item>
-<title>+ TR \ BLOOMBERG HT \ ®</title>
-<link>rtmp://edge1.nar.tv/dvrm/blumberg/blumberg swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://im.haberturk.com/2010/05/03/512445_detay.jpg?-62169989992</thumbnail>
-</item>
-
-<item>
-<title>+ TR \ HABERTÜRK \ ®</title>
-<link>rtmp://origin5.nar.tv/dvrm/haberturk/haberturk swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.butungazeteler.net/static/images/televizyonlar/haberturk.gif</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8137,11 +8149,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 09/07/2011 16:52:21 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 09/07/2011 17:52:29 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 1</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 836</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 220</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1056</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 222</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1058</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
