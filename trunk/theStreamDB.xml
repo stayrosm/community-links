@@ -1446,7 +1446,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 166</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
+</subchannels></channel><channel><name>English \ 167</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
 <name>EN \ Entertainment \ 59</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -2057,7 +2057,7 @@
 </subchannel>
 
 <subchannel>
-<name>EN \ News \ 30</name>
+<name>EN \ News \ 31</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -2233,6 +2233,12 @@
 <title>+ US \ CNN US</title>
 <link>rtmp://live7.seeon.tv/edge/kl1kt1uvgij0u2u swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14581/radiomando.com tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gkhev.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   US \ MSNBC \ -0h</title>
+<link>rtmp://live7.seeon.tv/edge/gsovqwcwe4vf66c swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14453/MSNBC_News tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -7987,6 +7993,12 @@
 <items>
 
 <item>
+<title>   US \ MSNBC \ -0h</title>
+<link>rtmp://live7.seeon.tv/edge/gsovqwcwe4vf66c swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14453/MSNBC_News tcUrl=rtmp://live7.seeon.tv/edge timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
+</item>
+
+<item>
 <title>   US \ HBOeHD \ HD \ -2d</title>
 <link>http://veohcast.tv/video.php?n=hboe</link>
 <thumbnail>none</thumbnail>
@@ -8280,12 +8292,6 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
 </item>
 
-<item>
-<title>   PE \ América Televisión 1 \ -3d</title>
-<link>rtmp://live33.seeon.tv/edge/26sot3fjuw7d787 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php tcUrl=rtmp://live33.seeon.tv/edge timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8301,11 +8307,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 15/07/2011 15:20:53 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 15/07/2011 15:30:36 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 6</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 785</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 296</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1081</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 297</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1082</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
