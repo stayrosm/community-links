@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 15</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 16</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -34,7 +34,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 10</name>
+<name>AR \ News \ 11</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -54,6 +54,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IQ \ البغدادية</title>
+<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -776,7 +782,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ the CW \ -15h</title>
+<title>   US \ the CW \ -16h</title>
 <link>rtmp://live9.seeon.tv/edge/0pa79xxu0eu530q swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/3968/CW_LIVE tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.observer.com/files/full/CW_logo_color.jpg</thumbnail>
 </subitem>
@@ -932,13 +938,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ Disney XD \ -1h</title>
+<title>+ US \ Disney XD</title>
 <link>rtmp://live8.seeon.tv/edge/1dzpqo7yfv8mht2 swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13871/Disney_XD tcUrl=rtmp://live8.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2sbu.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ Nick Jr. \ -1h</title>
+<title>+ US \ Nick Jr.</title>
 <link>rtmp://live3.seeon.tv/edge/19bm78dqa4wy845 swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11884/Nick_Jr tcUrl=rtmp://live3.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2s9g.png</thumbnail>
 </subitem>
@@ -950,13 +956,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ Nicktoons \ -1h</title>
+<title>+ US \ Nicktoons</title>
 <link>rtmp://live9.seeon.tv/edge/yw4m9suve55zhn8 swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13868/Nick_Toons tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2sbg.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ TeenNick \ -1h</title>
+<title>+ US \ TeenNick</title>
 <link>rtmp://live3.seeon.tv/edge/sr8z8d3qvnjdg4l swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12315/Teen_Nick tcUrl=rtmp://live3.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/teennick_us.png</thumbnail>
 </subitem>
@@ -1056,13 +1062,13 @@
 </subitem>
 
 <subitem>
-<title>   IN \ NewsX \ -4h</title>
+<title>   IN \ NewsX \ -5h</title>
 <link>rtmp://85.17.147.139/paidrepeater139/_definst_/doConnect=3dft4e7rt/ playpath=29_8B8333ET swfUrl=http://cdn.freedocast.com/flowplayer.commercial-3.1.2.swf?0.6342348717153072 pageUrl=http://express.freedocast.com/forms/CustomePlayer.aspx?fid=2145109B&amp;ftype=stream&amp;width=430&amp;height=300 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a3/NewsX_Logo.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ IR \ Press TV</title>
+<title>   IR \ Press TV \ -2h</title>
 <link>http://wms.edgecastcdn.net/200216/ipresstv?MSWMExt=.asf</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdflr.png</thumbnail>
 </subitem>
@@ -1238,7 +1244,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Jewelry Television</title>
+<title>   US \ Jewelry Television \ -1h</title>
 <link>rtmp://jtvmedia.jtv.com:1935/live playpath=jtv300 swfUrl="http://demandware.edgesuite.net/aaby_prd/on/demandware.static/Sites-jtv-Site/-/default/v1300165314574/swf/flashMediaPlayer/StrobeMediaPlayback.swf" pageUrl="http://www.jtv.com/on/demandware.store/Sites-jtv-Site/default/LiveViewer-Show" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/jj/jewelry_tv.png</thumbnail>
 </subitem>
@@ -1324,7 +1330,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Golf Channel \ -8h</title>
+<title>   US \ Golf Channel \ -9h</title>
 <link>rtmp://live9.seeon.tv/edge/2heb91moskapa9r swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11867/Golf_channel tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </subitem>
@@ -1859,7 +1865,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -4h</title>
+<title>+ IS \ Alþingi</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -1906,7 +1912,7 @@
 </item>
 
 <item>
-<title>   IT \ Rai Sport 1 \ -2h</title>
+<title>   IT \ Rai Sport 1 \ -3h</title>
 <link>rtmp://live9.seeon.tv/edge/wagr2j8zdjft1gs swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12749/basket tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gulbr.png</thumbnail>
 </item>
@@ -2184,25 +2190,25 @@
 </subitem>
 
 <subitem>
-<title>   PT \ AXN \ -5h</title>
+<title>   PT \ AXN \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/axn.flv swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.axn.pt/sites/all/themes/spti_axn/images/logo.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Benfica TV \ -5h</title>
+<title>   PT \ Benfica TV \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/benficatv.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Canal Hollywood \ -5h</title>
+<title>   PT \ Canal Hollywood \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/hollywood.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Discovery Channel \ -5h</title>
+<title>   PT \ Discovery Channel \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/discovery.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_europe.png</thumbnail>
 </subitem>
@@ -2214,7 +2220,7 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Fox \ -5h</title>
+<title>   PT \ Fox \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/fox.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_pt.png</thumbnail>
 </subitem>
@@ -2226,13 +2232,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Fox Life \ -5h</title>
+<title>   PT \ Fox Life \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/foxlife.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_life_pt.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Fox Movies \ -5h</title>
+<title>   PT \ Fox Movies \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/foxmovies.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/foxmovies.png</thumbnail>
 </subitem>
@@ -2244,13 +2250,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ National Geographic \ -5h</title>
+<title>   PT \ National Geographic \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/nationalgeographic.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_pt.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Odisseia \ -5h</title>
+<title>   PT \ Odisseia \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/odisseia.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/odisseia.jpg</thumbnail>
 </subitem>
@@ -2286,13 +2292,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ SIC \ -5h</title>
+<title>   PT \ SIC \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/sic.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ SIC Mulher \ -5h</title>
+<title>   PT \ SIC Mulher \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/sicmulher.flv swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_mulher.png</thumbnail>
 </subitem>
@@ -2304,31 +2310,31 @@
 </subitem>
 
 <subitem>
-<title>   PT \ SIC Radical \ -5h</title>
+<title>   PT \ SIC Radical \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/sicradical.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic_radical.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Sony Entertainment \ -5h</title>
+<title>   PT \ Sony Entertainment \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/sonyentertainment.flv swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/set_europe.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ SyFy \ -5h</title>
+<title>   PT \ SyFy \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/syfy.flv swfurl=http://www.televisaofutebol.com/player8.swf pageUrl=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>nonehttp://thevoiceoftv.com/files/2011/02/syfy.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ TVi \ -5h</title>
+<title>   PT \ TVi \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/tvi.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ TVi 24 \ -5h</title>
+<title>   PT \ TVi 24 \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/tvi24.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_24.jpg</thumbnail>
 </subitem>
@@ -2342,7 +2348,7 @@
 <subitems>
 
 <subitem>
-<title>   BR \ AniMax \ -2d</title>
+<title>+ BR \ AniMax</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/animax app=ueba23/ pageUrl=http://tv-msn.com/animax.html swfUrl=http://tv-msn.com/player/player.swf tcUrl=rtmp://cdn2.mastertv.net/ueba23/ playPath=animax swfVfy=true live=true	 timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/animax_br.png</thumbnail>
 </subitem>
@@ -2372,13 +2378,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Canal Panda \ -5h</title>
+<title>   PT \ Canal Panda \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/canalpanda.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_panda.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Disney Channel \ -5h</title>
+<title>   PT \ Disney Channel \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/disney.flv swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
 </subitem>
@@ -2392,13 +2398,13 @@
 <subitems>
 
 <subitem>
-<title>   PT \ MTV Portugal \ -0h</title>
+<title>+ PT \ MTV Portugal</title>
 <link>rtmp://live6.seeon.tv/edge/wcjuy97fm0aot86 swfUrl=http://www.seeon.tv/jwplayer/player.swf pageURL=http://www.seeon.tv/ swfVfy=true live=true timeout=60</link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_pt.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ VH1 \ -5h</title>
+<title>   PT \ VH1 \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/vh1.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5p5x.png</thumbnail>
 </subitem>
@@ -2446,7 +2452,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ COMBATE \ -8d</title>
+<title>   BR \ COMBATE \ -9d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </subitem>
@@ -2458,7 +2464,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ ESPN HD \ -2h</title>
+<title>+ BR \ ESPN HD</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd_asia.png</thumbnail>
 </subitem>
@@ -2470,7 +2476,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ PFC \ -8d</title>
+<title>   BR \ PFC \ -9d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </subitem>
@@ -2488,13 +2494,13 @@
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 1 \ -1h</title>
+<title>   PT \ Sport TV 1 \ -2h</title>
 <link>rtmp://68.68.29.94/live/_definst_/asdrwedfasdg.flv swfUrl=http://www.veemi.com/player/player-licensed.swf pageURL=http://www.veemi.com/embed.php swfVfy=true live=true timeout=60</link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 2 \ -5h</title>
+<title>   PT \ Sport TV 2 \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/sporttv2.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.jpg</thumbnail>
 </subitem>
@@ -2756,7 +2762,7 @@
 <subitems>
 
 <subitem>
-<title>   AR \ TV Publica \ -1h</title>
+<title>+ AR \ TV Publica</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -2810,7 +2816,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Aragon TV \ -1h</title>
+<title>   ES \ Aragon TV \ -2h</title>
 <link>rtmp://aragontv.fc.llnwd.net:443/aragontv/stream_normal swfUrl=http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf pageURL=http://www.aragontelevision.es live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.jpg</thumbnail>
 </subitem>
@@ -2966,7 +2972,7 @@
 </subitem>
 
 <subitem>
-<title>   UY \ MISIÓN VIDA TV \ -4h</title>
+<title>   UY \ MISIÓN VIDA TV \ -5h</title>
 <link>rtmp://cdnc.unored.com/zoetv playpath=str.sdp swfUrl="http://www.unored.com/streams/flash/jwplayer54/player.swf" pageUrl="http://www.unored.com/streams/flash/zoetvsrc.html" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.enlace.org/imgs/progra_misionVida_on.jpg</thumbnail>
 </subitem>
@@ -3028,7 +3034,7 @@
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -25d</title>
+<title>   AR \ C5N \ -26d</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3143,13 +3149,13 @@
 </subchannels></channel><channel><name>Tagalog \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Tagalog.png</thumbnail><items>
 
 <item>
-<title>   PH \ GMA \ -1h</title>
+<title>   PH \ GMA \ -2h</title>
 <link>rtmp://live5.seeon.tv/edge/6drb2o0ejvfksad swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/9024/GMA_7 tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1000px-GMA_Network_Logo_Vector.svg.png</thumbnail>
 </item>
 
 <item>
-<title>   PH \ gma \ -6h</title>
+<title>   PH \ gma \ -7h</title>
 <link>http://static.seeon.tv/jwplayer/player.swf pageUrl=</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -3592,7 +3598,7 @@
 </item>
 
 <item>
-<title>   UA \ ICTV \ -67d</title>
+<title>   UA \ ICTV \ -68d</title>
 <link>http://tv.x-lan.net.ua:8015</link>
 <thumbnail>http://www.satlogo.com/logo/hires/ii/ictv_ua.png</thumbnail>
 </item>
@@ -3670,13 +3676,13 @@
 <subitems>
 
 <subitem>
-<title>   US \ Little Saigon TV \ -30d</title>
+<title>   US \ Little Saigon TV \ -31d</title>
 <link>rtmp://208.115.210.171:1935/lstv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/little_saigon_tv.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ Saigon TV \ -30d</title>
+<title>   US \ Saigon TV \ -31d</title>
 <link>rtmp://208.115.210.171:1935/sgtv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.vietfilmfest.com/2011/images/saigon-tv-logo.jpg</thumbnail>
 </subitem>
@@ -3798,7 +3804,7 @@
 <subitems>
 
 <subitem>
-<title>   US \ VNBC \ -30d</title>
+<title>   US \ VNBC \ -31d</title>
 <link>rtmp://208.115.210.171:1935/vnbctv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://2.bp.blogspot.com/_KqTN0jmEA-k/TOud82ssgfI/AAAAAAAAAFk/8m2-NTsaFnc/s1600/vnbc.jpg</thumbnail>
 </subitem>
@@ -3820,7 +3826,7 @@
 <items>
 
 <item>
-<title>   BR \ AniMax \ -2d</title>
+<title>+ BR \ AniMax</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/animax app=ueba23/ pageUrl=http://tv-msn.com/animax.html swfUrl=http://tv-msn.com/player/player.swf tcUrl=rtmp://cdn2.mastertv.net/ueba23/ playPath=animax swfVfy=true live=true	 timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/animax_br.png</thumbnail>
 </item>
@@ -3886,13 +3892,13 @@
 </item>
 
 <item>
-<title>   PT \ Canal Panda \ -5h</title>
+<title>   PT \ Canal Panda \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/canalpanda.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_panda.jpg</thumbnail>
 </item>
 
 <item>
-<title>   PT \ Disney Channel \ -5h</title>
+<title>   PT \ Disney Channel \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/disney.flv swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
 </item>
@@ -3928,13 +3934,13 @@
 </item>
 
 <item>
-<title>   US \ Disney XD \ -1h</title>
+<title>+ US \ Disney XD</title>
 <link>rtmp://live8.seeon.tv/edge/1dzpqo7yfv8mht2 swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13871/Disney_XD tcUrl=rtmp://live8.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2sbu.png</thumbnail>
 </item>
 
 <item>
-<title>   US \ Nick Jr. \ -1h</title>
+<title>+ US \ Nick Jr.</title>
 <link>rtmp://live3.seeon.tv/edge/19bm78dqa4wy845 swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11884/Nick_Jr tcUrl=rtmp://live3.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2s9g.png</thumbnail>
 </item>
@@ -3946,13 +3952,13 @@
 </item>
 
 <item>
-<title>   US \ Nicktoons \ -1h</title>
+<title>+ US \ Nicktoons</title>
 <link>rtmp://live9.seeon.tv/edge/yw4m9suve55zhn8 swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13868/Nick_Toons tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2sbg.png</thumbnail>
 </item>
 
 <item>
-<title>   US \ TeenNick \ -1h</title>
+<title>+ US \ TeenNick</title>
 <link>rtmp://live3.seeon.tv/edge/sr8z8d3qvnjdg4l swfUrl=http://cdn.static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12315/Teen_Nick tcUrl=rtmp://live3.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/teennick_us.png</thumbnail>
 </item>
@@ -4160,7 +4166,7 @@
 </item>
 
 <item>
-<title>   US \ St. Louis \ State Capitol \ HD \ -3h</title>
+<title>   US \ St. Louis \ State Capitol \ HD \ -4h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=stlouis.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4272,13 +4278,13 @@
 </item>
 
 <item>
-<title>   PT \ MTV Portugal \ -0h</title>
+<title>+ PT \ MTV Portugal</title>
 <link>rtmp://live6.seeon.tv/edge/wcjuy97fm0aot86 swfUrl=http://www.seeon.tv/jwplayer/player.swf pageURL=http://www.seeon.tv/ swfVfy=true live=true timeout=60</link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_pt.jpg</thumbnail>
 </item>
 
 <item>
-<title>   PT \ VH1 \ -5h</title>
+<title>   PT \ VH1 \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/vh1.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5p5x.png</thumbnail>
 </item>
@@ -4450,7 +4456,7 @@
 </item>
 
 <item>
-<title>   BR \ COMBATE \ -8d</title>
+<title>   BR \ COMBATE \ -9d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </item>
@@ -4462,7 +4468,7 @@
 </item>
 
 <item>
-<title>   BR \ ESPN HD \ -2h</title>
+<title>+ BR \ ESPN HD</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd_asia.png</thumbnail>
 </item>
@@ -4474,7 +4480,7 @@
 </item>
 
 <item>
-<title>   BR \ PFC \ -8d</title>
+<title>   BR \ PFC \ -9d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </item>
@@ -4516,7 +4522,7 @@
 </item>
 
 <item>
-<title>   IT \ Rai Sport 1 \ -2h</title>
+<title>   IT \ Rai Sport 1 \ -3h</title>
 <link>rtmp://live9.seeon.tv/edge/wagr2j8zdjft1gs swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/12749/basket tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gulbr.png</thumbnail>
 </item>
@@ -4540,13 +4546,13 @@
 </item>
 
 <item>
-<title>   PT \ Sport TV 1 \ -1h</title>
+<title>   PT \ Sport TV 1 \ -2h</title>
 <link>rtmp://68.68.29.94/live/_definst_/asdrwedfasdg.flv swfUrl=http://www.veemi.com/player/player-licensed.swf pageURL=http://www.veemi.com/embed.php swfVfy=true live=true timeout=60</link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </item>
 
 <item>
-<title>   PT \ Sport TV 2 \ -5h</title>
+<title>   PT \ Sport TV 2 \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/sporttv2.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv2_pt.jpg</thumbnail>
 </item>
@@ -4666,7 +4672,7 @@
 </item>
 
 <item>
-<title>   US \ Golf Channel \ -8h</title>
+<title>   US \ Golf Channel \ -9h</title>
 <link>rtmp://live9.seeon.tv/edge/2heb91moskapa9r swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/11867/Golf_channel tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
@@ -4700,13 +4706,13 @@
 <items>
 
 <item>
-<title>   PT \ MTV Portugal \ -0h</title>
+<title>+ PT \ MTV Portugal</title>
 <link>rtmp://live6.seeon.tv/edge/wcjuy97fm0aot86 swfUrl=http://www.seeon.tv/jwplayer/player.swf pageURL=http://www.seeon.tv/ swfVfy=true live=true timeout=60</link></link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_pt.jpg</thumbnail>
 </item>
 
 <item>
-<title>   PH \ gma \ -6h</title>
+<title>   PH \ gma \ -7h</title>
 <link>http://static.seeon.tv/jwplayer/player.swf pageUrl=</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4754,7 +4760,7 @@
 </item>
 
 <item>
-<title>   BR \ PFC \ -8d</title>
+<title>   BR \ PFC \ -9d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </item>
@@ -4766,13 +4772,13 @@
 </item>
 
 <item>
-<title>   BR \ COMBATE \ -8d</title>
+<title>   BR \ COMBATE \ -9d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>   PT \ Fox Movies \ -5h</title>
+<title>   PT \ Fox Movies \ -6h</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/foxmovies.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/foxmovies.png</thumbnail>
 </item>
@@ -4870,10 +4876,10 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 16/07/2011 18:57:57 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 16/07/2011 19:59:08 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 791</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 293</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 793</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 291</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1084</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
