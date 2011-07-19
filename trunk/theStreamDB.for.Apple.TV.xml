@@ -692,13 +692,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ HGTV \ HD \ -2h</title>
+<title>   US \ HGTV \ HD \ -3h</title>
 <link>rtmp://fms3.tikilive.com:1935/view/25503_122/stream25503 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hgtv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ History Channel \ -21d</title>
+<title>   US \ History Channel \ -22d</title>
 <link>rtmp://lv1.ustvnow.com:1935/dvrtest/ swfUrl=http://www.ustvnow.com/player/flowplayer.commercial-3.2.7.swf playpath=F59C0HISTUSTVNOW1 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevl.png</thumbnail>
 </subitem>
@@ -1250,7 +1250,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Jewelry Television</title>
+<title>   US \ Jewelry Television \ -1h</title>
 <link>rtmp://jtvmedia.jtv.com:1935/live playpath=jtv300 swfUrl="http://demandware.edgesuite.net/aaby_prd/on/demandware.static/Sites-jtv-Site/-/default/v1300165314574/swf/flashMediaPlayer/StrobeMediaPlayback.swf" pageUrl="http://www.jtv.com/on/demandware.store/Sites-jtv-Site/default/LiveViewer-Show" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/jj/jewelry_tv.png</thumbnail>
 </subitem>
@@ -1680,7 +1680,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -1h</title>
+<title>   DE \ HR \ -2h</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -1871,7 +1871,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>+ IS \ Alþingi</title>
+<title>   IS \ Alþingi \ -1h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -2106,8 +2106,8 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 62</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 40</name>
+<channel><name>Portuguese \ 67</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 45</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2190,7 +2190,7 @@
 </subitem>
 
 <subitem>
-<title>+ BR \ UNIP</title>
+<title>   BR \ UNIP \ -1h</title>
 <link>rtmp://67.228.212.5/ponto38/mixtv swfUrl=http://www.assistatvonline.com/fucku2.swf pageUrl=http://www.assistatvonline.com/canais/mixtv.php live=true timeout=60</link>
 <thumbnail>http://www.dicasdiarias.com/wp-content/uploads/2011/05/secretaria-online-unip.gif</thumbnail>
 </subitem>
@@ -2208,6 +2208,12 @@
 </subitem>
 
 <subitem>
+<title>+ PT \ AXN Black</title>
+<link>rtmp://hs8hl2a.thetvathome.com/estadio54/axnblack.flv swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_black_pt.jpg</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ PT \ Benfica TV</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/benficatv.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.jpg</thumbnail>
@@ -2217,6 +2223,12 @@
 <title>+ PT \ Canal Hollywood</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/hollywood.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   PT \ Canal Porto \ -1h</title>
+<link>rtmp://arrisco.flashwebtown.com/live/myStream.sdp.flv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageURL=http://www.tvdez.com/portocanal swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/porto_canal.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -2274,6 +2286,12 @@
 </subitem>
 
 <subitem>
+<title>   PT \ RTP Açores \ -1h</title>
+<link>rtmp://50.30.32.198/rtpa/myStream.sdp swfUrl=http://www.tvdez.com/player9.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_acores.jpg</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ PT \ RTP I</title>
 <link>rtmp://h2c.rtp.pt/livetv/2ch5h264.flv swfUrl=http://rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp1.png</thumbnail>
@@ -2292,9 +2310,21 @@
 </subitem>
 
 <subitem>
+<title>   PT \ RTP Madeira \ -1h</title>
+<link>rtmp://195.245.168.33:80/livetv/_definst_/2ch1016h264H14 swfUrl=http://www0.rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_madeira.jpg</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ PT \ RTP Memória</title>
 <link>rtmp://h2c.rtp.pt/livetv/2ch80h264.flv swfUrl=http://www.rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_memoria.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   PT \ RTP Mobile \ -1h</title>
+<link>rtmp://195.245.168.33:80/livetv/_definst_/2ch141h264 swfUrl=http://www0.rtp.pt/play/ swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_mobile.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -2464,7 +2494,7 @@
 <subitems>
 
 <subitem>
-<title>+ BR \ BAND SPORTS</title>
+<title>   BR \ BAND SPORTS \ -1h</title>
 <link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
 </subitem>
@@ -2780,7 +2810,7 @@
 <subitems>
 
 <subitem>
-<title>   AR \ TV Publica \ -1h</title>
+<title>   AR \ TV Publica \ -2h</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -2870,7 +2900,7 @@
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -3h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -2966,7 +2996,7 @@
 </subitem>
 
 <subitem>
-<title>   PE \ América Televisión 1 \ -2d</title>
+<title>   PE \ América Televisión 1 \ -3d</title>
 <link>rtmp://live33.seeon.tv/edge/26sot3fjuw7d787 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php tcUrl=rtmp://live33.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/america_tv.png</thumbnail>
 </subitem>
@@ -3167,7 +3197,7 @@
 </subchannels></channel><channel><name>Tagalog \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Tagalog.png</thumbnail><items>
 
 <item>
-<title>   PH \ GMA \ -3h</title>
+<title>   PH \ GMA \ -4h</title>
 <link>rtmp://live5.seeon.tv/edge/6drb2o0ejvfksad swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/9024/GMA_7 tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1000px-GMA_Network_Logo_Vector.svg.png</thumbnail>
 </item>
@@ -3271,7 +3301,7 @@
 </subitem>
 
 <subitem>
-<title>+ TH \ NBT</title>
+<title>   TH \ NBT \ -1h</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_ch11_hd?wmcontentbitrate=&amp;referer=tv&amp;channel=jw_basicplayer&amp;scope=tv&amp;cp=TRUE&amp;contentgroup=live&amp;ext=py_tn swfUrl=http://www.tnnthailand.com/live/player/mediaplayer3_16.swf pageUrl=http://www.thaitvnow.com/tv/data/13-40-37-24-06-2011.php live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gr9ak.jpg</thumbnail>
 </subitem>
@@ -4474,7 +4504,7 @@
 </item>
 
 <item>
-<title>+ BR \ BAND SPORTS</title>
+<title>   BR \ BAND SPORTS \ -1h</title>
 <link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
 </item>
@@ -4730,6 +4760,36 @@
 <items>
 
 <item>
+<title>+ PT \ AXN Black</title>
+<link>rtmp://hs8hl2a.thetvathome.com/estadio54/axnblack.flv swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_black_pt.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ Canal Porto \ -1h</title>
+<link>rtmp://arrisco.flashwebtown.com/live/myStream.sdp.flv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageURL=http://www.tvdez.com/portocanal swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/porto_canal.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP Açores \ -1h</title>
+<link>rtmp://50.30.32.198/rtpa/myStream.sdp swfUrl=http://www.tvdez.com/player9.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_acores.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP Madeira \ -1h</title>
+<link>rtmp://195.245.168.33:80/livetv/_definst_/2ch1016h264H14 swfUrl=http://www0.rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_madeira.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP Mobile \ -1h</title>
+<link>rtmp://195.245.168.33:80/livetv/_definst_/2ch141h264 swfUrl=http://www0.rtp.pt/play/ swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_mobile.png</thumbnail>
+</item>
+
+<item>
 <title>   PL \ TV Biznes \ -1d</title>
 <link>http://redir.atmcdn.pl/liveflv/o2/TVBiznes/TVbiznes_h.livx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_biznes.png</thumbnail>
@@ -4802,7 +4862,7 @@
 </item>
 
 <item>
-<title>+ BR \ BAND SPORTS</title>
+<title>   BR \ BAND SPORTS \ -1h</title>
 <link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
 </item>
@@ -4879,18 +4939,6 @@
 <thumbnail>http://2.bp.blogspot.com/_X0E6U_UUb54/S45kiBDFrJI/AAAAAAAAA1w/eiMgnRXAKv0/s320/%C4%B0dman+Tv+T%C3%BCm+Uydu+Al%C4%B1c%C4%B1lar%C4%B1+%C4%B0%C3%A7in+Biss+Key+%C5%9Eifreleri+(Azeri+Kanal%C4%B1).jpg</thumbnail>
 </item>
 
-<item>
-<title>+ UZ \ UZBEKiSTAN Tv \ ®</title>
-<link>rtmp://origin5.nar.tv/dvrm/uzbekistan/uzbekistan swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/TV-Uzbekistan.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ MX \ Cadenatres Canal 28</title>
-<link>rtsp://148.240.229.63/broadcast/canal28.rm</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cadena_tres.png</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -4906,11 +4954,11 @@
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 19/07/2011 19:57:20 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 19/07/2011 20:58:43 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 816</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 270</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1086</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 809</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 282</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1091</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
