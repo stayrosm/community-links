@@ -1477,13 +1477,13 @@
 
 <subitem>
 <title>+ UK \ BBC 1</title>
-<link>rtsp://195.90.118.88/BBC1_1</link>
+<link>rtmp://178.239.248.12/rtplive/unicast1.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast1.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdffz.png</thumbnail>
 </subitem>
 
 <subitem>
 <title>+ UK \ BBC 2</title>
-<link>rtsp://195.90.118.88/BBC2_1</link>
+<link>rtmp://178.239.248.12/rtplive/unicast2.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast2.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg2.png</thumbnail>
 </subitem>
 
@@ -1513,7 +1513,7 @@
 
 <subitem>
 <title>   UK \ Film4 \ -58d</title>
-<link>mms://wms.3ba6.edgecastcdn.net/203BA6/FILM4</link>
+<link>rtmp://178.239.248.12/rtplive/unicast7.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast7.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfga.png</thumbnail>
 </subitem>
 
@@ -1525,25 +1525,25 @@
 
 <subitem>
 <title>+ UK \ ITV 1</title>
-<link>rtsp://195.90.118.88/ITV1_1</link>
+<link>rtmp://178.239.248.12/rtplive/unicast4.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast4.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg4.png</thumbnail>
 </subitem>
 
 <subitem>
 <title>+ UK \ ITV 2</title>
-<link>rtsp://195.90.118.88/ITV2_1</link>
+<link>rtmp://178.239.248.12/rtplive/unicast5.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast5.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg5.png</thumbnail>
 </subitem>
 
 <subitem>
 <title>   UK \ ITV 3 \ -48d</title>
-<link>http://streamtv.x10.mx/uk/?id=V%7DF%28V%7BIxVXdNVWhVYTF%28cFRURndUbFJVUVRC%28%7C%29XdDVUVl%21rYUZJd%7BNGcFdWM%7CJMVkZkS%7BRGcEVVbFZXVlRCNFdrVmtWMU%21GT%29ZWU%7BJX%28%2FNW%28%7BQ%7CTUZkV%29dtdE9SMU%21JVTFoc%29QxWX%21RbkJVV%7DNoTFl6RlNTRTVWVG%29sTmF6VkdWREZvUTFWV%29drWmhNMnM5&amp;kod=26116601746</link>
+<link>rtmp://178.239.248.12/rtplive/unicast12.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast12.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg6.png</thumbnail>
 </subitem>
 
 <subitem>
 <title>   UK \ ITV 4 \ -48d</title>
-<link>http://streamtv.x10.mx/uk/?id=V%7DF%28V%7BIxVXdNVWhVYTF%28cFRURndUbFJVUVRC%28%7C%29XdDVUVl%21rYUZJd%7BNGcFdWM%7CJMVkZkS%7BRGcEVVbFZXVlRCNFdrVmtWMU%21GT%29ZWU%7BJX%28%2FNW%28%7BQ%7CTUZkV%29dtdE9SMU%21JVTFoc%29QxWX%21RbkJVV%7DNoTFl6RlNTRTVWVG%29sTmF6VkdWREZvUTFWV%29drWldh%28zVWVm%29%7CVk5WVkdSVGxRVVQwOQaHR0cA3aHR0cAaHR0cAaHR0cA3aHR0cAaHR0cA&amp;kod=26116603546</link>
+<link>rtmp://178.239.248.12/rtplive/unicast6.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast6.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gyrya.png</thumbnail>
 </subitem>
 
@@ -2590,7 +2590,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ CPAC \ -15d</title>
+<title>   FR \ CPAC \ -16d</title>
 <link>http://video.cpac.ca/cpac1flh</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cpac.png</thumbnail>
 </subitem>
@@ -4158,19 +4158,19 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 80</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<channel><name>Portuguese \ 81</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
 <name>PT \ Entertainment \ 55</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
 <subitem>
-<title>   BR \  \ -5d</title>
+<title>   BR \  \ -6d</title>
 <link></link>
 <thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BR \  \ -3h</title>
+<title>   BR \  \ -4h</title>
 <link><subitem>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -4247,7 +4247,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ history channel BRASIL \ -1h</title>
+<title>   BR \ history channel BRASIL \ -2h</title>
 <link><subitem>
 <title>br \ history</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -4258,7 +4258,7 @@ pageUrl=http://br.tuhistory.com/home.html tcUrl=rtmp://streamer.istreamlive.net/
 </subitem>
 
 <subitem>
-<title>   BR \ megapix \ -5h</title>
+<title>   BR \ megapix \ -6h</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
 pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master11.flv timeout=60</link>
 <thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
@@ -4271,7 +4271,7 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 </subitem>
 
 <subitem>
-<title>   BR \ RedeTV! \ -2h</title>
+<title>   BR \ RedeTV! \ -3h</title>
 <link><subitem>
 <title>br \ RedeTV</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master23.flv swfUrl=http://www.cdnbr.org/swf/player.swf
@@ -4306,7 +4306,7 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </subitem>
 
 <subitem>
-<title>   BR \ tv record br \ -3h</title>
+<title>   BR \ tv record br \ -4h</title>
 <link><subitem>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -4538,7 +4538,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subchannel>
 
 <subchannel>
-<name>PT \ Kids \ 8</name>
+<name>PT \ Kids \ 9</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <subitems>
 
@@ -4570,6 +4570,17 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <title>+ BR \ Nickelodeon</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/nick swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/nick.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_latino_norte.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ tooncast \ -1h</title>
+<link><subitem>
+<title>br \ tooncast </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/133_182/master33.flv timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/66/Tooncast.png</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/66/Tooncast.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -5731,13 +5742,13 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   MX \ edusat 15 \ -76d</title>
+<title>   MX \ edusat 15 \ -77d</title>
 <link>mms://168.255.107.6/canal15</link>
 <thumbnail>http://www.cecuallende.ipn.mx/wps/wcm/connect/6106EE8040466E3D8948DD09C9EC8FB/EDUSAT2A90.GIF?MOD=AJPERES&amp;CACHEID=6106ee8040466e3d8948dd09c9ec8fbf</thumbnail>
 </subitem>
 
 <subitem>
-<title>   MX \ edusat 16 \ -76d</title>
+<title>   MX \ edusat 16 \ -77d</title>
 <link>mms://168.255.107.6/canal16</link>
 <thumbnail>http://www.cecuallende.ipn.mx/wps/wcm/connect/6106EE8040466E3D8948DD09C9EC8FB/EDUSAT2A90.GIF?MOD=AJPERES&amp;CACHEID=6106ee8040466e3d8948dd09c9ec8fbf</thumbnail>
 </subitem>
@@ -5749,7 +5760,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   MX \ edusat 18 \ -76d</title>
+<title>   MX \ edusat 18 \ -77d</title>
 <link>mms://168.255.107.6/canal18</link>
 <thumbnail>http://www.cecuallende.ipn.mx/wps/wcm/connect/6106EE8040466E3D8948DD09C9EC8FB/EDUSAT2A90.GIF?MOD=AJPERES&amp;CACHEID=6106ee8040466e3d8948dd09c9ec8fbf</thumbnail>
 </subitem>
@@ -6732,7 +6743,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   UA \ Star TV \ -68d</title>
+<title>   UA \ Star TV \ -69d</title>
 <link>http://77.222.135.42/startv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg</thumbnail>
 </item>
@@ -7057,7 +7068,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subchannels></channel>=== Kids ===========================================================================================
 
 <channel>
-<name>All Kids \ 27</name>
+<name>All Kids \ 28</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <items>
 
@@ -7089,6 +7100,17 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <title>+ BR \ Nickelodeon</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/nick swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/nick.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nickelodeon_latino_norte.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ tooncast \ -1h</title>
+<link><item>
+<title>br \ tooncast </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/133_182/master33.flv timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/66/Tooncast.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/66/Tooncast.png</thumbnail>
 </item>
 
 <item>
@@ -8200,7 +8222,18 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <items>
 
 <item>
-<title>   BR \ history channel BRASIL \ -1h</title>
+<title>   BR \ tooncast \ -1h</title>
+<link><item>
+<title>br \ tooncast </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/133_182/master33.flv timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/66/Tooncast.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/66/Tooncast.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ history channel BRASIL \ -2h</title>
 <link><item>
 <title>br \ history</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -8211,7 +8244,7 @@ pageUrl=http://br.tuhistory.com/home.html tcUrl=rtmp://streamer.istreamlive.net/
 </item>
 
 <item>
-<title>   BR \ RedeTV! \ -2h</title>
+<title>   BR \ RedeTV! \ -3h</title>
 <link><item>
 <title>br \ RedeTV</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master23.flv swfUrl=http://www.cdnbr.org/swf/player.swf
@@ -8222,7 +8255,7 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </item>
 
 <item>
-<title>   BR \ tv record br \ -3h</title>
+<title>   BR \ tv record br \ -4h</title>
 <link><item>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -8233,7 +8266,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \  \ -3h</title>
+<title>   BR \  \ -4h</title>
 <link><item>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -8244,7 +8277,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \ megapix \ -5h</title>
+<title>   BR \ megapix \ -6h</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
 pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master11.flv timeout=60</link>
 <thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
@@ -8263,7 +8296,7 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 </item>
 
 <item>
-<title>   BR \  \ -5d</title>
+<title>   BR \  \ -6d</title>
 <link></link>
 <thumbnail>none</thumbnail>
 </item>
@@ -8514,12 +8547,6 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
 </item>
 
-<item>
-<title>+ CN \ 南昌二套都市频道</title>
-<link>mms://live1.ncnews.com.cn/nctv2</link>
-<thumbnail>http://www.ncnews.com.cn/images/top_01.gif</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8535,11 +8562,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 30/07/2011 20:57:39 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 30/07/2011 21:59:44 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 4</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 825</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 287</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1112</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 288</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1113</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
