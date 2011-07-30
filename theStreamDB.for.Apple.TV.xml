@@ -2156,8 +2156,8 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 72</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 49</name>
+<channel><name>Portuguese \ 74</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 51</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2168,7 +2168,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \  \ -1h</title>
+<title>   BR \  \ -2h</title>
 <link><subitem>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -2227,7 +2227,18 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ megapix \ -3h</title>
+<title>   BR \ history channel BRASIL \ -0h</title>
+<link><subitem>
+<title>br \ history</title>
+<link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://br.tuhistory.com/home.html tcUrl=rtmp://streamer.istreamlive.net/brlive2/history.flv timeout=60</link>
+<thumbnail>http://www.crookedriverproductions.com/Images/HistoryChannelLogo.gif</thumbnail>
+</subitem></link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ megapix \ -4h</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
 pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master11.flv timeout=60</link>
 <thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
@@ -2237,6 +2248,17 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <title>   BR \ RedeTV! \ -12d</title>
 <link>rtmp://live.redetv.com.br/redetvlive/ playpath=livestream swfUrl=http://www.redetv.com.br/player/jw/4.4/player.swf pageURL=http://www.redetv.com.br/player/jw/4.4/player.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_tv.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ RedeTV! \ -1h</title>
+<link><subitem>
+<title>br \ RedeTV</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master23.flv swfUrl=http://www.cdnbr.org/swf/player.swf
+pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master23.flv timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/62/RedeTV.jpg</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/62/RedeTV.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -2264,7 +2286,7 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 </subitem>
 
 <subitem>
-<title>   BR \ tv record br \ -1h</title>
+<title>   BR \ tv record br \ -2h</title>
 <link><subitem>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -2585,7 +2607,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ COMBATE \ -22d</title>
+<title>   BR \ COMBATE \ -23d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </subitem>
@@ -2609,7 +2631,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ PFC \ -22d</title>
+<title>   BR \ PFC \ -23d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </subitem>
@@ -3173,7 +3195,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -39d</title>
+<title>   AR \ C5N \ -40d</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3737,7 +3759,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   UA \ ICTV \ -81d</title>
+<title>   UA \ ICTV \ -82d</title>
 <link>http://tv.x-lan.net.ua:8015</link>
 <thumbnail>http://www.satlogo.com/logo/hires/ii/ictv_ua.png</thumbnail>
 </item>
@@ -3815,13 +3837,13 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <subitems>
 
 <subitem>
-<title>   US \ Little Saigon TV \ -44d</title>
+<title>   US \ Little Saigon TV \ -45d</title>
 <link>rtmp://208.115.210.171:1935/lstv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/little_saigon_tv.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ Saigon TV \ -44d</title>
+<title>   US \ Saigon TV \ -45d</title>
 <link>rtmp://208.115.210.171:1935/sgtv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.vietfilmfest.com/2011/images/saigon-tv-logo.jpg</thumbnail>
 </subitem>
@@ -3943,7 +3965,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <subitems>
 
 <subitem>
-<title>   US \ VNBC \ -44d</title>
+<title>   US \ VNBC \ -45d</title>
 <link>rtmp://208.115.210.171:1935/vnbctv playpath=myStream.sdp swfUrl=http://vietpho.com/includes/js/vietpho.swf pageUrl=http://vietpho.com/online-channels.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://2.bp.blogspot.com/_KqTN0jmEA-k/TOud82ssgfI/AAAAAAAAAFk/8m2-NTsaFnc/s1600/vnbc.jpg</thumbnail>
 </subitem>
@@ -4607,7 +4629,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \ COMBATE \ -22d</title>
+<title>   BR \ COMBATE \ -23d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0013.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://combate.globo.com/gsat-images-web/fckeditor/image/interna_combate_logo.jpg</thumbnail>
 </item>
@@ -4631,7 +4653,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \ PFC \ -22d</title>
+<title>   BR \ PFC \ -23d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/8e950b0791298c1c swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/pfc.png</thumbnail>
 </item>
@@ -4869,7 +4891,29 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <items>
 
 <item>
-<title>   BR \ tv record br \ -1h</title>
+<title>   BR \ history channel BRASIL \ -0h</title>
+<link><item>
+<title>br \ history</title>
+<link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://br.tuhistory.com/home.html tcUrl=rtmp://streamer.istreamlive.net/brlive2/history.flv timeout=60</link>
+<thumbnail>http://www.crookedriverproductions.com/Images/HistoryChannelLogo.gif</thumbnail>
+</item></link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   BR \ RedeTV! \ -1h</title>
+<link><item>
+<title>br \ RedeTV</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master23.flv swfUrl=http://www.cdnbr.org/swf/player.swf
+pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master23.flv timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/62/RedeTV.jpg</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/62/RedeTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ tv record br \ -2h</title>
 <link><item>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -4880,7 +4924,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \  \ -1h</title>
+<title>   BR \  \ -2h</title>
 <link><item>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -4891,7 +4935,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \ megapix \ -3h</title>
+<title>   BR \ megapix \ -4h</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
 pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master11.flv timeout=60</link>
 <thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
@@ -5080,11 +5124,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 30/07/2011 18:56:50 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 30/07/2011 19:59:06 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 825</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 285</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1110</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 287</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1112</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
