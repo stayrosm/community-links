@@ -1096,7 +1096,7 @@
 </item>
 
 <item>
-<title>   HR \ Televizija Jadran \ -29d</title>
+<title>   HR \ Televizija Jadran \ -30d</title>
 <link>mms://88.198.161.70:8011/tvj</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/TV-Jadran.jpg</thumbnail>
 </item>
@@ -1501,7 +1501,7 @@
 
 <subitem>
 <title>+ UK \ Channel 4</title>
-<link>rtsp://195.90.118.88/CHANNEL4_1</link>
+<link>rtmp://178.239.248.12/rtplive/unicast8.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast8.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg7.png</thumbnail>
 </subitem>
 
@@ -1770,7 +1770,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ TNT \ -30d</title>
+<title>   US \ TNT \ -31d</title>
 <link>rtmp://streamer.istreamlive.net:1935/nationphone2/ playpath=082F3TNT0USTVNOW1 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevd.png</thumbnail>
 </subitem>
@@ -1882,7 +1882,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 2 \ -12d</title>
+<title>   US \ NASA 2 \ -13d</title>
 <link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -2498,7 +2498,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ MLB Network \ -30d</title>
+<title>   US \ MLB Network \ -31d</title>
 <link>rtmp://live38.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=12460&amp;autoplay=true tcUrl=rtmp://live38.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </subitem>
@@ -2674,7 +2674,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ R. King TV \ -47d</title>
+<title>   FR \ R. King TV \ -48d</title>
 <link>http://www.tv14.net/wp-content/uploads/2010/06/R.-King-TV.jpg</link>
 <thumbnail>mms://rkingtv.diffusepro.com/rkingtv</thumbnail>
 </subitem>
@@ -3809,7 +3809,7 @@
 </item>
 
 <item>
-<title>   KR \ 울산문화방송 \ -47d</title>
+<title>   KR \ 울산문화방송 \ -48d</title>
 <link>mms://onair.usmbc.co.kr/KKangTV</link>
 <thumbnail>http://www.ulsanmbc.co.kr/mbc_2011/images/logo.gif</thumbnail>
 </item>
@@ -3918,7 +3918,7 @@
 </item>
 
 <item>
-<title>   NO \ TV Haugaland \ -7d</title>
+<title>   NO \ TV Haugaland \ -8d</title>
 <link>rtmp://fl0.c49678.cdn.qbrick.com:443/49678 playpath=live1 swfUrl=http://jonas.do.am/player.swf pageUrl=http://jonas.do.am/player.swf?file=live1&amp;type=rtmp&amp;streamer=rtmp://fl0.c49678.cdn.qbrick.com:443/49678 live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/41792_147644394114_8176_n.jpg</thumbnail>
 </item>
@@ -4158,8 +4158,8 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 76</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 51</name>
+<channel><name>Portuguese \ 78</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 53</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -4167,6 +4167,17 @@
 <title>   BR \  \ -5d</title>
 <link></link>
 <thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \  \ -1h</title>
+<link><subitem>
+<title>br \ record</title>
+<link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
+pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp timeout=60</link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</subitem></link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -4236,7 +4247,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ megapix \ -2h</title>
+<title>   BR \ megapix \ -3h</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
 pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master11.flv timeout=60</link>
 <thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
@@ -4270,6 +4281,17 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <title>+ BR \ TV Mocinha</title>
 <link>rtsp://tvmocinha.radioamfm.com.br/tvmocinha</link>
 <thumbnail>http://vodspod.com/tv-images/brazil-tv-mocinha.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ tv record br \ -1h</title>
+<link><subitem>
+<title>br \ record</title>
+<link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
+pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp timeout=60</link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</subitem></link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -5077,7 +5099,7 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 </item>
 
 <item>
-<title>   SK \ TV Bratislava \ -47d</title>
+<title>   SK \ TV Bratislava \ -48d</title>
 <link>mms://81.89.49.210/tvbalive</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -8134,7 +8156,7 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 </item>
 
 <item>
-<title>   US \ MLB Network \ -30d</title>
+<title>   US \ MLB Network \ -31d</title>
 <link>rtmp://live38.seeon.tv/edge/havgswiueguuv21 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=12460&amp;autoplay=true tcUrl=rtmp://live38.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </item>
@@ -8156,7 +8178,29 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <items>
 
 <item>
-<title>   BR \ megapix \ -2h</title>
+<title>   BR \ tv record br \ -1h</title>
+<link><item>
+<title>br \ record</title>
+<link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
+pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp timeout=60</link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item></link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item>
+
+<item>
+<title>   BR \  \ -1h</title>
+<link><item>
+<title>br \ record</title>
+<link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
+pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp timeout=60</link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item></link>
+<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ megapix \ -3h</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
 pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive.net/133_182/master11.flv timeout=60</link>
 <thumbnail>http://brasilantenado.files.wordpress.com/2010/05/megapix1.jpg</thumbnail>
@@ -8444,18 +8488,6 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/72/China_Central_TV-13.png</thumbnail>
 </item>
 
-<item>
-<title>+ US \ 31.8 銀視數碼台 Los Angeles free-to-air network</title>
-<link>mms://4.71.37.8/tctv-200</link>
-<thumbnail>http://www.wcetvdigital.com/images/logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ HONG KONG \ ATV 亞洲電視有限公司 Hong Kong</title>
-<link>mms://4.71.37.8/atv-200</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/81/Asia_Television_Limited.png</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8471,11 +8503,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 30/07/2011 17:52:51 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 30/07/2011 18:52:40 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 825</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 283</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1108</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 285</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1110</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
