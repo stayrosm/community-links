@@ -525,7 +525,7 @@
 <channel><name>Bengali \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Bengali.png</thumbnail><items>
 
 <item>
-<title>   UK \ MTA 1 Bangali \ -5h</title>
+<title>   UK \ MTA 1 Bangali \ -6h</title>
 <link>mms://ms.mta.tv/Bengali</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </item>
@@ -1058,7 +1058,7 @@
 </subitem>
 
 <subitem>
-<title>   CN \ 南京新闻综合 \ -18d</title>
+<title>   CN \ 南京新闻综合 \ -19d</title>
 <link>mms://218.94.122.203/njtvxw?<auth>2919188386226474@2662@D850E66F666BF66D177166709D0C6C97</auth><auth>8289188386225397@2663@A4A4A4561EA94731E7718C57AC40EBB5</auth></link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -1178,7 +1178,7 @@
 </item>
 
 <item>
-<title>   CZ \ Nova TV \ -76d</title>
+<title>   CZ \ Nova TV \ -77d</title>
 <link>http://79.127.143.125:8080/nova</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gvsj4.png</thumbnail>
 </item>
@@ -1196,7 +1196,7 @@
 </item>
 
 <item>
-<title>   CZ \ Public TV \ -60d</title>
+<title>   CZ \ Public TV \ -61d</title>
 <link>http://79.127.143.125:8081/public</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/public_tv.png</thumbnail>
 </item>
@@ -1781,7 +1781,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ the CW \ -9d</title>
+<title>   US \ the CW \ -10d</title>
 <link>rtmp://live9.seeon.tv/edge/0pa79xxu0eu530q swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/3968/CW_LIVE tcUrl=rtmp://live9.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.observer.com/files/full/CW_logo_color.jpg</thumbnail>
 </subitem>
@@ -2217,7 +2217,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ MTA 1 English \ -5h</title>
+<title>   UK \ MTA 1 English \ -6h</title>
 <link>mms://ms.mta.tv/English300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </subitem>
@@ -2863,7 +2863,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ MTA 1 French \ -5h</title>
+<title>   UK \ MTA 1 French \ -6h</title>
 <link>mms://ms.mta.tv/French300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </subitem>
@@ -3288,7 +3288,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ MTA 1 German \ -5h</title>
+<title>   UK \ MTA 1 German \ -6h</title>
 <link>mms://ms.mta.tv/German300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </subitem>
@@ -4199,8 +4199,8 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 82</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 55</name>
+<channel><name>Portuguese \ 92</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 62</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -4211,7 +4211,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \  \ -13h</title>
+<title>   BR \  \ -14h</title>
 <link><subitem>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -4231,6 +4231,18 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <title>+ BR \ ARTV</title>
 <link>mms://midia.contato.net/artv</link>
 <thumbnail>http://admin.bonsound.com/system/files/news/image/746/medium/artv_quebec.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ A&amp;E \ -0h</title>
+<link><subitem>
+<title>br \A&amp;E</title>
+<link>rtmp://streamer.istreamlive.net/brlive2/ae.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/ae.flv</link>
+<link>timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -4270,9 +4282,33 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
+<title>   BR \ gnt \ -0h</title>
+<link><subitem>
+<title>br \gnt</title>
+<link>rtmp://streamer.istreamlive.net/35_137/esportestv11.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv11.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail>
+</subitem>
+
+<subitem>
 <title>   BR \ HBO \ -46d</title>
 <link>rtmp://streamer.istreamlive.net/37_brlive/brlive_0006 app=37_brlive/ pageUrl=http://www.cdnbr.org/mastertv/HBO.htm swfUrl=http://www.cdnbr.eu/swf/player.swf tcUrl=rtmp://streamer.istreamlive.net/37_brlive/ playPath=brlive_0006 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ HBO \ -0h</title>
+<link><subitem>
+<title>br \HBO </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master10.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rrtmp://streamer.istreamlive.net/133_182/master10.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg</thumbnail>
 </subitem>
 
 <subitem>
@@ -4288,7 +4324,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ history channel BRASIL \ -12h</title>
+<title>   BR \ history channel BRASIL \ -13h</title>
 <link><subitem>
 <title>br \ history</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -4299,7 +4335,18 @@ pageUrl=http://br.tuhistory.com/home.html tcUrl=rtmp://streamer.istreamlive.net/
 </subitem>
 
 <subitem>
-<title>   BR \ megapix \ -16h</title>
+<title>   BR \ max hd \ -0h</title>
+<link><subitem>
+<title>br \maxhd</title>
+<link>rtmp://streamer.istreamlive.net/brlive2/maxhd.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/maxhd.flv timeout=60</link>
+<thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/TKDKpM2lTFI/AAAAAAAAOJw/wNr68wu7gmY/s1600/max-hd.gif</thumbnail>
+</subitem></link>
+<thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/TKDKpM2lTFI/AAAAAAAAOJw/wNr68wu7gmY/s1600/max-hd.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ megapix \ -17h</title>
 <link><subitem>
 <title>br \ megapix</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
@@ -4316,7 +4363,7 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 </subitem>
 
 <subitem>
-<title>   BR \ RedeTV! \ -13h</title>
+<title>   BR \ RedeTV! \ -14h</title>
 <link><subitem>
 <title>br \ RedeTV</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master23.flv swfUrl=http://www.cdnbr.org/swf/player.swf
@@ -4333,9 +4380,45 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </subitem>
 
 <subitem>
+<title>   BR \ telecine action \ -0h</title>
+<link><subitem>
+<title>br \telecine action </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master17.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master17.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ BR \ Telecine Pipoca</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master18.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telecine_pipoca.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ telecine pipoca \ -0h</title>
+<link><subitem>
+<title>br \telecine pipoca </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master18.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master18.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ telecine touch \ -0h</title>
+<link><subitem>
+<title>br \telecine touch </title>
+<link>rtmp://streamer.istreamlive.net/brlive2/touch.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/touch.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -4351,7 +4434,7 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </subitem>
 
 <subitem>
-<title>   BR \ tv record br \ -13h</title>
+<title>   BR \ tv record br \ -14h</title>
 <link><subitem>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -4583,7 +4666,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subchannel>
 
 <subchannel>
-<name>PT \ Kids \ 9</name>
+<name>PT \ Kids \ 11</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <subitems>
 
@@ -4606,9 +4689,33 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
+<title>   BR \ Discovery_Kids \ -0h</title>
+<link><subitem>
+<title>br \Discovery_Kids</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master24.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master24.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6a/Logotipo_do_canal_Discovery_Kids.jpeg</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6a/Logotipo_do_canal_Discovery_Kids.jpeg</thumbnail>
+</subitem>
+
+<subitem>
 <title>   BR \ Disney \ -25d</title>
 <link>rtmp://go.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ Nick Jr. \ -0h</title>
+<link><subitem>
+<title>br \Nick Jr.</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master34.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master34.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg</thumbnail>
+</subitem></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg</thumbnail>
 </subitem>
 
 <subitem>
@@ -4618,7 +4725,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ tooncast \ -10h</title>
+<title>   BR \ tooncast \ -11h</title>
 <link><subitem>
 <title>br \ tooncast </title>
 <link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -4655,7 +4762,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <subitems>
 
 <subitem>
-<title>   BR \ MTV BR \ -8h</title>
+<title>   BR \ MTV BR \ -9h</title>
 <link><subitem>
 <title>br \ MTV BR </title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv41.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -4709,7 +4816,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subchannel>
 
 <subchannel>
-<name>PT \ Sports \ 11</name>
+<name>PT \ Sports \ 12</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
 
@@ -4735,6 +4842,16 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <title>   BR \ ESPN HD \ -8d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd_asia.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ ESPN HD \ -0h</title>
+<link><subitem>
+<title>br \ESPN HD</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flv
+timeout=60</link></link>
+<thumbnail>http://www.foxcitiestv.com/files/images/espn.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -5256,7 +5373,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   CL \ Arica TV \ -17d</title>
+<title>   CL \ Arica TV \ -18d</title>
 <link>mms://wms.digitalproserver.com/aricatv</link>
 <thumbnail>http://thestreamdb.com/images/8gvjcu.jpg</thumbnail>
 </subitem>
@@ -5936,7 +6053,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   AR \ TN 24horas \ -58d</title>
+<title>   AR \ TN 24horas \ -59d</title>
 <link>mms://streamtn.uigc.net/TN</link>
 <thumbnail>http://www.regionvalle37.com.mx/tvvalle/Images/TN_24_horas_Argentina.jpg</thumbnail>
 </subitem>
@@ -7130,7 +7247,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subchannels></channel>=== Kids ===========================================================================================
 
 <channel>
-<name>All Kids \ 28</name>
+<name>All Kids \ 30</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <items>
 
@@ -7153,9 +7270,33 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
+<title>   BR \ Discovery_Kids \ -0h</title>
+<link><item>
+<title>br \Discovery_Kids</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master24.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master24.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6a/Logotipo_do_canal_Discovery_Kids.jpeg</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6a/Logotipo_do_canal_Discovery_Kids.jpeg</thumbnail>
+</item>
+
+<item>
 <title>   BR \ Disney \ -25d</title>
 <link>rtmp://go.thetvathome.com/estadio54/disney swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_pt.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ Nick Jr. \ -0h</title>
+<link><item>
+<title>br \Nick Jr.</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master34.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master34.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg</thumbnail>
 </item>
 
 <item>
@@ -7165,7 +7306,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ tooncast \ -10h</title>
+<title>   BR \ tooncast \ -11h</title>
 <link><item>
 <title>br \ tooncast </title>
 <link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -7360,7 +7501,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   PH \ Boracay Island \ White Beach \ HD \ -5d</title>
+<title>   PH \ Boracay Island \ White Beach \ HD \ -6d</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=philippinesHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -7592,7 +7733,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ MTV BR \ -8h</title>
+<title>   BR \ MTV BR \ -9h</title>
 <link><item>
 <title>br \ MTV BR </title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv41.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -7926,7 +8067,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 59</name>
+<name>All Sports \ 60</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -7994,6 +8135,16 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <title>   BR \ ESPN HD \ -8d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd_asia.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ ESPN HD \ -0h</title>
+<link><item>
+<title>br \ESPN HD</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flv
+timeout=60</link></link>
+<thumbnail>http://www.foxcitiestv.com/files/images/espn.png</thumbnail>
 </item>
 
 <item>
@@ -8295,25 +8446,142 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <items>
 
 <item>
+<title>   BR \ gnt \ -0h</title>
+<link><item>
+<title>br \gnt</title>
+<link>rtmp://streamer.istreamlive.net/35_137/esportestv11.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv11.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ Nick Jr. \ -0h</title>
+<link><item>
+<title>br \Nick Jr.</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master34.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master34.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ ESPN HD \ -0h</title>
+<link><item>
+<title>br \ESPN HD</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flv
+timeout=60</link></link>
+<thumbnail>http://www.foxcitiestv.com/files/images/espn.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ Discovery_Kids \ -0h</title>
+<link><item>
+<title>br \Discovery_Kids</title>
+<link>rtmp://streamer.istreamlive.net/133_182/master24.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master24.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6a/Logotipo_do_canal_Discovery_Kids.jpeg</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/6a/Logotipo_do_canal_Discovery_Kids.jpeg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ telecine action \ -0h</title>
+<link><item>
+<title>br \telecine action </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master17.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master17.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ telecine touch \ -0h</title>
+<link><item>
+<title>br \telecine touch </title>
+<link>rtmp://streamer.istreamlive.net/brlive2/touch.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/touch.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ HBO \ -0h</title>
+<link><item>
+<title>br \HBO </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master10.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rrtmp://streamer.istreamlive.net/133_182/master10.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg</thumbnail>
+</item>
+
+<item>
+<title>   BR \ telecine pipoca \ -0h</title>
+<link><item>
+<title>br \telecine pipoca </title>
+<link>rtmp://streamer.istreamlive.net/133_182/master18.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master18.flv
+timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ A&amp;E \ -0h</title>
+<link><item>
+<title>br \A&amp;E</title>
+<link>rtmp://streamer.istreamlive.net/brlive2/ae.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/ae.flv</link>
+<link>timeout=60</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png</thumbnail>
+</item></link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>   BR \ max hd \ -0h</title>
+<link><item>
+<title>br \maxhd</title>
+<link>rtmp://streamer.istreamlive.net/brlive2/maxhd.flv swfUrl=http://www.onepieceofbleach.com/player.swf
+pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/maxhd.flv timeout=60</link>
+<thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/TKDKpM2lTFI/AAAAAAAAOJw/wNr68wu7gmY/s1600/max-hd.gif</thumbnail>
+</item></link>
+<thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/TKDKpM2lTFI/AAAAAAAAOJw/wNr68wu7gmY/s1600/max-hd.gif</thumbnail>
+</item>
+
+<item>
 <title>   UK \ MTA 1 Arabic</title>
 <link>mms://ms.mta.tv/Arabic300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </item>
 
 <item>
-<title>   UK \ MTA 1 Bangali \ -5h</title>
+<title>   UK \ MTA 1 Bangali \ -6h</title>
 <link>mms://ms.mta.tv/Bengali</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </item>
 
 <item>
-<title>   UK \ MTA 1 German \ -5h</title>
+<title>   UK \ MTA 1 German \ -6h</title>
 <link>mms://ms.mta.tv/German300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </item>
 
 <item>
-<title>   UK \ MTA 1 French \ -5h</title>
+<title>   UK \ MTA 1 French \ -6h</title>
 <link>mms://ms.mta.tv/French300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </item>
@@ -8325,7 +8593,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   UK \ MTA 1 English \ -5h</title>
+<title>   UK \ MTA 1 English \ -6h</title>
 <link>mms://ms.mta.tv/English300k</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mta_international.jpg</thumbnail>
 </item>
@@ -8337,7 +8605,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ MTV BR \ -8h</title>
+<title>   BR \ MTV BR \ -9h</title>
 <link><item>
 <title>br \ MTV BR </title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv41.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -8348,7 +8616,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ tooncast \ -10h</title>
+<title>   BR \ tooncast \ -11h</title>
 <link><item>
 <title>br \ tooncast </title>
 <link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -8359,7 +8627,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ history channel BRASIL \ -12h</title>
+<title>   BR \ history channel BRASIL \ -13h</title>
 <link><item>
 <title>br \ history</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://www.onepieceofbleach.com/player.swf
@@ -8370,7 +8638,7 @@ pageUrl=http://br.tuhistory.com/home.html tcUrl=rtmp://streamer.istreamlive.net/
 </item>
 
 <item>
-<title>   BR \ RedeTV! \ -13h</title>
+<title>   BR \ RedeTV! \ -14h</title>
 <link><item>
 <title>br \ RedeTV</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master23.flv swfUrl=http://www.cdnbr.org/swf/player.swf
@@ -8381,7 +8649,7 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </item>
 
 <item>
-<title>   BR \ tv record br \ -13h</title>
+<title>   BR \ tv record br \ -14h</title>
 <link><item>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -8392,7 +8660,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \  \ -13h</title>
+<title>   BR \  \ -14h</title>
 <link><item>
 <title>br \ record</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
@@ -8403,7 +8671,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </item>
 
 <item>
-<title>   BR \ megapix \ -16h</title>
+<title>   BR \ megapix \ -17h</title>
 <link><item>
 <title>br \ megapix</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master11.flv swfUrl=http://www.cdnbr.org/swf/player.swf
@@ -8569,66 +8837,6 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <thumbnail>none</thumbnail>
 </item>
 
-<item>
-<title>   US \ espn deportes \ HD \ -18d</title>
-<link>http://veohcast.tv/channel.php?n=espnesp</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>+ CN \ TTV-3 台州公共财富</title>
-<link>mms://60.191.151.178/tztv3</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/6/6e/TaizhouTV.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ CN \ TTV-2 台州影视文化</title>
-<link>mms://60.191.151.178/tztv2</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/6/6e/TaizhouTV.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ CN \ TTV-1 台州新闻综合</title>
-<link>mms://60.191.151.178/tztv1</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/6/6e/TaizhouTV.jpg</thumbnail>
-</item>
-
-<item>
-<title>   CN \ NJBG 南京娱乐 \ -18d</title>
-<link>mms://218.94.122.203/njtvyl?<auth>3947188387516858@2667@326425859B3EC936C0493337F7902FE4</auth><auth>3186188387514223@2668@5A8095B9D8892F320FC63124525EC6F6</auth></link>
-<thumbnail>http://www.onlinetvcast.com/upload/tv/tv_276.png</thumbnail>
-</item>
-
-<item>
-<title>   CN \ 南京新闻综合 \ -18d</title>
-<link>mms://218.94.122.203/njtvxw?<auth>2919188386226474@2662@D850E66F666BF66D177166709D0C6C97</auth><auth>8289188386225397@2663@A4A4A4561EA94731E7718C57AC40EBB5</auth></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>+ CN \ 福建电视 - 东南卫视</title>
-<link>mms://202.109.202.12/setv?ZHVob25n</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/93/Southeast_Television.png</thumbnail>
-</item>
-
-<item>
-<title>+ US \ CCTV 4 中文国际频道</title>
-<link>mms://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctv4</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/thumb/f/f1/Cctv.png/800px-Cctv.png</thumbnail>
-</item>
-
-<item>
-<title>   CN \ 鳳凰衛視資訊台 \ -19d</title>
-<link>mms://222.77.190.24/fhzx</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/1/16/Phoenix_InfoNews.svg</thumbnail>
-</item>
-
-<item>
-<title>   CN \ 凤凰卫视中文 \ -19d</title>
-<link>mms://222.77.190.24/fhzw</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/3/34/Phoenix_Chinese.svg</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8644,11 +8852,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 31/07/2011 07:46:00 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 31/07/2011 08:47:55 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 33</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 825</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 296</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1121</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 306</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1131</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
