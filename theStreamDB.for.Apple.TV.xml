@@ -237,21 +237,7 @@
 </items>
 </channel>
 
-<channel><name>Chinese \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
-<name>ZH \ Entertainment \ 1</name>
-<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
-<subitems>
-
-<subitem>
-<title>   HONG KONG \ HK Asia \ -19h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</subitem>
-
-</subitems>
-</subchannel>
-
-</subchannels></channel><channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
+<channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
 <title>+ HR \ GTV - Gradska Televizija Zadar</title>
@@ -502,8 +488,8 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 137</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
-<name>EN \ Entertainment \ 57</name>
+</subchannels></channel><channel><name>English \ 135</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
+<name>EN \ Entertainment \ 55</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -607,18 +593,6 @@
 <title>+ UK \ TVSCUBA</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   US \  \ HD \ -1d</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</subitem>
-
-<subitem>
-<title>   US \  \ HD \ -5h</title>
-<link></link>
-<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -2182,8 +2156,8 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 94</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 65</name>
+<channel><name>Portuguese \ 92</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 64</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2202,12 +2176,6 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
 </subitem></link>
 <thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   BR \  \ -1h</title>
-<link></link>
-<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -2748,15 +2716,9 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subchannel>
 
 <subchannel>
-<name>PT \ Sports \ 12</name>
+<name>PT \ Sports \ 11</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
-
-<subitem>
-<title>   BR \  \ -2h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</subitem>
 
 <subitem>
 <title>+ BR \ BAND SPORTS</title>
@@ -3066,24 +3028,7 @@ timeout=60</link>
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Select Language... \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
-
-<item>
-<title>   SELECT COUNTRY... \  \ -18h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   SELECT COUNTRY... \  \ -12h</title>
-<link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swfpageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flvtimeout=60</link>
-<thumbnail>none</thumbnail>
-</item>
-
-</items>
-</channel>
-
-<channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
+</subchannels></channel><channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
 
 <item>
 <title>+ SK \ musiq1</title>
@@ -3956,13 +3901,7 @@ timeout=60</link>
 </items>
 </channel>
 
-<channel><name>Urdu \ 7</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Urdu.png</thumbnail><items>
-
-<item>
-<title>   IN \ Mr</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
+<channel><name>Urdu \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Urdu.png</thumbnail><items>
 
 <item>
 <title>+ PK \ Dunya News</title>
@@ -4823,7 +4762,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 60</name>
+<name>All Sports \ 59</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -4843,12 +4782,6 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <title>+ BE \ Rtl Sports</title>
 <link>rtmp://m6weblivefs.fplive.net/m6weblive-live/m6web202 swfURL=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAYAGQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEBQYRABIhBzFBEyIUI1EIMmFicYEWFzORorGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEfp505fveJMkM1JqGIriUELaKt2RnPBGp2d0Pq0aREDNUjSIr7gbceQ0rLWc8kc8cd8jvpg+zwgO25cTalBKVOJSVHxlB51J3FGRaPRZ+HR33Z7S07PiW1haW96/ccjGE9wMDuRnzoFz+QUzbu/iKLt+vw5x/1pcvzpZJs6hJqrtVZloU8lrYhopPIJznJ+mnSsvvD7OsN0OrDm1r37jn+t9dY9RlKX0JtxSyVKKYhJJyT8pWgorXU0GtUrpz0+oyKs6QpMZHyEFPqrUrBXtSogkAq5+muc7LpZrN2Umn7N6XpSA4PyA5V/iDq4uvVuVSRJptxU1gyGYTex5sDdswrcFFOORyQf20DvaPUWg3YqQinuOMusJ3FqVsQtYwSSkBRJAxyfGRqJT1mtVUGRLzLAZWhHpFCPUXuzylO/kDHJ8ZH10j/H2jV7bq93QWlwrijQ/TeYb+W2lxxHpbkIBwUkqPPf66hbbp0KF0buKsTIzS5MqQmPGcWgKUACn7ue3KldvpoLujX/AEB+0zcvxIbhDcn03FoS6Vpz7AndjeQMhOckEajLZ6sW1cdVRToqpMd5wewy0obSo5ACQdxyo54GucIaZM9ulURoqKX5RWhGeCtwpbz/AGQNPfVSNAjdSqTTKUw1GbiNR21+kgJwdxVk47naU86C25PU63otYqNMfW8h6noWp5aggI9ndIJV3JIAHknGqT6r3pTrzr1MdhpkNwI7W1fqIAXlSvcQAT4A862+ltsRr+uqszK0lxyIkKecCFlBU44vKc48YCj38DWxaNLgVnrY8wxFaXTITjuGigbdjSfTTkefdt/XvoL/AKDPj1SjQp8NDiI77KVtJcGFBJHGf20a3Gm0MtIaaQlDaAEpQkYCQOwA0aDnLpJeVFtqg1uJVn1tvSyPSCWyrPsI/wBnWdBvGhsdIJttSpK0VFxLuxBbJSSVbk86NGgxqd5UV/ozGttt9ZqaA2FN+mccO7jz+mptd12LXen1Gt2vVGcwYrDHqfDN4UFoRtxkpIxyfGjRoPHpDRKO51KmzLdfkyKTT4oLTskDeXFgAg4A/P48amq1b12291DkXJRIRrMGSpRMUv7du5PIIPAwex50aNBWV2W7Vrep0io1lhqC9WZCgiE2r7iArergdgDsAH46nXLPvmfa1Ht+NAZdpLhRNbkJVtKVOJyUuZV43HsNGjQStc6aXDbldo9XtqM3VBCQxlokD5iBycZHtJGe+edYN2Bd9eqNYuWsQmo099lxLEQOcla0+mPJwEpJI57gaNGgeujVoVC06FPbqraG5kqRu2pUFAICQE8j8SrSh00tG8bUvtS5FNZVDkhTcmYo7khH3spwoHJIA5B0aNBeejRo0H//2Q==</thumbnail>
-</item>
-
-<item>
-<title>   BR \  \ -2h</title>
-<link></link>
-<thumbnail>none</thumbnail>
 </item>
 
 <item>
@@ -5122,50 +5055,6 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   BR \  \ -1h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   BR \  \ -2h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   US \  \ HD \ -5h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   SELECT COUNTRY... \  \ -12h</title>
-<link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swf
-pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flv
-timeout=60</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   IN \ Mr</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   SELECT COUNTRY... \  \ -18h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>   HONG KONG \ HK Asia \ -19h</title>
-<link></link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
 <title>   BR \ diney xd \ -1d</title>
 <link><item>
 <title>diney xd</title>
@@ -5174,12 +5063,6 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </item></link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
-</item>
-
-<item>
-<title>   US \  \ HD \ -1d</title>
-<link></link>
-<thumbnail>none</thumbnail>
 </item>
 
 <item>
@@ -5404,6 +5287,60 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <thumbnail>data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAYAGQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEBQYRABIhBzFBEyIUI1EIMmFicYEWFzORorGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEfp505fveJMkM1JqGIriUELaKt2RnPBGp2d0Pq0aREDNUjSIr7gbceQ0rLWc8kc8cd8jvpg+zwgO25cTalBKVOJSVHxlB51J3FGRaPRZ+HR33Z7S07PiW1haW96/ccjGE9wMDuRnzoFz+QUzbu/iKLt+vw5x/1pcvzpZJs6hJqrtVZloU8lrYhopPIJznJ+mnSsvvD7OsN0OrDm1r37jn+t9dY9RlKX0JtxSyVKKYhJJyT8pWgorXU0GtUrpz0+oyKs6QpMZHyEFPqrUrBXtSogkAq5+muc7LpZrN2Umn7N6XpSA4PyA5V/iDq4uvVuVSRJptxU1gyGYTex5sDdswrcFFOORyQf20DvaPUWg3YqQinuOMusJ3FqVsQtYwSSkBRJAxyfGRqJT1mtVUGRLzLAZWhHpFCPUXuzylO/kDHJ8ZH10j/H2jV7bq93QWlwrijQ/TeYb+W2lxxHpbkIBwUkqPPf66hbbp0KF0buKsTIzS5MqQmPGcWgKUACn7ue3KldvpoLujX/AEB+0zcvxIbhDcn03FoS6Vpz7AndjeQMhOckEajLZ6sW1cdVRToqpMd5wewy0obSo5ACQdxyo54GucIaZM9ulURoqKX5RWhGeCtwpbz/AGQNPfVSNAjdSqTTKUw1GbiNR21+kgJwdxVk47naU86C25PU63otYqNMfW8h6noWp5aggI9ndIJV3JIAHknGqT6r3pTrzr1MdhpkNwI7W1fqIAXlSvcQAT4A862+ltsRr+uqszK0lxyIkKecCFlBU44vKc48YCj38DWxaNLgVnrY8wxFaXTITjuGigbdjSfTTkefdt/XvoL/AKDPj1SjQp8NDiI77KVtJcGFBJHGf20a3Gm0MtIaaQlDaAEpQkYCQOwA0aDnLpJeVFtqg1uJVn1tvSyPSCWyrPsI/wBnWdBvGhsdIJttSpK0VFxLuxBbJSSVbk86NGgxqd5UV/ozGttt9ZqaA2FN+mccO7jz+mptd12LXen1Gt2vVGcwYrDHqfDN4UFoRtxkpIxyfGjRoPHpDRKO51KmzLdfkyKTT4oLTskDeXFgAg4A/P48amq1b12291DkXJRIRrMGSpRMUv7du5PIIPAwex50aNBWV2W7Vrep0io1lhqC9WZCgiE2r7iArergdgDsAH46nXLPvmfa1Ht+NAZdpLhRNbkJVtKVOJyUuZV43HsNGjQStc6aXDbldo9XtqM3VBCQxlokD5iBycZHtJGe+edYN2Bd9eqNYuWsQmo099lxLEQOcla0+mPJwEpJI57gaNGgeujVoVC06FPbqraG5kqRu2pUFAICQE8j8SrSh00tG8bUvtS5FNZVDkhTcmYo7khH3spwoHJIA5B0aNBeejRo0H//2Q==</thumbnail>
 </item>
 
+<item>
+<title>+ BE \ Rtl Tvi</title>
+<link>rtmp://m6weblivefs.fplive.net/m6weblive-live/m6web201 swfURL=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.rtl.be/rtlutils/pics/div/2010_12_22/528x197/RTL.jpg</thumbnail>
+</item>
+
+<item>
+<title>   BE \ La une \ -10d</title>
+<link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
+<thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
+</item>
+
+<item>
+<title>+ BE \ La deux</title>
+<link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
+<thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
+</item>
+
+<item>
+<title>   UK \ ESPN HD \ HD \ -14d</title>
+<link>http://www.assistirtvonline.eu/canais/Canal-Espn-HD.html</link>
+<thumbnail>http://static.which.net/media/images/in-content2/espn-hd-logo-184150.jpg</thumbnail>
+</item>
+
+<item>
+<title>+ PT \ AXN Black</title>
+<link>rtmp://hs8hl2a.thetvathome.com/estadio54/axnblack.flv swfUrl=http://www.televisaofutebol.com/player2.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_black_pt.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ Canal Porto \ -14d</title>
+<link>rtmp://arrisco.flashwebtown.com/live/myStream.sdp.flv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageURL=http://www.tvdez.com/portocanal swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/porto_canal.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP Açores \ -14d</title>
+<link>rtmp://50.30.32.198/rtpa/myStream.sdp swfUrl=http://www.tvdez.com/player9.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_acores.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP Madeira \ -14d</title>
+<link>rtmp://195.245.168.33:80/livetv/_definst_/2ch1016h264H14 swfUrl=http://www0.rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_madeira.jpg</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP Mobile \ -14d</title>
+<link>rtmp://195.245.168.33:80/livetv/_definst_/2ch141h264 swfUrl=http://www0.rtp.pt/play/ swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_mobile.png</thumbnail>
+</item>
+
 </items>
 </channel>
 
@@ -5419,11 +5356,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 03/08/2011 06:50:10 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 03/08/2011 06:58:40 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 824</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 324</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1148</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 315</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1139</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
