@@ -488,8 +488,8 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 139</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
-<name>EN \ Entertainment \ 55</name>
+</subchannels></channel><channel><name>English \ 140</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
+<name>EN \ Entertainment \ 56</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -509,6 +509,12 @@
 <title>   JM \ Television Jamaica \ -62d</title>
 <link>rtmp://brightcove.fc.llnwd.net/brightcove/107/TVJLiveStream?videoId=802590149001&amp;lineUpId=&amp;pubId=76009372001&amp;playerId=75997063001 live=true timeout=60</link>
 <thumbnail>http://www.televisionjamaica.com/SiteImages/Banners/Banner8.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   TT \ TV6 \ -1h</title>
+<link>http://www.tv6tnt.tv/TV6_Brightcove/default2.html</link>
+<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -608,7 +614,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ A&amp;E \ -35d</title>
+<title>   US \ A&amp;E \ -36d</title>
 <link>rtmp://live11.seeon.tv/edge/c6kalwcnuh4lnda swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/1261/pctv1 tcUrl=rtmp://live11.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_us.png</thumbnail>
 </subitem>
@@ -852,7 +858,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA \ -100d</title>
+<title>   US \ NASA \ -101d</title>
 <link>rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1012,7 +1018,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ mtv \ HD \ -15h</title>
+<title>   US \ mtv \ HD \ -16h</title>
 <link></link>
 <thumbnail>rtmp://live4.seeon.tv/edge/wcjuy97fm0aot86 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/15130/Music_Television tcUrl=rtmp://live4.seeon.tv/edge</thumbnail>
 </subitem>
@@ -2778,7 +2784,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ SporTV \ -50d</title>
+<title>   BR \ SporTV \ -51d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0017.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv.png</thumbnail>
 </subitem>
@@ -3086,7 +3092,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \  \ -1d</title>
+<title>   SELECT COUNTRY... \  \ -2d</title>
 <link></link>
 <thumbnail>rtmp://live4.seeon.tv/edge/lfq0yzu2p8e0kd9 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14451/Cartoon_Network tcUrl=rtmp://live4.seeon.tv/edge</thumbnail>
 </item>
@@ -3327,7 +3333,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   US \ Playboy Venus \ -12h</title>
+<title>   US \ Playboy Venus \ -13h</title>
 <link>http://limev.com/DSADA322</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Playboy-Venus-Channel.jpeg</thumbnail>
 </subitem>
@@ -4842,7 +4848,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ mtv \ HD \ -15h</title>
+<title>   US \ mtv \ HD \ -16h</title>
 <link></link>
 <thumbnail>rtmp://live4.seeon.tv/edge/wcjuy97fm0aot86 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/15130/Music_Television tcUrl=rtmp://live4.seeon.tv/edge</thumbnail>
 </item>
@@ -4914,7 +4920,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ SporTV \ -50d</title>
+<title>   BR \ SporTV \ -51d</title>
 <link>rtmp://live.tvonlinegratisaovivo.com:1935/redirect/brlive_0017.flv swfUrl=http://www.cdnbr.org/swf/player.swf pageUrl=http://www.assistirtvonline.net/index.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportv.png</thumbnail>
 </item>
@@ -5182,19 +5188,25 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   US \ Playboy Venus \ -12h</title>
+<title>   TT \ TV6 \ -1h</title>
+<link>http://www.tv6tnt.tv/TV6_Brightcove/default2.html</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   US \ Playboy Venus \ -13h</title>
 <link>http://limev.com/DSADA322</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Playboy-Venus-Channel.jpeg</thumbnail>
 </item>
 
 <item>
-<title>   US \ mtv \ HD \ -15h</title>
+<title>   US \ mtv \ HD \ -16h</title>
 <link></link>
 <thumbnail>rtmp://live4.seeon.tv/edge/wcjuy97fm0aot86 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/15130/Music_Television tcUrl=rtmp://live4.seeon.tv/edge</thumbnail>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \  \ -1d</title>
+<title>   SELECT COUNTRY... \  \ -2d</title>
 <link></link>
 <thumbnail>rtmp://live4.seeon.tv/edge/lfq0yzu2p8e0kd9 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14451/Cartoon_Network tcUrl=rtmp://live4.seeon.tv/edge</thumbnail>
 </item>
@@ -5457,12 +5469,6 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <thumbnail>none</thumbnail>
 </item>
 
-<item>
-<title>   FR \ DirectStar \ -20d</title>
-<link>rtmp://85.17.84.196:80/rtpdirectstarlive swfUrl=http://direct8.hexaglobe.com/flowplayer/flowplayer.commercial-3.1.5.swf?0.6977526676426334 playpath=directstar-flash-750.sdp live=true timeout=60</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfs.png</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -5478,11 +5484,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 10/08/2011 12:45:39 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 10/08/2011 13:48:32 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 822</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 331</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1153</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 332</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1154</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
