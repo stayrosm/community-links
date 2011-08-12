@@ -243,7 +243,21 @@
 </items>
 </channel>
 
-<channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
+<channel><name>Chinese \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Chinese.png</thumbnail><subchannels><subchannel>
+<name>ZH \ Entertainment \ 1</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
+<subitems>
+
+<subitem>
+<title>   CN \ cctv5 \ -0h</title>
+<link></link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+</subitems>
+</subchannel>
+
+</subchannels></channel><channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
 <title>+ HR \ GTV - Gradska Televizija Zadar</title>
@@ -299,7 +313,7 @@
 </item>
 
 <item>
-<title>   CZ \ Prima TV \ -19d</title>
+<title>   CZ \ Prima TV \ -20d</title>
 <link>http://79.127.143.125:8080/prima</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gvsj5.png</thumbnail>
 </item>
@@ -716,7 +730,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ lifetime movie network \ -15h</title>
+<title>   US \ lifetime movie network \ -16h</title>
 <link></link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -1416,7 +1430,7 @@
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -19d</title>
+<title>   BE \ La une \ -20d</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1434,7 +1448,7 @@
 </subitem>
 
 <subitem>
-<title>   CA \ TVA \ HD \ -17h</title>
+<title>   CA \ TVA \ HD \ -18h</title>
 <link>rtmp://cp39414.live.edgefcs.net/live/tvahd@9750 swfURL=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cfcm_quebec.png</thumbnail>
 </subitem>
@@ -2311,7 +2325,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ HBO plus \ -19d</title>
+<title>   BR \ HBO plus \ -20d</title>
 <link>rtmp://cdn2.mastertv.net/ueba23/hboplus swfUrl=http://tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hboplus.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_plus.png</thumbnail>
 </subitem>
@@ -2643,7 +2657,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ diney xd \ -10d</title>
+<title>   BR \ diney xd \ -11d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </subitem>
@@ -2855,13 +2869,13 @@ timeout=60</link>
 </subchannels></channel><channel><name>Romanian \ 14</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Romanian.png</thumbnail><items>
 
 <item>
-<title>   MD \ Noroc tv \ -5d</title>
+<title>   MD \ Noroc tv \ -6d</title>
 <link>rtmp://live.noroc.tv/live/noroctv/ playpath=livestream swfUrl=http://www.noroc.tv/live/player.swf pageURL=http://www.noroc.tv/live/index.htm live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash2/27519_159376064112_137_q.jpg</thumbnail>
 </item>
 
 <item>
-<title>   MD \ Publika TV \ -5d</title>
+<title>   MD \ Publika TV \ -6d</title>
 <link>rtmp://212.56.196.108/live/livestream app=live swfUrl=http://assets.publika.md/images/publikatv.swf pageURL=http://www.publika.md/live live=true timeout=60</link>
 <thumbnail>http://assets.publika.md/images/logo.jpg</thumbnail>
 </item>
@@ -3153,7 +3167,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CO \ CARACOL \ -33d</title>
+<title>   CO \ CARACOL \ -34d</title>
 <link>http://www.seeon.tv/channels/16236/caracol1</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -3644,7 +3658,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TH \ Mongkol Channel \ -19d</title>
+<title>   TH \ Mongkol Channel \ -20d</title>
 <link>rtmp://wzstream8.truelife.com/live playpath=stv_mongkol_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/mongkol" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mongkol_channel.jpg</thumbnail>
 </subitem>
@@ -3668,7 +3682,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TH \ TPBS \ -19d</title>
+<title>   TH \ TPBS \ -20d</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_titv_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/freetoair/tpbs" live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8grbm2.jpg</thumbnail>
 </subitem>
@@ -3732,7 +3746,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   TH \ Channel 9 (MCOT) \ -19d</title>
+<title>   TH \ Channel 9 (MCOT) \ -20d</title>
 <link>rtmp://61.47.61.3/live/ playpath=myStream swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.thaitvnow.com/tv/data/13-16-57-24-06-2011.php live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gr9jq.jpg</thumbnail>
 </subitem>
@@ -3750,7 +3764,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TH \ TNN 24 \ -19d</title>
+<title>   TH \ TNN 24 \ -20d</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=ftv_truenews_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/freetoair/tnn" live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gr9g2.jpg</thumbnail>
 </subitem>
@@ -4235,7 +4249,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ diney xd \ -10d</title>
+<title>   BR \ diney xd \ -11d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </item>
@@ -4704,7 +4718,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   MD \ Noroc tv \ -5d</title>
+<title>   MD \ Noroc tv \ -6d</title>
 <link>rtmp://live.noroc.tv/live/noroctv/ playpath=livestream swfUrl=http://www.noroc.tv/live/player.swf pageURL=http://www.noroc.tv/live/index.htm live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash2/27519_159376064112_137_q.jpg</thumbnail>
 </item>
@@ -5212,13 +5226,19 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   US \ lifetime movie network \ -15h</title>
+<title>   CN \ cctv5 \ -0h</title>
 <link></link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   CA \ TVA \ HD \ -17h</title>
+<title>   US \ lifetime movie network \ -16h</title>
+<link></link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   CA \ TVA \ HD \ -18h</title>
 <link>rtmp://cp39414.live.edgefcs.net/live/tvahd@9750 swfURL=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cfcm_quebec.png</thumbnail>
 </item>
@@ -5278,13 +5298,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   MD \ Publika TV \ -5d</title>
+<title>   MD \ Publika TV \ -6d</title>
 <link>rtmp://212.56.196.108/live/livestream app=live swfUrl=http://assets.publika.md/images/publikatv.swf pageURL=http://www.publika.md/live live=true timeout=60</link>
 <thumbnail>http://assets.publika.md/images/logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>   MD \ Noroc tv \ -5d</title>
+<title>   MD \ Noroc tv \ -6d</title>
 <link>rtmp://live.noroc.tv/live/noroctv/ playpath=livestream swfUrl=http://www.noroc.tv/live/player.swf pageURL=http://www.noroc.tv/live/index.htm live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash2/27519_159376064112_137_q.jpg</thumbnail>
 </item>
@@ -5326,7 +5346,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ diney xd \ -10d</title>
+<title>   BR \ diney xd \ -11d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </item>
@@ -5480,13 +5500,6 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 <thumbnail>https://lh3.googleusercontent.com/-5HY5SvLvgXY/TjYkAK6g21I/AAAAAAAAAGs/mMogtOrFqzQ/rede%252520tv.jpg</thumbnail>
 </item>
 
-<item>
-<title>   BR \ tv record br \ -13d</title>
-<link>rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp swfUrl=http://www.serv-vto.com/player4.7.swf
-pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv18.sdp timeout=60</link>
-<thumbnail>http://cratonoticias.files.wordpress.com/2011/07/record.jpg</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -5502,11 +5515,11 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 12/08/2011 16:44:22 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 12/08/2011 17:46:34 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 4</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 822</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 337</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1159</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 338</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1160</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
