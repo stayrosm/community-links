@@ -19,8 +19,8 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 64</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
-<name>AR \ Entertainment \ 36</name>
+<channel><name>Arabic \ 65</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<name>AR \ Entertainment \ 37</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -166,6 +166,12 @@
 <title>   KW \ قناة الوطن بلاس</title>
 <link>mms://stream8.netro.ca/watantv/watanplus</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_watan_plus.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   LB \ MTV Lebanon</title>
+<link>rtmp://mtvlivefs.fplive.net/mtvlive-live/mtvLebanon@700h swfURL=http://static.l1ve.tv/swfbin/player-v3-1296679086.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -1391,7 +1397,7 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Nickelodeon \ -59d</title>
+<title>   NL \ Nickelodeon \ -60d</title>
 <link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
 <thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
 </subitem>
@@ -1417,7 +1423,7 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Slam TV \ -59d</title>
+<title>   NL \ Slam TV \ -60d</title>
 <link>mms://stream02.wm.slamtv.true.nl/slamtv?MSWMExt=.asf</link>
 <thumbnail>http://www.hammenaren.nl/afbeeldingen/slamfm.jpg</thumbnail>
 </subitem>
@@ -1481,7 +1487,7 @@
 </subitem>
 
 <subitem>
-<title>   IE \ RTÉ 2 \ -18d</title>
+<title>   IE \ RTÉ 2 \ -19d</title>
 <link>rtmpte://fmsod.rte.ie/live/rte2 swfurl=http://www.rte.ie/player/assets/player_403.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdffy.png</thumbnail>
 </subitem>
@@ -1601,7 +1607,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ ABC \ -6h</title>
+<title>   US \ ABC \ -7h</title>
 <link>http://www.stream2watch.com/index.php?option=com_videolist&amp;view=video&amp;Itemid=58&amp;videoid=13285</link>
 <thumbnail>http://www.stream2watch.tv/images/logos/Abc.jpg</thumbnail>
 </subitem>
@@ -3130,7 +3136,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -18d</title>
+<title>   DE \ HR \ -19d</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -3502,7 +3508,7 @@
 </item>
 
 <item>
-<title>   HU \ Dance TV \ -55d</title>
+<title>   HU \ Dance TV \ -56d</title>
 <link>mms://stream02.gtk.hu/dance_tvd</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dance_tv_nl.jpg</thumbnail>
 </item>
@@ -3728,7 +3734,7 @@
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -20d</title>
+<title>   IT \ Super Tennis \ -21d</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
@@ -4113,13 +4119,13 @@
 </item>
 
 <item>
-<title>   PL \ Comedy Central \ -24d</title>
+<title>   PL \ Comedy Central \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=21 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jn.png</thumbnail>
 </item>
 
 <item>
-<title>   PL \ Discovery Channel \ -24d</title>
+<title>   PL \ Discovery Channel \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=9 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jp.png</thumbnail>
 </item>
@@ -4143,7 +4149,7 @@
 </item>
 
 <item>
-<title>   PL \ Polsat \ -24d</title>
+<title>   PL \ Polsat \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=1 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jj.png</thumbnail>
 </item>
@@ -4161,7 +4167,7 @@
 </item>
 
 <item>
-<title>   PL \ TLC \ -24d</title>
+<title>   PL \ TLC \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=29 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jq.png</thumbnail>
 </item>
@@ -4197,13 +4203,13 @@
 </item>
 
 <item>
-<title>   PL \ TVN \ -24d</title>
+<title>   PL \ TVN \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=3 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jk.png</thumbnail>
 </item>
 
 <item>
-<title>   PL \ TVN 24 \ -24d</title>
+<title>   PL \ TVN 24 \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=2 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gh9jl.png</thumbnail>
 </item>
@@ -4227,7 +4233,7 @@
 </item>
 
 <item>
-<title>   PL \ TVP 2 \ -24d</title>
+<title>   PL \ TVP 2 \ -25d</title>
 <link>rtmp://app.weeb.tv/live/ playpath=6 swfUrl=http://static.weeb.tv/player.swf pageUrl=http://weeb.tv/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ghefy.png</thumbnail>
 </item>
@@ -4558,7 +4564,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ Fox Next \ -39d</title>
+<title>   PT \ Fox Next \ -40d</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/foxnext.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_next.png</thumbnail>
 </subitem>
@@ -4948,7 +4954,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ Dolce Sport 2 \ -104d</title>
+<title>   RO \ Dolce Sport 2 \ -105d</title>
 <link></link>
 <thumbnail>http://thestreamdb.com/images/8gdfu5.jpg</thumbnail>
 </item>
@@ -6298,7 +6304,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   TH \ ACTS Channel \ -92d</title>
+<title>   TH \ ACTS Channel \ -93d</title>
 <link>rtmp://wzstream3.truelife.com/live playpath=stv_actschannel_hd swfUrl="http://tv.truelife.com/assets/flash/bestplayer_preVersion.swf" pageUrl="http://tv.truelife.com/player/satellite/actsch" live=true timeout=60</link>
 <thumbnail>http://www.tss-services.com/images/1184740179/ACTS%20Channel.jpg</thumbnail>
 </subitem>
@@ -6700,7 +6706,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TR \ Hayat TV \ -83d</title>
+<title>   TR \ Hayat TV \ -84d</title>
 <link>rtsp://yayin.canlitv.com/hayattv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hayat_tv.png</thumbnail>
 </subitem>
@@ -7421,7 +7427,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   NL \ Nickelodeon \ -59d</title>
+<title>   NL \ Nickelodeon \ -60d</title>
 <link>http://www.garnierstreamingmedia.com/asx/nick_video_low.asp</link>
 <thumbnail>http://nickelodeonfansite.web-log.nl/photos/uncategorized/nicksplat.jpg</thumbnail>
 </item>
@@ -7886,7 +7892,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   HU \ Dance TV \ -55d</title>
+<title>   HU \ Dance TV \ -56d</title>
 <link>mms://stream02.gtk.hu/dance_tvd</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dance_tv_nl.jpg</thumbnail>
 </item>
@@ -7940,7 +7946,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   NL \ Slam TV \ -59d</title>
+<title>   NL \ Slam TV \ -60d</title>
 <link>mms://stream02.wm.slamtv.true.nl/slamtv?MSWMExt=.asf</link>
 <thumbnail>http://www.hammenaren.nl/afbeeldingen/slamfm.jpg</thumbnail>
 </item>
@@ -8324,7 +8330,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -20d</title>
+<title>   IT \ Super Tennis \ -21d</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
@@ -8396,7 +8402,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ Dolce Sport 2 \ -104d</title>
+<title>   RO \ Dolce Sport 2 \ -105d</title>
 <link></link>
 <thumbnail>http://thestreamdb.com/images/8gdfu5.jpg</thumbnail>
 </item>
@@ -8550,7 +8556,13 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   US \ ABC \ -6h</title>
+<title>   LB \ MTV Lebanon</title>
+<link>rtmp://mtvlivefs.fplive.net/mtvlive-live/mtvLebanon@700h swfURL=http://static.l1ve.tv/swfbin/player-v3-1296679086.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png</thumbnail>
+</item>
+
+<item>
+<title>   US \ ABC \ -7h</title>
 <link>http://www.stream2watch.com/index.php?option=com_videolist&amp;view=video&amp;Itemid=58&amp;videoid=13285</link>
 <thumbnail>http://www.stream2watch.tv/images/logos/Abc.jpg</thumbnail>
 </item>
@@ -8873,12 +8885,6 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
-<item>
-<title>   PL \ TVN CNBC \ -16d</title>
-<link>mms://213.180.132.136/media.wsx?/live/tvnbiznes_video</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvn_cnbc.png</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -8894,11 +8900,11 @@ pageUrl=ttp://www.cdnbr.org/canais/Megapix.htm tcUrl=rtmp://streamer.istreamlive
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 11/08/2011 22:45:21 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 11/08/2011 23:46:20 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 7</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 822</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 333</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1155</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 334</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1156</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
