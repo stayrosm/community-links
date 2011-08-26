@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 21</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 19</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 6</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -58,7 +58,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 12</name>
+<name>AR \ News \ 10</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -78,18 +78,6 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   IQ \ البغدادية</title>
-<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
-</subitem>
-
-<subitem>
-<title>   IR \ قناة العالم الاخبارية</title>
-<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -504,7 +492,7 @@
 <subitems>
 
 <subitem>
-<title>   NL \ AT5 \ -2h</title>
+<title>+ NL \ AT5</title>
 <link>rtmp://media.at5.nl/at5live playpath=at5live.sdp swfUrl="http://wwitv.com/tv_channels/player15.swf" pageUrl="http://wwitv.com/tv_channels/6599.htm" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/at5.png</thumbnail>
 </subitem>
@@ -578,7 +566,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ Channel 4 \ -16h</title>
+<title>   UK \ Channel 4 \ -18h</title>
 <link>rtmp://178.239.248.12/rtplive/unicast8.stream swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://dovyweb.com/ tcUrl=rtmp://178.239.248.12/rtplive/unicast8.stream timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdfg7.png</thumbnail>
 </subitem>
@@ -974,7 +962,7 @@
 <subitems>
 
 <subitem>
-<title>   US \ Cartoon Network \ -10h</title>
+<title>   US \ Cartoon Network \ -11h</title>
 <link>rtmp://live4.seeon.tv/edge/lfq0yzu2p8e0kd9 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14451/Cartoon_Network tcUrl=rtmp://live4.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjln.png</thumbnail>
 </subitem>
@@ -1116,7 +1104,7 @@
 </subitem>
 
 <subitem>
-<title>   IN \ NewsX \ -6h</title>
+<title>   IN \ NewsX \ -7h</title>
 <link>rtmp://85.17.147.139/paidrepeater139/_definst_/doConnect=3dft4e7rt/ playpath=29_8B8333ET swfUrl=http://cdn.freedocast.com/flowplayer.commercial-3.1.2.swf?0.6342348717153072 pageUrl=http://express.freedocast.com/forms/CustomePlayer.aspx?fid=2145109B&amp;ftype=stream&amp;width=430&amp;height=300 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a3/NewsX_Logo.png</thumbnail>
 </subitem>
@@ -1134,7 +1122,7 @@
 </subitem>
 
 <subitem>
-<title>+ QA \ Al Jazeera</title>
+<title>   QA \ Al Jazeera \ -1h</title>
 <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_english_2 swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" pageUrl="http://english.aljazeera.net/watch_now/" live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlh.png</thumbnail>
 </subitem>
@@ -1698,7 +1686,7 @@
 <subitems>
 
 <subitem>
-<title>   BE \ Rtl Sports \ -32d</title>
+<title>   BE \ Rtl Sports \ -33d</title>
 <link>rtmp://m6weblivefs.fplive.net/m6weblive-live/m6web202 swfURL=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAYAGQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEBQYRABIhBzFBEyIUI1EIMmFicYEWFzORorGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEfp505fveJMkM1JqGIriUELaKt2RnPBGp2d0Pq0aREDNUjSIr7gbceQ0rLWc8kc8cd8jvpg+zwgO25cTalBKVOJSVHxlB51J3FGRaPRZ+HR33Z7S07PiW1haW96/ccjGE9wMDuRnzoFz+QUzbu/iKLt+vw5x/1pcvzpZJs6hJqrtVZloU8lrYhopPIJznJ+mnSsvvD7OsN0OrDm1r37jn+t9dY9RlKX0JtxSyVKKYhJJyT8pWgorXU0GtUrpz0+oyKs6QpMZHyEFPqrUrBXtSogkAq5+muc7LpZrN2Umn7N6XpSA4PyA5V/iDq4uvVuVSRJptxU1gyGYTex5sDdswrcFFOORyQf20DvaPUWg3YqQinuOMusJ3FqVsQtYwSSkBRJAxyfGRqJT1mtVUGRLzLAZWhHpFCPUXuzylO/kDHJ8ZH10j/H2jV7bq93QWlwrijQ/TeYb+W2lxxHpbkIBwUkqPPf66hbbp0KF0buKsTIzS5MqQmPGcWgKUACn7ue3KldvpoLujX/AEB+0zcvxIbhDcn03FoS6Vpz7AndjeQMhOckEajLZ6sW1cdVRToqpMd5wewy0obSo5ACQdxyo54GucIaZM9ulURoqKX5RWhGeCtwpbz/AGQNPfVSNAjdSqTTKUw1GbiNR21+kgJwdxVk47naU86C25PU63otYqNMfW8h6noWp5aggI9ndIJV3JIAHknGqT6r3pTrzr1MdhpkNwI7W1fqIAXlSvcQAT4A862+ltsRr+uqszK0lxyIkKecCFlBU44vKc48YCj38DWxaNLgVnrY8wxFaXTITjuGigbdjSfTTkefdt/XvoL/AKDPj1SjQp8NDiI77KVtJcGFBJHGf20a3Gm0MtIaaQlDaAEpQkYCQOwA0aDnLpJeVFtqg1uJVn1tvSyPSCWyrPsI/wBnWdBvGhsdIJttSpK0VFxLuxBbJSSVbk86NGgxqd5UV/ozGttt9ZqaA2FN+mccO7jz+mptd12LXen1Gt2vVGcwYrDHqfDN4UFoRtxkpIxyfGjRoPHpDRKO51KmzLdfkyKTT4oLTskDeXFgAg4A/P48amq1b12291DkXJRIRrMGSpRMUv7du5PIIPAwex50aNBWV2W7Vrep0io1lhqC9WZCgiE2r7iArergdgDsAH46nXLPvmfa1Ht+NAZdpLhRNbkJVtKVOJyUuZV43HsNGjQStc6aXDbldo9XtqM3VBCQxlokD5iBycZHtJGe+edYN2Bd9eqNYuWsQmo099lxLEQOcla0+mPJwEpJI57gaNGgeujVoVC06FPbqraG5kqRu2pUFAICQE8j8SrSh00tG8bUvtS5FNZVDkhTcmYo7khH3spwoHJIA5B0aNBeejRo0H//2Q==</thumbnail>
 </subitem>
@@ -1814,7 +1802,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -1h</title>
+<title>   DE \ HR \ -2h</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -2005,7 +1993,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -11h</title>
+<title>   IS \ Alþingi \ -12h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -2330,7 +2318,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ History channel BRASIL \ -26d</title>
+<title>   BR \ History channel BRASIL \ -27d</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://tv-msn.com/player/player.swf
 pageUrl=http://tv-msn.com/history.html timeout=60</link>
 <thumbnail>https://lh5.googleusercontent.com/-_a0RH0M244M/TjYkAPWijaI/AAAAAAAAAGo/058PDCdhQMs/history.jpg</thumbnail>
@@ -2480,7 +2468,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ Canal Porto \ -37d</title>
+<title>   PT \ Canal Porto \ -38d</title>
 <link>rtmp://arrisco.flashwebtown.com/live/myStream.sdp.flv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageURL=http://www.tvdez.com/portocanal swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/porto_canal.jpg</thumbnail>
 </subitem>
@@ -2540,7 +2528,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ RTP Açores \ -37d</title>
+<title>   PT \ RTP Açores \ -38d</title>
 <link>rtmp://50.30.32.198/rtpa/myStream.sdp.flv swfUrl=http://tvacores.net/canais/directo.swf pageUrl=http://tvacores.net/rtp_acores_online.htm swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_acores.jpg</thumbnail>
 </subitem>
@@ -2564,7 +2552,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ RTP Madeira \ -37d</title>
+<title>   PT \ RTP Madeira \ -38d</title>
 <link>rtmp://195.245.168.33:80/livetv/_definst_/2ch1016h264H14 swfUrl=http://www0.rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_madeira.jpg</thumbnail>
 </subitem>
@@ -2576,7 +2564,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ RTP Mobile \ -37d</title>
+<title>   PT \ RTP Mobile \ -38d</title>
 <link>rtmp://195.245.168.33:80/livetv/_definst_/2ch141h264 swfUrl=http://www0.rtp.pt/play/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_mobile.png</thumbnail>
 </subitem>
@@ -2839,7 +2827,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 1 \ -8d</title>
+<title>   PT \ Sport TV 1 \ -9d</title>
 <link>rtmp://68.68.30.184/live/_definst_/gasdcvwe3234.flv swfUrl=http://www.veemi.com/player/player-licensed.swf pageURL=http://www.veemi.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </subitem>
@@ -3215,7 +3203,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ ES \ Ojos Solidarios</title>
+<title>   ES \ Ojos Solidarios \ -2h</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3263,7 +3251,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ TV Canaria \ -5h</title>
+<title>   ES \ TV Canaria \ -6h</title>
 <link>rtmp://cp101924.live.edgefcs.net/live/ playpath=RTVC1_world@31146 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/rr/rtvc_television_canaria.png</thumbnail>
 </subitem>
@@ -3275,7 +3263,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ TV Galicia Europa \ -1h</title>
+<title>   ES \ TV Galicia Europa \ -2h</title>
 <link>rtmp://media1.crtvg.es/live/tvge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_galicia.jpg</thumbnail>
 </subitem>
@@ -3409,7 +3397,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -4h</title>
+<title>   AR \ C5N \ -5h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3519,7 +3507,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   GT \ La Red Deportiva Guatemala \ -20d</title>
+<title>   GT \ La Red Deportiva Guatemala \ -21d</title>
 <link>http://www.livestream.com/laredfanaticosdeldeporte?utm_source=lsplayer&amp;utm_medium=ui-play&amp;utm_campaign=click-bait&amp;utm_content=laredfanaticosdeldeporte</link>
 <thumbnail>http://www.livestream.com/laredfanaticosdeldeporte?utm_source=lsplayer&amp;utm_medium=ui-play&amp;utm_campaign=click-bait&amp;utm_content=laredfanaticosdeldeporte</thumbnail>
 </subitem>
@@ -3531,7 +3519,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   US \ espn deportes \ HD \ -43d</title>
+<title>   US \ espn deportes \ HD \ -44d</title>
 <link>http://veohcast.tv/channel.php?n=espnesp</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -4355,7 +4343,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Cartoon Network \ -10h</title>
+<title>   US \ Cartoon Network \ -11h</title>
 <link>rtmp://live4.seeon.tv/edge/lfq0yzu2p8e0kd9 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/14451/Cartoon_Network tcUrl=rtmp://live4.seeon.tv/edge timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjln.png</thumbnail>
 </item>
@@ -4467,7 +4455,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ US \ Chicago \ Wrigley Field \ HD</title>
+<title>   US \ Chicago \ Wrigley Field \ HD \ -1h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wrigleyfieldcamHD.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4527,7 +4515,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ US \ Miami \ South Beach \ HD</title>
+<title>   US \ Miami \ South Beach \ HD \ -1h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4587,7 +4575,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ San Diego \ Mission Beach \ HD \ -1h</title>
+<title>+ US \ San Diego \ Mission Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3478.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4902,7 +4890,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BE \ Rtl Sports \ -32d</title>
+<title>   BE \ Rtl Sports \ -33d</title>
 <link>rtmp://m6weblivefs.fplive.net/m6weblive-live/m6web202 swfURL=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAYAGQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEBQYRABIhBzFBEyIUI1EIMmFicYEWFzORorGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEfp505fveJMkM1JqGIriUELaKt2RnPBGp2d0Pq0aREDNUjSIr7gbceQ0rLWc8kc8cd8jvpg+zwgO25cTalBKVOJSVHxlB51J3FGRaPRZ+HR33Z7S07PiW1haW96/ccjGE9wMDuRnzoFz+QUzbu/iKLt+vw5x/1pcvzpZJs6hJqrtVZloU8lrYhopPIJznJ+mnSsvvD7OsN0OrDm1r37jn+t9dY9RlKX0JtxSyVKKYhJJyT8pWgorXU0GtUrpz0+oyKs6QpMZHyEFPqrUrBXtSogkAq5+muc7LpZrN2Umn7N6XpSA4PyA5V/iDq4uvVuVSRJptxU1gyGYTex5sDdswrcFFOORyQf20DvaPUWg3YqQinuOMusJ3FqVsQtYwSSkBRJAxyfGRqJT1mtVUGRLzLAZWhHpFCPUXuzylO/kDHJ8ZH10j/H2jV7bq93QWlwrijQ/TeYb+W2lxxHpbkIBwUkqPPf66hbbp0KF0buKsTIzS5MqQmPGcWgKUACn7ue3KldvpoLujX/AEB+0zcvxIbhDcn03FoS6Vpz7AndjeQMhOckEajLZ6sW1cdVRToqpMd5wewy0obSo5ACQdxyo54GucIaZM9ulURoqKX5RWhGeCtwpbz/AGQNPfVSNAjdSqTTKUw1GbiNR21+kgJwdxVk47naU86C25PU63otYqNMfW8h6noWp5aggI9ndIJV3JIAHknGqT6r3pTrzr1MdhpkNwI7W1fqIAXlSvcQAT4A862+ltsRr+uqszK0lxyIkKecCFlBU44vKc48YCj38DWxaNLgVnrY8wxFaXTITjuGigbdjSfTTkefdt/XvoL/AKDPj1SjQp8NDiI77KVtJcGFBJHGf20a3Gm0MtIaaQlDaAEpQkYCQOwA0aDnLpJeVFtqg1uJVn1tvSyPSCWyrPsI/wBnWdBvGhsdIJttSpK0VFxLuxBbJSSVbk86NGgxqd5UV/ozGttt9ZqaA2FN+mccO7jz+mptd12LXen1Gt2vVGcwYrDHqfDN4UFoRtxkpIxyfGjRoPHpDRKO51KmzLdfkyKTT4oLTskDeXFgAg4A/P48amq1b12291DkXJRIRrMGSpRMUv7du5PIIPAwex50aNBWV2W7Vrep0io1lhqC9WZCgiE2r7iArergdgDsAH46nXLPvmfa1Ht+NAZdpLhRNbkJVtKVOJyUuZV43HsNGjQStc6aXDbldo9XtqM3VBCQxlokD5iBycZHtJGe+edYN2Bd9eqNYuWsQmo099lxLEQOcla0+mPJwEpJI57gaNGgeujVoVC06FPbqraG5kqRu2pUFAICQE8j8SrSh00tG8bUvtS5FNZVDkhTcmYo7khH3spwoHJIA5B0aNBeejRo0H//2Q==</thumbnail>
 </item>
@@ -4976,7 +4964,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   GT \ La Red Deportiva Guatemala \ -20d</title>
+<title>   GT \ La Red Deportiva Guatemala \ -21d</title>
 <link>http://www.livestream.com/laredfanaticosdeldeporte?utm_source=lsplayer&amp;utm_medium=ui-play&amp;utm_campaign=click-bait&amp;utm_content=laredfanaticosdeldeporte</link>
 <thumbnail>http://www.livestream.com/laredfanaticosdeldeporte?utm_source=lsplayer&amp;utm_medium=ui-play&amp;utm_campaign=click-bait&amp;utm_content=laredfanaticosdeldeporte</thumbnail>
 </item>
@@ -5024,7 +5012,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   PT \ Sport TV 1 \ -8d</title>
+<title>   PT \ Sport TV 1 \ -9d</title>
 <link>rtmp://68.68.30.184/live/_definst_/gasdcvwe3234.flv swfUrl=http://www.veemi.com/player/player-licensed.swf pageURL=http://www.veemi.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </item>
@@ -5156,7 +5144,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   US \ espn deportes \ HD \ -43d</title>
+<title>   US \ espn deportes \ HD \ -44d</title>
 <link>http://veohcast.tv/channel.php?n=espnesp</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -5310,7 +5298,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   GT \ La Red Deportiva Guatemala \ -20d</title>
+<title>   GT \ La Red Deportiva Guatemala \ -21d</title>
 <link>http://www.livestream.com/laredfanaticosdeldeporte?utm_source=lsplayer&amp;utm_medium=ui-play&amp;utm_campaign=click-bait&amp;utm_content=laredfanaticosdeldeporte</link>
 <thumbnail>http://www.livestream.com/laredfanaticosdeldeporte?utm_source=lsplayer&amp;utm_medium=ui-play&amp;utm_campaign=click-bait&amp;utm_content=laredfanaticosdeldeporte</thumbnail>
 </item>
@@ -5489,10 +5477,10 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 26/08/2011 06:49:13 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 6</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 772</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 389</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 26/08/2011 07:59:01 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 769</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 392</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1161</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
