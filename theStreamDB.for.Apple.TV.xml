@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 21</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 22</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 7</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -64,7 +64,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 11</name>
+<name>AR \ News \ 12</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -84,6 +84,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IR \ قناة العالم الاخبارية</title>
+<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -212,7 +218,7 @@
 <channel><name>Basque \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Basque.png</thumbnail><items>
 
 <item>
-<title>   ES \ Canal Vasco \ -14h</title>
+<title>   ES \ Canal Vasco \ -15h</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-CanalVasco@5519 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.sabinas.tv/images/stories/tv/canal-vasco.jpg</thumbnail>
 </item>
@@ -311,7 +317,7 @@
 </item>
 
 <item>
-<title>+ CZ \ CT 2</title>
+<title>   CZ \ CT 2 \ -2h</title>
 <link>http://79.127.143.125:8080/ct2</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gvsj2.png</thumbnail>
 </item>
@@ -632,7 +638,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ PASSION \ -2h</title>
+<title>+ UK \ PASSION</title>
 <link>rtsp://195.90.118.93/passionplanet_1</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgr4.png</thumbnail>
 </subitem>
@@ -866,7 +872,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ TV Land \ -1h</title>
+<title>   US \ TV Land \ -2h</title>
 <link>rtmp://live1.seeon.tv/edge/2r1ooyk2h6bjq2v swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13463/TV_Land tcUrl=rtmp://live1.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_land_us.png</thumbnail>
 </subitem>
@@ -918,7 +924,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 2 \ -17h</title>
+<title>   US \ NASA 2 \ -18h</title>
 <link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -936,7 +942,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA JPL \ -22h</title>
+<title>   US \ NASA JPL \ -23h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream@787 swfUrl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1646,13 +1652,13 @@
 <subitems>
 
 <subitem>
-<title>   FR \ NRJ Dance \ -15h</title>
+<title>   FR \ NRJ Dance \ -16h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Paris \ -6h</title>
+<title>+ FR \ NRJ Paris</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </subitem>
@@ -1670,7 +1676,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Urban \ -12h</title>
+<title>   FR \ NRJ Urban \ -13h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </subitem>
@@ -1690,7 +1696,7 @@
 <subitems>
 
 <subitem>
-<title>   CN \ CCTV F \ -21d</title>
+<title>   CN \ CCTV F \ -22d</title>
 <link>http://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctv-f</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfw.png</thumbnail>
 </subitem>
@@ -2680,7 +2686,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ diney xd \ -43d</title>
+<title>   BR \ diney xd \ -44d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </subitem>
@@ -2886,7 +2892,7 @@ timeout=60</link>
 </subchannels></channel><channel><name>Romanian \ 14</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Romanian.png</thumbnail><items>
 
 <item>
-<title>+ MD \ Noroc tv</title>
+<title>   MD \ Noroc tv \ -1h</title>
 <link>rtmp://live.noroc.tv/live/noroctv/ playpath=livestream swfUrl=http://www.noroc.tv/live/player.swf pageURL=http://www.noroc.tv/live/index.htm live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash2/27519_159376064112_137_q.jpg</thumbnail>
 </item>
@@ -3166,7 +3172,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CO \ CARACOL \ -66d</title>
+<title>   CO \ CARACOL \ -67d</title>
 <link>http://www.seeon.tv/channels/16236/caracol1</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -3244,7 +3250,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ LOCALIA \ -14h</title>
+<title>   ES \ LOCALIA \ -15h</title>
 <link>http://streaming.wdreams.com/localiatv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ll/localia_tv.png</thumbnail>
 </subitem>
@@ -3268,7 +3274,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Radio Television Insular \ -22h</title>
+<title>   ES \ Radio Television Insular \ -23h</title>
 <link>http://wagner.serveisweb.com/TI013</link>
 <thumbnail>http://www.ourwebtv.com/Logos/RTV%20Insular%20Spain.JPG</thumbnail>
 </subitem>
@@ -3621,7 +3627,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TH \ Channel 3 \ -2h</title>
+<title>+ TH \ Channel 3</title>
 <link>rtmp://202.43.35.36/utv/my3space playpath=av_my3spacemed2 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.thaitvnow.com/tv/data/02-16-57-06-07-2011.php app=utv/my3space timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gr8zu.jpg</thumbnail>
 </subitem>
@@ -4278,7 +4284,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ diney xd \ -43d</title>
+<title>   BR \ diney xd \ -44d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </item>
@@ -4448,7 +4454,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <items>
 
 <item>
-<title>   AI \ Meads Bay Beach \ HD \ -15h</title>
+<title>   AI \ Meads Bay Beach \ HD \ -16h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=anguilla.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4687,13 +4693,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   FR \ NRJ Dance \ -15h</title>
+<title>   FR \ NRJ Dance \ -16h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Paris \ -6h</title>
+<title>+ FR \ NRJ Paris</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </item>
@@ -4711,7 +4717,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   FR \ NRJ Urban \ -12h</title>
+<title>   FR \ NRJ Urban \ -13h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </item>
@@ -4747,7 +4753,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ MD \ Noroc tv</title>
+<title>   MD \ Noroc tv \ -1h</title>
 <link>rtmp://live.noroc.tv/live/noroctv/ playpath=livestream swfUrl=http://www.noroc.tv/live/player.swf pageURL=http://www.noroc.tv/live/index.htm live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash2/27519_159376064112_137_q.jpg</thumbnail>
 </item>
@@ -5369,7 +5375,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>+ MD \ Noroc tv</title>
+<title>   MD \ Noroc tv \ -1h</title>
 <link>rtmp://live.noroc.tv/live/noroctv/ playpath=livestream swfUrl=http://www.noroc.tv/live/player.swf pageURL=http://www.noroc.tv/live/index.htm live=true timeout=60</link>
 <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash2/27519_159376064112_137_q.jpg</thumbnail>
 </item>
@@ -5399,7 +5405,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ diney xd \ -43d</title>
+<title>   BR \ diney xd \ -44d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </item>
@@ -5558,10 +5564,10 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 14/09/2011 16:52:08 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 5</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 743</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 421</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 14/09/2011 17:52:49 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 3</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 739</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 425</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1164</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
