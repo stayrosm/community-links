@@ -838,13 +838,13 @@
 </item>
 
 <item>
-<title>   ES \ ETBSat \ -4h</title>
+<title>   ES \ ETBSat \ -6h</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-ETBSat@5219 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eitb_etb_sat.png</thumbnail>
 </item>
 
 <item>
-<title>   ES \ ETBSat \ -4h</title>
+<title>   ES \ ETBSat \ -6h</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-ETBSat@5219 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eitb_etb_sat.png</thumbnail>
 </item>
@@ -1456,7 +1456,7 @@
 </subitem>
 
 <subitem>
-<title>   CN \ 四川电视台 5 \ -2d</title>
+<title>   CN \ 四川电视台 5 \ -3d</title>
 <link>mms://mmslive.sctv.com/SCTV5</link>
 <thumbnail>http://pic1a.nipic.com/2008-08-04/20088475239541_2.jpg</thumbnail>
 </subitem>
@@ -1498,7 +1498,7 @@
 </subitem>
 
 <subitem>
-<title>   CN \ 重庆 7 \ -89d</title>
+<title>   CN \ 重庆 7 \ -90d</title>
 <link>mms://219.153.58.119/cqds</link>
 <thumbnail>http://bergstromtrends.com/wp-content/uploads/2011/03/chongqing-channel.jpg</thumbnail>
 </subitem>
@@ -1941,8 +1941,8 @@
 </items>
 </channel>
 
-<channel><name>Dutch \ 49</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Dutch.png</thumbnail><subchannels><subchannel>
-<name>NL \ Entertainment \ 33</name>
+<channel><name>Dutch \ 50</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Dutch.png</thumbnail><subchannels><subchannel>
+<name>NL \ Entertainment \ 34</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2013,7 +2013,13 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Graafschap TV \ -8h</title>
+<title>   NL \ Graafschap TV \ -10h</title>
+<link>mms://deomroep-live.streamonline.nl/deomroep-live?MSWMExt=.asf</link>
+<thumbnail>http://www.rtvkeetje.nl/images/logo_graafschaptv_lbs.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   NL \ Graafschap TV \ -4d</title>
 <link>mms://deomroep-live.streamonline.nl/deomroep-live?MSWMExt=.asf</link>
 <thumbnail>http://www.rtvkeetje.nl/images/logo_graafschaptv_lbs.jpg</thumbnail>
 </subitem>
@@ -3291,25 +3297,25 @@
 </subitem>
 
 <subitem>
-<title>   NZ \ 3news \ -11h</title>
+<title>+ NZ \ 3news</title>
 <link>mms://wmstream.mediaworks.co.nz/WMController?MSWMExt=.asf</link>
 <thumbnail>http://wa2.www.tv3.co.nz/Portals/0/AM/2008/10/28/59642/tv3-show-thumb-150x100-3news.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   NZ \ 3news \ -11h</title>
+<title>+ NZ \ 3news</title>
 <link>mms://wmstream.mediaworks.co.nz/WMController?MSWMExt=.asf</link>
 <thumbnail>http://wa2.www.tv3.co.nz/Portals/0/AM/2008/10/28/59642/tv3-show-thumb-150x100-3news.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PK \ Express News \ -4h</title>
+<title>   PK \ Express News \ -6h</title>
 <link>mms://ams01.egihosting.com/ExpressEnglish</link>
 <thumbnail>http://thestreamdb.com/images/8gdpge.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PK \ Express News \ -4h</title>
+<title>   PK \ Express News \ -6h</title>
 <link>mms://ams01.egihosting.com/ExpressEnglish</link>
 <thumbnail>http://thestreamdb.com/images/8gdpge.jpg</thumbnail>
 </subitem>
@@ -3677,13 +3683,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ Knife and Gun Show \ -4h</title>
+<title>+ US \ Knife and Gun Show</title>
 <link>mms://stream.netro.ca/thebroadcastchannel?MSWMExt=.asf</link>
 <thumbnail>http://gunshowo.startlogic.com/GunRelatedII/KennyWoodsGunShow.gif</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ Knife and Gun Show \ -4h</title>
+<title>+ US \ Knife and Gun Show</title>
 <link>mms://stream.netro.ca/thebroadcastchannel?MSWMExt=.asf</link>
 <thumbnail>http://gunshowo.startlogic.com/GunRelatedII/KennyWoodsGunShow.gif</thumbnail>
 </subitem>
@@ -4071,13 +4077,13 @@
 </subitem>
 
 <subitem>
-<title>   FR \ idf1 \ -2h</title>
+<title>+ FR \ idf1</title>
 <link>http://live240.impek.com/idf1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/idf1.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ idf1 \ -2h</title>
+<title>+ FR \ idf1</title>
 <link>http://live240.impek.com/idf1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/idf1.jpg</thumbnail>
 </subitem>
@@ -4119,7 +4125,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ R. King TV \ -163d</title>
+<title>   FR \ R. King TV \ -164d</title>
 <link>http://www.tv14.net/wp-content/uploads/2010/06/R.-King-TV.jpg</link>
 <thumbnail>mms://rkingtv.diffusepro.com/rkingtv</thumbnail>
 </subitem>
@@ -4329,7 +4335,7 @@
 <subitems>
 
 <subitem>
-<title>   CN \ CCTV F \ -91d</title>
+<title>   CN \ CCTV F \ -92d</title>
 <link>http://cctv-live-cctv1.wm.llnwd.net/cctv_live_cctv-f</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfw.png</thumbnail>
 </subitem>
@@ -4728,37 +4734,37 @@
 </subitem>
 
 <subitem>
-<title>   DE \ EinsExtra \ -20d</title>
+<title>   DE \ EinsExtra \ -21d</title>
 <link>mms://87.248.216.242:80/tagesschau_live1_webm_wmv?MSWMExt=.asf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ard_eins_extra.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DE \ FashionTV Beauty \ -5h</title>
+<title>   DE \ FashionTV Beauty \ -7h</title>
 <link>mms://213.155.73.87/Fashion-TV_Beauty_16</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg4f.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DE \ FashionTV Beauty \ -5h</title>
+<title>   DE \ FashionTV Beauty \ -7h</title>
 <link>mms://213.155.73.87/Fashion-TV_Beauty_16</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg4f.png</thumbnail>
 </subitem>
 
 <subitem>
 <title>+ DE \ FashionTV Deutsch</title>
-<link>mms://213.155.73.87/Fashion-TV_deutsch_14</link>
+<link>mms://213.155.73.87/Fashion-TV_deutsch_16</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg4c.png</thumbnail>
 </subitem>
 
 <subitem>
 <title>+ DE \ FashionTV Deutsch</title>
-<link>mms://213.155.73.87/Fashion-TV_deutsch_14</link>
+<link>mms://213.155.73.87/Fashion-TV_deutsch_16</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg4c.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DE \ HR \ -19d</title>
+<title>   DE \ HR \ -20d</title>
 <link>rtmp://gffstream.fc.llnwd.net/gffstream/005/hr-fernsehen-1 swfURL=http://plugins.longtailvideo.com/5//.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ekkw.de/img_ekkw/aktuell/radio_logo_hr.jpg</thumbnail>
 </subitem>
@@ -5186,7 +5192,7 @@
 </item>
 
 <item>
-<title>   IL \ Machonmeir TV \ -150d</title>
+<title>   IL \ Machonmeir TV \ -151d</title>
 <link>mms://82.80.231.41/meirtv_live</link>
 <thumbnail>http://livelive24.com/tv-images/israel-machonmeir.jpg</thumbnail>
 </item>
@@ -5827,7 +5833,7 @@
 </subitem>
 
 <subitem>
-<title>   IT \ Super Tennis \ -7h</title>
+<title>   IT \ Super Tennis \ -9h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </subitem>
@@ -5997,7 +6003,7 @@
 </item>
 
 <item>
-<title>   KR \ 목포문화방송 \ -163d</title>
+<title>   KR \ 목포문화방송 \ -164d</title>
 <link>mms://210.221.163.25/encoder-tv</link>
 <thumbnail>http://www.mokpombc.co.kr/img/2010img/mokpombclogo.gif</thumbnail>
 </item>
@@ -6015,7 +6021,7 @@
 </item>
 
 <item>
-<title>   KR \ 울산문화방송 \ -163d</title>
+<title>   KR \ 울산문화방송 \ -164d</title>
 <link>mms://onair.usmbc.co.kr/KKangTV</link>
 <thumbnail>http://www.ulsanmbc.co.kr/mbc_2011/images/logo.gif</thumbnail>
 </item>
@@ -6442,8 +6448,8 @@
 </items>
 </channel>
 
-<channel><name>Portuguese \ 105</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 72</name>
+<channel><name>Portuguese \ 106</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 73</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -6479,7 +6485,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ canal viva \ -114d</title>
+<title>   BR \ canal viva \ -115d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master21.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master21.flv timeout=60</link>
 <thumbnail>http://cultoupop.com/wp-content/uploads/2010/10/Canal-Viva-Rede-Globo.jpg</thumbnail>
@@ -6522,7 +6528,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ FX \ -114d</title>
+<title>   BR \ FX \ -115d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master25.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master25.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/5/5d/FX-logo.svg</thumbnail>
@@ -6576,7 +6582,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Max prime \ -114d</title>
+<title>   BR \ Max prime \ -115d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master26.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master26.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/9/92/Maxprime.png</thumbnail>
@@ -6636,7 +6642,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ telecine premium \ -114d</title>
+<title>   BR \ telecine premium \ -115d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master19.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master19.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/ef/TC_Premium.png</thumbnail>
@@ -6680,9 +6686,9 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>+ BR \ UNIP</title>
-<link>rtmp://67.228.212.5/ponto38/mixtv swfUrl=http://www.assistatvonline.com/fucku2.swf pageUrl=http://www.assistatvonline.com/canais/mixtv.php live=true timeout=60</link>
-<thumbnail>http://www.dicasdiarias.com/wp-content/uploads/2011/05/secretaria-online-unip.gif</thumbnail>
+<title>+ BR \ Ulbra TV</title>
+<link>mms://200.169.19.144:1972</link>
+<thumbnail>http://www.ulbra.br/comunicacao/images/logoulbratv.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -6692,7 +6698,13 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ universal channel \ -114d</title>
+<title>+ BR \ UNIP</title>
+<link>rtmp://67.228.212.5/ponto38/mixtv swfUrl=http://www.assistatvonline.com/fucku2.swf pageUrl=http://www.assistatvonline.com/canais/mixtv.php live=true timeout=60</link>
+<thumbnail>http://www.dicasdiarias.com/wp-content/uploads/2011/05/secretaria-online-unip.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   BR \ universal channel \ -115d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master20.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master20.flv timeout=60</link>
 <thumbnail>http://1.bp.blogspot.com/_JwYbP1lYt6A/SZGl8gCbqOI/AAAAAAAAKCA/q09-nQXPi4Q/s400/tvuniversal.jpg</thumbnail>
@@ -6705,7 +6717,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Warner TV \ -114d</title>
+<title>   BR \ Warner TV \ -115d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master22.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master22.flv timeout=60</link>
 <thumbnail>http://hub.tv-ark.org.uk/images/otherchannels/wb_images/wb_tv_large.jpg</thumbnail>
@@ -6944,7 +6956,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ diney xd \ -113d</title>
+<title>   BR \ diney xd \ -114d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </subitem>
@@ -7172,7 +7184,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ Antena 2 \ -53d</title>
+<title>   RO \ Antena 2 \ -54d</title>
 <link>rtmp://live2lh.inin.ro/live app=live swfUrl=http://ivm.inin.ro/swf/player_live4.swf pageUrl=http://www.antena2.ro/live playpath=a2 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena2_ro.jpg</thumbnail>
 </item>
@@ -7322,7 +7334,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ TVR International \ -64d</title>
+<title>   RO \ TVR International \ -65d</title>
 <link>rtmpe://fms-de01.mediadirect.ro:1935 app=live/tvr swfUrl=http://static1.mediadirect.ro/player-preload/swf/tvrinew_235/player.swf pageUrl=http://tvr.ro/live_tvri.php playpath=tvr_low live=true timeout=60</link>
 <thumbnail>http://tvr.ro/images/tvri_live.jpg</thumbnail>
 </item>
@@ -7876,10 +7888,16 @@ timeout=60</link>
 </items>
 </channel>
 
-<channel><name>Spanish \ 217</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels><subchannel>
-<name>ES \ Entertainment \ 135</name>
+<channel><name>Spanish \ 218</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Spanish.png</thumbnail><subchannels><subchannel>
+<name>ES \ Entertainment \ 136</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>+ AR \ Canal 10</title>
+<link>mms://tucumantv.interrogacaodigital.net/tucumantv?.wma</link>
+<thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/SHj68XeECUI/AAAAAAAADO8/ctMztt0tmXY/s400/tucuman-c10.gif</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ AR \ Canal 10</title>
@@ -7912,7 +7930,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ Canel 79 \ -6d</title>
+<title>   AR \ Canel 79 \ -7d</title>
 <link>mms://208.85.243.100/canal79</link>
 <thumbnail>http://tamaldeaca.files.wordpress.com/2010/08/canal79-1.jpg?w=480&amp;h=360</thumbnail>
 </subitem>
@@ -7948,13 +7966,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CL \ liv \ -3h</title>
+<title>   CL \ liv \ -2h</title>
 <link>mms://wms01.zpublicidad.cl/livtv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ll/liv_lam.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   CL \ liv \ -3h</title>
+<title>   CL \ liv \ -2h</title>
 <link>mms://wms01.zpublicidad.cl/livtv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ll/liv_lam.png</thumbnail>
 </subitem>
@@ -7978,7 +7996,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CO \ CARACOL \ -136d</title>
+<title>   CO \ CARACOL \ -137d</title>
 <link>http://www.seeon.tv/channels/16236/caracol1</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -8032,31 +8050,31 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DO \ Bonao TV Canal 12 \ -23h</title>
+<title>   DO \ Bonao TV Canal 12 \ -1d</title>
 <link>mms://200.88.126.11/bonaotv</link>
 <thumbnail>http://thestreamdb.com/images/8gvghe.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DO \ Bonao TV Canal 12 \ -23h</title>
+<title>   DO \ Bonao TV Canal 12 \ -1d</title>
 <link>mms://200.88.126.11/bonaotv</link>
 <thumbnail>http://thestreamdb.com/images/8gvghe.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DO \ Color Vision Canal 9 \ -62d</title>
+<title>   DO \ Color Vision Canal 9 \ -63d</title>
 <link>mms://69.64.46.14:888/colorvision</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/color_vision.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DO \ DominicanYork TV \ -9h</title>
+<title>   DO \ DominicanYork TV \ -11h</title>
 <link>mms://javierlinares.primcast.com/JavierLinares?.wma</link>
 <thumbnail>http://b.vimeocdn.com/ps/109/841/1098416_300.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DO \ DominicanYork TV \ -9h</title>
+<title>   DO \ DominicanYork TV \ -11h</title>
 <link>mms://javierlinares.primcast.com/JavierLinares?.wma</link>
 <thumbnail>http://b.vimeocdn.com/ps/109/841/1098416_300.jpg</thumbnail>
 </subitem>
@@ -8086,13 +8104,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DO \ Vegateve \ -4h</title>
+<title>+ DO \ Vegateve</title>
 <link>mms://vegateve.primcast.com/vegateve?.wma</link>
 <thumbnail>http://www.vegateve.com/portal/images/stories/FotosNOTICIAS/Vegatevenew2.gif</thumbnail>
 </subitem>
 
 <subitem>
-<title>   DO \ Vegateve \ -4h</title>
+<title>+ DO \ Vegateve</title>
 <link>mms://vegateve.primcast.com/vegateve?.wma</link>
 <thumbnail>http://www.vegateve.com/portal/images/stories/FotosNOTICIAS/Vegatevenew2.gif</thumbnail>
 </subitem>
@@ -8230,7 +8248,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Extremadura TV \ -99d</title>
+<title>   ES \ Extremadura TV \ -100d</title>
 <link>http://live1.extremaduratv.stream.flumotion.com/extremaduratv/live1_600.flv.m3u</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/extremadura_tv.jpg</thumbnail>
 </subitem>
@@ -8248,19 +8266,19 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ LOCALIA \ -48d</title>
+<title>   ES \ LOCALIA \ -49d</title>
 <link>http://streaming.wdreams.com/localiatv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ll/localia_tv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -2h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -2h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -8482,13 +8500,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   HT \ Tele Horizon 2000 \ -2h</title>
+<title>+ HT \ Tele Horizon 2000</title>
 <link>mms://telehorizon.no-ip.org/telehorizon-telehorizon-100</link>
 <thumbnail>http://www.haitiendirect.com/111ed.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   HT \ Tele Horizon 2000 \ -2h</title>
+<title>+ HT \ Tele Horizon 2000</title>
 <link>mms://telehorizon.no-ip.org/telehorizon-telehorizon-100</link>
 <thumbnail>http://www.haitiendirect.com/111ed.jpg</thumbnail>
 </subitem>
@@ -8596,13 +8614,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PE \ ATV \ -2h</title>
+<title>+ PE \ ATV</title>
 <link>mms://serv2.redirectme.net/envivo33</link>
 <thumbnail>http://webtvfl.com/images/LOGO%20CANALES/ATV%20peru.gif</thumbnail>
 </subitem>
 
 <subitem>
-<title>   PE \ ATV \ -2h</title>
+<title>+ PE \ ATV</title>
 <link>mms://serv2.redirectme.net/envivo33</link>
 <thumbnail>http://webtvfl.com/images/LOGO%20CANALES/ATV%20peru.gif</thumbnail>
 </subitem>
@@ -8712,13 +8730,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ Cámara de Diputados de la Nación \ -2h</title>
+<title>+ AR \ Cámara de Diputados de la Nación</title>
 <link>mms://hera.hcdn.gov.ar/sesiones_vivo</link>
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=2bd49bd39b2ea7825e0b138aa15f3a68&amp;w=180&amp;h=540&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Fff%2FCoat_of_arms_of_Argentina.svg%2F720px-Coat_of_arms_of_Argentina.svg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   AR \ Cámara de Diputados de la Nación \ -2h</title>
+<title>+ AR \ Cámara de Diputados de la Nación</title>
 <link>mms://hera.hcdn.gov.ar/sesiones_vivo</link>
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=2bd49bd39b2ea7825e0b138aa15f3a68&amp;w=180&amp;h=540&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Fff%2FCoat_of_arms_of_Argentina.svg%2F720px-Coat_of_arms_of_Argentina.svg</thumbnail>
 </subitem>
@@ -8850,13 +8868,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ MX \ edusat 22</title>
+<title>   MX \ edusat 22 \ -2h</title>
 <link>mms://168.255.107.6/canal22</link>
 <thumbnail>http://www.cecuallende.ipn.mx/wps/wcm/connect/6106EE8040466E3D8948DD09C9EC8FB/EDUSAT2A90.GIF?MOD=AJPERES&amp;CACHEID=6106ee8040466e3d8948dd09c9ec8fbf</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ MX \ edusat 22</title>
+<title>   MX \ edusat 22 \ -2h</title>
 <link>mms://168.255.107.6/canal22</link>
 <thumbnail>http://www.cecuallende.ipn.mx/wps/wcm/connect/6106EE8040466E3D8948DD09C9EC8FB/EDUSAT2A90.GIF?MOD=AJPERES&amp;CACHEID=6106ee8040466e3d8948dd09c9ec8fbf</thumbnail>
 </subitem>
@@ -8970,13 +8988,13 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -10h</title>
+<title>   AR \ C5N \ -12h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   AR \ C5N \ -10h</title>
+<title>   AR \ C5N \ -12h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -9338,13 +9356,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TH \ Click Asia \ -5h</title>
+<title>   TH \ Click Asia \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTV6</link>
 <thumbnail>http://thestreamdb.com/images/8grchg.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   TH \ Click Asia \ -5h</title>
+<title>   TH \ Click Asia \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTV6</link>
 <thumbnail>http://thestreamdb.com/images/8grchg.jpg</thumbnail>
 </subitem>
@@ -9440,13 +9458,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TH \ Movie Plus \ -5h</title>
+<title>   TH \ Movie Plus \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTVB-MOVIEPLUS</link>
 <thumbnail>http://www.clipsall.com/tv/img/MOVIE-LIVE.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   TH \ Movie Plus \ -5h</title>
+<title>   TH \ Movie Plus \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTVB-MOVIEPLUS</link>
 <thumbnail>http://www.clipsall.com/tv/img/MOVIE-LIVE.jpg</thumbnail>
 </subitem>
@@ -10321,7 +10339,7 @@ timeout=60</link>
 </items>
 </channel>
 
-<channel><name>Urdu \ 25</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Urdu.png</thumbnail><items>
+<channel><name>Urdu \ 26</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Urdu.png</thumbnail><items>
 
 <item>
 <title>+ PK \ Dawn News</title>
@@ -10447,6 +10465,12 @@ timeout=60</link>
 <title>+ PK \ Royal News</title>
 <link>mms://117.102.9.155</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/royal_news.png</thumbnail>
+</item>
+
+<item>
+<title>+ PK \ سماع</title>
+<link>rtmp://media2.lsops.net/samaa/ playpath=SamaaLiveStation swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/85-samaa-tv-urdu" swfVfy=true live=true timeout=60</link>
+<thumbnail>http://ww1.prweb.com/prfiles/2010/01/25/2751114/SamaaLargeSizeLogo1.jpg</thumbnail>
 </item>
 
 <item>
@@ -10805,7 +10829,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ diney xd \ -113d</title>
+<title>   BR \ diney xd \ -114d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/disney.sdp swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/disney.sdp timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/dd/disney_xd_de.png</thumbnail>
 </item>
@@ -11011,7 +11035,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ BR \ Rio de Janeiro \ HD</title>
+<title>   BR \ Rio de Janeiro \ HD \ -2h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=brazil1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -11047,7 +11071,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   PH \ Boracay Island \ White Beach \ HD \ -5h</title>
+<title>   PH \ Boracay Island \ White Beach \ HD \ -7h</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=philippinesHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -11836,7 +11860,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -7h</title>
+<title>   IT \ Super Tennis \ -9h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
@@ -12194,13 +12218,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   TH \ Movie Plus \ -5h</title>
+<title>   TH \ Movie Plus \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTVB-MOVIEPLUS</link>
 <thumbnail>http://www.clipsall.com/tv/img/MOVIE-LIVE.jpg</thumbnail>
 </item>
 
 <item>
-<title>   TH \ Movie Plus \ -5h</title>
+<title>   TH \ Movie Plus \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTVB-MOVIEPLUS</link>
 <thumbnail>http://www.clipsall.com/tv/img/MOVIE-LIVE.jpg</thumbnail>
 </item>
@@ -12344,13 +12368,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   TH \ Click Asia \ -5h</title>
+<title>   TH \ Click Asia \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTV6</link>
 <thumbnail>http://thestreamdb.com/images/8grchg.jpg</thumbnail>
 </item>
 
 <item>
-<title>   TH \ Click Asia \ -5h</title>
+<title>   TH \ Click Asia \ -7h</title>
 <link>mms://streaming.livetv.co.th/LiveTV6</link>
 <thumbnail>http://thestreamdb.com/images/8grchg.jpg</thumbnail>
 </item>
@@ -12412,10 +12436,10 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 23/11/2011 16:53:30 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 23/11/2011 18:56:28 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 711</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 523</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 717</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 517</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1234</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
