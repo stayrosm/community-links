@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 22</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 23</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 8</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -70,7 +70,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 11</name>
+<name>AR \ News \ 12</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -90,6 +90,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IR \ قناة العالم الاخبارية</title>
+<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -288,7 +294,7 @@
 <channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -10h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -11h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -335,7 +341,7 @@
 </item>
 
 <item>
-<title>   CZ \ Nova TV \ -216d</title>
+<title>   CZ \ Nova TV \ -217d</title>
 <link>http://79.127.143.125:8080/nova</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gvsj4.png</thumbnail>
 </item>
@@ -347,7 +353,7 @@
 </item>
 
 <item>
-<title>   CZ \ Public TV \ -200d</title>
+<title>   CZ \ Public TV \ -201d</title>
 <link>http://79.127.143.125:8081/public</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/public_tv.png</thumbnail>
 </item>
@@ -924,7 +930,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ the CW \ -149d</title>
+<title>   US \ the CW \ -150d</title>
 <link>rtmp://live0.seeon.tv/edge/plfuu15bh2q1t8a swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/18783/CW_Channel tcUrl=rtmp://live0.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.observer.com/files/full/CW_logo_color.jpg</thumbnail>
 </subitem>
@@ -1172,7 +1178,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ MTV \ -50d</title>
+<title>   US \ MTV \ -51d</title>
 <link>rtmp://live21.seeon.tv/edge playpath=ygykasof61avt3h swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/18823/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_ie.png</thumbnail>
 </subitem>
@@ -1850,7 +1856,7 @@
 <subitems>
 
 <subitem>
-<title>   FR \ i_Tele \ -9h</title>
+<title>   FR \ i_Tele \ -10h</title>
 <link>rtmp://cp59069.live.edgefcs.net:443/live pageUrl=http://www.itele.fr/direct playpath=Flash-Itele-800@8998 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ii/i_tele.png</thumbnail>
 </subitem>
@@ -3541,7 +3547,7 @@ timeout=60</link>
 <channel><name>Slovak \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Slovak.png</thumbnail><items>
 
 <item>
-<title>   SK \ musiq1 \ -17d</title>
+<title>   SK \ musiq1 \ -18d</title>
 <link>rtmp://m1.livevideo.sk/m1/ playpath=m1.sdp live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ge8zw.png</thumbnail>
 </item>
@@ -3794,7 +3800,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PE \ Frecuencia Latina \ -122d</title>
+<title>   PE \ Frecuencia Latina \ -123d</title>
 <link>rtmp://live35.seeon.tv/edge/1wz1rflfp6bsf8g swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=590&amp;height=450&amp;channel=3468&amp;autoplay=true tcUrl=rtmp://live35.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/frecuencia_latina.png</thumbnail>
 </subitem>
@@ -3818,7 +3824,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Venezolana de Television \ -3h</title>
+<title>+ VE \ Venezolana de Television</title>
 <link>http://www.telepuertovirtual2.tv/vtvdsl</link>
 <thumbnail>http://www.724.tv/Eserler/Resim/Venezolana%20de%20TV.jpg</thumbnail>
 </subitem>
@@ -3880,7 +3886,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -1h</title>
+<title>   AR \ C5N \ -2h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3982,7 +3988,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Globovisión \ -1h</title>
+<title>+ VE \ Globovisión</title>
 <link>rtmp://telesur.fms.visionip.tv/live/playpath=b2b-telesur-live-25f-4x3_3 swfUrl="http://embeddedplayer.visionip.tv/data/swf/player_5_3.swf" pageUrl="http://www.telesurtv.net/secciones/canal/senalenvivo.php" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/globovision.jpg</thumbnail>
 </subitem>
@@ -4512,7 +4518,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VN \ VTV 1 \ -5h</title>
+<title>+ VN \ VTV 1</title>
 <link>rtmp://66.160.142.197:1935/live/vtv11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV1/15 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
 </subitem>
@@ -5123,7 +5129,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   SK \ musiq1 \ -17d</title>
+<title>   SK \ musiq1 \ -18d</title>
 <link>rtmp://m1.livevideo.sk/m1/ playpath=m1.sdp live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ge8zw.png</thumbnail>
 </item>
@@ -5201,7 +5207,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ MTV \ -50d</title>
+<title>   US \ MTV \ -51d</title>
 <link>rtmp://live21.seeon.tv/edge playpath=ygykasof61avt3h swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/18823/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_ie.png</thumbnail>
 </item>
@@ -5719,7 +5725,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   VN \ VTV 1 \ -5h</title>
+<title>+ VN \ VTV 1</title>
 <link>rtmp://66.160.142.197:1935/live/vtv11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV1/15 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
 </item>
@@ -5823,10 +5829,10 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 18/12/2011 07:49:31 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 32</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 656</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 496</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 18/12/2011 08:47:15 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 60</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 658</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 494</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1152</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
