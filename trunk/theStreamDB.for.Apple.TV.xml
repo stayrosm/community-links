@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 22</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 23</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 8</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -70,7 +70,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 11</name>
+<name>AR \ News \ 12</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -90,6 +90,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IR \ قناة العالم الاخبارية</title>
+<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -614,7 +620,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ PASSION \ -2h</title>
+<title>+ UK \ PASSION</title>
 <link>rtsp://195.90.118.93/passionplanet_1</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgr4.png</thumbnail>
 </subitem>
@@ -1440,7 +1446,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Buy Costumes TV \ -3h</title>
+<title>+ US \ Buy Costumes TV</title>
 <link>rtsp://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=</link>
 <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
 </subitem>
@@ -1618,7 +1624,7 @@
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>+ BE \ La une</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -3830,7 +3836,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Venezolana de Television \ -2h</title>
+<title>+ VE \ Venezolana de Television</title>
 <link>http://www.telepuertovirtual2.tv/vtvdsl</link>
 <thumbnail>http://www.724.tv/Eserler/Resim/Venezolana%20de%20TV.jpg</thumbnail>
 </subitem>
@@ -3892,7 +3898,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -9h</title>
+<title>   AR \ C5N \ -10h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3994,7 +4000,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Globovisión \ -5h</title>
+<title>+ VE \ Globovisión</title>
 <link>rtmp://telesur.fms.visionip.tv/live/playpath=b2b-telesur-live-25f-4x3_3 swfUrl="http://embeddedplayer.visionip.tv/data/swf/player_5_3.swf" pageUrl="http://www.telesurtv.net/secciones/canal/senalenvivo.php" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/globovision.jpg</thumbnail>
 </subitem>
@@ -5841,10 +5847,10 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 18/12/2011 15:56:49 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 1</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 650</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 502</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 18/12/2011 16:57:44 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 653</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 499</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1152</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
