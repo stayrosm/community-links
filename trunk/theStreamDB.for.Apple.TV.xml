@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 23</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 24</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 8</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -70,7 +70,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 12</name>
+<name>AR \ News \ 13</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -96,6 +96,12 @@
 <title>   IQ \ البغدادية</title>
 <link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IR \ قناة العالم الاخبارية</title>
+<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -626,7 +632,7 @@
 </subitem>
 
 <subitem>
-<title>+ UK \ TVSCUBA</title>
+<title>   UK \ TVSCUBA \ -2h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </subitem>
@@ -1446,7 +1452,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Buy Costumes TV</title>
+<title>   US \ Buy Costumes TV \ -2h</title>
 <link>rtsp://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=</link>
 <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
 </subitem>
@@ -1618,7 +1624,7 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -1h</title>
+<title>   BE \ La deux \ -2h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
@@ -1732,7 +1738,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ idf1 \ -2h</title>
+<title>   FR \ idf1 \ -3h</title>
 <link>http://live240.impek.com/idf1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/idf1.jpg</thumbnail>
 </subitem>
@@ -2167,13 +2173,13 @@
 </subchannels></channel><channel><name>Greek \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Greek.png</thumbnail><items>
 
 <item>
-<title>   GR \ ET1 \ -0h</title>
+<title>   GR \ ET1 \ -2h</title>
 <link>rtmp://cp76856.live.edgefcs.net/live/GRERT_vid_nogeo_ET1@25926 pageURL=http://www.ert.gr/ swfVfy=true live=true	 timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/44/ET1.png/160px-ET1.png</thumbnail>
 </item>
 
 <item>
-<title>   GR \ Kontra Channel \ -1h</title>
+<title>   GR \ Kontra Channel \ -2h</title>
 <link>rtmp://flashcloud.mediacdn.com/live/kontratv swfUrl=http://wwitv.com/player/player15.swf pageURL=http://www.kontrachannel.gr/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://live24.gr/resrc/styles/custom-popups/kontrachannel/kontrachannel-200x81.jpg</thumbnail>
 </item>
@@ -2667,7 +2673,7 @@
 </subitem>
 
 <subitem>
-<title>   BR \ A&amp;E \ -142d</title>
+<title>   BR \ A&amp;E \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/ae.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/ae.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/eb/2008_AETV_Logo.png</thumbnail>
@@ -2718,7 +2724,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ GNT \ -142d</title>
+<title>   BR \ GNT \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv11.flv swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv11.flv
 timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail>
@@ -2731,7 +2737,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ HBO \ -142d</title>
+<title>   BR \ HBO \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master10.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rrtmp://streamer.istreamlive.net/133_182/master10.flv
 timeout=60</link>
@@ -2758,7 +2764,7 @@ pageUrl=http://tv-msn.com/history.html timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ MAX hd \ -142d</title>
+<title>   BR \ MAX hd \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/maxhd.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/maxhd.flv timeout=60</link>
 <thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/TKDKpM2lTFI/AAAAAAAAOJw/wNr68wu7gmY/s1600/max-hd.gif</thumbnail>
@@ -2804,14 +2810,14 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </subitem>
 
 <subitem>
-<title>   BR \ Telecine action \ -142d</title>
+<title>   BR \ Telecine action \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master17.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master17.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BR \ telecine pipoca \ -142d</title>
+<title>   BR \ telecine pipoca \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master18.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master18.flv
 timeout=60</link>
@@ -2826,7 +2832,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ telecine touch \ -142d</title>
+<title>   BR \ telecine touch \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/touch.flv swfUrl=http://www.onepieceofbleach.com/player.swf pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/brlive2/touch.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png</thumbnail>
 </subitem>
@@ -3089,7 +3095,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Discovery_Kids \ -142d</title>
+<title>   BR \ Discovery_Kids \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master24.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master24.flv
 timeout=60</link>
@@ -3103,7 +3109,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ Nick Jr. \ -142d</title>
+<title>   BR \ Nick Jr. \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master34.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master34.flv timeout=60</link>
 <thumbnail>http://i1109.photobucket.com/albums/h440/MAGALGAMES/default.jpg</thumbnail>
@@ -3226,7 +3232,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   BR \ ESPN HD \ -142d</title>
+<title>   BR \ ESPN HD \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flv
 timeout=60</link>
@@ -3264,7 +3270,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 1 \ -57d</title>
+<title>   PT \ Sport TV 1 \ -58d</title>
 <link>rtmp://184.173.77.2/live/_definst_/kl35.flv swfUrl=http://www.streamiton.tv/player/player.swf pageURL=http://www.limev.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </subitem>
@@ -4012,7 +4018,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Globovisión \ -1h</title>
+<title>   VE \ Globovisión \ -2h</title>
 <link>rtmp://telesur.fms.visionip.tv/live/playpath=b2b-telesur-live-25f-4x3_3 swfUrl="http://embeddedplayer.visionip.tv/data/swf/player_5_3.swf" pageUrl="http://www.telesurtv.net/secciones/canal/senalenvivo.php" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/globovision.jpg</thumbnail>
 </subitem>
@@ -4588,7 +4594,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ Discovery_Kids \ -142d</title>
+<title>   BR \ Discovery_Kids \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master24.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master24.flv
 timeout=60</link>
@@ -4602,7 +4608,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ Nick Jr. \ -142d</title>
+<title>   BR \ Nick Jr. \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master34.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master34.flv timeout=60</link>
 <thumbnail>http://i1109.photobucket.com/albums/h440/MAGALGAMES/default.jpg</thumbnail>
@@ -4944,7 +4950,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ San Diego \ Mission Beach \ HD \ -1h</title>
+<title>   US \ San Diego \ Mission Beach \ HD \ -2h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3478.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -5305,7 +5311,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ ESPN HD \ -142d</title>
+<title>   BR \ ESPN HD \ -143d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master27.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master27.flv
 timeout=60</link>
@@ -5397,7 +5403,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   PT \ Sport TV 1 \ -57d</title>
+<title>   PT \ Sport TV 1 \ -58d</title>
 <link>rtmp://184.173.77.2/live/_definst_/kl35.flv swfUrl=http://www.streamiton.tv/player/player.swf pageURL=http://www.limev.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </item>
@@ -5629,14 +5635,14 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   GR \ ET1 \ -0h</title>
+<title>   GR \ ET1 \ -2h</title>
 <link>rtmp://cp76856.live.edgefcs.net/live/GRERT_vid_nogeo_ET1@25926 pageURL=http://www.ert.gr/ swfVfy=true live=true
 	 timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/44/ET1.png/160px-ET1.png</thumbnail>
 </item>
 
 <item>
-<title>   GR \ Kontra Channel \ -1h</title>
+<title>   GR \ Kontra Channel \ -2h</title>
 <link>rtmp://flashcloud.mediacdn.com/live/kontratv swfUrl=http://wwitv.com/player/player15.swf pageURL=http://www.kontrachannel.gr/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://live24.gr/resrc/styles/custom-popups/kontrachannel/kontrachannel-200x81.jpg</thumbnail>
 </item>
@@ -5860,10 +5866,10 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 20/12/2011 19:49:08 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 5</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 643</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 513</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 20/12/2011 20:49:57 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 17</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 637</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 519</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1156</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
