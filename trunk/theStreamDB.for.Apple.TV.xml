@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 23</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 24</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 8</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -70,7 +70,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 12</name>
+<name>AR \ News \ 13</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -90,6 +90,12 @@
 <title>   FR \ فرانس 24</title>
 <link>rtmp://stream2.france24.yacast.net:80/france24_live/frda playpath=f24_livefrda app=france24_live/frda pageURL=http://www.france24.com/fr/aef_player_popup/france24_player swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.techbabu.com/wp-content/images/france24_tv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IQ \ البغدادية</title>
+<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -1042,7 +1048,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA JPL \ -7h</title>
+<title>   US \ NASA JPL \ -8h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream@787 swfUrl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1446,7 +1452,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Buy Costumes TV \ -2h</title>
+<title>+ US \ Buy Costumes TV</title>
 <link>rtsp://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=</link>
 <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
 </subitem>
@@ -1624,7 +1630,7 @@
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>+ BE \ La une</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -2142,7 +2148,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ Tagesschau \ -57d</title>
+<title>   DE \ Tagesschau \ -58d</title>
 <link>http://tagesschau-live1-webm-wmv.wm.llnwd.net/tagesschau_live1_webm_wmv</link>
 <thumbnail>http://www.tagesschau.de/image/tagesschaude_512.jpg</thumbnail>
 </subitem>
@@ -2237,7 +2243,7 @@
 <channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -20h</title>
+<title>   IS \ Alþingi \ -21h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -2565,7 +2571,7 @@
 </item>
 
 <item>
-<title>   NO \ Visjon Norge \ -18h</title>
+<title>   NO \ Visjon Norge \ -19h</title>
 <link>rtmp://fl0.c06359.cdn.qbrick.com/06359/ playpath=visjonnorge1 swfUrl=http://jonas.do.am/player.swf pageUrl=http://jonas.do.am/player.swf?file=visjonnorge1&amp;type=rtmp&amp;streamer=rtmp://fl0.c06359.cdn.qbrick.com/06359/ live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Visjon_Norge.svg/283px-Visjon_Norge.svg.png</thumbnail>
 </item>
@@ -3760,7 +3766,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ ES \ Ojos Solidarios</title>
+<title>   ES \ Ojos Solidarios \ -2h</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -4970,7 +4976,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ US \ New York \ Liberty Island \ HD</title>
+<title>   US \ New York \ Liberty Island \ HD \ -1h</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=sliberty.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -5910,8 +5916,8 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 26/12/2011 15:45:21 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 7</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 26/12/2011 16:46:15 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 2</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 645</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams unconfirmed: 525</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1170</title><link>none</link><thumbnail>none</thumbnail></item>
