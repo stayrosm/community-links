@@ -19,7 +19,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 76</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 77</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 46</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -304,7 +304,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ Kids \ 2</name>
+<name>AR \ Kids \ 3</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <subitems>
 
@@ -312,6 +312,12 @@
 <title>+ CY \ Sat7 KIDS</title>
 <link>mms://energy10.egihosting.com/859238</link>
 <thumbnail>http://xn--b1a5a.co.cc/wp-content/uploads/2011/05/sat7-copy.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   EG \ AljazeeraKids</title>
+<link>rtsp://213.229.78.218/aljazeerakids</link>
+<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -437,7 +443,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ الحرة</title>
+<title>+ US \ الحرة</title>
 <link>rtmp://110.164.253.197:1935/live?_fcs_vhost=cp51007.live.edgefcs.net&amp;akmfv=1.8 playpath=Alhurra_Iraq_Flash@7095 swfUrl=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf pageUrl=http://www.tv14.net/alhurra-iraq/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.albosala.com/Portals/Files/General/%D8%A7%D9%84%D8%AD%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.jpg</thumbnail>
 </subitem>
@@ -900,7 +906,7 @@
 <channel><name>Croatian \ 6</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -6h</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -7h</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -1104,7 +1110,7 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Graafschap TV \ -5h</title>
+<title>   NL \ Graafschap TV \ -6h</title>
 <link>mms://deomroep-live.streamonline.nl/deomroep-live?MSWMExt=.asf</link>
 <thumbnail>http://www.rtvkeetje.nl/images/logo_graafschaptv_lbs.jpg</thumbnail>
 </subitem>
@@ -1146,7 +1152,7 @@
 </subitem>
 
 <subitem>
-<title>   NL \ RTV Noord \ -12h</title>
+<title>   NL \ RTV Noord \ -13h</title>
 <link>mms://media.rtvnoord.nl/tvrtvnoord</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_noord.jpg</thumbnail>
 </subitem>
@@ -1280,7 +1286,7 @@
 <subitems>
 
 <subitem>
-<title>   IE \ none \ -7h</title>
+<title>   IE \ none \ -8h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -1888,7 +1894,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA JPL \ -1h</title>
+<title>   US \ NASA JPL \ -2h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream@787 swfUrl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -2140,7 +2146,7 @@
 </subitem>
 
 <subitem>
-<title>   NZ \ 3news \ -5h</title>
+<title>   NZ \ 3news \ -6h</title>
 <link>mms://wmstream.mediaworks.co.nz/WMController?MSWMExt=.asf</link>
 <thumbnail>http://wa2.www.tv3.co.nz/Portals/0/AM/2008/10/28/59642/tv3-show-thumb-150x100-3news.jpg</thumbnail>
 </subitem>
@@ -2206,7 +2212,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ ABC 3 KTBS \ -26d</title>
+<title>   US \ ABC 3 KTBS \ -27d</title>
 <link>mms://a1795.l2750652009.c27506.n.lm.akamaistream.net/D/1795/27506/v0001/reflector:52009</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -2278,7 +2284,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ News Look \ -136d</title>
+<title>   US \ News Look \ -137d</title>
 <link>rtmp://media2.lsops.net/liveloop/ playpath=newslook_en.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/122-newslook-english" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gklkm.png</thumbnail>
 </subitem>
@@ -2388,7 +2394,7 @@
 </subitem>
 
 <subitem>
-<title>+ US \ Buy Costumes TV</title>
+<title>   US \ Buy Costumes TV \ -2h</title>
 <link>rtsp://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=</link>
 <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
 </subitem>
@@ -2450,19 +2456,19 @@
 </subitem>
 
 <subitem>
-<title>   UK \ British EuroSport 1 \ -207d</title>
+<title>   UK \ British EuroSport 1 \ -208d</title>
 <link>rtmp://68.68.22.83/live/_definst_ app=live/_definst_ pageUrl=http://www.yycast.com/embed.php?fileid=GOWiADIkYSLb5YZ&amp;vw=640&amp;vh=360 swfUrl=http://img.yycast.com:805/player-licensed.swf tcUrl=rtmp://68.68.22.83/live/_definst playpath=GOWiADIkYSLb5YZ swfvfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdeke.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   UK \ British EuroSport 2 \ -207d</title>
+<title>   UK \ British EuroSport 2 \ -208d</title>
 <link>rtmp://174.37.130.144/live/_definst_ app=live/_definst_ playpath=4KnaZmTf23_8uDk swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=4KnaZmTf23_8uDk&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekf.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   UK \ ESPN \ -207d</title>
+<title>   UK \ ESPN \ -208d</title>
 <link>rtmp://174.37.164.80/live/_definst_ app=live/_definst_ playpath=IqJQBtPJQyDOk0W swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=IqJQBtPJQyDOk0W&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gtk7h.png</thumbnail>
 </subitem>
@@ -2480,25 +2486,25 @@
 </subitem>
 
 <subitem>
-<title>   UK \ Sky Poker \ -227d</title>
+<title>   UK \ Sky Poker \ -228d</title>
 <link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5nr8.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   UK \ Sky Sport 1 \ -207d</title>
+<title>   UK \ Sky Sport 1 \ -208d</title>
 <link>rtmp://68.68.22.79/live/_definst_ app=live/_definst_ playpath=W62Fli2rYmgLuGu swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=W62Fli2rYmgLuGu&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekb.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   UK \ Sky Sport 2 \ -207d</title>
+<title>   UK \ Sky Sport 2 \ -208d</title>
 <link>rtmp://68.68.22.81/live/_definst_ app=live/_definst_ playpath=CrVHwt0EIfJBXBG swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=CrVHwt0EIfJBXBG&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekc.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   UK \ Sky Sport 3 \ -207d</title>
+<title>   UK \ Sky Sport 3 \ -208d</title>
 <link>rtmp://68.68.22.91/live/_definst_ app=live/_definst_ playpath=xtzuGBpUT6sqToF swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=xtzuGBpUT6sqToF&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekd.png</thumbnail>
 </subitem>
@@ -2546,13 +2552,13 @@
 </subitem>
 
 <subitem>
-<title>   US \ GOLTV \ -102d</title>
+<title>   US \ GOLTV \ -103d</title>
 <link>rtmp://live18.seeon.tv/edge playpath=ijjxsgaw2f0k2pa swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/19598/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gol_tv.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   US \ MLB Network \ -94d</title>
+<title>   US \ MLB Network \ -95d</title>
 <link>rtmp://live12.seeon.tv/edge playpath=rbb86yhhwfricni swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/19424/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </subitem>
@@ -2576,7 +2582,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Versus \ -69d</title>
+<title>   US \ Versus \ -70d</title>
 <link>rtmp://live0.seeon.tv/edge/hr4wk8wyulh7dch swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=3811&amp;autoplay=true tcUrl=rtmp://live0.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/versus.png</thumbnail>
 </subitem>
@@ -2590,13 +2596,13 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -7h</title>
+<title>   BE \ La deux \ -8h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -19h</title>
+<title>   BE \ La une \ -20h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -2722,7 +2728,7 @@
 </subitem>
 
 <subitem>
-<title>+ FR \ idf1</title>
+<title>   FR \ idf1 \ -2h</title>
 <link>http://live240.impek.com/idf1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/idf1.jpg</thumbnail>
 </subitem>
@@ -2858,19 +2864,19 @@
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Paris \ -7h</title>
+<title>   FR \ NRJ Paris \ -8h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ FR \ NRJ Pop Rock</title>
+<title>   FR \ NRJ Pop Rock \ -1h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Pure \ -1d</title>
+<title>   FR \ NRJ Pure \ -2d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </subitem>
@@ -3702,7 +3708,7 @@
 <channel><name>Icelandic \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
-<title>   IS \ Alþingi \ -6h</title>
+<title>   IS \ Alþingi \ -7h</title>
 <link>rtmp://74.86.186.47/ruv playpath=beint-1 swfUrl=http://www.ruv.is/spilari/player.swf pageUrl=http://dagskra.ruv.is/sjonvarpid/ live=true timeout=60</link>
 <thumbnail>http://blogs-images.forbes.com/andygreenberg/files/2011/01/icelandalthingi.png</thumbnail>
 </item>
@@ -3758,7 +3764,7 @@
 </subitem>
 
 <subitem>
-<title>   IT \ GRP 1 \ -89d</title>
+<title>   IT \ GRP 1 \ -90d</title>
 <link>rtmp://cp86438.live.edgefcs.net/live/ playpath=livestream3_222@56831 swfurl="http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.grptv.it/templates/ja_purity/images/logo.png</thumbnail>
 </subitem>
@@ -4070,7 +4076,7 @@
 </subitem>
 
 <subitem>
-<title>   IT \ Super Tennis \ -14h</title>
+<title>   IT \ Super Tennis \ -15h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </subitem>
@@ -4609,7 +4615,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Canção Nova \ -9h</title>
+<title>   BR \ Canção Nova \ -10h</title>
 <link>mms://wmsbr.webtvcn.com/tvcn</link>
 <thumbnail>http://3.bp.blogspot.com/_ytb67gFlQvg/Sw_42VuMeDI/AAAAAAAABTE/JIQvs6nuAwI/s1600/cancao20nova1.jpg</thumbnail>
 </subitem>
@@ -5103,7 +5109,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Discovery Kids \ -203d</title>
+<title>   BR \ Discovery Kids \ -204d</title>
 <link>rtmp://streamer.istreamlive.net/35_137 playpath=kidstv swfUrl=http://www.serv-vto.com/player4.7.swf pageUrl=http://www.brasilligado.org/parceiros/discokids.html live=true timeout=60</link>
 <thumbnail>http://i1109.photobucket.com/albums/h440/MAGALGAMES/ffford.jpg</thumbnail>
 </subitem>
@@ -5688,7 +5694,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \ none \ -22d</title>
+<title>   SELECT COUNTRY... \ none \ -23d</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -5848,7 +5854,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ Canal 10 \ -6d</title>
+<title>   AR \ Canal 10 \ -7d</title>
 <link>mms://tucumantv.interrogacaodigital.net/tucumantv?.wma</link>
 <thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/SHj68XeECUI/AAAAAAAADO8/ctMztt0tmXY/s400/tucuman-c10.gif</thumbnail>
 </subitem>
@@ -5860,7 +5866,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ Canal 5 \ -6d</title>
+<title>   AR \ Canal 5 \ -7d</title>
 <link>mms://stream1.streamingnow.net/tucumantv2</link>
 <thumbnail>http://2.bp.blogspot.com/-D_j9YP6ikZo/Ta9gCnEeYNI/AAAAAAAAALk/zF0P6GlIYKI/s320/canal5.jpg</thumbnail>
 </subitem>
@@ -5872,7 +5878,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ TV Publica \ -1h</title>
+<title>   AR \ TV Publica \ -2h</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -6232,7 +6238,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ HT \ Tele Horizon 2000</title>
+<title>   HT \ Tele Horizon 2000 \ -2h</title>
 <link>mms://telehorizon.no-ip.org/telehorizon-telehorizon-100</link>
 <thumbnail>http://www.haitiendirect.com/111ed.jpg</thumbnail>
 </subitem>
@@ -6390,7 +6396,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ Cámara de Diputados de la Nación \ -2h</title>
+<title>+ AR \ Cámara de Diputados de la Nación</title>
 <link>mms://hera.hcdn.gov.ar/sesiones_vivo</link>
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=2bd49bd39b2ea7825e0b138aa15f3a68&amp;w=180&amp;h=540&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Fff%2FCoat_of_arms_of_Argentina.svg%2F720px-Coat_of_arms_of_Argentina.svg</thumbnail>
 </subitem>
@@ -6432,7 +6438,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ MX \ edusat 11</title>
+<title>   MX \ edusat 11 \ -2h</title>
 <link>mms://168.255.107.6/canal11</link>
 <thumbnail>http://www.cecuallende.ipn.mx/wps/wcm/connect/6106EE8040466E3D8948DD09C9EC8FB/EDUSAT2A90.GIF?MOD=AJPERES&amp;CACHEID=6106ee8040466e3d8948dd09c9ec8fbf</thumbnail>
 </subitem>
@@ -6612,7 +6618,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CU \ TV Martí \ -2h</title>
+<title>+ CU \ TV Martí</title>
 <link>mms://a165.1211035484.c2110.g.lm.akamaistream.net/D/165/2110/v0001/reflector:35484</link>
 <thumbnail>http://cubapolidata.com/wp-content/uploads/2011/04/New+Marti+Logo+Color-sml.jpg</thumbnail>
 </subitem>
@@ -6768,7 +6774,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   PH \ DZRH \ -2h</title>
+<title>+ PH \ DZRH</title>
 <link>mms://bayantel-ss.dagupan.com/dzrhvideo</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/05/DZRH_Logo.jpg</thumbnail>
 </item>
@@ -6800,7 +6806,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>+ IQ \ Türkmeneli TV</title>
+<title>   IQ \ Türkmeneli TV \ -2h</title>
 <link>mms://yayin3.canliyayin.org/turkmenelitv</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/turkmeneli_tv.jpg</thumbnail>
 </subitem>
@@ -6998,13 +7004,13 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TR \ TRT1 \ -2h</title>
+<title>   TR \ TRT1 \ -3h</title>
 <link>mms://95.0.159.131/TV1</link>
 <thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
-<title>   TR \ TRT1 \ -2h</title>
+<title>   TR \ TRT1 \ -3h</title>
 <link>mms://95.0.159.131/TV1</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -7367,7 +7373,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VN \ BRT \ -233d</title>
+<title>   VN \ BRT \ -234d</title>
 <link>rtmp://117.103.225.2/live/brt" swfUrl="http://vietpho.com/includes/js/vietpho.swf" pageUrl="http://vietpho.com/online-channels.php" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/brt_vn.jpg</thumbnail>
 </subitem>
@@ -7439,7 +7445,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VN \ Vietoday \ -8h</title>
+<title>   VN \ Vietoday \ -9h</title>
 <link>mms://shared.streamwebtown.com/dong_sg</link>
 <thumbnail>http://www.ourwebtv.com/Logos/Vietoday%20(VNiTV)%20Hanoi%20Vietnam.JPG</thumbnail>
 </subitem>
@@ -7530,7 +7536,7 @@ timeout=60</link>
 </subchannels></channel>=== Kids ===========================================================================================
 
 <channel>
-<name>All Kids \ 34</name>
+<name>All Kids \ 35</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/kids.png</thumbnail>
 <items>
 
@@ -7553,7 +7559,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   BR \ Discovery Kids \ -203d</title>
+<title>   BR \ Discovery Kids \ -204d</title>
 <link>rtmp://streamer.istreamlive.net/35_137 playpath=kidstv swfUrl=http://www.serv-vto.com/player4.7.swf pageUrl=http://www.brasilligado.org/parceiros/discokids.html live=true timeout=60</link>
 <thumbnail>http://i1109.photobucket.com/albums/h440/MAGALGAMES/ffford.jpg</thumbnail>
 </item>
@@ -7608,6 +7614,12 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <title>+ DK \ DR Ramasjang \ ®</title>
 <link>rtmp://rtmplive.dr.dk:1935/live playpath=livedr05astream3 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gstpk.png</thumbnail>
+</item>
+
+<item>
+<title>   EG \ AljazeeraKids</title>
+<link>rtsp://213.229.78.218/aljazeerakids</link>
+<thumbnail>none</thumbnail>
 </item>
 
 <item>
@@ -7753,7 +7765,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <items>
 
 <item>
-<title>   AI \ Meads Bay Beach \ HD \ -3h</title>
+<title>+ AI \ Meads Bay Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=anguilla.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -7777,7 +7789,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   JP \ Tokyo \ Chuo City \ HD \ -3h</title>
+<title>+ JP \ Tokyo \ Chuo City \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tokyo1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -7807,31 +7819,31 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RU \ Moscow \ Skyline \ HD \ -3h</title>
+<title>+ RU \ Moscow \ Skyline \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=moscowHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   UK \ London \ Abbey Road \ HD \ -3h</title>
+<title>+ UK \ London \ Abbey Road \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=AbbeyRoadHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Austin \ HD \ -3h</title>
+<title>+ US \ Austin \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=paradiseon6.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Chicago \ Wrigley Field \ HD \ -3h</title>
+<title>+ US \ Chicago \ Wrigley Field \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wrigleyfieldcamHD.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Fort Lauderdale \ HD \ -3h</title>
+<title>+ US \ Fort Lauderdale \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=windjammerHD.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -7843,121 +7855,121 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Las Vegas \ Monte Carlo \ HD \ -3h</title>
+<title>+ US \ Las Vegas \ Monte Carlo \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=monte_carlo.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Las Vegas \ Wedding Chapel \ HD \ -3h</title>
+<title>+ US \ Las Vegas \ Wedding Chapel \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wedding_chapel.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Las Vegas \ Welcome Sign \ HD \ -3h</title>
+<title>+ US \ Las Vegas \ Welcome Sign \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=eclasvegas.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Los Angeles \ Hollywood Blvd \ HD \ -3h</title>
+<title>+ US \ Los Angeles \ Hollywood Blvd \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=lacitytours1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ Bayfront Park \ HD \ -3h</title>
+<title>+ US \ Miami \ Bayfront Park \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd5.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ Biscayne Beach \ HD \ -12h</title>
+<title>   US \ Miami \ Biscayne Beach \ HD \ -13h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd4.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ Coconut Grove \ HD \ -3h</title>
+<title>+ US \ Miami \ Coconut Grove \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd3.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ News Cafe \ HD \ -3h</title>
+<title>+ US \ Miami \ News Cafe \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3644newscafe.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ South Beach \ HD \ -3h</title>
+<title>+ US \ Miami \ South Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ Sunny Isles Beach \ HD \ -3h</title>
+<title>+ US \ Miami \ Sunny Isles Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd2.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Myrtle Beach \ HD \ -3h</title>
+<title>+ US \ Myrtle Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3635.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ 43rd &amp; Broadway \ HD \ -3h</title>
+<title>+ US \ New York \ 43rd &amp; Broadway \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tsoneHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ 46th &amp; Broadway \ HD \ -3h</title>
+<title>+ US \ New York \ 46th &amp; Broadway \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=fridaysHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ 7th &amp; Broadway \ HD \ -3h</title>
+<title>+ US \ New York \ 7th &amp; Broadway \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=hdtimes.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ Liberty Island \ HD \ -3h</title>
+<title>+ US \ New York \ Liberty Island \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=sliberty.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ Wall Street \ HD \ -3h</title>
+<title>+ US \ New York \ Wall Street \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=chargingbull.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Palm Beach \ HD \ -3h</title>
+<title>+ US \ Palm Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=breakerhd.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Panama City \ HD \ -3h</title>
+<title>+ US \ Panama City \ HD</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=pinewill.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ San Diego \ Mission Beach \ HD \ -3h</title>
+<title>+ US \ San Diego \ Mission Beach \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3478.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ St. Louis \ Eads Bridge \ HD \ -3h</title>
+<title>+ US \ St. Louis \ Eads Bridge \ HD</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3724trailnet2.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -8076,19 +8088,19 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   FR \ NRJ Paris \ -7h</title>
+<title>   FR \ NRJ Paris \ -8h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </item>
 
 <item>
-<title>+ FR \ NRJ Pop Rock</title>
+<title>   FR \ NRJ Pop Rock \ -1h</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Pure \ -1d</title>
+<title>   FR \ NRJ Pure \ -2d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </item>
@@ -8560,7 +8572,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -14h</title>
+<title>   IT \ Super Tennis \ -15h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
@@ -8650,19 +8662,19 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   UK \ British EuroSport 1 \ -207d</title>
+<title>   UK \ British EuroSport 1 \ -208d</title>
 <link>rtmp://68.68.22.83/live/_definst_ app=live/_definst_ pageUrl=http://www.yycast.com/embed.php?fileid=GOWiADIkYSLb5YZ&amp;vw=640&amp;vh=360 swfUrl=http://img.yycast.com:805/player-licensed.swf tcUrl=rtmp://68.68.22.83/live/_definst playpath=GOWiADIkYSLb5YZ swfvfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdeke.png</thumbnail>
 </item>
 
 <item>
-<title>   UK \ British EuroSport 2 \ -207d</title>
+<title>   UK \ British EuroSport 2 \ -208d</title>
 <link>rtmp://174.37.130.144/live/_definst_ app=live/_definst_ playpath=4KnaZmTf23_8uDk swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=4KnaZmTf23_8uDk&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekf.png</thumbnail>
 </item>
 
 <item>
-<title>   UK \ ESPN \ -207d</title>
+<title>   UK \ ESPN \ -208d</title>
 <link>rtmp://174.37.164.80/live/_definst_ app=live/_definst_ playpath=IqJQBtPJQyDOk0W swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=IqJQBtPJQyDOk0W&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gtk7h.png</thumbnail>
 </item>
@@ -8680,25 +8692,25 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   UK \ Sky Poker \ -227d</title>
+<title>   UK \ Sky Poker \ -228d</title>
 <link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5nr8.png</thumbnail>
 </item>
 
 <item>
-<title>   UK \ Sky Sport 1 \ -207d</title>
+<title>   UK \ Sky Sport 1 \ -208d</title>
 <link>rtmp://68.68.22.79/live/_definst_ app=live/_definst_ playpath=W62Fli2rYmgLuGu swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=W62Fli2rYmgLuGu&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekb.png</thumbnail>
 </item>
 
 <item>
-<title>   UK \ Sky Sport 2 \ -207d</title>
+<title>   UK \ Sky Sport 2 \ -208d</title>
 <link>rtmp://68.68.22.81/live/_definst_ app=live/_definst_ playpath=CrVHwt0EIfJBXBG swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=CrVHwt0EIfJBXBG&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekc.png</thumbnail>
 </item>
 
 <item>
-<title>   UK \ Sky Sport 3 \ -207d</title>
+<title>   UK \ Sky Sport 3 \ -208d</title>
 <link>rtmp://68.68.22.91/live/_definst_ app=live/_definst_ playpath=xtzuGBpUT6sqToF swfUrl=http://img.yycast.com:805/player-licensed.swf pageUrl=http://www.yycast.com/embed.php?fileid=xtzuGBpUT6sqToF&amp;vw=640&amp;vh=360 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdekd.png</thumbnail>
 </item>
@@ -8776,13 +8788,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   US \ GOLTV \ -102d</title>
+<title>   US \ GOLTV \ -103d</title>
 <link>rtmp://live18.seeon.tv/edge playpath=ijjxsgaw2f0k2pa swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/19598/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gol_tv.png</thumbnail>
 </item>
 
 <item>
-<title>   US \ MLB Network \ -94d</title>
+<title>   US \ MLB Network \ -95d</title>
 <link>rtmp://live12.seeon.tv/edge playpath=rbb86yhhwfricni swfUrl=http://www.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/19424/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mlb_network.png</thumbnail>
 </item>
@@ -8806,7 +8818,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   US \ Versus \ -69d</title>
+<title>   US \ Versus \ -70d</title>
 <link>rtmp://live0.seeon.tv/edge/hr4wk8wyulh7dch swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/embedplayer.php?width=600&amp;height=410&amp;channel=3811&amp;autoplay=true tcUrl=rtmp://live0.seeon.tv/edge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/versus.png</thumbnail>
 </item>
@@ -8822,7 +8834,13 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   IE \ none \ -7h</title>
+<title>   EG \ AljazeeraKids</title>
+<link>rtsp://213.229.78.218/aljazeerakids</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   IE \ none \ -9h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -9009,7 +9027,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \ none \ -22d</title>
+<title>   SELECT COUNTRY... \ none \ -23d</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -9027,7 +9045,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   US \ ABC 3 KTBS \ -26d</title>
+<title>   US \ ABC 3 KTBS \ -27d</title>
 <link>mms://a1795.l2750652009.c27506.n.lm.akamaistream.net/D/1795/27506/v0001/reflector:52009</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -9093,7 +9111,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   VN \ BRT \ -233d</title>
+<title>   VN \ BRT \ -234d</title>
 <link>rtmp://117.103.225.2/live/brt" swfUrl="http://vietpho.com/includes/js/vietpho.swf" pageUrl="http://vietpho.com/online-channels.php" live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/brt_vn.jpg</thumbnail>
 </item>
@@ -9108,12 +9126,6 @@ timeout=60</link>
 <title>+ VN \ Dong Nai 1</title>
 <link>rtmp://123.30.107.3:1935/live/dn1/ playpath=livestream swfUrl="http://vietpho.com/includes/js/vietpho.swf" pageUrl="http://vietpho.com/online-channels.php" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv1.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ VN \ Dong Nai 2</title>
-<link>rtmp://123.30.107.3:1935/live/dn2/ playpath=livestream swfUrl="http://vietpho.com/includes/js/vietpho.swf" pageUrl="http://vietpho.com/online-channels.php" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv2.jpg</thumbnail>
 </item>
 
 <item>
@@ -9137,11 +9149,11 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 06/01/2012 03:49:58 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 3</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 615</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 566</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1181</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 06/01/2012 04:51:55 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 5</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 639</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 543</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1182</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
