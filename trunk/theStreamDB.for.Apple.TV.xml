@@ -824,7 +824,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ MSNBC \ -6h</title>
+<title>   US \ MSNBC \ -7h</title>
 <link>rtmp://d.cdn.msnbclive.eu/edge playpath=msnbc_live swfUrl=http://www.rentadrone.org/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.rentadrone.org/msnbc-live-rockinroosters/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
 </subitem>
@@ -904,7 +904,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ Buy Costumes TV \ -2h</title>
+<title>   US \ Buy Costumes TV \ -3h</title>
 <link>rtsp://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=</link>
 <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
 </subitem>
@@ -936,7 +936,7 @@
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>+ BE \ La une</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1442,7 +1442,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ Tagesschau \ -102d</title>
+<title>   DE \ Tagesschau \ -103d</title>
 <link>http://tagesschau-live1-webm-wmv.wm.llnwd.net/tagesschau_live1_webm_wmv</link>
 <thumbnail>http://www.tagesschau.de/image/tagesschaude_512.jpg</thumbnail>
 </subitem>
@@ -2004,7 +2004,7 @@ pageUrl=http://www.cdnbr.org/mastertv/RedeTV!.htm tcUrl=rtmp://streamer.istreaml
 </subitem>
 
 <subitem>
-<title>+ BR \ SBT</title>
+<title>   BR \ SBT \ -1h</title>
 <link>rtmp://streamer.istreamlive.net/35_137/sbt app=35_137 pageUrl=http://www.brasilligado.org/parceiros/sbt.html swfUrl=http://www.serv-vto.com/player4.7.swf tcUrl=rtmp://streamer.istreamlive.net/35_137 playPath=sbt live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sbt_nacional.png</thumbnail>
 </subitem>
@@ -2529,25 +2529,25 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ OneHD Classics \ HD \ -21h</title>
+<title>   RO \ OneHD Classics \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/classics.php playpath=classics live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_classics.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Dance \ HD \ -21h</title>
+<title>   RO \ OneHD Dance \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Jazz \ HD \ -21h</title>
+<title>   RO \ OneHD Jazz \ HD \ -22h</title>
 <link>rtmp://93.114.43.3/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/jazz.php playpath=jazz live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_jazz.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Live \ HD \ -21h</title>
+<title>   RO \ OneHD Live \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=onehd live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
 </item>
@@ -2559,13 +2559,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ OneHD Pop \ HD \ -21h</title>
+<title>   RO \ OneHD Pop \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/pop.php playpath=pop live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_pop.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Rock \ HD \ -21h</title>
+<title>   RO \ OneHD Rock \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=rock live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_rock.png</thumbnail>
 </item>
@@ -2760,7 +2760,7 @@ timeout=60</link>
 </subchannels></channel><channel><name>Select Language... \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
 
 <item>
-<title>   SELECT COUNTRY... \ vietnam \ -23h</title>
+<title>   SELECT COUNTRY... \ vietnam \ -1d</title>
 <link>http://thestreamdb.com/db/Vietnam</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -3323,7 +3323,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TR \ Hayat TV \ -4h</title>
+<title>   TR \ Hayat TV \ -5h</title>
 <link>rtsp://yayin.canlitv.com/hayattv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hayat_tv.png</thumbnail>
 </subitem>
@@ -4233,25 +4233,25 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RO \ OneHD Classics \ HD \ -21h</title>
+<title>   RO \ OneHD Classics \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/classics.php playpath=classics live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_classics.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Dance \ HD \ -21h</title>
+<title>   RO \ OneHD Dance \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Jazz \ HD \ -21h</title>
+<title>   RO \ OneHD Jazz \ HD \ -22h</title>
 <link>rtmp://93.114.43.3/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/jazz.php playpath=jazz live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_jazz.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Live \ HD \ -21h</title>
+<title>   RO \ OneHD Live \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=onehd live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
 </item>
@@ -4263,13 +4263,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RO \ OneHD Pop \ HD \ -21h</title>
+<title>   RO \ OneHD Pop \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/pop.php playpath=pop live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_pop.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Rock \ HD \ -21h</title>
+<title>   RO \ OneHD Rock \ HD \ -22h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=rock live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_rock.png</thumbnail>
 </item>
@@ -4553,7 +4553,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \ vietnam \ -23h</title>
+<title>   SELECT COUNTRY... \ vietnam \ -1d</title>
 <link>http://thestreamdb.com/db/Vietnam</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4651,10 +4651,10 @@ timeout=60</link>
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 09/02/2012 15:56:48 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 09/02/2012 16:57:49 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 599</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 386</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 596</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 389</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 985</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
