@@ -480,7 +480,7 @@
 </item>
 
 <item>
-<title>   AM \ ARTN \ -2h</title>
+<title>+ AM \ ARTN</title>
 <link>rtsp://204.174.105.58/wmtencoder/artn.wmv</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/artn.png</thumbnail>
 </item>
@@ -1350,7 +1350,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA HD \ HD \ -10h</title>
+<title>   US \ NASA HD \ HD \ -11h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -1588,7 +1588,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ Create and Craft \ -5h</title>
+<title>   UK \ Create and Craft \ -6h</title>
 <link>rtmp://live.simplestreamcdn.net/idealworld/chan=createandcraft playpath=createandcraft2 swfUrl="http://www.createandcraft.tv/common/flash/showpage/liveplayer.swf" pageUrl="http://www.createandcraft.tv/ShowGridView.aspx" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqnmj.png</thumbnail>
 </subitem>
@@ -1606,7 +1606,7 @@
 </subitem>
 
 <subitem>
-<title>+ UK \ Ideal Extra</title>
+<title>   UK \ Ideal Extra \ -1h</title>
 <link>rtmp://live.simplestreamcdn.net/idealworld/chan=idealextra playpath=idealextra2 swfUrl="http://www.createandcraft.tv/common/flash/showpage/liveplayer.swf" pageUrl="http://www.createandcraft.tv/ShowGridView.aspx" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqnnt.png</thumbnail>
 </subitem>
@@ -1724,13 +1724,13 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -21h</title>
+<title>+ BE \ La deux</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>+ BE \ La une</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1980,7 +1980,7 @@
 <subitems>
 
 <subitem>
-<title>   CG \ KimWebTV \ -111d</title>
+<title>   CG \ KimWebTV \ -112d</title>
 <link>mms://87.98.215.37/kin</link>
 <thumbnail>http://agadira.com/dell/tv/kinweb-tv.jpg</thumbnail>
 </subitem>
@@ -2473,7 +2473,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ Tagesschau \ -111d</title>
+<title>   DE \ Tagesschau \ -112d</title>
 <link>http://tagesschau-live1-webm-wmv.wm.llnwd.net/tagesschau_live1_webm_wmv</link>
 <thumbnail>http://www.tagesschau.de/image/tagesschaude_512.jpg</thumbnail>
 </subitem>
@@ -4305,7 +4305,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>+ RO \ Sport.ro \ HD</title>
+<title>   RO \ Sport.ro \ HD \ -1h</title>
 <link>rtmp://live.protv.ro/live1 app=live1 swfUrl=http://d1.a4w.ro/player/flowplayer.cluster-3.2.1.swf pageUrl=http://www.sport.ro/live/ibu1.html playpath=mp4:live1.mp4 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_ro_hd.jpg</thumbnail>
 </item>
@@ -4317,7 +4317,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ TVRM Cultural \ -250d</title>
+<title>   RO \ TVRM Cultural \ -251d</title>
 <link>mms://86.34.169.53:8080/</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4572,7 +4572,7 @@ timeout=60</link>
 </subchannels></channel><channel><name>Select Language... \ 4</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
 
 <item>
-<title>   DZ \ test \ HD \ -17h</title>
+<title>   DZ \ test \ HD \ -18h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4619,13 +4619,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RS \ RTV 1 \ -250d</title>
+<title>   RS \ RTV 1 \ -251d</title>
 <link>mms://212.200.191.85/RTV1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   RS \ RTV 2 \ -250d</title>
+<title>   RS \ RTV 2 \ -251d</title>
 <link>mms://212.200.191.85/rtv2</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4665,7 +4665,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   SK \ TA3 \ -111d</title>
+<title>   SK \ TA3 \ -112d</title>
 <link>mms://wmsta3.the.sk/ta3live</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4750,7 +4750,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ TV Publica \ -1h</title>
+<title>+ AR \ TV Publica</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -4966,7 +4966,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -3h</title>
+<title>   ES \ Ojos Solidarios \ -4h</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -5134,7 +5134,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   MX \ Canal 44 \ -7h</title>
+<title>   MX \ Canal 44 \ -8h</title>
 <link>mms://canal44.iphonewebtown.com/canal44</link>
 <thumbnail>http://www.seeklogo.com/images/C/CANAL_44-logo-98036EC685-seeklogo.com.gif</thumbnail>
 </subitem>
@@ -5170,7 +5170,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   NI \ Canal 2 \ -54d</title>
+<title>   NI \ Canal 2 \ -55d</title>
 <link>mms://Televicentro1.serverroom.us/televicentro</link>
 <thumbnail>http://www.canal2.com.ni/images/Nv-Logo-2-ID.gif</thumbnail>
 </subitem>
@@ -5230,7 +5230,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Oasis TV \ -111d</title>
+<title>   VE \ Oasis TV \ -112d</title>
 <link>mms://www.fm.net.ve/oasistelevision</link>
 <thumbnail>http://www.ourwebtv.com/Logos/Oasis-TV%20Venezuela.JPG</thumbnail>
 </subitem>
@@ -5262,13 +5262,13 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>+ AR \ Canal 7 Santiago</title>
+<title>   AR \ Canal 7 Santiago \ -2h</title>
 <link>mms://canal7santiago.telecomdatacenter.com.ar/canal7santiago</link>
 <thumbnail>http://1.bp.blogspot.com/_RmfQGw_PAmk/SYShWdF5RyI/AAAAAAAABaw/rP-CIQzz_XQ/s320/fondo_canal7.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   AR \ Cámara de Diputados de la Nación \ -2h</title>
+<title>   AR \ Cámara de Diputados de la Nación \ -3h</title>
 <link>mms://hera.hcdn.gov.ar/sesiones_vivo</link>
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=2bd49bd39b2ea7825e0b138aa15f3a68&amp;w=180&amp;h=540&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Fff%2FCoat_of_arms_of_Argentina.svg%2F720px-Coat_of_arms_of_Argentina.svg</thumbnail>
 </subitem>
@@ -5422,7 +5422,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PE \ RBC Televisión \ -3h</title>
+<title>   PE \ RBC Televisión \ -4h</title>
 <link>rtsp://rbcwmp.serverroom.us/rbcwmp</link>
 <thumbnail>http://4.bp.blogspot.com/_oDUWaS-WRZM/Ssi-fn8fpAI/AAAAAAAAABc/ioy-l_DWtAU/S254/logo_rbc.png</thumbnail>
 </subitem>
@@ -5792,7 +5792,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ TR \ KANAL3 TV</title>
+<title>   TR \ KANAL3 TV \ -2h</title>
 <link>mms://91.191.163.159/Kanal3tv</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -5810,7 +5810,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TR \ NTV \ -1d</title>
+<title>+ TR \ NTV</title>
 <link>mms://144.122.56.15/odtutv</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -6287,7 +6287,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VN \ Vietoday \ -7h</title>
+<title>   VN \ Vietoday \ -8h</title>
 <link>mms://shared.streamwebtown.com/dong_sg</link>
 <thumbnail>http://www.ourwebtv.com/Logos/Vietoday%20(VNiTV)%20Hanoi%20Vietnam.JPG</thumbnail>
 </subitem>
@@ -6679,7 +6679,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Miami \ South Beach \ HD \ -9h</title>
+<title>   US \ Miami \ South Beach \ HD \ -10h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -6828,7 +6828,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   CG \ KimWebTV \ -111d</title>
+<title>   CG \ KimWebTV \ -112d</title>
 <link>mms://87.98.215.37/kin</link>
 <thumbnail>http://agadira.com/dell/tv/kinweb-tv.jpg</thumbnail>
 </item>
@@ -6990,7 +6990,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   PE \ RBC Televisión \ -3h</title>
+<title>   PE \ RBC Televisión \ -4h</title>
 <link>rtsp://rbcwmp.serverroom.us/rbcwmp</link>
 <thumbnail>http://4.bp.blogspot.com/_oDUWaS-WRZM/Ssi-fn8fpAI/AAAAAAAAABc/ioy-l_DWtAU/S254/logo_rbc.png</thumbnail>
 </item>
@@ -7342,7 +7342,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>+ RO \ Sport.ro \ HD</title>
+<title>   RO \ Sport.ro \ HD \ -1h</title>
 <link>rtmp://live.protv.ro/live1 app=live1 swfUrl=http://d1.a4w.ro/player/flowplayer.cluster-3.2.1.swf pageUrl=http://www.sport.ro/live/ibu1.html playpath=mp4:live1.mp4 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_ro_hd.jpg</thumbnail>
 </item>
@@ -7412,7 +7412,7 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   DZ \ test \ HD \ -17h</title>
+<title>   DZ \ test \ HD \ -18h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -7510,13 +7510,13 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 </item>
 
 <item>
-<title>   RS \ RTV 1 \ -250d</title>
+<title>   RS \ RTV 1 \ -251d</title>
 <link>mms://212.200.191.85/RTV1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   RS \ RTV 2 \ -250d</title>
+<title>   RS \ RTV 2 \ -251d</title>
 <link>mms://212.200.191.85/rtv2</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -7734,10 +7734,10 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 18/02/2012 15:53:39 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 18/02/2012 16:56:36 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 606</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 384</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 607</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 383</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 990</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
