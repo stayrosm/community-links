@@ -554,10 +554,34 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 60</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
-<name>EN \ Entertainment \ 10</name>
+</subchannels></channel><channel><name>English \ 64</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
+<name>EN \ Entertainment \ 14</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   AE \ Fox Movies \ -0h</title>
+<link>rtsp://78.100.61.60/live/foxm.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_middle_east.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   AE \ MBC 2 \ -0h</title>
+<link>rtsp://78.100.61.60/live/mbc2.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc2_ae.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   AE \ MBC Action \ -0h</title>
+<link>rtsp://78.100.61.60/live/action.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_action.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   AE \ MBC Max \ -0h</title>
+<link>rtsp://78.100.61.60/live/max.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
+</subitem>
 
 <subitem>
 <title>+ UK \ Five</title>
@@ -716,7 +740,7 @@
 </subitem>
 
 <subitem>
-<title>   CA \ Sun News \ -5h</title>
+<title>+ CA \ Sun News</title>
 <link>rtmp://cp39414.live.edgefcs.net/live/argent@9751 swfURL=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sun_news_network.png</thumbnail>
 </subitem>
@@ -728,7 +752,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ France 24 \ -10h</title>
+<title>   FR \ France 24 \ -11h</title>
 <link>http://localhost:4500/channel.flv?server=38.99.146.149&amp;channel=Najoom3_VL&amp;port=2077&amp;mode=3&amp;user=ivpoy2inmc12er55fqnwtsqj&amp;session=c116091beabf58be8472eed114f3f3f2c1f9f5950953ba79f2b04c645face0e2a299017ce29bf1aa</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -862,7 +886,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ Create and Craft \ -8h</title>
+<title>+ UK \ Create and Craft</title>
 <link>rtmp://live.simplestreamcdn.net/idealworld/chan=createandcraft playpath=createandcraft2 swfUrl="http://www.createandcraft.tv/common/flash/showpage/liveplayer.swf" pageUrl="http://www.createandcraft.tv/ShowGridView.aspx" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqnmj.png</thumbnail>
 </subitem>
@@ -962,13 +986,13 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -12h</title>
+<title>   BE \ La deux \ -13h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -2h</title>
+<title>   BE \ La une \ -3h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -986,7 +1010,7 @@
 </subitem>
 
 <subitem>
-<title>   CA \ TVA \ HD \ -5h</title>
+<title>+ CA \ TVA \ HD</title>
 <link>rtmp://cp39414.live.edgefcs.net/live/tvahd@9750 swfURL=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cfcm_quebec.png</thumbnail>
 </subitem>
@@ -2387,7 +2411,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <subitems>
 
 <subitem>
-<title>   BR \ MTV BR \ -204d</title>
+<title>   BR \ MTV BR \ -205d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv41.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv41.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/a/ac/MTV_Brasil.png</thumbnail>
@@ -2428,7 +2452,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <subitems>
 
 <subitem>
-<title>   BR \ Shoptime \ -255d</title>
+<title>   BR \ Shoptime \ -256d</title>
 <link>http://mfile.akamai.com/9021/live/reflector:42527.asx</link>
 <thumbnail>http://img.shoptime.com.br/vitrine/img/logoShoptime.gif</thumbnail>
 </subitem>
@@ -2508,7 +2532,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 1 \ HD \ -119d</title>
+<title>   PT \ Sport TV 1 \ HD \ -120d</title>
 <link>rtmp://159.253.131.109/live/_definst_/kl35.flv swfUrl=http://www.streamiton.tv/player/player.swf pageURL=http://www.limev.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -2609,7 +2633,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>+ RO \ Sport.ro \ HD</title>
+<title>   RO \ Sport.ro \ HD \ -1h</title>
 <link>rtmp://live.protv.ro/live1 app=live1 swfUrl=http://d1.a4w.ro/player/flowplayer.cluster-3.2.1.swf pageUrl=http://www.sport.ro/live/ibu1.html playpath=mp4:live1.mp4 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_ro_hd.jpg</thumbnail>
 </item>
@@ -2876,7 +2900,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DO \ telesistema11 \ -15h</title>
+<title>   DO \ telesistema11 \ -16h</title>
 <link>none</link>
 <thumbnail>http://www.telesistema11.tv/</thumbnail>
 </subitem>
@@ -2954,7 +2978,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -2h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3299,7 +3323,7 @@ timeout=60</link>
 </subchannels></channel><channel><name>Tagalog \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Tagalog.png</thumbnail><items>
 
 <item>
-<title>   PH \ GMA \ -211d</title>
+<title>   PH \ GMA \ -212d</title>
 <link>rtmp://live5.seeon.tv/edge/6drb2o0ejvfksad swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/9024/GMA_7 tcUrl=rtmp://live5.seeon.tv/edge timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1000px-GMA_Network_Logo_Vector.svg.png</thumbnail>
 </item>
@@ -3990,7 +4014,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Austin \ HD \ -17h</title>
+<title>   US \ Austin \ HD \ -18h</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=paradiseon6.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4156,7 +4180,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ MTV BR \ -204d</title>
+<title>   BR \ MTV BR \ -205d</title>
 <link>rtmp://streamer.istreamlive.net/35_137/esportestv41.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/35_137/esportestv41.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/a/ac/MTV_Brasil.png</thumbnail>
@@ -4521,7 +4545,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   PT \ Sport TV 1 \ HD \ -119d</title>
+<title>   PT \ Sport TV 1 \ HD \ -120d</title>
 <link>rtmp://159.253.131.109/live/_definst_/kl35.flv swfUrl=http://www.streamiton.tv/player/player.swf pageURL=http://www.limev.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4551,7 +4575,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>+ RO \ Sport.ro \ HD</title>
+<title>   RO \ Sport.ro \ HD \ -1h</title>
 <link>rtmp://live.protv.ro/live1 app=live1 swfUrl=http://d1.a4w.ro/player/flowplayer.cluster-3.2.1.swf pageUrl=http://www.sport.ro/live/ibu1.html playpath=mp4:live1.mp4 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_ro_hd.jpg</thumbnail>
 </item>
@@ -4621,7 +4645,31 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   DO \ telesistema11 \ -15h</title>
+<title>   AE \ Fox Movies \ -0h</title>
+<link>rtsp://78.100.61.60/live/foxm.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_middle_east.jpg</thumbnail>
+</item>
+
+<item>
+<title>   AE \ MBC 2 \ -0h</title>
+<link>rtsp://78.100.61.60/live/mbc2.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc2_ae.jpg</thumbnail>
+</item>
+
+<item>
+<title>   AE \ MBC Max \ -0h</title>
+<link>rtsp://78.100.61.60/live/max.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>   AE \ MBC Action \ -0h</title>
+<link>rtsp://78.100.61.60/live/action.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_action.jpg</thumbnail>
+</item>
+
+<item>
+<title>   DO \ telesistema11 \ -16h</title>
 <link>none</link>
 <thumbnail>http://www.telesistema11.tv/</thumbnail>
 </item>
@@ -4751,11 +4799,11 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 20/02/2012 10:57:34 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 20/02/2012 11:59:28 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 607</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 385</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 992</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 613</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 383</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 996</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
