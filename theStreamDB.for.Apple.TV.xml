@@ -19,7 +19,7 @@
 <subitems>
 
 <subitem>
-<title>+ AE \ Dubai One</title>
+<title>   AE \ Dubai One</title>
 <link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dubai_one.jpg</thumbnail>
 </subitem>
@@ -711,7 +711,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ C-SPAN 3 \ -5h</title>
+<title>   US \ C-SPAN 3 \ -6h</title>
 <link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf"
  pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan3.png</thumbnail>
@@ -1032,13 +1032,13 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -2h</title>
+<title>   BE \ La deux \ -3h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -2h</title>
+<title>   BE \ La une \ -3h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -2335,7 +2335,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ SIC Radical \ -214d</title>
+<title>   PT \ SIC Radical \ -215d</title>
 <link>rtmp://174.37.110.84/live/_definst_|live/_definst_/tvtodoson.flv swfUrl=http://www.limev.com/player/player-licensed.swf pageURL=http://www.limev.com/embed.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic_radical.jpg</thumbnail>
 </subitem>
@@ -2572,7 +2572,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   PT \ Sport TV 1 \ -1h</title>
+<title>   PT \ Sport TV 1 \ -2h</title>
 <link>rtmp://s3.zcast.us/liveedge playpath=euromfc-81947 swfUrl=http://www.zcast.us/player.swf pageUrl=http://zcast.us/gen.php?ch=euromfc-81947&amp;width=670&amp;height=450 timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </subitem>
@@ -2613,7 +2613,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ Antena 3 \ -1h</title>
+<title>+ RO \ Antena 3</title>
 <link>rtmpe://fms30.mediadirect.ro app=live2/antena3 swfUrl=http://static1.mediadirect.ro/player-preload/swf/antena3_new_288/player.swf pageUrl=http://www.antena3.ro/live playpath=antena_3_low live=true timeout=60</link>
 <thumbnail>http://www.antena3.ro/static/images/antena3.jpg</thumbnail>
 </item>
@@ -3030,7 +3030,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -3h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3722,7 +3722,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VN \ none \ -17d</title>
+<title>   VN \ none \ -18d</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -4603,7 +4603,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   PT \ Sport TV 1 \ -1h</title>
+<title>   PT \ Sport TV 1 \ -2h</title>
 <link>rtmp://s3.zcast.us/liveedge playpath=euromfc-81947 swfUrl=http://www.zcast.us/player.swf pageUrl=http://zcast.us/gen.php?ch=euromfc-81947&amp;width=670&amp;height=450 timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv1_pt.jpg</thumbnail>
 </item>
@@ -4865,7 +4865,7 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 </item>
 
 <item>
-<title>   VN \ none \ -17d</title>
+<title>   VN \ none \ -18d</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4915,10 +4915,10 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 25/02/2012 14:48:26 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 5</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 555</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 451</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 25/02/2012 15:50:24 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 2</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 558</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 448</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1006</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
