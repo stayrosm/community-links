@@ -19,8 +19,8 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 74</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
-<name>AR \ Entertainment \ 45</name>
+<channel><name>Arabic \ 76</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<name>AR \ Entertainment \ 46</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -34,6 +34,13 @@
 <title>+ AE \ Dubai One</title>
 <link>rtmp://stream4.dmi.ae/live4/mp4:dubaione440.sdp timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dubai_one.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   AE \ dubai sbakat</title>
+<link><link>rtmp://stream4.dmi.ae/live4/mp4:dubairacing520.sdp app=live4/ swfUrl=http://www.elahmad.com/tv/swf/dubairacing.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/dubairacing.htm playPath=mp4:dubairacing520.sdp live=true swfVfy=true</link>
+</subitem></link>
+<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -322,7 +329,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 19</name>
+<name>AR \ News \ 18</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -348,12 +355,6 @@
 <title>+ IQ \ Iraqi Media Network</title>
 <link>mms://212.7.196.74/iraqia</link>
 <thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
-</subitem>
-
-<subitem>
-<title>   IQ \ البغدادية</title>
-<link>rtmp://212.187.212.35/vxedge/fs-ed63350000000000 playpath=fs-ed63350000000000 swfUrl="http://static.tv-tube.net/net.tv-tube/players/jwflashplayer/player.swf" pageUrl="http://www.tv-tube.net/tvchannels/watch/1814/al-baghdadia" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.see-l.com/images/baghdadya.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -429,7 +430,7 @@
 </subitem>
 
 <subitem>
-<title>+ UK \ المستقلة</title>
+<title>   UK \ المستقلة</title>
 <link>rtmp://www.almustakillahlive.com/live playpath=livestream swfUrl="http://www.almustakillahlive.com/live/player.swf" pageUrl="http://onlinelive24.com/online/b4885" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://vodspod.com/tv-images/united-kingdom-al-mustakillah.jpg</thumbnail>
 </subitem>
@@ -444,7 +445,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ Sports \ 8</name>
+<name>AR \ Sports \ 10</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
 
@@ -479,6 +480,20 @@
 </subitem>
 
 <subitem>
+<title>+ QA \ Al KASSE+</title>
+<link><title>الدوري والكأس بلس</title>
+<link>rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_plus1 app=2044C9 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf pageUrl=http://shoof.alkass.net/shoof/?live=3 playPath=kass_plus1 live=true swfVfy=true</link></link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>+ QA \ Al KASSE+</title>
+<link><title>الدوري والكأس بلس</title>
+<link>rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_plus1 app=2044C9 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf pageUrl=http://shoof.alkass.net/shoof/?live=3 playPath=kass_plus1 live=true swfVfy=true</link></link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ QA \ NDTV 24x7</title>
 <link>rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_hd1 app=2044C9 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf pageUrl=http://shoof.alkass.net/shoof/?live=2 playPath=kass_hd1 live=true swfVfy=true</link> timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gdpbp.jpg</thumbnail>
@@ -486,7 +501,7 @@
 
 <subitem>
 <title>   QA \ قناة الجزيرة الرياضية 1</title>
-<link>rtmp://live4.seeon.tv/edge/8qsehzr8uwqlo99 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13591/lllllllll tcUrl=rtmp://live4.seeon.tv/edge timeout=60</link>
+<link>rtmp://ajsfreelivefs.fplive.net/ajsfreelive-live/?nvb=20120226164210&amp;nva=20120226164740&amp;token=0f9490f65b12594241de2/ajs_ar_ch331_1500?reportingKey=eventId-708125_partnerId-2146 timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gukr7.png</thumbnail>
 </subitem>
 
@@ -786,7 +801,7 @@
 </subchannels></channel><channel><name>Catalan \ 8</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Catalan.png</thumbnail><items>
 
 <item>
-<title>+ AD \ ATV</title>
+<title>   AD \ ATV \ -2h</title>
 <link>http://194.158.91.91/Atv?MSWMExt=.asf</link>
 <thumbnail>http://www.xal.cat/media/entity/logo/45214/ATV_gran2.jpg?1300364284</thumbnail>
 </item>
@@ -1172,7 +1187,7 @@
 <subitems>
 
 <subitem>
-<title>   BE \ JIM \ -6h</title>
+<title>   BE \ JIM \ -7h</title>
 <link>mms://vmmalivewm.fplive.net/vmmalive-live/vmmajimbe</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdjgu.png</thumbnail>
 </subitem>
@@ -1236,7 +1251,7 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 86</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
+</subchannels></channel><channel><name>English \ 84</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
 <name>EN \ Entertainment \ 18</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -1284,13 +1299,13 @@
 </subitem>
 
 <subitem>
-<title>+ UK \ PASSION</title>
+<title>   UK \ PASSION \ -2h</title>
 <link>rtsp://195.90.118.93/passionplanet_1</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgr4.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ UK \ TVSCUBA</title>
+<title>   UK \ TVSCUBA \ -2h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </subitem>
@@ -1358,7 +1373,7 @@
 <subitems>
 
 <subitem>
-<title>   AU \ A-PAC \ -2h</title>
+<title>   AU \ A-PAC \ -3h</title>
 <link>mms://wm9.streaming.telstra.com/ucs-wh_APAC0Live2</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/a_pac_tv.png</thumbnail>
 </subitem>
@@ -1483,7 +1498,7 @@
 </subchannel>
 
 <subchannel>
-<name>EN \ News \ 24</name>
+<name>EN \ News \ 22</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -1509,18 +1524,6 @@
 <title>   DE \ DW-TV ASIA+ \ -116d</title>
 <link>mms://c13010-ls.w.core.cdn.streamfarm.net/dwworldlive-live/13010dwtvasiaplus350</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dw_tv_asia_plus.png</thumbnail>
-</subitem>
-
-<subitem>
-<title>+ IN \ NDTV Profit</title>
-<link>http://bglive-a.bitgravity.com/ndtv/prolo/live/native</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_profit.png</thumbnail>
-</subitem>
-
-<subitem>
-<title>+ IR \ Press TV</title>
-<link>http://wms.edgecastcdn.net/200216/ipresstv?MSWMExt=.asf</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdflr.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -1800,13 +1803,13 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -3h</title>
+<title>+ BE \ La deux</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>+ BE \ La une</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1878,7 +1881,7 @@
 </subitem>
 
 <subitem>
-<title>+ FR \ CPAC</title>
+<title>   FR \ CPAC \ -2h</title>
 <link>http://video.cpac.ca/cpac1flh</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cpac.png</thumbnail>
 </subitem>
@@ -2056,7 +2059,7 @@
 <subitems>
 
 <subitem>
-<title>   CG \ KimWebTV \ -119d</title>
+<title>   CG \ KimWebTV \ -120d</title>
 <link>mms://87.98.215.37/kin</link>
 <thumbnail>http://agadira.com/dell/tv/kinweb-tv.jpg</thumbnail>
 </subitem>
@@ -2092,7 +2095,7 @@
 </subitem>
 
 <subitem>
-<title>+ FR \ Rouge TV</title>
+<title>   FR \ Rouge TV \ -1h</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfv.png</thumbnail>
 </subitem>
@@ -2549,7 +2552,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ Tagesschau \ -119d</title>
+<title>   DE \ Tagesschau \ -120d</title>
 <link>http://tagesschau-live1-webm-wmv.wm.llnwd.net/tagesschau_live1_webm_wmv</link>
 <thumbnail>http://www.tagesschau.de/image/tagesschaude_512.jpg</thumbnail>
 </subitem>
@@ -2610,7 +2613,7 @@
 </item>
 
 <item>
-<title>   GR \ Greek Voice TV \ -4h</title>
+<title>   GR \ Greek Voice TV \ -5h</title>
 <link>mms://wpso.com:200/tv48</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -3823,7 +3826,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ Ulbra TV \ -3h</title>
+<title>+ BR \ Ulbra TV</title>
 <link>mms://200.169.19.144:1972</link>
 <thumbnail>http://www.ulbra.br/comunicacao/images/logoulbratv.jpg</thumbnail>
 </subitem>
@@ -4393,7 +4396,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ TVRM Cultural \ -258d</title>
+<title>   RO \ TVRM Cultural \ -259d</title>
 <link>mms://86.34.169.53:8080/</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4491,7 +4494,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   RU \ Первый Интернет Канал \ -1h</title>
+<title>+ RU \ Первый Интернет Канал</title>
 <link>rtmp://wms002.pik-tv.com/live/ playpath=piktv3pik3tv swfUrl=http://pik-tv.com/players/uppod/uppod.swf pageUrl=http://pik-tv.com/ live=true timeout=60</link>
 <thumbnail>http://pik-tv.com/images/pik-logo-001.png</thumbnail>
 </subitem>
@@ -4701,13 +4704,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RS \ RTV 1 \ -258d</title>
+<title>   RS \ RTV 1 \ -259d</title>
 <link>mms://212.200.191.85/RTV1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   RS \ RTV 2 \ -258d</title>
+<title>   RS \ RTV 2 \ -259d</title>
 <link>mms://212.200.191.85/rtv2</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4747,7 +4750,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   SK \ TA3 \ -119d</title>
+<title>   SK \ TA3 \ -120d</title>
 <link>mms://wmsta3.the.sk/ta3live</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4832,7 +4835,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   AR \ TV Publica \ -3h</title>
+<title>+ AR \ TV Publica</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -5222,7 +5225,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   MX \ Canal 44 \ -16h</title>
+<title>+ MX \ Canal 44</title>
 <link>mms://canal44.iphonewebtown.com/canal44</link>
 <thumbnail>http://www.seeklogo.com/images/C/CANAL_44-logo-98036EC685-seeklogo.com.gif</thumbnail>
 </subitem>
@@ -5258,7 +5261,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   NI \ Canal 2 \ -62d</title>
+<title>   NI \ Canal 2 \ -63d</title>
 <link>mms://Televicentro1.serverroom.us/televicentro</link>
 <thumbnail>http://www.canal2.com.ni/images/Nv-Logo-2-ID.gif</thumbnail>
 </subitem>
@@ -5318,7 +5321,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ Oasis TV \ -119d</title>
+<title>   VE \ Oasis TV \ -120d</title>
 <link>mms://www.fm.net.ve/oasistelevision</link>
 <thumbnail>http://www.ourwebtv.com/Logos/Oasis-TV%20Venezuela.JPG</thumbnail>
 </subitem>
@@ -5350,13 +5353,13 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>+ AR \ Canal 7 Santiago</title>
+<title>   AR \ Canal 7 Santiago \ -2h</title>
 <link>mms://canal7santiago.telecomdatacenter.com.ar/canal7santiago</link>
 <thumbnail>http://1.bp.blogspot.com/_RmfQGw_PAmk/SYShWdF5RyI/AAAAAAAABaw/rP-CIQzz_XQ/s320/fondo_canal7.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   AR \ Cámara de Diputados de la Nación \ -2h</title>
+<title>+ AR \ Cámara de Diputados de la Nación</title>
 <link>mms://hera.hcdn.gov.ar/sesiones_vivo</link>
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=2bd49bd39b2ea7825e0b138aa15f3a68&amp;w=180&amp;h=540&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Fff%2FCoat_of_arms_of_Argentina.svg%2F720px-Coat_of_arms_of_Argentina.svg</thumbnail>
 </subitem>
@@ -5578,7 +5581,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CU \ TV Martí \ -3h</title>
+<title>+ CU \ TV Martí</title>
 <link>mms://a165.1211035484.c2110.g.lm.akamaistream.net/D/165/2110/v0001/reflector:35484</link>
 <thumbnail>http://cubapolidata.com/wp-content/uploads/2011/04/New+Marti+Logo+Color-sml.jpg</thumbnail>
 </subitem>
@@ -5880,7 +5883,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   TR \ KANAL3 TV \ -4h</title>
+<title>+ TR \ KANAL3 TV</title>
 <link>mms://91.191.163.159/Kanal3tv</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -6903,7 +6906,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BE \ JIM \ -6h</title>
+<title>   BE \ JIM \ -7h</title>
 <link>mms://vmmalivewm.fplive.net/vmmalive-live/vmmajimbe</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdjgu.png</thumbnail>
 </item>
@@ -6934,7 +6937,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   CG \ KimWebTV \ -119d</title>
+<title>   CG \ KimWebTV \ -120d</title>
 <link>mms://87.98.215.37/kin</link>
 <thumbnail>http://agadira.com/dell/tv/kinweb-tv.jpg</thumbnail>
 </item>
@@ -6994,7 +6997,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ FR \ Rouge TV</title>
+<title>   FR \ Rouge TV \ -1h</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfv.png</thumbnail>
 </item>
@@ -7215,7 +7218,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 49</name>
+<name>All Sports \ 51</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -7430,6 +7433,20 @@ timeout=60</link>
 </item>
 
 <item>
+<title>+ QA \ Al KASSE+</title>
+<link><title>الدوري والكأس بلس</title>
+<link>rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_plus1 app=2044C9 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf pageUrl=http://shoof.alkass.net/shoof/?live=3 playPath=kass_plus1 live=true swfVfy=true</link></link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>+ QA \ Al KASSE+</title>
+<link><title>الدوري والكأس بلس</title>
+<link>rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_plus1 app=2044C9 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf pageUrl=http://shoof.alkass.net/shoof/?live=3 playPath=kass_plus1 live=true swfVfy=true</link></link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
 <title>+ QA \ NDTV 24x7</title>
 <link>rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_hd1 app=2044C9 swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf pageUrl=http://shoof.alkass.net/shoof/?live=2 playPath=kass_hd1 live=true swfVfy=true</link> timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gdpbp.jpg</thumbnail>
@@ -7437,7 +7454,7 @@ timeout=60</link>
 
 <item>
 <title>   QA \ قناة الجزيرة الرياضية 1</title>
-<link>rtmp://live4.seeon.tv/edge/8qsehzr8uwqlo99 swfUrl=http://static.seeon.tv/jwplayer/player.swf pageUrl=http://www.seeon.tv/view/13591/lllllllll tcUrl=rtmp://live4.seeon.tv/edge timeout=60</link>
+<link>rtmp://ajsfreelivefs.fplive.net/ajsfreelive-live/?nvb=20120226164210&amp;nva=20120226164740&amp;token=0f9490f65b12594241de2/ajs_ar_ch331_1500?reportingKey=eventId-708125_partnerId-2146 timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gukr7.png</thumbnail>
 </item>
 
@@ -7728,13 +7745,13 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 </item>
 
 <item>
-<title>   RS \ RTV 1 \ -258d</title>
+<title>   RS \ RTV 1 \ -259d</title>
 <link>mms://212.200.191.85/RTV1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   RS \ RTV 2 \ -258d</title>
+<title>   RS \ RTV 2 \ -259d</title>
 <link>mms://212.200.191.85/rtv2</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -7770,7 +7787,7 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 </item>
 
 <item>
-<title>   GR \ Greek Voice TV \ -4h</title>
+<title>   GR \ Greek Voice TV \ -5h</title>
 <link>mms://wpso.com:200/tv48</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -7856,10 +7873,10 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 26/02/2012 15:56:41 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 10</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 560</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 446</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 26/02/2012 16:59:47 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 6</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 562</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 444</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1006</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
