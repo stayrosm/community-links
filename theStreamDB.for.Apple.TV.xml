@@ -312,7 +312,7 @@
 <channel><name>Croatian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Croatian.png</thumbnail><items>
 
 <item>
-<title>   HR \ GTV - Gradska Televizija Zadar \ -44d</title>
+<title>   HR \ GTV - Gradska Televizija Zadar \ -45d</title>
 <link>http://213.149.32.154/zadar</link>
 <thumbnail>http://www.gtv-zadar.hr/image/live.png</thumbnail>
 </item>
@@ -746,7 +746,7 @@
 <subitems>
 
 <subitem>
-<title>   AU \ ABC News 24 \ -18h</title>
+<title>   AU \ ABC News 24 \ -19h</title>
 <link>rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&amp;akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_news_24.png</thumbnail>
 </subitem>
@@ -992,13 +992,13 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -10h</title>
+<title>   BE \ La deux \ -11h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>+ BE \ La une</title>
+<title>   BE \ La une \ -1h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1186,31 +1186,31 @@
 <subitems>
 
 <subitem>
-<title>   FR \ NRJ Dance \ -46d</title>
+<title>   FR \ NRJ Dance \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Paris \ -46d</title>
+<title>   FR \ NRJ Paris \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Pop Rock \ -46d</title>
+<title>   FR \ NRJ Pop Rock \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Pure \ -46d</title>
+<title>   FR \ NRJ Pure \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   FR \ NRJ Urban \ -46d</title>
+<title>   FR \ NRJ Urban \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </subitem>
@@ -1262,7 +1262,7 @@
 </subitem>
 
 <subitem>
-<title>   MA \ none \ HD \ ® \ -12h</title>
+<title>   MA \ none \ HD \ ® \ -13h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -1354,7 +1354,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ center.tv - Köln \ -1h</title>
+<title>+ DE \ center.tv - Köln</title>
 <link>rtmp://x3282azmedc12001.f.l.f.lb.core-cdn.net/12001centertvkoeln playpath=live/3282azmedia/live_de_500 swfUrl=http://koeln.center.tv/static/flash/ctv_xplayer.swf pageUrl=http://koeln.center.tv/cms/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/center_tv.png</thumbnail>
 </subitem>
@@ -1607,7 +1607,7 @@
 </subitem>
 
 <subitem>
-<title>   IT \ Italia 1 \ -1h</title>
+<title>   IT \ Italia 1 \ -2h</title>
 <link>#EXTINF:-1,Italia 1
 rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/italia-1/</link>
 <thumbnail>none</thumbnail>
@@ -1778,7 +1778,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>   IT \ Super Tennis \ -2h</title>
+<title>   IT \ Super Tennis \ -3h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </subitem>
@@ -1789,7 +1789,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subchannels></channel><channel><name>Japanese \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Japanese.png</thumbnail><items>
 
 <item>
-<title>   JP \ QVC ジャパン \ -67d</title>
+<title>   JP \ QVC ジャパン \ -68d</title>
 <link>http://ecst.qvc.jp/Live800</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/qq/qvc_jp.jpg</thumbnail>
 </item>
@@ -2326,7 +2326,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ TVi \ -181d</title>
+<title>   PT \ TVi \ -182d</title>
 <link>rtmp://hs8hl2a.thetvathome.com/estadio54/tvi.flv swfUrl=http://www.televisaofutebol.com/player8.swf pageURL=http://www.televisaofutebol.com/iframe.php swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 </subitem>
@@ -2397,7 +2397,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ tooncast \ -212d</title>
+<title>   BR \ tooncast \ -213d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/133_182/master33.flv timeout=60</link>
 <thumbnail>http://i1109.photobucket.com/albums/h440/MAGALGAMES/toocast.jpg</thumbnail>
@@ -2907,7 +2907,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ TV Publica \ -2h</title>
+<title>   AR \ TV Publica \ -3h</title>
 <link>rtmp://canal7vivoflash.telecomdatacenter.com.ar/live/livestream swfUrl="http://www.tvpublica.com.ar/recursos/media/swf/player.swf" pageUrl="http://www.tvpublica.com.ar" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TV-P%C3%BAblica.jpg</thumbnail>
 </subitem>
@@ -3003,7 +3003,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -2h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3069,7 +3069,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ TVE Internacional \ -71d</title>
+<title>   ES \ TVE Internacional \ -72d</title>
 <link>rtmp://flash1.e-cast.co.nz/live/ app=live/ playpath=tve3 swfUrl=http://documentos32.webcindario.com/player.swf pageUrl=http://documentos32.webcindario.com swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_int.png</thumbnail>
 </subitem>
@@ -3081,7 +3081,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   HN \ Maya TV \ -139d</title>
+<title>   HN \ Maya TV \ -140d</title>
 <link>rtmp://75.125.177.251/live playpath=myStream.sdp swfUrl="http://devmayatv.pixelcreart.com/plugins/tvsectionplugin_16/scripts/jwplayer/player.swf" pageUrl="http://devmayatv.pixelcreart.com/" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/maya_tv.jpg</thumbnail>
 </subitem>
@@ -3203,7 +3203,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -9h</title>
+<title>   AR \ C5N \ -10h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3890,7 +3890,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </item>
 
 <item>
-<title>   BR \ tooncast \ -212d</title>
+<title>   BR \ tooncast \ -213d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master33.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.istreamlive.net/133_182/master33.flv timeout=60</link>
 <thumbnail>http://i1109.photobucket.com/albums/h440/MAGALGAMES/toocast.jpg</thumbnail>
@@ -4230,31 +4230,31 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   FR \ NRJ Dance \ -46d</title>
+<title>   FR \ NRJ Dance \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjdance live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835011.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Paris \ -46d</title>
+<title>   FR \ NRJ Paris \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjparis live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj_paris.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Pop Rock \ -46d</title>
+<title>   FR \ NRJ Pop Rock \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpop live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1247835005.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Pure \ -46d</title>
+<title>   FR \ NRJ Pure \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjpure live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1254383943.png</thumbnail>
 </item>
 
 <item>
-<title>   FR \ NRJ Urban \ -46d</title>
+<title>   FR \ NRJ Urban \ -47d</title>
 <link>rtmp://nrjlivefs.fplive.net:1935/nrjlive-live swfUrl=http://www.nrjparis.tv/swf/player/videos_live/index.swf pageUrl=http://www.nrjparis.tv/le-live-3623/webtv/ playpath=nrjurban live=true timeout=60</link>
 <thumbnail>http://media.nrj.fr/raw/1_1277367952.png</thumbnail>
 </item>
@@ -4546,13 +4546,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -2h</title>
+<title>   IT \ Super Tennis \ -3h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
 
 <item>
-<title>   MA \ none \ HD \ ® \ -12h</title>
+<title>   MA \ none \ HD \ ® \ -13h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4676,14 +4676,14 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   IT \ Italia 1 \ -1h</title>
+<title>   IT \ Italia 1 \ -2h</title>
 <link>#EXTINF:-1,Italia 1
 rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/italia-1/</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   RO \ test \ HD \ -1h</title>
+<title>   RO \ test \ HD \ -2h</title>
 <link>#EXTM3U
 #EXTINF:-1,RTL HD
 rtmp://$OPT:rtmp-raw=rtmp://s5.webport.tv/live playpath=z030101.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/rtl-hd/
@@ -4853,7 +4853,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s7.webport.tv/live playpath=z050201.stream pageUrl=h
 </item>
 
 <item>
-<title>   MA \ none \ HD \ ® \ -12h</title>
+<title>   MA \ none \ HD \ ® \ -13h</title>
 <link>none</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -5013,10 +5013,10 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 28/02/2012 08:48:04 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 81</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 568</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 435</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 28/02/2012 09:49:17 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 4</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 566</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 437</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1003</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
