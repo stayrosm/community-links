@@ -341,7 +341,7 @@
 <channel><name>Czech \ 7</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Czech.png</thumbnail><items>
 
 <item>
-<title>   CZ \ CT 1 \ -2h</title>
+<title>+ CZ \ CT 1</title>
 <link>http://79.127.143.125:8080/ct1</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gvshz.png</thumbnail>
 </item>
@@ -430,7 +430,7 @@
 </item>
 
 <item>
-<title>   DK \ The Voice \ -2h</title>
+<title>   DK \ The Voice \ -3h</title>
 <link>rtsp://62.41.56.32/PUBLIC_votv_fi</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2r3w.png</thumbnail>
 </item>
@@ -552,7 +552,7 @@
 <subitems>
 
 <subitem>
-<title>   NL \ AT5 \ -41d</title>
+<title>   NL \ AT5 \ -42d</title>
 <link>rtmp://media.at5.nl/at5live playpath=at5live.sdp swfUrl="http://wwitv.com/tv_channels/player15.swf" pageUrl="http://wwitv.com/tv_channels/6599.htm" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/at5.png</thumbnail>
 </subitem>
@@ -696,7 +696,7 @@
 </subitem>
 
 <subitem>
-<title>   US \ NASA 2 \ -108d</title>
+<title>   US \ NASA 2 \ -109d</title>
 <link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -764,7 +764,7 @@
 </subitem>
 
 <subitem>
-<title>   DE \ DW-TV \ -118d</title>
+<title>   DE \ DW-TV \ -119d</title>
 <link>rtmp://media2.lsops.net/dwtv2/ playpath=13010dwtveu364 swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/25-dw-tv-english--german" timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dw_tv.png</thumbnail>
 </subitem>
@@ -887,7 +887,7 @@
 </subchannel>
 
 <subchannel>
-<name>EN \ Shopping \ 13</name>
+<name>EN \ Shopping \ 12</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/shopping.png</thumbnail>
 <subitems>
 
@@ -901,12 +901,6 @@
 <title>+ UK \ Create and Craft</title>
 <link>rtmp://live.simplestreamcdn.net/idealworld/chan=createandcraft playpath=createandcraft2 swfUrl="http://www.createandcraft.tv/common/flash/showpage/liveplayer.swf" pageUrl="http://www.createandcraft.tv/ShowGridView.aspx" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqnmj.png</thumbnail>
-</subitem>
-
-<subitem>
-<title>   UK \ Gems TV \ -186d</title>
-<link>rtmp://wowza05.sharp-stream.com/rocks-hi-tv playpath=rocks-hi-tv swfUrl="http://www.gems.tv/Live/Scripts/player.swf" pageUrl="http://www.gems.tv/Live/auction.aspx" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ghm8v.png</thumbnail>
 </subitem>
 
 <subitem>
@@ -973,13 +967,19 @@
 </subchannel>
 
 <subchannel>
-<name>EN \ Sports \ 2</name>
+<name>EN \ Sports \ 3</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
 
 <subitem>
 <title>   SAINT LUCIA \ none \ ® \ -16d</title>
 <link>none</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>+ UK \ filmor</title>
+<link>rtmp://live100.origin.ams.filmon.com:1935/live/_definst_/374.high.stream pageUrl=http://live100.origin.ams.filmon.com:1935 playpath=374.high.stream live=true timeout=60</link>
 <thumbnail>none</thumbnail>
 </subitem>
 
@@ -998,7 +998,7 @@
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -2h</title>
+<title>   BE \ La deux \ -3h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
@@ -1100,7 +1100,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ France 5 \ -1h</title>
+<title>+ FR \ France 5</title>
 <link>rtmp://cp108476.live.edgefcs.net/live playpath=france5_1_800@45501 swfsize=735602 swfhash=28fcd514782af1a9cbde3435075578a7953f6cec3fd58538f563df0cf591612f live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg73.png</thumbnail>
 </subitem>
@@ -1112,7 +1112,7 @@
 </subitem>
 
 <subitem>
-<title>   FR \ idf1 \ -4h</title>
+<title>+ FR \ idf1</title>
 <link>http://live240.impek.com/idf1</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/idf1.jpg</thumbnail>
 </subitem>
@@ -1222,7 +1222,7 @@
 </subitem>
 
 <subitem>
-<title>+ FR \ Rouge TV</title>
+<title>   FR \ Rouge TV \ -1h</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfv.png</thumbnail>
 </subitem>
@@ -1510,7 +1510,7 @@
 <subitems>
 
 <subitem>
-<title>   DE \ DW-TV \ -118d</title>
+<title>   DE \ DW-TV \ -119d</title>
 <link>rtmpt://c13010-ls.f.core.cdn.streamfarm.net/dwworldlive-live/13010dwtveu1024/ playpath=13010dwtveu1024.flv swfUrl=http://mediacenter.dw-world.de/player/flash/mediaplayer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dw_tv.png</thumbnail>
 </subitem>
@@ -1613,7 +1613,7 @@
 </subitem>
 
 <subitem>
-<title>   IT \ Italia 1 \ -13h</title>
+<title>   IT \ Italia 1 \ -14h</title>
 <link>#EXTINF:-1,Italia 1
 rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/italia-1/</link>
 <thumbnail>none</thumbnail>
@@ -1784,7 +1784,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>   IT \ Super Tennis \ -14h</title>
+<title>   IT \ Super Tennis \ -15h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </subitem>
@@ -2308,7 +2308,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ SIC Noticias \ -3h</title>
+<title>   PT \ SIC Noticias \ -4h</title>
 <link>rtmp://213.13.26.12/live/sicnoticias.flv swfUrl=http://www.tvdez.com/player2.swf pageURL=http://www.tvdez.com/sicnoticias swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sic_noticias.jpg</thumbnail>
 </subitem>
@@ -2610,25 +2610,25 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ OneHD Classics \ HD \ -8h</title>
+<title>   RO \ OneHD Classics \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/classics.php playpath=classics live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_classics.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Dance \ HD \ -8h</title>
+<title>   RO \ OneHD Dance \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Jazz \ HD \ -8h</title>
+<title>   RO \ OneHD Jazz \ HD \ -9h</title>
 <link>rtmp://93.114.43.3/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/jazz.php playpath=jazz live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_jazz.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Live \ HD \ -8h</title>
+<title>   RO \ OneHD Live \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=onehd live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
 </item>
@@ -2640,13 +2640,13 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ OneHD Pop \ HD \ -8h</title>
+<title>   RO \ OneHD Pop \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/pop.php playpath=pop live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_pop.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Rock \ HD \ -8h</title>
+<title>   RO \ OneHD Rock \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=rock live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_rock.png</thumbnail>
 </item>
@@ -3009,7 +3009,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -3h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3209,7 +3209,7 @@ timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -21h</title>
+<title>   AR \ C5N \ -22h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3305,7 +3305,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   VE \ teleSUR \ -13d</title>
+<title>   VE \ teleSUR \ -14d</title>
 <link>rtmp://telesur.fms.visionip.tv/live/b2b-telesur-live-25f-4x3_4 timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/telesur_ve.png</thumbnail>
 </subitem>
@@ -4230,7 +4230,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   DK \ The Voice \ -2h</title>
+<title>   DK \ The Voice \ -3h</title>
 <link>rtsp://62.41.56.32/PUBLIC_votv_fi</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h2r3w.png</thumbnail>
 </item>
@@ -4266,7 +4266,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ FR \ Rouge TV</title>
+<title>   FR \ Rouge TV \ -1h</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfv.png</thumbnail>
 </item>
@@ -4350,25 +4350,25 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RO \ OneHD Classics \ HD \ -8h</title>
+<title>   RO \ OneHD Classics \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/classics.php playpath=classics live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_classics.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Dance \ HD \ -8h</title>
+<title>   RO \ OneHD Dance \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php playpath=dance live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Jazz \ HD \ -8h</title>
+<title>   RO \ OneHD Jazz \ HD \ -9h</title>
 <link>rtmp://93.114.43.3/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/jazz.php playpath=jazz live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_jazz.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Live \ HD \ -8h</title>
+<title>   RO \ OneHD Live \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=onehd live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
 </item>
@@ -4380,13 +4380,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RO \ OneHD Pop \ HD \ -8h</title>
+<title>   RO \ OneHD Pop \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/pop.php playpath=pop live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_pop.png</thumbnail>
 </item>
 
 <item>
-<title>   RO \ OneHD Rock \ HD \ -8h</title>
+<title>   RO \ OneHD Rock \ HD \ -9h</title>
 <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=rock live=true timeout=60</link>
 <thumbnail>http://live.1hd.ro/images/onehd_rock.png</thumbnail>
 </item>
@@ -4439,7 +4439,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 48</name>
+<name>All Sports \ 49</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -4552,7 +4552,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -14h</title>
+<title>   IT \ Super Tennis \ -15h</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
@@ -4636,6 +4636,12 @@ timeout=60</link>
 </item>
 
 <item>
+<title>+ UK \ filmor</title>
+<link>rtmp://live100.origin.ams.filmon.com:1935/live/_definst_/374.high.stream pageUrl=http://live100.origin.ams.filmon.com:1935 playpath=374.high.stream live=true timeout=60</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
 <title>   UK \ Viasat Sport Baltic \ -291d</title>
 <link>rtmp://184.95.47.130:1935/407038?doPlay=a playpath=zonein swfUrl=http://cdncdn1.zonein1.com/tik.swf pageUrl=http://embed.zonein.tv/1d.php?id=407038&amp;h=354&amp;w=630 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/viasat_sport_baltic.png</thumbnail>
@@ -4682,14 +4688,14 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   IT \ Italia 1 \ -13h</title>
+<title>   IT \ Italia 1 \ -14h</title>
 <link>#EXTINF:-1,Italia 1
 rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/italia-1/</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   RO \ test \ HD \ -13h</title>
+<title>   RO \ test \ HD \ -14h</title>
 <link>#EXTM3U
 #EXTINF:-1,RTL HD
 rtmp://$OPT:rtmp-raw=rtmp://s5.webport.tv/live playpath=z030101.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/rtl-hd/
@@ -5019,10 +5025,10 @@ rtmp://$OPT:rtmp-raw=rtmp://69.55.52.216/live382 playpath=382.low.stream swfUrl=
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 28/02/2012 20:47:15 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 2</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 556</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 448</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 28/02/2012 21:49:13 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 3</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 569</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 435</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1004</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
