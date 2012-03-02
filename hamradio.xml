@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <channels>
 
-        <channel>
-                <name>United Kingdom</name>
-                <thumbnail>none</thumbnail>
-                <items>
-      
-                        <item>
-                                <title>RX320D this radio covers 100KHz to 30 MHz only</title>
-                                <link>mms://radioremote.no-ip.org:5119/rx320</link>
-                                <thumbnail>none</thumbnail>
-                        </item>
+<channel><name>United Kingdom</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/hamradio.png</thumbnail><items>
+
+<item>
+<title>RX320D this radio covers 100KHz to 30 MHz only</title>
+<link>mms://radioremote.no-ip.org:5119/rx320</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>G7NPWs Remote Icom 706 MKIIg Located Derbyshire, East Midlands</title>
+<link>mms://gb3dc.hopto.org:5119/Audio</link>
+<thumbnail>none</thumbnail>
+</item>
