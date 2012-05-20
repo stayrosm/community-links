@@ -19,8 +19,8 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 72</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
-<name>AR \ Entertainment \ 45</name>
+<channel><name>Arabic \ 73</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<name>AR \ Entertainment \ 46</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -274,6 +274,12 @@
 <title>   SY \ الدنيا</title>
 <link>mms://tor-trm02.jumptv.com/AddouniaTV?WMThinning=0&amp;&amp;bufferwindow=4450&amp;Customer_ID=1152538&amp;Product_ID=4021&amp;Asset_ID=1086&amp;Stream_ID=15520&amp;User_Token=41f28ff6c0f673344ef85855264b9575/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/addounia_tv.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   TN \ Ettounsiya TV</title>
+<link>http://mangaplustv.com/ettounsiya-tv/</link>
+<thumbnail>http://mangaplustv.com/ettounsiya-tv/</thumbnail>
 </subitem>
 
 <subitem>
@@ -1222,8 +1228,8 @@
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>English \ 83</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
-<name>EN \ Entertainment \ 15</name>
+</subchannels></channel><channel><name>English \ 85</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/English.png</thumbnail><subchannels><subchannel>
+<name>EN \ Entertainment \ 17</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -1276,6 +1282,19 @@
 </subitem>
 
 <subitem>
+<title>   US \ american horror \ -39d</title>
+<link>url: rtmp://live68.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392/393.high.stream
+app: live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392
+extra:
+flashVer: WIN 11,2,202,228
+pageUrl: http://www.filmon.com/tv/htmlmain/
+swfUrl: http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=e
+tcUrl: rtmp://live68.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392
+playPath: 393.high.stream</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
 <title>+ US \ Cinemax</title>
 <link>http://www.veohcast.tv/veohcast.tv.swf</link>
 <thumbnail>none</thumbnail>
@@ -1309,6 +1328,13 @@
 <title>+ US \ oc16 Hawaii</title>
 <link>rtmp://24.165.45.209/oc16live/ playpath=oc16 swfUrl=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ app=oc16live/ buffer=5000 live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/flag/us-hi.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   US \ TV Guide \ -32d</title>
+<link>http://tinyurl.com/7tmngts
+use VLC Player</link>
+<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -1765,7 +1791,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>French \ 57</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/French.png</thumbnail><subchannels><subchannel>
+</subchannels></channel><channel><name>French \ 56</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/French.png</thumbnail><subchannels><subchannel>
 <name>FR \ Entertainment \ 39</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -2116,15 +2142,9 @@ http://tvsector.com live=true timeout=60</link>
 </subchannel>
 
 <subchannel>
-<name>FR \ Sports \ 4</name>
+<name>FR \ Sports \ 3</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
-
-<subitem>
-<title>   BE \ Rtl Sports \ -301d</title>
-<link>rtmp://m6weblivefs.fplive.net/m6weblive-live/m6web202 swfURL=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAYAGQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEBQYRABIhBzFBEyIUI1EIMmFicYEWFzORorGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEfp505fveJMkM1JqGIriUELaKt2RnPBGp2d0Pq0aREDNUjSIr7gbceQ0rLWc8kc8cd8jvpg+zwgO25cTalBKVOJSVHxlB51J3FGRaPRZ+HR33Z7S07PiW1haW96/ccjGE9wMDuRnzoFz+QUzbu/iKLt+vw5x/1pcvzpZJs6hJqrtVZloU8lrYhopPIJznJ+mnSsvvD7OsN0OrDm1r37jn+t9dY9RlKX0JtxSyVKKYhJJyT8pWgorXU0GtUrpz0+oyKs6QpMZHyEFPqrUrBXtSogkAq5+muc7LpZrN2Umn7N6XpSA4PyA5V/iDq4uvVuVSRJptxU1gyGYTex5sDdswrcFFOORyQf20DvaPUWg3YqQinuOMusJ3FqVsQtYwSSkBRJAxyfGRqJT1mtVUGRLzLAZWhHpFCPUXuzylO/kDHJ8ZH10j/H2jV7bq93QWlwrijQ/TeYb+W2lxxHpbkIBwUkqPPf66hbbp0KF0buKsTIzS5MqQmPGcWgKUACn7ue3KldvpoLujX/AEB+0zcvxIbhDcn03FoS6Vpz7AndjeQMhOckEajLZ6sW1cdVRToqpMd5wewy0obSo5ACQdxyo54GucIaZM9ulURoqKX5RWhGeCtwpbz/AGQNPfVSNAjdSqTTKUw1GbiNR21+kgJwdxVk47naU86C25PU63otYqNMfW8h6noWp5aggI9ndIJV3JIAHknGqT6r3pTrzr1MdhpkNwI7W1fqIAXlSvcQAT4A862+ltsRr+uqszK0lxyIkKecCFlBU44vKc48YCj38DWxaNLgVnrY8wxFaXTITjuGigbdjSfTTkefdt/XvoL/AKDPj1SjQp8NDiI77KVtJcGFBJHGf20a3Gm0MtIaaQlDaAEpQkYCQOwA0aDnLpJeVFtqg1uJVn1tvSyPSCWyrPsI/wBnWdBvGhsdIJttSpK0VFxLuxBbJSSVbk86NGgxqd5UV/ozGttt9ZqaA2FN+mccO7jz+mptd12LXen1Gt2vVGcwYrDHqfDN4UFoRtxkpIxyfGjRoPHpDRKO51KmzLdfkyKTT4oLTskDeXFgAg4A/P48amq1b12291DkXJRIRrMGSpRMUv7du5PIIPAwex50aNBWV2W7Vrep0io1lhqC9WZCgiE2r7iArergdgDsAH46nXLPvmfa1Ht+NAZdpLhRNbkJVtKVOJyUuZV43HsNGjQStc6aXDbldo9XtqM3VBCQxlokD5iBycZHtJGe+edYN2Bd9eqNYuWsQmo099lxLEQOcla0+mPJwEpJI57gaNGgeujVoVC06FPbqraG5kqRu2pUFAICQE8j8SrSh00tG8bUvtS5FNZVDkhTcmYo7khH3spwoHJIA5B0aNBeejRo0H//2Q==</thumbnail>
-</subitem>
 
 <subitem>
 <title>+ FR \ OrangeSport event 1</title>
@@ -2170,8 +2190,8 @@ http://tvsector.com live=true timeout=60</link>
 </items>
 </channel>
 
-<channel><name>German \ 58</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels><subchannel>
-<name>DE \ Entertainment \ 47</name>
+<channel><name>German \ 59</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels><subchannel>
+<name>DE \ Entertainment \ 48</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -2457,6 +2477,12 @@ http://tvsector.com live=true timeout=60</link>
 <thumbnail>http://www.kab.info/pics/kabbalah-tv.gif</thumbnail>
 </subitem>
 
+<subitem>
+<title>   SELECT COUNTRY... \ Netto.Alles.wird.gut \ -47d</title>
+<link>http://www.putlocker.com/file/5A8952B0FD233F04#</link>
+<thumbnail>http://www.putlocker.com/file/5A8952B0FD233F04#</thumbnail>
+</subitem>
+
 </subitems>
 </subchannel>
 
@@ -2634,7 +2660,7 @@ http://tvsector.com live=true timeout=60</link>
 </item>
 
 <item>
-<title>   IL \ Machonmeir TV \ -329d</title>
+<title>   IL \ Machonmeir TV \ -330d</title>
 <link>mms://82.80.231.41/meirtv_live</link>
 <thumbnail>http://livelive24.com/tv-images/israel-machonmeir.jpg</thumbnail>
 </item>
@@ -3208,7 +3234,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </item>
 
 <item>
-<title>   KR \ 목포문화방송 \ -342d</title>
+<title>   KR \ 목포문화방송 \ -343d</title>
 <link>mms://210.221.163.25/encoder-tv</link>
 <thumbnail>http://www.mokpombc.co.kr/img/2010img/mokpombclogo.gif</thumbnail>
 </item>
@@ -3226,7 +3252,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </item>
 
 <item>
-<title>   KR \ 울산문화방송 \ -342d</title>
+<title>   KR \ 울산문화방송 \ -343d</title>
 <link>mms://onair.usmbc.co.kr/KKangTV</link>
 <thumbnail>http://www.ulsanmbc.co.kr/mbc_2011/images/logo.gif</thumbnail>
 </item>
@@ -3575,10 +3601,16 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </items>
 </channel>
 
-<channel><name>Portuguese \ 97</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
-<name>PT \ Entertainment \ 66</name>
+<channel><name>Portuguese \ 101</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Portuguese.png</thumbnail><subchannels><subchannel>
+<name>PT \ Entertainment \ 67</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   BR \ Alex TV \ HD \ ® \ -27d</title>
+<link>http://alex-suporte/canais</link>
+<thumbnail>none</thumbnail>
+</subitem>
 
 <subitem>
 <title>   BR \ Animal Planet \ -262d</title>
@@ -4129,9 +4161,27 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subchannel>
 
 <subchannel>
-<name>PT \ News \ 1</name>
+<name>PT \ News \ 4</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
+
+<subitem>
+<title>   PT \ RTP 1 \ -47d</title>
+<link>http://www.rtp.pt/play/?tv=1#/?tv%3D5%26fbtitle%3DRTP Play - RTP 1%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP1.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D5</link>
+<thumbnail>http://www.rtp.pt/play/?tv=1#/?tv%3D5%26fbtitle%3DRTP Play - RTP 1%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP1.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D5</thumbnail>
+</subitem>
+
+<subitem>
+<title>   PT \ RTP 2 \ -47d</title>
+<link>http://www.rtp.pt/play/?tv=1#/?tv%3D3%26fbtitle%3DRTP Play - RTP 2%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP2.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D3</link>
+<thumbnail>http://www.rtp.pt/play/?tv=1#/?tv%3D3%26fbtitle%3DRTP Play - RTP 2%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP2.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D3</thumbnail>
+</subitem>
+
+<subitem>
+<title>   PT \ SIC NOTICIAS \ -58d</title>
+<link>http://www.tvdez.com/sicnoticias</link>
+<thumbnail>none</thumbnail>
+</subitem>
 
 <subitem>
 <title>   UK \ EuroNews \ -373d</title>
@@ -5667,8 +5717,8 @@ timeout=60</link>
 </items>
 </channel>
 
-<channel><name>Turkish \ 53</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Turkish.png</thumbnail><subchannels><subchannel>
-<name>TR \ Entertainment \ 41</name>
+<channel><name>Turkish \ 54</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Turkish.png</thumbnail><subchannels><subchannel>
+<name>TR \ Entertainment \ 42</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
 
@@ -5760,6 +5810,12 @@ timeout=60</link>
 <title>+ TR \ FOX Tv \ ®</title>
 <link>rtmp://origin5.nar.tv/dvrm/foxtv/foxtv swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://cdn.keyw.com/files/2011/05/FOXLogo.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   TR \ FOXTV \ -42d</title>
+<link>rtmp://fox-l.mncdn.com/foxtv_web/foxtv3 swfURL=http://www.fox.com.tr/swf/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
@@ -6614,7 +6670,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   UK \ London \ Abbey Road \ HD \ -89d</title>
+<title>   UK \ London \ Abbey Road \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=AbbeyRoadHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -6680,7 +6736,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Miami \ Coconut Grove \ HD \ -89d</title>
+<title>   US \ Miami \ Coconut Grove \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd3.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -6692,13 +6748,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Miami \ South Beach \ HD \ -89d</title>
+<title>   US \ Miami \ South Beach \ HD \ -90d</title>
 <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ Miami \ Sunny Isles Beach \ HD \ -89d</title>
+<title>   US \ Miami \ Sunny Isles Beach \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd2.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -6710,25 +6766,25 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ New York \ 43rd &amp; Broadway \ HD \ -89d</title>
+<title>   US \ New York \ 43rd &amp; Broadway \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tsoneHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ 46th &amp; Broadway \ HD \ -89d</title>
+<title>   US \ New York \ 46th &amp; Broadway \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=fridaysHD1.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ 7th &amp; Broadway \ HD \ -89d</title>
+<title>   US \ New York \ 7th &amp; Broadway \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=hdtimes.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
 
 <item>
-<title>   US \ New York \ Liberty Island \ HD \ -89d</title>
+<title>   US \ New York \ Liberty Island \ HD \ -90d</title>
 <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=sliberty.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -7116,7 +7172,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 === Sports =========================================================================================
 
 <channel>
-<name>All Sports \ 47</name>
+<name>All Sports \ 46</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <items>
 
@@ -7142,12 +7198,6 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <title>+ AZ \ iDMAN Tv \ ®</title>
 <link>rtmp://origin5.nar.tv/dvrm/idmanaz/idmanaz swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://2.bp.blogspot.com/_X0E6U_UUb54/S45kiBDFrJI/AAAAAAAAA1w/eiMgnRXAKv0/s320/%C4%B0dman+Tv+T%C3%BCm+Uydu+Al%C4%B1c%C4%B1lar%C4%B1+%C4%B0%C3%A7in+Biss+Key+%C5%9Eifreleri+(Azeri+Kanal%C4%B1).jpg</thumbnail>
-</item>
-
-<item>
-<title>   BE \ Rtl Sports \ -301d</title>
-<link>rtmp://m6weblivefs.fplive.net/m6weblive-live/m6web202 swfURL=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAYAGQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIECAP/xAAyEAABAwMDAwIDBgcAAAAAAAABAgMEBQYRABIhBzFBEyIUI1EIMmFicYEWFzORorGy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEfp505fveJMkM1JqGIriUELaKt2RnPBGp2d0Pq0aREDNUjSIr7gbceQ0rLWc8kc8cd8jvpg+zwgO25cTalBKVOJSVHxlB51J3FGRaPRZ+HR33Z7S07PiW1haW96/ccjGE9wMDuRnzoFz+QUzbu/iKLt+vw5x/1pcvzpZJs6hJqrtVZloU8lrYhopPIJznJ+mnSsvvD7OsN0OrDm1r37jn+t9dY9RlKX0JtxSyVKKYhJJyT8pWgorXU0GtUrpz0+oyKs6QpMZHyEFPqrUrBXtSogkAq5+muc7LpZrN2Umn7N6XpSA4PyA5V/iDq4uvVuVSRJptxU1gyGYTex5sDdswrcFFOORyQf20DvaPUWg3YqQinuOMusJ3FqVsQtYwSSkBRJAxyfGRqJT1mtVUGRLzLAZWhHpFCPUXuzylO/kDHJ8ZH10j/H2jV7bq93QWlwrijQ/TeYb+W2lxxHpbkIBwUkqPPf66hbbp0KF0buKsTIzS5MqQmPGcWgKUACn7ue3KldvpoLujX/AEB+0zcvxIbhDcn03FoS6Vpz7AndjeQMhOckEajLZ6sW1cdVRToqpMd5wewy0obSo5ACQdxyo54GucIaZM9ulURoqKX5RWhGeCtwpbz/AGQNPfVSNAjdSqTTKUw1GbiNR21+kgJwdxVk47naU86C25PU63otYqNMfW8h6noWp5aggI9ndIJV3JIAHknGqT6r3pTrzr1MdhpkNwI7W1fqIAXlSvcQAT4A862+ltsRr+uqszK0lxyIkKecCFlBU44vKc48YCj38DWxaNLgVnrY8wxFaXTITjuGigbdjSfTTkefdt/XvoL/AKDPj1SjQp8NDiI77KVtJcGFBJHGf20a3Gm0MtIaaQlDaAEpQkYCQOwA0aDnLpJeVFtqg1uJVn1tvSyPSCWyrPsI/wBnWdBvGhsdIJttSpK0VFxLuxBbJSSVbk86NGgxqd5UV/ozGttt9ZqaA2FN+mccO7jz+mptd12LXen1Gt2vVGcwYrDHqfDN4UFoRtxkpIxyfGjRoPHpDRKO51KmzLdfkyKTT4oLTskDeXFgAg4A/P48amq1b12291DkXJRIRrMGSpRMUv7du5PIIPAwex50aNBWV2W7Vrep0io1lhqC9WZCgiE2r7iArergdgDsAH46nXLPvmfa1Ht+NAZdpLhRNbkJVtKVOJyUuZV43HsNGjQStc6aXDbldo9XtqM3VBCQxlokD5iBycZHtJGe+edYN2Bd9eqNYuWsQmo099lxLEQOcla0+mPJwEpJI57gaNGgeujVoVC06FPbqraG5kqRu2pUFAICQE8j8SrSh00tG8bUvtS5FNZVDkhTcmYo7khH3spwoHJIA5B0aNBeejRo0H//2Q==</thumbnail>
 </item>
 
 <item>
@@ -7420,6 +7470,68 @@ timeout=60</link>
 <items>
 
 <item>
+<title>   BR \ Alex TV \ HD \ ® \ -27d</title>
+<link>http://alex-suporte/canais</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   US \ TV Guide \ -32d</title>
+<link>http://tinyurl.com/7tmngts
+use VLC Player</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   US \ american horror \ -39d</title>
+<link>url: rtmp://live68.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392/393.high.stream
+app: live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392
+extra:
+flashVer: WIN 11,2,202,228
+pageUrl: http://www.filmon.com/tv/htmlmain/
+swfUrl: http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=e
+tcUrl: rtmp://live68.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392
+playPath: 393.high.stream</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP 1 \ -47d</title>
+<link>http://www.rtp.pt/play/?tv=1#/?tv%3D5%26fbtitle%3DRTP Play - RTP 1%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP1.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D5</link>
+<thumbnail>http://www.rtp.pt/play/?tv=1#/?tv%3D5%26fbtitle%3DRTP Play - RTP 1%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP1.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D5</thumbnail>
+</item>
+
+<item>
+<title>   PT \ RTP 2 \ -47d</title>
+<link>http://www.rtp.pt/play/?tv=1#/?tv%3D3%26fbtitle%3DRTP Play - RTP 2%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP2.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D3</link>
+<thumbnail>http://www.rtp.pt/play/?tv=1#/?tv%3D3%26fbtitle%3DRTP Play - RTP 2%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP2.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D3</thumbnail>
+</item>
+
+<item>
+<title>   TR \ FOXTV \ -42d</title>
+<link>rtmp://fox-l.mncdn.com/foxtv_web/foxtv3 swfURL=http://www.fox.com.tr/swf/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>   SELECT COUNTRY... \ Netto.Alles.wird.gut \ -47d</title>
+<link>http://www.putlocker.com/file/5A8952B0FD233F04#</link>
+<thumbnail>http://www.putlocker.com/file/5A8952B0FD233F04#</thumbnail>
+</item>
+
+<item>
+<title>   TN \ Ettounsiya TV</title>
+<link>http://mangaplustv.com/ettounsiya-tv/</link>
+<thumbnail>http://mangaplustv.com/ettounsiya-tv/</thumbnail>
+</item>
+
+<item>
+<title>   PT \ SIC NOTICIAS \ -58d</title>
+<link>http://www.tvdez.com/sicnoticias</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
 <title>   LB \ Future TV</title>
 <link>mms://www.futuretvnetwork.com/future</link>
 <thumbnail>none</thumbnail>
@@ -7666,60 +7778,6 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 <thumbnail>http://www.iranntv.com/sites/all/themes/iranntv/img/logo.jpg</thumbnail>
 </item>
 
-<item>
-<title>+ IR \ تلویزیون کانال یک</title>
-<link>mms://38.117.88.148/Channel1Link</link>
-<thumbnail>http://yalibnan.com/site/archives/2009/06/27/channel%20one%20-iran.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ US \ VOA خبرها فارسی</title>
-<link>mms://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675</link>
-<thumbnail>http://dc382.4shared.com/img/A5XgrGK9/s7/VOA_Persian.jpg</thumbnail>
-</item>
-
-<item>
-<title>   GR \ Sport TV \ -188d</title>
-<link>mms://broadcast.hol.gr/tvmagic</link>
-<thumbnail>http://www.onlinetv.net/thumbs/Sport_TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>   GR \ MEGA \ -355d</title>
-<link>mms://wms-01.visionip.tv/Hellenic-mega?MSWMExt=.asf</link>
-<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8he7ew.png</thumbnail>
-</item>
-
-<item>
-<title>+ UA \ Star TV</title>
-<link>http://77.222.135.42/startv</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_tv_ua.jpg</thumbnail>
-</item>
-
-<item>
-<title>   UA \ 11 Канал \ -242d</title>
-<link>rtmp://212.3.106.230/live playpath=livestream swfUrl=http://1tv4u.net/player/player-1tv4u-flash-1.swf pageUrl=http://www.1tv4u.net/Live-TV/Ukraine.TV/11-Channel.htm live=true timeout=60</link>
-<thumbnail>http://kotiko.com.ua/wp-content/uploads/2010/03/11ch.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ UA \ Телерадіокомпанія Глас</title>
-<link>mms://217.20.164.161:8778</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/glas_ua.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ UA \ Телеканал ГАММА</title>
-<link>mms://89.187.1.165/GAMMA?MSWMExt=.asf</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/gamma_telekanal.png</thumbnail>
-</item>
-
-<item>
-<title>+ UA \ Перший Діловий</title>
-<link>mms://212.26.146.70/wmtencoder/tv1.wmv</link>
-<thumbnail>http://mapia.ua/assets/features/000/906/179/logos/medium/1stBusiness_LOGO_otpr.jpg?1302766872</thumbnail>
-</item>
-
 </items>
 </channel>
 
@@ -7735,11 +7793,11 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 20/05/2012 17:45:38 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 20/05/2012 18:00:28 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 568</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 429</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 997</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 437</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1005</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
