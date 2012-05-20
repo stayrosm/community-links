@@ -245,7 +245,7 @@
 </items>
 </channel>
 
-<channel><name>Basque \ 2</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Basque.png</thumbnail><items>
+<channel><name>Basque \ 4</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Basque.png</thumbnail><items>
 
 <item>
 <title>+ ES \ Canal Vasco</title>
@@ -257,6 +257,18 @@
 <title>+ ES \ ETBSat</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-ETBSat@5219 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eitb_etb_sat.png</thumbnail>
+</item>
+
+<item>
+<title>   ZW \ EITB Zuzenean \ HD \ -75d</title>
+<link>rtmp://cp70268.live.edgefcs.net:80/live/eitb-Especiales@5520 app=live/eitb-Especiales@5520 pageURL=http://www.eitb.com/streaminga-zuzenean/ swfUrl=http://www.eitb.com/commons/swf/EiTBPlayer_070411.swf live=true timeout=60</link>
+<thumbnail>http://1.bp.blogspot.com/_UhsDP6XW-Rc/TOqlRCZWgII/AAAAAAAAAAk/dMuIQyJY7F0/s1600/eitb.jpg</thumbnail>
+</item>
+
+<item>
+<title>   ZW \ Hamaika Telebista \ -75d</title>
+<link>rtmp://212.8.96.91:80/flvplayback/ts_2_257_256 live=true timeout=60</link>
+<thumbnail>http://www.hamaika.tv/images/logo11.gif</thumbnail>
 </item>
 
 </items>
@@ -1266,7 +1278,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>German \ 39</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels><subchannel>
+</subchannels></channel><channel><name>German \ 40</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/German.png</thumbnail><subchannels><subchannel>
 <name>DE \ Entertainment \ 31</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -1521,6 +1533,20 @@ http://tvsector.com live=true timeout=60</link>
 </subchannel>
 
 <subchannel>
+<name>DE \ Shopping \ 1</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/shopping.png</thumbnail>
+<subitems>
+
+<subitem>
+<title>   DE \ QVC \ -80d</title>
+<link>rtmp://fml.0D89.edgecastcdn.net/200D89/ playpath=qvcde swfURL=http://tv.qvc.de/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.qvc.de/degif/livetv_qvc_logo.jpg</thumbnail>
+</subitem>
+
+</subitems>
+</subchannel>
+
+<subchannel>
 <name>DE \ Sports \ 2</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/sports.png</thumbnail>
 <subitems>
@@ -1540,18 +1566,65 @@ http://tvsector.com live=true timeout=60</link>
 </subitems>
 </subchannel>
 
-</subchannels></channel><channel><name>Greek \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Greek.png</thumbnail><items>
+</subchannels></channel><channel><name>Greek \ 7</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Greek.png</thumbnail><subchannels><subchannel>
+<name>EL \ Entertainment \ 6</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
+<subitems>
 
-<item>
+<subitem>
+<title>   GR \ Crete TV \ -77d</title>
+<link>rtsp://85.25.236.14/cretetv1</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   GR \ Ellada TV \ -77d</title>
+<link>rtmp://209.23.224.74:1935/live playpath=elladatv app=live live=yes timeout=60</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   GR \ ET1 \ -77d</title>
+<link>rtmp://cp76856.live.edgefcs.net:1935/live playpath=GRERT_vid_nogeo_ET1@25926 app=live pageUrl=http://www.kanalia.eu/player/flash/et1.htm live=yes timeout=60</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   GR \ Extra3 \ -77d</title>
+<link>rtmp://cp115021.live.edgefcs.net:1935/live playpath=extragtnet@49573 app=live pageUrl=http://www.kanalia.eu/player/flash/extra_3.htm live=yes timeout=60</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   GR \ Laos TV \ -77d</title>
+<link>rtmp://188.40.85.80:1935/laos playpath=laos app=laos timeout=60</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+<subitem>
+<title>   GR \ Lepanto \ -77d</title>
+<link>rtmp://streams.gr:1935/live playpath=LepantoTV app=live live=yes timeout=60</link>
+<thumbnail>none</thumbnail>
+</subitem>
+
+</subitems>
+</subchannel>
+
+<subchannel>
+<name>EL \ News \ 1</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
+<subitems>
+
+<subitem>
 <title>+ GR \ Kontra Channel</title>
 <link>rtmp://flashcloud.mediacdn.com/live/kontratv swfUrl=http://wwitv.com/player/player15.swf pageURL=http://www.kontrachannel.gr/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://live24.gr/resrc/styles/custom-popups/kontrachannel/kontrachannel-200x81.jpg</thumbnail>
-</item>
+</subitem>
 
-</items>
-</channel>
+</subitems>
+</subchannel>
 
-<channel><name>Hindi \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Hindi.png</thumbnail><items>
+</subchannels></channel><channel><name>Hindi \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Hindi.png</thumbnail><items>
 
 <item>
 <title>+ IN \ NDTV इंडिया</title>
@@ -1562,18 +1635,169 @@ http://tvsector.com live=true timeout=60</link>
 </items>
 </channel>
 
-<channel><name>Hungarian \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Hungarian.png</thumbnail><items>
+<channel><name>Hungarian \ 23</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Hungarian.png</thumbnail><subchannels><subchannel>
+<name>HU \ Entertainment \ 16</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
+<subitems>
 
-<item>
+<subitem>
+<title>   HU \ Alföld TV - Debrecen \ -76d</title>
+<link>rtmp://217.113.62.243/live app=live swfUrl=http://www.alfoldtv.hu/live23.swf tcUrl=rtmp://217.113.62.243/live pageUrl=http://www.alfoldtv.hu/elo40-8.swf playpath=live swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Alfold-TV.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Bajai TV \ -70d</title>
+<link>rtmp://85.67.200.10/live/teszt/baja swfUrl=http://www.bajaitelevizio.hu/wp-content/uploads/jw-.player-plugin-for-wordpress/player/player.swf pageUrl=http://www.bajaitelevizio.hu/?page_id=2257 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.futeam.hu/bajaitv.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Debreceni TV \ -70d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/DTV swfUrl=http://adc04fix02.gtk.hu/DTV_flash_stream_player/jw_player_5_7/player.swf tcUrl=rtmpt://87.229.103.51:1935/relay2 pageUrl=http://adc04fix02.gtk.hu/DTV_flash_stream_player/included.php swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.debrecenpiac.hu/_articles/tvlogo.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Érdi TV \ -73d</title>
+<link>rtmp://79.120.218.185/live/ app=live/ swfUrl=http://www.erdtv.hu/elo/player.swf tcUrl=rtmp://79.120.218.185/live/ pageUrl=http://www.erdtv.hu/elo.html playpath=livestream swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.etvkezilabda.hu/download/logo_2.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Full Arts Media \ -70d</title>
+<link>rtmp://wowza.tststudio.com/live/stream03 swfUrl=http://www.fullarts.hu/fullarts_stream_cs4_2_v4.swf pageUrl=http://www.fullarts.hu/ swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.centermedia.hu/pic/fullarts.JPG</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Gotthárd TV \ -76d</title>
+<link>http://www.gotthardtv.hu:8000/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Gotthard-TV.gif</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Halom TV - Százhalombatta \ -76d</title>
+<link>rtmp://stream.battanet.hu/halom app=halom swfUrl=http://mail.battanet.hu/halom/flvplayer.swf tcUrl=rtmp://stream.battanet.hu/halom pageUrl=http://www.halomtv.hu/vtv.html playpath=tv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Halom-TV.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Kapos TV \ -76d</title>
+<link>http://195.56.77.207:8004/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Kapos-TV.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Kecskeméti TV \ -76d</title>
+<link>rtmp://193.142.209.45/live app=live swfUrl=http://nrw.kecskemetitv.hu/media/mediaplayer.swf tcUrl=rtmp://193.142.209.45/live pageUrl=http://kecskemetitv.hu/ playpath=ktv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://nrw.kecskemetitv.hu/images/ktv_logo.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Kölcsey TV - Nyíregyháza \ -76d</title>
+<link>http://live.kolcseytv.hu:8000/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Kolcsey-TV.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Miskolci TV \ -76d</title>
+<link>rtmp://85.119.8.141:8080/live app=live swfUrl=http://minap.hu/online/player.swf tcUrl=rtmp://85.119.8.141:8080/live pageUrl=http://minap.hu/online/index.php playpath=live swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Miskolc-TV.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Pannon RTV - Szabadka \ -73d</title>
+<link>http://188.64.106.19:8080/stream/?channel=pannonrtv&amp;stream=1mb&amp;sp=freetv</link>
+<thumbnail>http://www.pannonrtv.com/RTV/e107_themes/xxxxxx/images/logo.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Pécsi TV \ -76d</title>
+<link>http://www.pecstv.hu:8000/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Pecs-TV.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ RTL Klub \ -72d</title>
+<link>rtmp://212.7.206.76:1935/live/_definst_/hello65 swfUrl=http://www.streamiton.tv/player/player.swf pageUrl=http://www.limev.com/embed.php?fileid=hello65&amp;vw=520&amp;vh=400 live=true swfvfy=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtl_klub.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Szeged Városi TV \ -76d</title>
+<link>rtmp://193.142.209.45/live app=live swfUrl=http://nrw.vtvszeged.hu/media/mediaplayer.swf tcUrl=rtmp://193.142.209.45/live pageUrl=http://vtvszeged.hu/ playpath=vtvszeged swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Varosi-TV-Szeged.jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Tisza TV - Tiszaújváros \ -76d</title>
+<link>http://www.tiszatv.hu:443/tiszatv.f4v</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Tisza-TV.jpg</thumbnail>
+</subitem>
+
+</subitems>
+</subchannel>
+
+<subchannel>
+<name>HU \ Music \ 5</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
+<subitems>
+
+<subitem>
+<title>   HU \ 1 Music \ -71d</title>
+<link>rtmp://92.249.129.131:1935/live/_definst_/music2 swfUrl=http://1music.hu/flash/flowplayer_3/flowplayer.musicchannel.swf pageUrl=http://1music.hu/ token=mafUp8VaxEcRegEn swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/1music_channel_hu.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ BestOfMusic \ -75d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/bestof app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf?0.8224061026703566 tcUrl=rtmpt://87.229.103.60:1935/relay2 pageUrl=http://www.rocktv.hu/live/bom.html playpath=bestof swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/best_of_music.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ H!T Music \ -71d</title>
+<link>rtmp://92.249.129.130:1935/live/_definst_/music1 swfUrl=http://myhit.tv/flash/flowplayer_3/flowplayer.musicchannel.swf pageUrl=http://myhit.tv/ token=mafUp8VaxEcRegEn swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hit_music_channel.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ musicplus \ -73d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/musicplus app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf tcUrl=rtmpt://87.229.103.61:1935/relay2 pageUrl=http://www.rocktv.hu/live/musicplus.html playpath=musicplus swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/music_plus_hu.png</thumbnail>
+</subitem>
+
+<subitem>
+<title>   HU \ Rock TV \ -75d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/rocktv app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf?0.9724266368430108 tcUrl=rtmpt://87.229.103.51:1935/relay2 pageUrl=http://rocktv.hu/live/live2.html playpath=rocktv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rock_tv_hu.png</thumbnail>
+</subitem>
+
+</subitems>
+</subchannel>
+
+<subchannel>
+<name>HU \ News \ 2</name>
+<thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
+<subitems>
+
+<subitem>
+<title>   HU \ ATV \ -76d</title>
+<link>rtmp://flash0.atv.hu/live/atvlive app=live swfUrl=http://static.atv.hu/flashes/ATV_LiveVideoplayer_v2.swf tcUrl=rtmp://flash0.atv.hu/live pageUrl=http://atv.hu/online playpath=atvlive swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/magyar_atv.png</thumbnail>
+</subitem>
+
+<subitem>
 <title>   HU \ HírTV \ -76d</title>
 <link>http://stream.mno.hu/delayed.mpg</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hir_tv.png</thumbnail>
-</item>
+</subitem>
 
-</items>
-</channel>
+</subitems>
+</subchannel>
 
-<channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
+</subchannels></channel><channel><name>Icelandic \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Icelandic.png</thumbnail><items>
 
 <item>
 <title>   IS \ Alþingi \ -126d</title>
@@ -1974,7 +2198,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ canal viva \ -293d</title>
+<title>   BR \ canal viva \ -294d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master21.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master21.flv timeout=60</link>
 <thumbnail>http://cultoupop.com/wp-content/uploads/2010/10/Canal-Viva-Rede-Globo.jpg</thumbnail>
@@ -1999,7 +2223,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ FX \ -293d</title>
+<title>   BR \ FX \ -294d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master25.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master25.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/5/5d/FX-logo.svg</thumbnail>
@@ -2053,7 +2277,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Max prime \ -293d</title>
+<title>   BR \ Max prime \ -294d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master26.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master26.flv timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/9/92/Maxprime.png</thumbnail>
@@ -2145,7 +2369,7 @@ pageUrl=http://www.staticvto.com/boss/ch18-record.htm tcUrl=rtmp://streamer.istr
 </subitem>
 
 <subitem>
-<title>   BR \ universal channel \ -293d</title>
+<title>   BR \ universal channel \ -294d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master20.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master20.flv timeout=60</link>
 <thumbnail>http://1.bp.blogspot.com/_JwYbP1lYt6A/SZGl8gCbqOI/AAAAAAAAKCA/q09-nQXPi4Q/s400/tvuniversal.jpg</thumbnail>
@@ -2158,7 +2382,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ Warner TV \ -293d</title>
+<title>   BR \ Warner TV \ -294d</title>
 <link>rtmp://streamer.istreamlive.net/133_182/master22.flv swfUrl=http://www.onepieceofbleach.com/player.swf
 pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsModo=Rss tcUrl=rtmp://streamer.istreamlive.net/133_182/master22.flv timeout=60</link>
 <thumbnail>http://hub.tv-ark.org.uk/images/otherchannels/wb_images/wb_tv_large.jpg</thumbnail>
@@ -2605,7 +2829,7 @@ timeout=60</link>
 </item>
 
 <item>
-<title>   RO \ Antena 2 \ -232d</title>
+<title>   RO \ Antena 2 \ -233d</title>
 <link>rtmp://live2lh.inin.ro/live app=live swfUrl=http://ivm.inin.ro/swf/player_live4.swf pageUrl=http://www.antena2.ro/live playpath=a2 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena2_ro.jpg</thumbnail>
 </item>
@@ -4184,7 +4408,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 === Music ==========================================================================================
 
 <channel>
-<name>All Music \ 54</name>
+<name>All Music \ 60</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/music.png</thumbnail>
 <items>
 
@@ -4253,6 +4477,36 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <title>+ FR \ Rouge TV</title>
 <link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfv.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ 1 Music \ -71d</title>
+<link>rtmp://92.249.129.131:1935/live/_definst_/music2 swfUrl=http://1music.hu/flash/flowplayer_3/flowplayer.musicchannel.swf pageUrl=http://1music.hu/ token=mafUp8VaxEcRegEn swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/1music_channel_hu.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ BestOfMusic \ -75d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/bestof app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf?0.8224061026703566 tcUrl=rtmpt://87.229.103.60:1935/relay2 pageUrl=http://www.rocktv.hu/live/bom.html playpath=bestof swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/best_of_music.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ H!T Music \ -71d</title>
+<link>rtmp://92.249.129.130:1935/live/_definst_/music1 swfUrl=http://myhit.tv/flash/flowplayer_3/flowplayer.musicchannel.swf pageUrl=http://myhit.tv/ token=mafUp8VaxEcRegEn swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hit_music_channel.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ musicplus \ -73d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/musicplus app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf tcUrl=rtmpt://87.229.103.61:1935/relay2 pageUrl=http://www.rocktv.hu/live/musicplus.html playpath=musicplus swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/music_plus_hu.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Rock TV \ -75d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/rocktv app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf?0.9724266368430108 tcUrl=rtmpt://87.229.103.51:1935/relay2 pageUrl=http://rocktv.hu/live/live2.html playpath=rocktv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rock_tv_hu.png</thumbnail>
 </item>
 
 <item>
@@ -4655,150 +4909,165 @@ timeout=60</link>
 <items>
 
 <item>
-<title>   BR \ Alex TV \ HD \ ® \ -27d</title>
-<link>http://alex-suporte/canais</link>
+<title>   HU \ Pannon RTV - Szabadka \ -73d</title>
+<link>http://188.64.106.19:8080/stream/?channel=pannonrtv&amp;stream=1mb&amp;sp=freetv</link>
+<thumbnail>http://www.pannonrtv.com/RTV/e107_themes/xxxxxx/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Miskolci TV \ -76d</title>
+<link>rtmp://85.119.8.141:8080/live app=live swfUrl=http://minap.hu/online/player.swf tcUrl=rtmp://85.119.8.141:8080/live pageUrl=http://minap.hu/online/index.php playpath=live swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Miskolc-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>   GR \ ET1 \ -77d</title>
+<link>rtmp://cp76856.live.edgefcs.net:1935/live playpath=GRERT_vid_nogeo_ET1@25926 app=live pageUrl=http://www.kanalia.eu/player/flash/et1.htm live=yes timeout=60</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   US \ TV Guide \ -32d</title>
-<link>http://tinyurl.com/7tmngts
-use VLC Player</link>
+<title>   HU \ Debreceni TV \ -70d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/DTV swfUrl=http://adc04fix02.gtk.hu/DTV_flash_stream_player/jw_player_5_7/player.swf tcUrl=rtmpt://87.229.103.51:1935/relay2 pageUrl=http://adc04fix02.gtk.hu/DTV_flash_stream_player/included.php swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.debrecenpiac.hu/_articles/tvlogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>   ZW \ Hamaika Telebista \ -75d</title>
+<link>rtmp://212.8.96.91:80/flvplayback/ts_2_257_256 live=true timeout=60</link>
+<thumbnail>http://www.hamaika.tv/images/logo11.gif</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Halom TV - Százhalombatta \ -76d</title>
+<link>rtmp://stream.battanet.hu/halom app=halom swfUrl=http://mail.battanet.hu/halom/flvplayer.swf tcUrl=rtmp://stream.battanet.hu/halom pageUrl=http://www.halomtv.hu/vtv.html playpath=tv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Halom-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Érdi TV \ -73d</title>
+<link>rtmp://79.120.218.185/live/ app=live/ swfUrl=http://www.erdtv.hu/elo/player.swf tcUrl=rtmp://79.120.218.185/live/ pageUrl=http://www.erdtv.hu/elo.html playpath=livestream swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.etvkezilabda.hu/download/logo_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>   GR \ Extra3 \ -77d</title>
+<link>rtmp://cp115021.live.edgefcs.net:1935/live playpath=extragtnet@49573 app=live pageUrl=http://www.kanalia.eu/player/flash/extra_3.htm live=yes timeout=60</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   US \ american horror \ -39d</title>
-<link>url: rtmp://live68.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392/393.high.stream
-app: live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392
-extra:
-flashVer: WIN 11,2,202,228
-pageUrl: http://www.filmon.com/tv/htmlmain/
-swfUrl: http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=e
-tcUrl: rtmp://live68.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5da04ac157ee953d5176095b855e4c9d2e2eedee3d580971a51e8ee99dd360ae51bf65a31d81ec74b04e83a9f2bf0d1647ac27793a2e6866e0e367f179c8df3a6e2d761d4278d8944bb4df42174a30fd45c31beea609415cb0d0861585a45be35492f2bf84efc184179bfbbc1fb5e074cf35bc361e2e5392
-playPath: 393.high.stream</link>
+<title>   HU \ H!T Music \ -71d</title>
+<link>rtmp://92.249.129.130:1935/live/_definst_/music1 swfUrl=http://myhit.tv/flash/flowplayer_3/flowplayer.musicchannel.swf pageUrl=http://myhit.tv/ token=mafUp8VaxEcRegEn swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hit_music_channel.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Kapos TV \ -76d</title>
+<link>http://195.56.77.207:8004/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Kapos-TV.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Bajai TV \ -70d</title>
+<link>rtmp://85.67.200.10/live/teszt/baja swfUrl=http://www.bajaitelevizio.hu/wp-content/uploads/jw-.player-plugin-for-wordpress/player/player.swf pageUrl=http://www.bajaitelevizio.hu/?page_id=2257 swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.futeam.hu/bajaitv.jpg</thumbnail>
+</item>
+
+<item>
+<title>   HU \ 1 Music \ -71d</title>
+<link>rtmp://92.249.129.131:1935/live/_definst_/music2 swfUrl=http://1music.hu/flash/flowplayer_3/flowplayer.musicchannel.swf pageUrl=http://1music.hu/ token=mafUp8VaxEcRegEn swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/1music_channel_hu.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Full Arts Media \ -70d</title>
+<link>rtmp://wowza.tststudio.com/live/stream03 swfUrl=http://www.fullarts.hu/fullarts_stream_cs4_2_v4.swf pageUrl=http://www.fullarts.hu/ swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.centermedia.hu/pic/fullarts.JPG</thumbnail>
+</item>
+
+<item>
+<title>   GR \ Lepanto \ -77d</title>
+<link>rtmp://streams.gr:1935/live playpath=LepantoTV app=live live=yes timeout=60</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   PT \ RTP 1 \ -47d</title>
-<link>http://www.rtp.pt/play/?tv=1#/?tv%3D5%26fbtitle%3DRTP Play - RTP 1%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP1.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D5</link>
-<thumbnail>http://www.rtp.pt/play/?tv=1#/?tv%3D5%26fbtitle%3DRTP Play - RTP 1%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP1.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D5</thumbnail>
-</item>
-
-<item>
-<title>   PT \ RTP 2 \ -47d</title>
-<link>http://www.rtp.pt/play/?tv=1#/?tv%3D3%26fbtitle%3DRTP Play - RTP 2%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP2.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D3</link>
-<thumbnail>http://www.rtp.pt/play/?tv=1#/?tv%3D3%26fbtitle%3DRTP Play - RTP 2%2C emissão online em direto%26fbimg%3Dhttp%3A%2F%2Fimg0.rtp.pt%2Fmultimediahtml%2Flogs%2FRTP2.jpg%26fburl%3Dhttp%3A%2F%2Frtp.pt%2Fplay%2F%3Ftv%3D3</thumbnail>
-</item>
-
-<item>
-<title>   TR \ FOXTV \ -42d</title>
-<link>rtmp://fox-l.mncdn.com/foxtv_web/foxtv3 swfURL=http://www.fox.com.tr/swf/flowplayer.commercial-3.2.7.swf swfVfy=true live=true timeout=60</link>
+<title>   GR \ Laos TV \ -77d</title>
+<link>rtmp://188.40.85.80:1935/laos playpath=laos app=laos timeout=60</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   TN \ Ettounsiya TV</title>
-<link>http://mangaplustv.com/ettounsiya-tv/</link>
-<thumbnail>http://mangaplustv.com/ettounsiya-tv/</thumbnail>
+<title>   HU \ BestOfMusic \ -75d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/bestof app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf?0.8224061026703566 tcUrl=rtmpt://87.229.103.60:1935/relay2 pageUrl=http://www.rocktv.hu/live/bom.html playpath=bestof swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/best_of_music.png</thumbnail>
 </item>
 
 <item>
-<title>   PT \ SIC NOTICIAS \ -58d</title>
-<link>http://www.tvdez.com/sicnoticias</link>
+<title>   HU \ Pécsi TV \ -76d</title>
+<link>http://www.pecstv.hu:8000/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Pecs-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>   HU \ ATV \ -76d</title>
+<link>rtmp://flash0.atv.hu/live/atvlive app=live swfUrl=http://static.atv.hu/flashes/ATV_LiveVideoplayer_v2.swf tcUrl=rtmp://flash0.atv.hu/live pageUrl=http://atv.hu/online playpath=atvlive swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/magyar_atv.png</thumbnail>
+</item>
+
+<item>
+<title>   GR \ Ellada TV \ -77d</title>
+<link>rtmp://209.23.224.74:1935/live playpath=elladatv app=live live=yes timeout=60</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   IT \ Italia 1 \ -82d</title>
-<link>#EXTINF:-1,Italia 1
-rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.tvsector.com/italia-1/</link>
+<title>   HU \ Kecskeméti TV \ -76d</title>
+<link>rtmp://193.142.209.45/live app=live swfUrl=http://nrw.kecskemetitv.hu/media/mediaplayer.swf tcUrl=rtmp://193.142.209.45/live pageUrl=http://kecskemetitv.hu/ playpath=ktv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://nrw.kecskemetitv.hu/images/ktv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>   HU \ musicplus \ -73d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/musicplus app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf tcUrl=rtmpt://87.229.103.61:1935/relay2 pageUrl=http://www.rocktv.hu/live/musicplus.html playpath=musicplus swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/music_plus_hu.png</thumbnail>
+</item>
+
+<item>
+<title>   ZW \ EITB Zuzenean \ HD \ -75d</title>
+<link>rtmp://cp70268.live.edgefcs.net:80/live/eitb-Especiales@5520 app=live/eitb-Especiales@5520 pageURL=http://www.eitb.com/streaminga-zuzenean/ swfUrl=http://www.eitb.com/commons/swf/EiTBPlayer_070411.swf live=true timeout=60</link>
+<thumbnail>http://1.bp.blogspot.com/_UhsDP6XW-Rc/TOqlRCZWgII/AAAAAAAAAAk/dMuIQyJY7F0/s1600/eitb.jpg</thumbnail>
+</item>
+
+<item>
+<title>   HU \ RTL Klub \ -72d</title>
+<link>rtmp://212.7.206.76:1935/live/_definst_/hello65 swfUrl=http://www.streamiton.tv/player/player.swf pageUrl=http://www.limev.com/embed.php?fileid=hello65&amp;vw=520&amp;vh=400 live=true swfvfy=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtl_klub.png</thumbnail>
+</item>
+
+<item>
+<title>   HU \ Kölcsey TV - Nyíregyháza \ -76d</title>
+<link>http://live.kolcseytv.hu:8000/;stream.nsv</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Kolcsey-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>   GR \ Crete TV \ -77d</title>
+<link>rtsp://85.25.236.14/cretetv1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   LB \ LBC</title>
-<link>http://www.elahmad.com/tv/lbc.php</link>
-<thumbnail>none</thumbnail>
+<title>   HU \ Alföld TV - Debrecen \ -76d</title>
+<link>rtmp://217.113.62.243/live app=live swfUrl=http://www.alfoldtv.hu/live23.swf tcUrl=rtmp://217.113.62.243/live pageUrl=http://www.alfoldtv.hu/elo40-8.swf playpath=live swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Alfold-TV.jpg</thumbnail>
 </item>
 
 <item>
-<title>+ DK \ DR HD \ HD \ ®</title>
-<link>rtmp://livetv.gss.dr.dk/live/livedr06bstream3 live=1 timeout=60</link>
-<thumbnail>http://images.wikia.com/tvkanal/da/images/3/39/DR_HD.jpg</thumbnail>
-</item>
-
-<item>
-<title>   AE \ Fox Movies \ -90d</title>
-<link>rtsp://78.100.61.60/live/foxm.sdp</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_middle_east.jpg</thumbnail>
-</item>
-
-<item>
-<title>   AE \ MBC 2 \ -90d</title>
-<link>rtsp://78.100.61.60/live/mbc2.sdp</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc2_ae.jpg</thumbnail>
-</item>
-
-<item>
-<title>   AE \ MBC Max \ -90d</title>
-<link>rtsp://78.100.61.60/live/max.sdp</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
-</item>
-
-<item>
-<title>   AE \ MBC Action \ -90d</title>
-<link>rtsp://78.100.61.60/live/action.sdp</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_action.jpg</thumbnail>
-</item>
-
-<item>
-<title>   DO \ telesistema11 \ -91d</title>
-<link>none</link>
-<thumbnail>http://www.telesistema11.tv/</thumbnail>
-</item>
-
-<item>
-<title>   US \ espn sport \ HD \ ® \ -95d</title>
-<link>none</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>+ US \ Food Network</title>
-<link>rtmp://176.31.231.57/edge/7pb51t4nqxrmubw playpath=7pb51t4nqxrmubw swfurl=http://static.ilive.to/jwplayer/player.swf pageurl=http://www.ilive.to/Food timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/food_network_us.png</thumbnail>
-</item>
-
-<item>
-<title>+ GR \ Kontra Channel</title>
-<link>rtmp://flashcloud.mediacdn.com/live/kontratv swfUrl=http://wwitv.com/player/player15.swf pageURL=http://www.kontrachannel.gr/ swfVfy=true live=true timeout=60</link>
-<thumbnail>http://live24.gr/resrc/styles/custom-popups/kontrachannel/kontrachannel-200x81.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ SI \ TV Slovenija 3</title>
-<link>rtmp://fms.rtvslo.si/live playpath=slo3 swfurl="http://tvslo.si/media_player.swf" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_slo3.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ SI \ TV Slovenija 2</title>
-<link>rtmp://fms.rtvslo.si/live playpath=slo2 swfurl="http://tvslo.si/media_player.swf" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_slo2.jpg</thumbnail>
-</item>
-
-<item>
-<title>   SI \ TV Slovenija 1 \ -90d</title>
-<link>rtmp://fms.rtvslo.si/live playpath=slo1 swfurl="http://tvslo.si/media_player.swf" swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_slo1.jpg</thumbnail>
-</item>
-
-<item>
-<title>+ KZ \ CASPiONET \ ®</title>
-<link>rtmp://origin4.nar.tv/dvrm/caspionet/caspionet swfURL=http://www.yildiz.tv/dvr/dvrAd.swf swfVfy=true live=true timeout=60</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/caspionet.jpg</thumbnail>
+<title>   HU \ Rock TV \ -75d</title>
+<link>rtmp://91.82.85.71:1935/live/_definst_/rocktv app=relay2 swfUrl=http://rocktv.hu/live/flowplayer/flowplayer.commercial-3.2.7.swf?0.9724266368430108 tcUrl=rtmpt://87.229.103.51:1935/relay2 pageUrl=http://rocktv.hu/live/live2.html playpath=rocktv swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rock_tv_hu.png</thumbnail>
 </item>
 
 </items>
@@ -4816,11 +5085,11 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 20/05/2012 18:04:53 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 20/05/2012 18:18:34 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams confirmed available: 568</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 436</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams total: 1004</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 492</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams total: 1060</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
 </items>
