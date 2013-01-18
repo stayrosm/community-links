@@ -758,7 +758,7 @@ use VLC Player</link>
 <subitems>
 
 <subitem>
-<title>+ AU \ ABC News 24</title>
+<title>   AU \ ABC News 24 \ -1h</title>
 <link>rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&amp;akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_news_24.png</thumbnail>
 </subitem>
@@ -982,13 +982,13 @@ http://tvsector.com live=true timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -6h</title>
+<title>+ BE \ La deux</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>   BE \ La une \ -4h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1012,7 +1012,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   FR \ arte \ -2h</title>
+<title>+ FR \ arte</title>
 <link>rtmp://cp108478.live.edgefcs.net/live/ playpath=arte_fr_1_800@45512 swfsize=735602 swfhash=28fcd514782af1a9cbde3435075578a7953f6cec3fd58538f563df0cf591612f live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg77.png</thumbnail>
 </subitem>
@@ -1072,7 +1072,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ FR \ France 3</title>
+<title>   FR \ France 3 \ -1h</title>
 <link>rtmp://cp108476.live.edgefcs.net/live playpath=france3_1_800@45499 swfsize=735602 swfhash=28fcd514782af1a9cbde3435075578a7953f6cec3fd58538f563df0cf591612f live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg72.png</thumbnail>
 </subitem>
@@ -1390,7 +1390,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DE \ SIXX \ -1h</title>
+<title>+ DE \ SIXX</title>
 <link>rtmp://cp108478.live.edgefcs.net/live playpath=sixx_1_800@45516 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgad.png</thumbnail>
 </subitem>
@@ -1462,7 +1462,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DE \ Tagesschau \ -446d</title>
+<title>   DE \ Tagesschau \ -447d</title>
 <link>http://tagesschau-live1-webm-wmv.wm.llnwd.net/tagesschau_live1_webm_wmv</link>
 <thumbnail>http://www.tagesschau.de/image/tagesschaude_512.jpg</thumbnail>
 </subitem>
@@ -2600,7 +2600,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ RO \ Antena 3</title>
+<title>   RO \ Antena 3 \ -1h</title>
 <link>rtmpe://fms30.mediadirect.ro app=live2/antena3 swfUrl=http://static1.mediadirect.ro/player-preload/swf/antena3_new_288/player.swf pageUrl=http://www.antena3.ro/live playpath=antena_3_low live=true timeout=60</link>
 <thumbnail>http://www.antena3.ro/static/images/antena3.jpg</thumbnail>
 </item>
@@ -2867,7 +2867,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subchannels></channel><channel><name>Select Language... \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
 
 <item>
-<title>   SELECT COUNTRY... \ vietnamese \ -10h</title>
+<title>   SELECT COUNTRY... \ vietnamese \ -11h</title>
 <link>http://www.tv24.vn/</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -3017,7 +3017,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -2h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3610,7 +3610,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ PK \ سماع</title>
+<title>   PK \ سماع</title>
 <link>rtmp://media2.lsops.net/samaa/ playpath=SamaaLiveStation swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/85-samaa-tv-urdu" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://ww1.prweb.com/prfiles/2010/01/25/2751114/SamaaLargeSizeLogo1.jpg</thumbnail>
 </item>
@@ -3767,7 +3767,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   VN \ /Phim-Han-Quoc \ -9h</title>
+<title>   VN \ /Phim-Han-Quoc \ -10h</title>
 <link>http://thegioiphim.com/Phim-Han-Quoc_15_list.html</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -3976,7 +3976,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Miami \ Bayfront Park \ HD \ -8h</title>
+<title>   US \ Miami \ Bayfront Park \ HD \ -9h</title>
 <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd5.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4521,13 +4521,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <items>
 
 <item>
-<title>   VN \ /Phim-Han-Quoc \ -9h</title>
+<title>   VN \ /Phim-Han-Quoc \ -10h</title>
 <link>http://thegioiphim.com/Phim-Han-Quoc_15_list.html</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \ vietnamese \ -10h</title>
+<title>   SELECT COUNTRY... \ vietnamese \ -11h</title>
 <link>http://www.tv24.vn/</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4733,10 +4733,10 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 18/01/2013 15:53:27 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 517</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 523</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 18/01/2013 16:53:29 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 1</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 518</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 522</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1040</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
