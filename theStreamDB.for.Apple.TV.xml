@@ -13,7 +13,7 @@
 </items>
 </channel>
 
-<channel><name>Arabic \ 32</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
+<channel><name>Arabic \ 33</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Arabic.png</thumbnail><subchannels><subchannel>
 <name>AR \ Entertainment \ 16</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/entertainment.png</thumbnail>
 <subitems>
@@ -118,7 +118,7 @@
 </subchannel>
 
 <subchannel>
-<name>AR \ News \ 13</name>
+<name>AR \ News \ 14</name>
 <thumbnail>http://thestreamdb.googlecode.com/svn/genreicons/news.png</thumbnail>
 <subitems>
 
@@ -132,6 +132,12 @@
 <title>   EG \ الجزيرة مصر</title>
 <link>rtmp://cp79926.live.edgefcs.net:1935/live?_fcs_vhost=cp79926.live.edgefcs.net playpath=ajmm@53707 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.ftconferences.com/userfiles/AlJazeera%20Network%20vert(1).jpg</thumbnail>
+</subitem>
+
+<subitem>
+<title>   IR \ قناة العالم الاخبارية</title>
+<link>rtmp://184.107.48.217/live swfUrl=http://www.alalam-news.com/sites/www.alalam-news.com/modules/alalam_flowplayer/flowplayer.commercial-3.2.2.swf playpath=alalam1 app=live live=true timeout=60</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_alam.jpg</thumbnail>
 </subitem>
 
 <subitem>
@@ -425,7 +431,7 @@
 </item>
 
 <item>
-<title>+ CZ \ TVSCUBA \ HD</title>
+<title>   CZ \ TVSCUBA \ HD \ -2h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </item>
@@ -586,13 +592,13 @@
 </subitem>
 
 <subitem>
-<title>   NL \ Journaal 24 \ -619d</title>
+<title>   NL \ Journaal 24 \ -620d</title>
 <link>http://livestreams.omroep.nl/nos/journaal24-bb</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nl_24_journaal.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   NL \ Politiek 24 \ -619d</title>
+<title>   NL \ Politiek 24 \ -620d</title>
 <link>http://livestreams.omroep.nl/nos/politiek24-bb</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nl_24_politiek.png</thumbnail>
 </subitem>
@@ -630,7 +636,7 @@
 </subitem>
 
 <subitem>
-<title>   UK \ PASSION \ -2h</title>
+<title>+ UK \ PASSION</title>
 <link>rtsp://195.90.118.93/passionplanet_1</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgr4.png</thumbnail>
 </subitem>
@@ -988,7 +994,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -3h</title>
+<title>   BE \ La une \ -4h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1947,7 +1953,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>   IT \ Super Tennis \ -324d</title>
+<title>   IT \ Super Tennis \ -325d</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </subitem>
@@ -2867,7 +2873,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subchannels></channel><channel><name>Select Language... \ 1</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Select Language....png</thumbnail><items>
 
 <item>
-<title>   SELECT COUNTRY... \ vietnamese \ -16h</title>
+<title>   SELECT COUNTRY... \ vietnamese \ -17h</title>
 <link>http://www.tv24.vn/</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -2975,7 +2981,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ Antena 3 Internacional \ -358d</title>
+<title>   ES \ Antena 3 Internacional \ -359d</title>
 <link>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ app=antena3fms35live-live/ swfUrl=http://s3.e-monsite.com/2010/09/23/01/jw_player.swf playpath=stream-canalinternacional live=true swfVfy=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena3_int.jpg</thumbnail>
 </subitem>
@@ -2987,7 +2993,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ Barcelona TV \ -626d</title>
+<title>   ES \ Barcelona TV \ -627d</title>
 <link>http://barcelonatv.stream.flumotion.com/barcelonatv/barcelonatv.asf.asx</link>
 <thumbnail>http://www.disfrutalogratis.com/images/el_waterpolo_femenino_en_barcelona_tv_large.jpg</thumbnail>
 </subitem>
@@ -3017,7 +3023,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ Ojos Solidarios \ -2h</title>
+<title>+ ES \ Ojos Solidarios</title>
 <link>http://wm.mad.interhost.com/OjosSolidariosTv</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Ojos-Solidarios.jpg</thumbnail>
 </subitem>
@@ -3053,7 +3059,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ Telemadrid Sat \ -1h</title>
+<title>   ES \ Telemadrid Sat \ -2h</title>
 <link>rtmp://cp118140.live.edgefcs.net/live/ playpath=TSAtelemadridsat@47720 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/2/2b/Telemadrid-Sat-Logo.svg/500px-Telemadrid-Sat-Logo.svg.png</thumbnail>
 </subitem>
@@ -3767,7 +3773,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   VN \ /Phim-Han-Quoc \ -15h</title>
+<title>   VN \ /Phim-Han-Quoc \ -16h</title>
 <link>http://thegioiphim.com/Phim-Han-Quoc_15_list.html</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -3976,7 +3982,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   US \ Miami \ Bayfront Park \ HD \ -14h</title>
+<title>   US \ Miami \ Bayfront Park \ HD \ -15h</title>
 <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd5.flv live=true timeout=60</link>
 <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
 </item>
@@ -4426,7 +4432,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   IT \ Super Tennis \ -324d</title>
+<title>   IT \ Super Tennis \ -325d</title>
 <link>rtmp://109.123.96.197/ws-lexicon/ playpath=ws-lexicon/supertennistvbackup live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gg4ym.png</thumbnail>
 </item>
@@ -4521,13 +4527,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <items>
 
 <item>
-<title>   VN \ /Phim-Han-Quoc \ -15h</title>
+<title>   VN \ /Phim-Han-Quoc \ -16h</title>
 <link>http://thegioiphim.com/Phim-Han-Quoc_15_list.html</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>   SELECT COUNTRY... \ vietnamese \ -16h</title>
+<title>   SELECT COUNTRY... \ vietnamese \ -17h</title>
 <link>http://www.tv24.vn/</link>
 <thumbnail>none</thumbnail>
 </item>
@@ -4733,10 +4739,10 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 18/01/2013 21:56:29 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 18/01/2013 22:56:50 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 519</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 521</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 525</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 515</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1040</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
