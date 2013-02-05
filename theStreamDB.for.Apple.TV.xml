@@ -278,7 +278,7 @@
 <channel><name>Basque \ 4</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Basque.png</thumbnail><items>
 
 <item>
-<title>   ES \ Canal Vasco \ -2h</title>
+<title>+ ES \ Canal Vasco</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-CanalVasco@5519 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.sabinas.tv/images/stories/tv/canal-vasco.jpg</thumbnail>
 </item>
@@ -366,7 +366,7 @@
 </item>
 
 <item>
-<title>   HR \ HRT 1 - Hrvatska radiotelevizija \ -619d</title>
+<title>   HR \ HRT 1 - Hrvatska radiotelevizija \ -620d</title>
 <link>rtmp://hrt.fms.visionip.tv/live/b2b-hrt_1-live-25f-4x3_3 timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqaf7.png</thumbnail>
 </item>
@@ -425,7 +425,7 @@
 </item>
 
 <item>
-<title>+ CZ \ TVSCUBA \ HD</title>
+<title>   CZ \ TVSCUBA \ HD \ -2h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </item>
@@ -726,7 +726,7 @@ use VLC Player</link>
 </subitem>
 
 <subitem>
-<title>   US \ NASA JPL \ -13h</title>
+<title>   US \ NASA JPL \ -14h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream@787 swfUrl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -849,7 +849,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   US \ CBN News \ -431d</title>
+<title>   US \ CBN News \ -432d</title>
 <link>rtmp://cbn.fc.llnwd.net/cbn/ playpath=News_M swfUrl="http://www.cbn.com/media/player/player.swf?width=1024&amp;s=cbnlive%2D3&amp;height=576&amp;isLive=true&amp;buffer=4&amp;=CBN%5FTV&amp;control%5Furl=controls%5Fen%2Eswf&amp;ck=0%2E8890060158446431" pageUrl="http://www.cbn.com/media/player/index.aspx?s=cbnlive-3" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.com/images/8gdppf.jpg</thumbnail>
 </subitem>
@@ -988,13 +988,13 @@ http://tvsector.com live=true timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   BE \ La deux \ -2h</title>
+<title>   BE \ La deux \ -3h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=ladeux live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/ladeux/images/main/logo_ladeux.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   BE \ La une \ -6h</title>
+<title>   BE \ La une \ -7h</title>
 <link>rtmp://rtmp.infomaniak.ch pageUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 app=livecast playpath=laune live=true timeout=60</link>
 <thumbnail>http://www.static.rtbf.be/tv/laune/images/main/logo_laune.png</thumbnail>
 </subitem>
@@ -1066,7 +1066,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   FR \ DirectStar \ -564d</title>
+<title>   FR \ DirectStar \ -565d</title>
 <link>rtmp://85.17.84.196:80/rtpdirectstarlive swfUrl=http://direct8.hexaglobe.com/flowplayer/flowplayer.commercial-3.1.5.swf?0.6977526676426334 playpath=directstar-flash-750.sdp live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfs.png</thumbnail>
 </subitem>
@@ -1807,7 +1807,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>   IT \ T-Sat \ -340d</title>
+<title>   IT \ T-Sat \ -341d</title>
 <link>rtmp://flash3.ipercast.net/telelombardia.it-live playpath=diretta swfurl=http://www.mediapason.it/flash/player.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/t_sat.jpg</thumbnail>
 </subitem>
@@ -1907,13 +1907,13 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>   IT \ Toptech \ -340d</title>
+<title>   IT \ Toptech \ -341d</title>
 <link>rtmp://flash3.ipercast.net/telelombardia.it-live playpath=toptech swfurl=http://www.mediapason.it/flash/player.swf live=true timeout=60</link>
 <thumbnail>none</thumbnail>
 </subitem>
 
 <subitem>
-<title>   IT \ Torinow \ -340d</title>
+<title>   IT \ Torinow \ -341d</title>
 <link>rtmp://flash3.ipercast.net/telelombardia.it-live playpath=torinow swfurl=http://www.mediapason.it/flash/player.swf live=true timeout=60</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -2009,7 +2009,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 <channel><name>Norwegian \ 3</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Norwegian.png</thumbnail><items>
 
 <item>
-<title>   NO \ NRK Rogaland 24 \ -467d</title>
+<title>   NO \ NRK Rogaland 24 \ -468d</title>
 <link>rtsp://straumV.nrk.no/nrk_tv_rogaland_247_mbr</link>
 <thumbnail>http://sykepleiervakta.no/wp-content/uploads/2010/12/nrk-logo.jpg</thumbnail>
 </item>
@@ -2021,7 +2021,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </item>
 
 <item>
-<title>   NO \ Visjon Norge \ -383d</title>
+<title>   NO \ Visjon Norge \ -384d</title>
 <link>rtmp://fl0.c06359.cdn.qbrick.com/06359/ playpath=visjonnorge1 swfUrl=http://jonas.do.am/player.swf pageUrl=http://jonas.do.am/player.swf?file=visjonnorge1&amp;type=rtmp&amp;streamer=rtmp://fl0.c06359.cdn.qbrick.com/06359/ live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Visjon_Norge.svg/283px-Visjon_Norge.svg.png</thumbnail>
 </item>
@@ -2129,7 +2129,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>   BR \ Canal do Boi \ -385d</title>
+<title>   BR \ Canal do Boi \ -386d</title>
 <link>rtmp://srvvenus.canaldoboi.com/live/livecb swfUrl=http://player.longtailvideo.com/player4.6.swf pageUrl=http://www.tvkarlaoonline.com/canaldoboi.html live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_do_boi.png</thumbnail>
 </subitem>
@@ -2243,7 +2243,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   BR \ TV Brasil \ -473d</title>
+<title>   BR \ TV Brasil \ -474d</title>
 <link>rtmp://cp92616.live.edgefcs.net/live/TVBrasil@35103 playpath=TVBrasil@35103 swfUrl=http://centraltv.50webs.com/jw_player.swf pageURL=http://www.centraltv.fr/rubrique,tv-brasil-hd,765409.html app=live/TVBrasil@35103 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_brasil.png</thumbnail>
 </subitem>
@@ -2519,7 +2519,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <subitems>
 
 <subitem>
-<title>   BR \ BAND SPORTS \ -561d</title>
+<title>   BR \ BAND SPORTS \ -562d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
 </subitem>
@@ -3095,7 +3095,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ TV Galicia Europa \ -434d</title>
+<title>   ES \ TV Galicia Europa \ -435d</title>
 <link>rtmp://media1.crtvg.es/live/tvge timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_galicia.jpg</thumbnail>
 </subitem>
@@ -3209,7 +3209,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -1h</title>
+<title>   AR \ C5N \ -2h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -3239,7 +3239,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   DO \ Telefuturo Canal 23 \ -480d</title>
+<title>   DO \ Telefuturo Canal 23 \ -481d</title>
 <link>rtmp://live3.megalive.com/videochat playpath=stream_ZDM0ZDKYOTI2OTJJMMZLYMVIMTQXYTM1MMU1NMY4OWMX swfUrl="http://www.megalive.com/ml_player.swf" pageUrl="http://www.megalive.com/?v=FI27IQXF" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telefuturo_canal23.jpg</thumbnail>
 </subitem>
@@ -3263,7 +3263,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   ES \ Info Meteo \ -522d</title>
+<title>   ES \ Info Meteo \ -523d</title>
 <link>rtmp://cp87402.live.edgefcs.net/live/ playpath=INFOMETEO@17659 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/info_meteo.jpg</thumbnail>
 </subitem>
@@ -3695,19 +3695,19 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   VN \ Hanoi TV 1 \ -22h</title>
+<title>   VN \ Hanoi TV 1 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/hanoi11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hanoi_tv1.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ HTV 7 \ -22h</title>
+<title>   VN \ HTV 7 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/htv7 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/HTV7/24 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_7.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ HTV 9 \ -22h</title>
+<title>   VN \ HTV 9 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/htv91 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/HTV9/4 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_9.jpg</thumbnail>
 </subitem>
@@ -3725,61 +3725,61 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   VN \ VOV 1 \ -22h</title>
+<title>   VN \ VOV 1 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vov1 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VOV1/29 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/radio/vv/vov_1.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VOV 2 \ -22h</title>
+<title>   VN \ VOV 2 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vov2 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VOV2/28 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/radio/vv/vov_2.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VOV 3 \ -22h</title>
+<title>   VN \ VOV 3 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vov3 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VOV3/27 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/radio/vv/vov_3.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VOV 5 \ -22h</title>
+<title>   VN \ VOV 5 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vov5 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VOV5/25 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/radio/vv/vov_5.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VTC 1 \ -22h</title>
+<title>   VN \ VTC 1 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtc11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTC1/10 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VTC 10 \ -22h</title>
+<title>   VN \ VTC 10 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtc101 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC10/22 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VTC 2 \ -22h</title>
+<title>   VN \ VTC 2 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtc21 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC2/11 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VTV 2 \ -22h</title>
+<title>   VN \ VTV 2 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtv2 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV2/23 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv2_vn.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VTV 3 \ -22h</title>
+<title>   VN \ VTV 3 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtv31 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VOV3/27 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv3_vn.jpg</thumbnail>
 </subitem>
 
 <subitem>
-<title>   VN \ VTV 4 \ -22h</title>
+<title>   VN \ VTV 4 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtv4 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV4/2 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
 </subitem>
@@ -3805,7 +3805,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>   VN \ VTV 1 \ -22h</title>
+<title>   VN \ VTV 1 \ -23h</title>
 <link>rtmp://66.160.142.197:1935/live/vtv11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV1/15 live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
 </subitem>
@@ -3910,7 +3910,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   CA \ Niagara Falls \ HD \ -376d</title>
+<title>   CA \ Niagara Falls \ HD \ -377d</title>
 <link>rtmp://wms4.blinkotv.com/view/113549_072/ playpath=stream1 swfUrl="http://www.tikilive.com/NiagaraFallsPlayer/player.swf" pageUrl="http://niagarafallslive.com/niagarahidefstream.htm" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.niagarafallslive.com/images/kajbjurman2.jpg</thumbnail>
 </item>
@@ -4374,7 +4374,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   BR \ BAND SPORTS \ -561d</title>
+<title>   BR \ BAND SPORTS \ -562d</title>
 <link>rtmp://streamer.istreamlive.net/aliez/b2b652fa53f79683 swfurl=http://i.aliez.com/ISLplayer/ISLplayer2.swf pageUrl=http://aliez.com/media/embedc.php?id=19594 live=true timeout=60</link>
 <thumbnail>http://www.televisaofutebol.com/images/bandsports.png</thumbnail>
 </item>
@@ -4769,10 +4769,10 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 05/02/2013 00:52:48 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams updated: 2</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 510</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 535</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 05/02/2013 01:53:44 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams updated: 0</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 508</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 537</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1045</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
