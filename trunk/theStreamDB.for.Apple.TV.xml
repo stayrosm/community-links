@@ -278,13 +278,13 @@
 <channel><name>Basque \ 4</name><thumbnail>http://thestreamdb.googlecode.com/svn/languageicons/Basque.png</thumbnail><items>
 
 <item>
-<title>   ES \ Canal Vasco \ -5h</title>
+<title>   ES \ Canal Vasco \ -6h</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-CanalVasco@5519 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.sabinas.tv/images/stories/tv/canal-vasco.jpg</thumbnail>
 </item>
 
 <item>
-<title>   ES \ ETBSat \ -1h</title>
+<title>   ES \ ETBSat \ -2h</title>
 <link>rtmp://cp70268.live.edgefcs.net/live/ playpath=eitb-ETBSat@5219 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eitb_etb_sat.png</thumbnail>
 </item>
@@ -425,7 +425,7 @@
 </item>
 
 <item>
-<title>+ CZ \ TVSCUBA \ HD</title>
+<title>   CZ \ TVSCUBA \ HD \ -2h</title>
 <link>rtsp://195.90.118.93/tvscuba_sched1</link>
 <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
 </item>
@@ -701,7 +701,7 @@ use VLC Player</link>
 </subitem>
 
 <subitem>
-<title>   US \ C-SPAN 3 \ -2h</title>
+<title>   US \ C-SPAN 3 \ -3h</title>
 <link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf"
  pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan3.png</thumbnail>
@@ -732,7 +732,7 @@ use VLC Player</link>
 </subitem>
 
 <subitem>
-<title>   US \ NASA JPL \ -7h</title>
+<title>   US \ NASA JPL \ -8h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream@787 swfUrl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
 </subitem>
@@ -770,7 +770,7 @@ use VLC Player</link>
 <subitems>
 
 <subitem>
-<title>+ AU \ ABC News 24</title>
+<title>   AU \ ABC News 24 \ -1h</title>
 <link>rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&amp;akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_news_24.png</thumbnail>
 </subitem>
@@ -1078,7 +1078,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   FR \ France 2 \ -1h</title>
+<title>   FR \ France 2 \ -2h</title>
 <link>rtmp://cp108476.live.edgefcs.net/live playpath=france2_1_800@45496 swfsize=735602 swfhash=28fcd514782af1a9cbde3435075578a7953f6cec3fd58538f563df0cf591612f live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdg6z.png</thumbnail>
 </subitem>
@@ -1114,7 +1114,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ FR \ KTO</title>
+<title>   FR \ KTO \ -1h</title>
 <link>rtmp://cp99495.live.edgefcs.net/live playpath=Flash_live_KTO_TV@27823 swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#kto swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfx.png</thumbnail>
 </subitem>
@@ -1258,7 +1258,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ AT \ ORF 2</title>
+<title>   AT \ ORF 2 \ -1h</title>
 <link>rtmp://cp108476.live.edgefcs.net/live/ playpath=orf2_1_800@45502 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/orf2.png</thumbnail>
 </subitem>
@@ -1288,7 +1288,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   CH \ TeleZüri \ -3h</title>
+<title>   CH \ TeleZüri \ -4h</title>
 <link>rtmp://cp108475.live.edgefcs.net/live playpath=telezueri_1_800@44503 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgl8.png</thumbnail>
 </subitem>
@@ -1342,7 +1342,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DE \ DMAX \ -2h</title>
+<title>+ DE \ DMAX</title>
 <link>rtmp://cp108476.live.edgefcs.net/live playpath=dmax_1_800@45498 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgae.png</thumbnail>
 </subitem>
@@ -1354,7 +1354,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ DE \ Kabel Eins</title>
+<title>   DE \ Kabel Eins \ -1h</title>
 <link>rtmp://cp108341.live.edgefcs.net/live playpath=kabel1_1_800@43055 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgkx.png</thumbnail>
 </subitem>
@@ -1378,7 +1378,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>+ DE \ ProSieben</title>
+<title>   DE \ ProSieben \ -1h</title>
 <link>rtmp://cp108341.live.edgefcs.net/live playpath=pro7_1_800@43051 swfURL=http://www.wilmaa.com/player/main_v3.316.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgkt.png</thumbnail>
 </subitem>
@@ -1408,7 +1408,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   DE \ Super RTL \ -1h</title>
+<title>   DE \ Super RTL \ -2h</title>
 <link>rtmp://cp108475.live.edgefcs.net/live/ playpath=superrtl_1_800@44489 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgkw.png</thumbnail>
 </subitem>
@@ -1448,7 +1448,7 @@ http://tvsector.com live=true timeout=60</link>
 <subitems>
 
 <subitem>
-<title>   CH \ JOIZ TV \ -6h</title>
+<title>   CH \ JOIZ TV \ -7h</title>
 <link>rtmp://cp108475.live.edgefcs.net/live playpath=joiz_1_800@52728 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://blog.xeit.ch/wp-content/uploads/2011/02/110225_joizlogo.jpg</thumbnail>
 </subitem>
@@ -1633,7 +1633,7 @@ http://tvsector.com live=true timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   HU \ Halom TV - Százhalombatta \ -345d</title>
+<title>   HU \ Halom TV - Százhalombatta \ -346d</title>
 <link>rtmp://stream.battanet.hu/halom app=halom swfUrl=http://mail.battanet.hu/halom/flvplayer.swf tcUrl=rtmp://stream.battanet.hu/halom pageUrl=http://www.halomtv.hu/vtv.html playpath=tv swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Halom-TV.jpg</thumbnail>
 </subitem>
@@ -1907,7 +1907,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 </subitem>
 
 <subitem>
-<title>+ IT \ Sky TG24</title>
+<title>   IT \ Sky TG24 \ -1h</title>
 <link>rtmp://cp49989.live.edgefcs.net/live/ swfurl=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf playpath=streamRM1@2564 live=true timeout=60</link>
 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdhhu.png</thumbnail>
 </subitem>
@@ -2123,7 +2123,7 @@ rtmp://$OPT:rtmp-raw=rtmp://s99.webport.tv/live playpath=z010502.stream swfUrl=h
 <subitems>
 
 <subitem>
-<title>   BR \ Alex TV \ HD \ ® \ -296d</title>
+<title>   BR \ Alex TV \ HD \ ® \ -297d</title>
 <link>http://alex-suporte/canais</link>
 <thumbnail>none</thumbnail>
 </subitem>
@@ -2174,7 +2174,7 @@ timeout=60</link>
 </subitem>
 
 <subitem>
-<title>   BR \ History channel BRASIL \ -564d</title>
+<title>   BR \ History channel BRASIL \ -565d</title>
 <link>rtmp://streamer.istreamlive.net/brlive2/history.flv swfUrl=http://tv-msn.com/player/player.swf
 pageUrl=http://tv-msn.com/history.html timeout=60</link>
 <thumbnail>https://lh5.googleusercontent.com/-_a0RH0M244M/TjYkAPWijaI/AAAAAAAAAGo/058PDCdhQMs/history.jpg</thumbnail>
@@ -2318,7 +2318,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ Canal Porto \ -575d</title>
+<title>   PT \ Canal Porto \ -576d</title>
 <link>rtmp://arrisco.flashwebtown.com/live/myStream.sdp.flv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageURL=http://www.tvdez.com/portocanal swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/porto_canal.jpg</thumbnail>
 </subitem>
@@ -2342,7 +2342,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ RTP Açores \ -575d</title>
+<title>   PT \ RTP Açores \ -576d</title>
 <link>rtmp://50.30.32.198/rtpa/myStream.sdp.flv swfUrl=http://tvacores.net/canais/directo.swf pageUrl=http://tvacores.net/rtp_acores_online.htm swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_acores.jpg</thumbnail>
 </subitem>
@@ -2366,7 +2366,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ RTP Madeira \ -575d</title>
+<title>   PT \ RTP Madeira \ -576d</title>
 <link>rtmp://195.245.168.33:80/livetv/_definst_/2ch1016h264H14 swfUrl=http://www0.rtp.pt/play/rtpplay.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtp_madeira.jpg</thumbnail>
 </subitem>
@@ -2378,7 +2378,7 @@ pageUrl=http://www.sky.com.br/guiadatv/canais/canal.aspx?__qsCanal=618&amp;__qsM
 </subitem>
 
 <subitem>
-<title>   PT \ RTP Mobile \ -575d</title>
+<title>   PT \ RTP Mobile \ -576d</title>
 <link>rtmp://195.245.168.33:80/livetv/_definst_/2ch141h264 swfUrl=http://www0.rtp.pt/play/ swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_mobile.png</thumbnail>
 </subitem>
@@ -2612,7 +2612,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>+ RO \ Antena 3</title>
+<title>   RO \ Antena 3 \ -1h</title>
 <link>rtmpe://fms30.mediadirect.ro app=live2/antena3 swfUrl=http://static1.mediadirect.ro/player-preload/swf/antena3_new_288/player.swf pageUrl=http://www.antena3.ro/live playpath=antena_3_low live=true timeout=60</link>
 <thumbnail>http://www.antena3.ro/static/images/antena3.jpg</thumbnail>
 </item>
@@ -2684,7 +2684,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RO \ Transilvania Live \ -255d</title>
+<title>   RO \ Transilvania Live \ -256d</title>
 <link>rtmpe://193.239.252.26/hds-live/ swfUrl=http://78.96.44.103/swfs/StrobeMediaPlayback.swf pageUrl=http://www.transilvanialive.ro/transilvanialive-online autoHideControlBar=true streamType=live autoPlay=true verbose=true timeout=60</link>
 <thumbnail>http://www.transilvanialive.ro/sites/all/themes/ncn/images/new/w.png</thumbnail>
 </item>
@@ -3077,13 +3077,13 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </subitem>
 
 <subitem>
-<title>+ ES \ Telemadrid Sat</title>
+<title>   ES \ Telemadrid Sat \ -1h</title>
 <link>rtmp://cp118140.live.edgefcs.net/live/ playpath=TSAtelemadridsat@47720 swfUrl="http://jonas.do.am/player.swf" pageUrl="http://jonas.do.am" swfVfy=true live=true timeout=60</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/2/2b/Telemadrid-Sat-Logo.svg/500px-Telemadrid-Sat-Logo.svg.png</thumbnail>
 </subitem>
 
 <subitem>
-<title>   ES \ TeleTaxi \ -2h</title>
+<title>+ ES \ TeleTaxi</title>
 <link>http://teletaxitv.gtt.stream.flumotion.com/gtt/teletaxitv.flv.m3u</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TeleTaxi-TV.jpg</thumbnail>
 </subitem>
@@ -3215,7 +3215,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <subitems>
 
 <subitem>
-<title>   AR \ C5N \ -14h</title>
+<title>   AR \ C5N \ -15h</title>
 <link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-sj@23979 swfUrl=http://cdn1.ustream.tv/swf/4/viewer.rsl.648.swf pageUrl=http://www.ustream.tv/channel/c5n live=true timeout=60</link>
 <thumbnail>http://www.satlogo.com/logo/hires/cc/c5n.png</thumbnail>
 </subitem>
@@ -4118,7 +4118,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   CH \ JOIZ TV \ -6h</title>
+<title>   CH \ JOIZ TV \ -7h</title>
 <link>rtmp://cp108475.live.edgefcs.net/live playpath=joiz_1_800@52728 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true timeout=60</link>
 <thumbnail>http://blog.xeit.ch/wp-content/uploads/2011/02/110225_joizlogo.jpg</thumbnail>
 </item>
@@ -4623,7 +4623,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   RO \ Transilvania Live \ -255d</title>
+<title>   RO \ Transilvania Live \ -256d</title>
 <link>rtmpe://193.239.252.26/hds-live/ swfUrl=http://78.96.44.103/swfs/StrobeMediaPlayback.swf pageUrl=http://www.transilvanialive.ro/transilvanialive-online autoHideControlBar=true streamType=live autoPlay=true verbose=true timeout=60</link>
 <thumbnail>http://www.transilvanialive.ro/sites/all/themes/ncn/images/new/w.png</thumbnail>
 </item>
@@ -4695,7 +4695,7 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 </item>
 
 <item>
-<title>   HU \ Halom TV - Százhalombatta \ -345d</title>
+<title>   HU \ Halom TV - Százhalombatta \ -346d</title>
 <link>rtmp://stream.battanet.hu/halom app=halom swfUrl=http://mail.battanet.hu/halom/flvplayer.swf tcUrl=rtmp://stream.battanet.hu/halom pageUrl=http://www.halomtv.hu/vtv.html playpath=tv swfVfy=true live=true timeout=60</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Halom-TV.jpg</thumbnail>
 </item>
@@ -4775,10 +4775,10 @@ pageUrl=http://www.assistirtvonline.eu/canais/bobo.html tcUrl=rtmp://streamer.is
 <item><title>® = geo-blocked to specific region</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>=== database statistics ===============</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>last update: 14/02/2013 06:46:37 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>last update: 14/02/2013 07:47:39 UTC</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams updated: 10</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams confirmed available: 498</title><link>none</link><thumbnail>none</thumbnail></item>
-<item><title>streams unconfirmed: 548</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams confirmed available: 485</title><link>none</link><thumbnail>none</thumbnail></item>
+<item><title>streams unconfirmed: 561</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>streams total: 1046</title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title> </title><link>none</link><thumbnail>none</thumbnail></item>
 <item><title>http://thestreamdb.com</title><link>none</link><thumbnail>none</thumbnail></item>
