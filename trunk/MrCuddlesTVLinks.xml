@@ -1,0 +1,20 @@
+<channel>
+
+<item>
+<title>SyFy France</title>
+<link>rtmp://$doregex[rtmp]/live playpath=syfyfyf?id=177511 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>rtmp</name>
+<expres>.*redirect=([\.\d]+)</expres>
+<page>http://mips.tv:1935/loadbalancer</page>
+</regex>
+</item>
+
+<item>
+<title>Sun Tv (Asian)</title>
+<link>rtmpe://141.8.244.56/live playpath=sun_tv_hq token=%X786(nPK@#. swfUrl=http://sportsembed.com/class/playerhd.swf live=1 pageUrl=http://sportsembed.com/ timeout=5</link>
+<description></description>
+<thumbnail></thumbnail>
+</item>
+
+</channels>
