@@ -48,17 +48,30 @@
 </item>
 
 <item>
-<title>Capital TV (India/Asian)</title>
+<title>Capital TV (Pakistan)</title>
 <link>http://184.107.236.10:1935/live/myStream.sdp/chunklist.m3u8?wowzasessionid=915640394</link>
 <description>Asian News Channel</description>
 <thumbnail></thumbnail>
 </item>
 
+<item><title>Dunya</title>
+<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfVfy=1 live=true timeout=10 swfUrl=http://dunyanews.tv/videoplayer/jwplayer.flash.swf pageUrl=http://dunyanews.tv/livehd/</link></item>
+
 <item>
-<title>Sun Tv (Asian)</title>
+<title>Sun Tv (Indian)</title>
 <link>rtmpe://141.8.244.56/live playpath=sun_tv_hq token=%X786(nPK@#. swfUrl=http://sportsembed.com/class/playerhd.swf live=1 pageUrl=http://sportsembed.com/ timeout=5</link>
 <description>Asian</description>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee TV (India)</title>
+<link>rtmp://$doregex[rtmp]/live playpath=ztvtvtvtvtv?id=177617 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>rtmp</name>
+<expres>.*redirect=([\.\d]+)</expres>
+<page>http://mips.tv:1935/loadbalancer</page>
+</regex>
 </item>
 
 </channels>
